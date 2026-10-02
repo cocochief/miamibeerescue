@@ -35,7 +35,7 @@ SERVICE = {
     ],
 
     "band": ("Old comb gets worse the longer it sits",
-             "One clear picture of the brown streak or the old entry hole usually shows us how much wall has to open, so snap it and send it by text."),
+             "Snapshots of the brown streak or the old entry hole usually show us how much wall has to open, so send them by text."),
 
     "takeout_h": "How the comb comes out",
     "takeout": [

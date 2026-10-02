@@ -657,7 +657,7 @@ def build_city(key):
         + f'<div class="wrap"><section class="sect"><h2>{inline(d["streets_h"])}</h2><ul class="streets">{streets}</ul></section>'
         + body
         + f'<section class="sect"><h2>{inline(d["visit_h"])}</h2><ol class="steps">{visit}</ol></section>'
-        + f'<section class="sect"><h2>{esc(C["fits_h"])} {esc(name)}</h2><div class="cards">{svcs}</div></section>'
+        + f'<section class="sect"><h2>{esc(C["fits_h"])}</h2><div class="cards">{svcs}</div></section>'
         + faq_block(d["faqs"], C["faq_h"])
         + f'<section class="sect"><h2>{esc(C["near_h"])}</h2><div class="chips">{near}'
           f'<a class="chip chip--all" href="/miami-dade/#{region}">{esc(CAT.REGION_NAME[region])}</a></div></section>'

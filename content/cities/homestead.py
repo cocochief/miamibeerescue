@@ -13,7 +13,7 @@ CITY = {
         ("Incorporated", "February 8, 1913"),
         ("Rail stop opened", "July 1904, on the Florida East Coast Railway"),
         ("2020 census", "80,737 residents"),
-        ("Elevation", "About 3 feet above sea level"),
+        ("Elevation", "Roughly 3 feet, close to the bay's own level"),
         ("Between two parks", "Biscayne National Park to the east, Everglades National Park to the west"),
     ],
     "opening": (

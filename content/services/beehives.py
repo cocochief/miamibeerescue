@@ -59,7 +59,7 @@ SERVICE = {
         ("redland", "Zoning keeps most Redland homesites at five acres or larger, with mango and avocado trees, orchid growers and plant nurseries around them. Out here a hive may be in a barn, a pump shed or a hollow tree well away from the house."),
     ],
 
-    "alarm": "Bees streaming out and stinging? First, put walls between the bees and everybody nearby, pets included; a car with the windows up works too. Leave the entrance alone: spraying, blocking or soaking it tends to make a colony angrier and can push bees inside. Once everyone is under a roof, call. Our line is staffed through the night as well as the day, and a caller who is being stung right now moves to the front of the line. More on [[svc:emergency|emergency bee removal]].",
+    "alarm": "Bees streaming out and stinging? First, put walls between the bees and everybody nearby, pets included; a car with the windows up works too. Leave the entrance alone: spraying, blocking or soaking it tends to make a colony angrier and can push bees inside. Once everyone is under a roof, call. A person answers around the clock, and anyone being stung goes to the front. More on [[svc:emergency|emergency bee removal]].",
 
     "faqs": [
         ("If I cannot see any comb, how do I know it is a hive?", "Time and traffic tell you. A swarm hangs in the open, often on a branch or a fence, and is usually gone in a day or a few. Bees that keep flying into the same gap in a wall or roof for a week or more have almost certainly built comb behind it. A thermal scan confirms where."),

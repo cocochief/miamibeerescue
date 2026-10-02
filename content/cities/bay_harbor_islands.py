@@ -8,7 +8,7 @@ CITY = {
     "h1": "Bees in Bay Harbor Islands walls and roofs, taken out alive",
     "kicker": "Two islands in Biscayne Bay",
     "lede": "Bay Harbor Islands fits garden apartments, flat roofs and single-family yards onto two small islands. When honey bees settle into any of them, they leave in a beekeeper's box, still alive.",
-    "quick": "Bay Harbor Islands splits in two: houses on the West Island, association-run apartments and condos in mid-century concrete on the East Island. That split decides who approves the job. On the East Island, the board or manager signs off and receives a COI first, and comb usually sits in breeze block, a flat-roof parapet or a walkway ceiling. On either island, a thermal scan finds the nest and the bees come out by hand, alive, for a beekeeper. A colony you can reach from the ground costs roughly $300 to $400. The quote is free, and calls are answered around the clock under a 24-hour response guarantee.",
+    "quick": "Bay Harbor Islands splits in two: houses on the West Island, association-run apartments and condos in mid-century concrete on the East Island. That split decides who approves the job. On the East Island, the board or manager signs off and receives a COI first, and comb usually sits in breeze block, a flat-roof parapet or a walkway ceiling. On either island, a thermal scan finds the nest and the bees come out by hand, alive, for a beekeeper. Quoting is free, the phone line never closes, and our 24-hour response guarantee covers every call.",
     "alarm": "If a neighbor is getting stung in a shared corridor or by the pool, move the person inside, close the door behind you, and then call. People come before the colony every time. Keep neighbors off that stair or corridor, switch off any blower or pressure washer near the bees, and do not spray them, since that tends to turn a few defenders into a cloud.",
     "glance": [
         ("Incorporated", "April 28, 1947"),
@@ -136,7 +136,7 @@ CITY = {
          "Yes. An after-hours or weekend emergency is billed above a weekday appointment. As for the base price, a swarm on a "
          "West Island hedge or a colony low in a garden wall sits at the lower end, roughly $300 to $400. A parapet on an East "
          "Island roof that our roofers must open and rebuild costs far more, into the thousands. The "
-         "[[page:cost|cost page]] breaks down what moves a quote up or down."),
+         "[[page:cost|cost page]] lists the roof, height and repair factors that shape a Bay Harbor Islands estimate."),
     ],
     "services": [
         ("condos-high-rises", "For East Island apartment and condo buildings where the colony sits in shared walls, walkways or roof edges."),

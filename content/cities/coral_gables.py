@@ -4,11 +4,11 @@
 CITY = {
     "key": "coral-gables",
     "title": "Coral Gables Bee Removal Around Board of Architects Rules",
-    "desc": "Honey bees in a Coral Gables tile roof, coral rock wall, street tree or dock? Bees relocated alive and openings closed to the city's design rules.",
+    "desc": "Barrel tile, porous coral rock and the Board of Architects shape every Coral Gables hive job. The colony leaves alive and the patch is made to win approval.",
     "h1": "Getting bees out of Coral Gables homes the city has to approve",
     "kicker": "Tile roofs, coral rock, guard gates",
     "lede": "Taking a colony out of a Gables house is the easy part. Closing the roof or wall again has to satisfy a city that has opinions about every tile and paint color.",
-    "quick": "Bees streaming from one gap in a Coral Gables roof, wall or tree mean a colony has moved in; keep children and dogs indoors, then call us or text a picture. The colony comes out alive, hidden comb is traced with thermal imaging, and the bees go to a beekeeper. Because exterior roof and paint work in this city needs approval, the opening is planned with the repair in mind. Low, easy-reach colonies cost about $300 to $400, while tile roofs that need rebuilding can reach the thousands.",
+    "quick": "In Coral Gables, a re-roof or repaint can need a design sign-off at City Hall, so the way a hive is opened decides how smoothly the patch gets approved. Thermal imaging pins down the comb, only the tiles over it come up, and the originals are stacked for reuse. A beekeeper takes the colony alive. A colony reachable from the lawn is about $300 to $400, while a tile roof that has to be relaid can cost thousands. Spotted a steady stream at one gap? Shut the patio door and call or text us a snapshot of where they enter.",
     "glance": [
         ("Incorporated", "April 29, 1925"),
         ("Planned by", "George Merrick, on former citrus groves and pine forest"),
@@ -60,7 +60,7 @@ CITY = {
     "faqs": [
         ("Will the city need to approve the roof repair after the hive comes out?", "Often, yes. The city's permit checklist for roof work lists the City Architect or Board of Architects among the approvals and asks for color photos of the existing tile and the specs and color of the new material. Keeping the original tiles and a photo record makes that much easier, and we can give you both photos and an itemized invoice."),
         ("Can you put my original barrel tile back?", "That is the aim. Tiles over the comb are lifted by hand and stacked aside so they can go back on once the cavity is cleaned and sealed. The roofing is done by our own licensed roofers, and the workmanship is warrantied."),
-        ("A swarm is hanging in the tree by my driveway. Should I worry?", "A swarm on a branch is usually resting while scouts look for a cavity, and it may move on within a day or two. Keep people back and do not spray it. If it is near a door, a pool or a busy walkway, call and we can collect it alive."),
+        ("A swarm is hanging in the tree by my driveway. Should I worry?", "Usually that cluster is waiting, not settling. Its scouts are off inspecting hollow limbs and eaves, and once they agree on one the whole mass lifts away, often after a day or two of rest. Keep children and pets back and leave it unsprayed. Hanging beside a front door, a pool or a busy walkway, it is better collected alive, so call us."),
         ("We are behind a guard gate. What do you need from us?", "Your name, the street address and a heads-up to the guardhouse or patrol so the crew is waved through. If the work touches common areas, tell us who manages them so their insurance paperwork arrives first."),
         ("Bees moved into the mangroves by our dock. Can they just be cut out?", "Not by sawing off branches. The city says trimming most mangroves in Coral Gables needs a county-registered professional mangrove trimmer, with fines for illegal trimming. The colony has to be removed in a way that leaves the trees intact, or with the right trimmer involved."),
         ("Can bees really live inside a coral rock wall?", "Yes. Miami Limestone is porous, and walls and pillars built from it often have hollow cores or gaps behind the face. Thermal imaging shows where the warm brood sits, so only that section is opened and then repointed."),

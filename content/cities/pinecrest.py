@@ -140,7 +140,7 @@ CITY = {
          "The crew traces foragers back from water and flowers to the entrance, then checks the size and edges of "
          "the comb with a thermal camera before cutting into anything."),
         ("Vacuum, comb and queen",
-         "Once the cavity is open, the crew cuts the comb into frames, draws the clustered bees into a screened box "
+         "Inside the opened cavity, the crew cuts the comb into frames, draws the clustered bees into a screened box "
          "with gentle suction, watches for the queen, and hands everything to a beekeeper who will keep it going."),
         ("Clean, seal and patch",
          "Leftover honey and wax come out so they cannot attract another swarm, the entry is sealed, and our own "

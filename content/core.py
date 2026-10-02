@@ -34,7 +34,7 @@ CORE = {
         "also_served": "Also covered here:",
         "jump_label": "Sections on this page",
         "glance_label": "Around",
-        "fits_h": "Removal work that comes up in",
+        "fits_h": "Matching removal work",
         "near_h": "Places next door",
         "updated": "Updated",
         "toc": "In this article",
@@ -82,7 +82,7 @@ CORE = {
 
     # ------------------------------------------------------------ home
     "home": {
-        "title": "Miami Bee Rescue: Live Honey Bee Removal, Miami-Dade",
+        "title": "Honey Bees Out Alive, Anywhere in Miami-Dade County",
         "desc": ("From Aventura towers to Redland sheds, we lift honey bee colonies out alive, rehome them with "
                  "beekeepers and repair the spot they lived in."),
         "kicker": "Miami-Dade honey bee removal",
@@ -178,7 +178,7 @@ CORE = {
 
     # ------------------------------------------------------------ removal hub
     "removal_hub": {
-        "title": "Bee & Hive Removal Services Across Miami-Dade",
+        "title": "Every Bee and Hive Job We Take On in Miami-Dade",
         "desc": ("Every kind of honey bee job we take on in Miami-Dade: swarms, walls, tile roofs, palms, meter boxes, "
                  "condos, docks and farms. Bees always leave alive."),
         "kicker": "Removal services",
@@ -370,15 +370,15 @@ CORE = {
                  "Yes. Storefronts, offices and schools often prefer early or late visits. After-hours work is priced "
                  "above a weekday visit."),
                 ("Do you cover my part of the county?",
-                 "We cover all of Miami-Dade, from the beaches to the farm roads, and nowhere outside it. The "
-                 "[[page:county|county page]] lists the places we serve."),
+                 "We cover all of Miami-Dade, from the beaches to the farm roads, and nowhere outside it. Every "
+                 "community on our list sits on the [[page:county|Miami-Dade area page]]."),
             ]),
         ],
     },
 
     # ------------------------------------------------------------ who we are
     "who": {
-        "title": "About Miami Bee Rescue: Live Removal, No Poison",
+        "title": "Who Handles Miami-Dade Bees Without Poison",
         "desc": ("Who we are and how we work: live honey bee removal across Miami-Dade, colonies rehomed with beekeepers, "
                  "our own repair crews and a 24-hour response."),
         "kicker": "Who we are",
@@ -450,7 +450,7 @@ CORE = {
 
     # ------------------------------------------------------------ 404
     "notfound": {
-        "title": "Page Not Found | Miami Bee Rescue",
+        "title": "Missing Page: Find Miami-Dade Bee Help Here",
         "desc": ("This address does not lead anywhere on our site. Use the links here to find bee removal help in "
                  "Miami-Dade, or call or text us at any hour."),
         "kicker": "Error 404",
@@ -475,7 +475,7 @@ CORE = {
             "Licensed and insured; certificates of insurance for HOAs, condo associations and businesses",
             "Stinging emergencies handled first",
             "Thermal imaging used to locate hidden colonies",
-            "Repairs by the company's own licensed contractors, roofers and painters",
+            "Stucco, drywall, tile and paint put back by in-house licensed contractors, roofers and painters",
             "Warrantied workmanship: if bees return to a spot the company sealed, it comes back out",
             "Free quotes; night and weekend emergency calls cost more than weekday visits",
             "Typical ground-level jobs about $300 to $400; complex jobs with repairs can reach the thousands",

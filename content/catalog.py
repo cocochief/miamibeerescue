@@ -116,7 +116,7 @@ GUIDES = [
     ("home-sale-inspection",  "Bees found during a home sale or inspection"),
     ("after-a-storm",         "Bee colonies exposed after a storm"),
     ("thermal-imaging",       "What thermal imaging shows about a hive"),
-    ("why-bees-come-back",    "Why bees come back to the same spot"),
+    ("why-bees-come-back",    "Repeat colonies in a sealed gap"),
 ]
 
 # id -> (path, label)

@@ -47,7 +47,7 @@ GUIDE = {
         ("The bees were gone by evening. Is it over?",
          "Not necessarily. Scouting is daylight work, and scouts spend the night back on the swarm cluster. If the site is still in the running, they can be back the next morning. Watch the same gap the following day before deciding it lost the vote, and leave it open until you know."),
         ("Is it worth calling if nothing has moved in yet?",
-         "Yes. This is the stage where the fix is smallest. A tech can confirm whether the gap is empty, look for a nearby swarm and close the opening properly. The quote costs nothing. Phones are staffed around the clock, and a crew reaches you within 24 hours of the call; that response is guaranteed."),
+         "Yes. This is the stage where the fix is smallest. A tech can confirm whether the gap is empty, look for a nearby swarm and close the opening properly. The quote costs nothing. Reach us in the small hours if that is when you notice them; the 24-hour response guarantee runs on the same clock at night."),
         ("Why would scouts pick my house out of the whole street?",
          "Scouts are hunting for a particular kind of space: dark, dry, roomy and behind a small entrance. A shrunken soffit board, an open block core or a cracked meter box can match that better than any tree nearby. Closing those gaps is what takes your house off the list."),
     ],

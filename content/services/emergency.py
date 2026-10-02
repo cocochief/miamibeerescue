@@ -27,8 +27,8 @@ SERVICE = {
          "Work down this list in order. Each step buys distance or time.\n\n"
          "- Call 911 first for anyone with wheezing, a tight throat, swollen lips or tongue, dizziness, or a large number of stings. Use an epinephrine auto-injector if one has been prescribed.\n"
          "- Head for the nearest door you can shut, or climb into a vehicle and roll every window up. Pull a shirt over your nose and mouth on the way; bees aim for the face and airways.\n"
-         "- Stay out of the pool. Bees hover above the water and wait for you to come up for air.\n"
-         "- Shut the door behind you and stay put. A few bees will follow you in, so move to another room and close that door too.\n"
+         "- Stay out of the pool. A defensive colony will circle the surface of a pool for as long as you hold your breath.\n"
+         "- Once a door is between you and the colony, remain on that side of it. A few bees will follow you in, so move to another room and close that door too.\n"
          "- Scrape stingers off with a fingernail or the edge of a card as soon as you can. The venom sac keeps pumping after the bee is gone, so speed matters more than technique.\n"
          "- Bring dogs and cats inside and keep children away from windows that face the nest.\n"
          "- Call us, and text a photo of the opening if you can take one safely through glass."),

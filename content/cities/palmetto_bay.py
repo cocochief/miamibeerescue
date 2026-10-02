@@ -95,7 +95,7 @@ CITY = {
     "visit": [
         ("Tell us the layout", "When you call, say where the bees are, how big the lot is, and whether there is a gate code, a long drive or dogs in the yard. If you can, snap the spot where bees enter so the crew knows whether to load a tall ladder."),
         ("Walk the property", "We trace the flight line across the lot, check trees and outbuildings, and scan the likely wall or roof section with a thermal camera before opening anything."),
-        ("Lift out comb, queen and all", "Once the cavity is open, every sheet of comb is cut free with the queen and her workers kept together, so the beekeeper receiving them gets an intact colony. The cavity is cleaned down to bare framing before anyone patches it."),
+        ("Lift out comb, queen and all", "Every sheet of comb is cut free from the opened cavity with the queen and her workers kept together, so the beekeeper receiving them gets an intact colony. The cavity is cleaned down to bare framing before anyone patches it."),
         ("Rebuild what was opened", "With the comb out, our roofers, painters and contractors close the entry and patch what was opened. Should bees ever move back into that patched spot, the workmanship warranty covers a return trip."),
     ],
     "alarm": (
@@ -138,7 +138,7 @@ CITY = {
         ("relocation", "Every colony we take out of a Palmetto Bay property goes to a beekeeper, not a dumpster."),
     ],
     "nearby": ["pinecrest", "cutler-bay", "kendall"],
-    "close": ("Shed, back-fence tree or second-floor wall?", "Name the spot and send a picture of the gap through the quote form or by text; back comes the scope of work and a price."),
+    "close": ("Shed, back-fence tree or second-floor wall?", "Name the spot and send a picture of the gap through the quote form or by text; back comes a free quote."),
     "card": "Estate lots, Old Cutler Road and the Deering hammock next door: colonies here hide in sheds, trees, soffits and second-floor walls.",
     "facts": [
         "The Village of Palmetto Bay was incorporated on September 10, 2002 (source: https://en.wikipedia.org/wiki/Palmetto_Bay,_Florida)",

@@ -45,7 +45,7 @@ CITY = {
         ("Picture before the trip", "A phone shot of where the bees enter, taken from a safe distance, usually separates a hedge swarm from a settled colony in block, tile or a valve box."),
         ("Scan before cutting", "On site, thermal imaging traces the warm comb inside the wall or roof, so the opening is made over the hive itself instead of in several guessing spots."),
         ("Out alive, then closed up", "Bees and comb come out together and go to a beekeeper. Honey residue is cleaned out so it stops attracting scouts, and the entry is sealed before the repair crew finishes."),
-        ("Paperwork if your board needs it", "If your association or landlord needs a certificate of insurance before work on common areas, say so on the call. Ask, and the manager's file can get before-and-after pictures plus a line-by-line invoice."),
+        ("Paperwork if your board needs it", "If your association or landlord needs a certificate of insurance before work on common areas, say so on the call. For the manager's records, we can also document the wall opening and seal in images and break each charge out separately."),
     ],
     "alarm": "Bees chasing or stinging someone this minute? Get indoors quickly and close the doors behind you; bring pets in too. Leave the hose and the bug spray alone, since both make a colony angrier. A swollen tongue, tight throat or wheezing means 911 first, then our line, where stings jump the queue.",
     "faqs": [
@@ -64,7 +64,7 @@ CITY = {
         ("hoa-commercial", "Associations and South Dixie Highway landlords often require a certificate of insurance first."),
     ],
     "nearby": ["palmetto-bay", "pinecrest", "kendall", "homestead"],
-    "close": ("Is a single gap in your block wall drawing steady bee traffic?", "Send a photo or the quote form, and the live removal and matching repair can be planned for your Cutler Bay address."),
+    "close": ("Steady bee traffic at one gap in your block wall?", "Send a photo or the quote form, and the live removal and matching repair can be planned for your Cutler Bay address."),
     "card": "A 2005 town over 1950s subdivisions and post-Andrew block homes, where colonies turn up in walls, tile roofs, valve boxes and lakeside eaves.",
     "facts": [
         "Town of Cutler Bay voters approved the charter on November 9, 2005, choosing the name Cutler Bay over Cutler Ridge, 1,920 to 1,403 (source: https://en.wikipedia.org/wiki/Cutler_Bay,_Florida)",

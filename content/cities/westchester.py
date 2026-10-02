@@ -15,7 +15,7 @@ CITY = {
         "Budget about $300 to $400 for a low, easy colony, up into the thousands if the old block or tile needs rebuilding, and nothing for the quote."
     ),
     "glance": [
-        ("Status", "Unincorporated census-designated place, with Miami-Dade County as its government"),
+        ("Status", "No city hall: county government runs it directly"),
         ("Edges", "Tamiami Trail, Bird Road, the Palmetto Expressway and SW 117th Avenue"),
         ("Boom began", "A 1955 subdivision named Westchester, followed by 1960s tracts"),
         ("2020 census", "56,384 people after the University Park CDP was folded in"),

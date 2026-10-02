@@ -8,7 +8,7 @@ CITY = {
     "h1": "West Kendall bee removal where subdivisions meet the farm fields",
     "kicker": "Kendall's western suburbs",
     "lede": "Planned communities, shared townhouse walls and backyard lakes run right up to the farm fields here. When honey bees pick one of your walls, you want them out alive and the gap closed properly.",
-    "quick": "Much of West Kendall is planned communities with layered associations, townhouse party walls and guard gates. That shapes a removal here: comb may sit behind a neighbor's ceiling, and a manager may want insurance papers first. Keep kids and pets back, skip the spray can and leave the entry open. Call, or text a snapshot with your community name. A crew maps the comb, using thermal imaging when it is hidden, takes the bees out alive for a beekeeper, then seals and repairs. For a colony you can reach from the lawn, expect about $300 to $400, with block walls and roofs priced higher.",
+    "quick": "Planned communities make up much of West Kendall, with layered associations, townhouse party walls and guard gates. That shapes a removal here: comb may sit behind a neighbor's ceiling, and a manager may want insurance papers first. Keep kids and pets back, skip the spray can and leave the entry open. Call, or text a snapshot with your community name. A crew maps the comb, using thermal imaging when it is hidden, takes the bees out alive for a beekeeper, then seals and repairs. For a colony you can reach from the lawn, expect about $300 to $400, with block walls and roofs priced higher.",
     "glance": [
         ("What it is", "An informal name for unincorporated suburbs, not a city"),
         ("Takes in", "Seven census places, from Kendall West to Country Walk"),
@@ -140,8 +140,8 @@ CITY = {
     "alarm": "Bees chasing someone right now? Move away fast, into the house or a closed vehicle, and keep moving if bees follow. Swatting and spraying only stir up more of them. Call 911 for anyone struggling to breathe, swelling around the lips or face, or stung many dozens of times. Then call us; our phones are answered around the clock and people under attack come first.",
     "faqs": [
         ("My HOA manager wants proof of insurance before you start. Can you send that?",
-         "A certificate of insurance can list your association, master association or property "
-         "manager as the holder, since we are licensed and insured on every job. Pass along the exact "
+         "Your association, master association or property "
+         "manager can be named as holder on our COI, since we are licensed and insured on every job. Pass along the exact "
          "name and the email address the manager prefers, and the COI arrives before the crew does."),
         ("The bees enter on my side but my neighbor hears them. Who pays?",
          "A thermal camera shows both owners which side of the party wall and which ceiling hold the "

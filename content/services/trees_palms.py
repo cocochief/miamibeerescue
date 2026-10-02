@@ -38,7 +38,7 @@ SERVICE = {
         ("Open only what is needed",
          "On a palm, old leaf bases are pried loose one by one. On an oak, mango or ficus, a window is cut into the hollow wall, no larger than the comb requires."),
         ("Move bees and comb together",
-         "Brood comb is cut out and set into frames, and the clinging bees are eased by low suction into an airy carrier, queen included whenever she can be found, then driven to a beekeeper."),
+         "Once the brood comb is cut out and framed, low suction draws the clinging bees into an airy carrier, queen included whenever she can be found, and the colony is driven to a beekeeper."),
         ("Scrape and close the cavity",
          "Leftover wax and honey are scraped out, and the opening is covered with screen or a fitted panel so the scent of the old nest cannot pull in the next swarm."),
     ],

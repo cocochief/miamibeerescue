@@ -8,7 +8,7 @@ CITY = {
     "h1": "Warehouse parapets to townhouse soffits: Doral bee removal",
     "kicker": "Doral, west Miami-Dade",
     "lede": "Doral mixes business parks and family neighborhoods inside fifteen square miles. Honey bees use both, and the fix looks different in a distribution center than in a two-story townhouse.",
-    "quick": "With 14 of the county's business parks inside city limits, a Doral bee call often lands on leased commercial property, where the owner rather than the tenant who spotted the bees approves the work and may want a COI first. Townhouse calls bring a shared wall instead. Either way, keep people back, do not spray or tape the hole, and text a photo of the entry point. The colony is vacuumed up alive for a beekeeper, every piece of comb is pulled, and the gap gets closed. Ground-level jobs run about $300 to $400; wall or roof repairs push that higher.",
+    "quick": "With 14 of the county's business parks inside city limits, a Doral bee call often lands on leased commercial property, where the owner rather than the tenant who spotted the bees approves the work and may want a COI first. Meanwhile, keep people back, do not spray or tape the hole, and text a photo of the entry point. The crew vacuums the bees into a box bound for a beekeeper, strips out the comb, and closes the gap. A colony reachable from the ground is usually priced near $300 to $400, while parapet or wall repairs push that higher.",
     "glance": [
         ("Incorporated", "2003, after a seven-year push by residents"),
         ("Name", "Doris and Alfred Kaskel, who opened Doral Country Club in 1962"),
@@ -51,7 +51,7 @@ CITY = {
         ("Can removal happen before our warehouse opens for the day?", "Yes. A commercial removal can be scheduled for early morning or after closing so staff and customers are not near the opening. After-dark and weekend emergency calls are priced higher than a weekday appointment, so a colony that is not threatening anyone is cheaper to book midweek."),
         ("Our townhouse colony seems to extend into the unit next door. Who handles that?", "Talk to your neighbor and your association before the visit. The comb can cross the party wall, and we need access from whichever side gets us to it cleanly. We remove the whole colony, not just the half on your side, and repair the opening afterward."),
         ("Will my HOA accept the repair?", "Our own licensed contractors and painters do the patch, and we can photograph each step. If the association wants a COI or proof of the work for its files, mention it when you book and it will be sent over."),
-        ("Where does a colony from a Doral building end up?", "With a beekeeper. The bees are collected alive and relocated, never exterminated. The comb comes out too, so the cavity is not left full of honey that draws a new swarm."),
+        ("Where does a colony from a Doral building end up?", "With a beekeeper. Whether the hive sat in a warehouse parapet or a townhouse soffit, the crew boxes the living bees and drives them to a keeper who takes them on, and nothing is poisoned along the way. The comb comes out too, so the cavity is not left full of honey that draws a new swarm."),
     ],
     "services": [
         ("hoa-commercial", "Warehouses, showrooms and managed communities that need insurance paperwork and scheduled access."),

@@ -24,8 +24,8 @@ SERVICE = {
         "A living colony guards its brood, so a knocked or disturbed nest can send bees after people. "
         "Lead whoever is being chased indoors, or into a vehicle with the windows up, and scrape each "
         "stinger out with a fingernail. Swelling lips or tongue, or wheezing, means dialing 911 first. "
-        "Our phones are staffed around the clock, and a stinging emergency is handled ahead of routine "
-        "bookings."
+        "Then ring us at whatever hour it is: someone always picks up, and an active stinging "
+        "call is dealt with before any scheduled removal."
     ),
     "card": (
         "How a colony comes out alive: no spray, the comb located and cut out, and brood and bees "
@@ -90,7 +90,7 @@ SERVICE = {
     ],
     "band": (
         "Bees still flying in and out?",
-        "Stand back, photograph the gap the bees are using, and text the picture; a free quote for a live removal follows.",
+        "From a safe distance, a phone picture of the gap the bees use, sent by text, is enough to start; a free quote for a live removal follows.",
     ),
     "takeout_h": "How a live colony comes out",
     "takeout": [
@@ -160,7 +160,7 @@ SERVICE = {
             "new queen from a worker larva less than about three days old. That is one more reason the brood always "
             "travels with the bees instead of being thrown out."
         )),
-        ("Where do the bees go once they leave my house?", (
+        ("After the colony is boxed up, what becomes of it?", (
             "From your property the colony is driven to a beekeeper's apiary. The keeper watches "
             "its temperament over the following weeks and can replace the queen of a colony that turns "
             "out to be defensive. Our [[svc:relocation|colony relocation]] page covers that hand-off "

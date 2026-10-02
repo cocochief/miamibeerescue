@@ -90,7 +90,7 @@ SERVICE = {
     "related": ["roofs", "walls", "repairs", "honeycomb-cleanup", "swarms"],
 
     "close": ("Get the eave opened, emptied and shut",
-              "A photo of the overhang sent by text, or the quote form below, gets you a free written quote that spells out every step of the job."),
+              "Text over a shot of the overhang, or fill in the form below; either one gets you a free written quote that spells out every step of the job."),
 
     "facts": [
         "A soffit is the horizontal underside of the roof edge, usually the underside of the eaves; fascia is the vertical band at the roof edge; soffits and fascias are typically fastened to lookout rafters; soffits may be ventilated (source: https://en.wikipedia.org/wiki/Soffit)",

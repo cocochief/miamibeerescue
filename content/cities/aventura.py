@@ -8,7 +8,7 @@ CITY = {
     "h1": "Aventura Bees in Condo Towers, Garages and Docks",
     "kicker": "North Dade, at the county line",
     "lede": "Aventura is mostly vertical, so a colony here is usually a building problem before it is a yard problem. You need someone who can get past the gatehouse, satisfy the board and reach the spot.",
-    "quick": "High rises set around the Turnberry course make up most of Aventura, so the opening moves of a removal here are paperwork and access rather than tools: a COI sent to management, a service elevator or roof key booked, and a ruling on whether the comb sits in a unit or a common element. After that, the colony is lifted out alive and handed to a beekeeper. A planter or valve box reachable from the pavement tends to fall near $300 to $400; comb thirty floors up or sealed behind stucco and drywall can climb into the thousands.",
+    "quick": "High rises set around the Turnberry course make up most of Aventura, so the opening moves of a removal here are paperwork and access rather than tools: a COI sent to management, a service elevator or roof key booked, and a ruling on whether the comb sits in a unit or a common element. Only then does the crew go up, and every bee leaves the building alive, bound for a beekeeper's yard. A planter or valve box reachable from the pavement tends to fall near $300 to $400; comb thirty floors up or sealed behind stucco and drywall can climb into the thousands.",
     "glance": [
         ("Incorporated", "November 7, 1995"),
         ("Land and water", "2.65 square miles of land, with water adding 0.87 more"),
@@ -47,7 +47,7 @@ CITY = {
         ("Remove the colony alive", "The whole colony, wax included, is lifted out intact and driven to a beekeeper who keeps it. Nearby residents are asked to keep balcony doors shut while the area is open, which keeps everyone calm."),
         ("Seal, repair, report", "The entry is closed, any opened surface is repaired by our own crews, and photos with an itemized invoice go to whoever needs them for the board."),
     ],
-    "alarm": "Stings happening now? Move inside, into a lobby, stairwell or unit, and let the door close behind you. Anyone wheezing, with a swollen tongue or lips, or stung many times needs 911 first. Ask the front desk to keep residents off that balcony, deck or garage level. Then phone us at any hour; a person under attack is handled ahead of everything else.",
+    "alarm": "Stings happening now? Move inside, into a lobby, stairwell or unit, and let the door close behind you. Anyone wheezing, with a swollen tongue or lips, or stung many times needs 911 first. Ask the front desk to keep residents off that balcony, deck or garage level. Once everyone is behind a closed door, call us, even at 3 a.m.; a neighbor taking stings moves to the front of our list.",
     "faqs": [
         ("Our management office wants insurance paperwork before you arrive. Is that a problem?", "Not at all. A COI can be sent to the association or management company before the visit. Ask your manager where it should go and pass that along when you call, so it is in hand by the time the date is booked."),
         ("I live on a high floor. Can bees really be up here?", "Yes. Honey bees forage and scout well above ground level, and a tower offers plenty of sheltered gaps around balconies, planters and rooftop equipment. A handful of bees on a railing may just be passing through. Bees going in and out of one opening for several days point to a colony that needs attention."),
@@ -57,7 +57,7 @@ CITY = {
     ],
     "services": [
         ("condos-high-rises", "Towers, balconies, roof equipment and the board approvals that come with them."),
-        ("hoa-commercial", "Managers and associations who need a COI, a written scope and an itemized invoice."),
+        ("hoa-commercial", "Managers and associations who need a COI, a free quote up front and an itemized invoice."),
         ("waterfront-boats", "Dock boxes, pedestals and seawall caps along the Intracoastal and the bay."),
         ("pool-enclosures", "Pool decks, equipment rooms and the planters and palms beside them."),
         ("utility-boxes", "Irrigation valves and meter boxes in landscaping around the golf ring."),

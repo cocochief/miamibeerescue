@@ -17,7 +17,7 @@ CITY = {
         "picks up, and our 24-hour response guarantee covers the visit."
     ),
     "glance": [
-        ("Incorporated", "1927, as the Town of South Miami"),
+        ("Incorporated", "June 1927; it started out as a town"),
         ("Size", "About 2.31 square miles"),
         ("Population", "12,026 at the 2020 census"),
         ("First historic district", "Cambridge Lawns, designated in 2005"),
