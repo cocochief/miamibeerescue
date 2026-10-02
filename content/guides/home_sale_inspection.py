@@ -35,7 +35,7 @@ GUIDE = {
          "In a condo or townhouse community the colony may sit in a common area the association controls, and the board may ask for proof of insurance before anyone touches the building. The board can be sent COIs, and the page for [[svc:hoa-commercial|associations and property managers]] walks through those arrangements."),
     ],
     "band": ("Inspection period already ticking?",
-             "Text a picture of the flagged spot or call, and get a free quote you can bring straight into the negotiation."),
+             "One photo of the flagged spot by text, or a short call, is enough for a free quote you can bring straight into the negotiation."),
     "checklist_h": "Before the final walkthrough",
     "checklist": [
         "Photograph the entry point the inspector flagged from a safe distance, and note the time of day.",
@@ -49,10 +49,10 @@ GUIDE = {
     "faqs": [
         ("Does a WDO or termite inspection in Florida check for bees?",
          "No. The WDO report targets termites, wood-boring beetles and wood-decay fungi, the organisms named in Florida's statute. An inspector may note a colony if it is obvious, but the report isn't designed to find bees or estimate how much comb is inside a wall, so a clean report says nothing either way."),
-        ("Do I have to tell buyers about a colony that was already removed?",
-         "That depends on your facts, and your attorney should make the call. Florida's disclosure duty reaches known facts that materially affect value and aren't readily observable. A finished removal backed by photos and an itemized invoice is usually far easier to explain than an open question about bees in the wall."),
+        ("The colony is gone now. Does it still belong on my seller's disclosure?",
+         "Your real estate attorney should decide, because the answer turns on your facts. Under Florida's disclosure duty, a seller has to share known facts that materially affect value and aren't readily observable. A finished removal backed by photos and an itemized invoice is usually far easier to explain than an open question about bees in the wall."),
         ("Can the bees just be sprayed so we close on time?",
-         "Spraying kills the bees but leaves comb and honey inside the structure, where it can ferment, leak and draw pests after the new owner moves in. A live removal takes all of it out, sends the colony to a beekeeper, and ends with the opening sealed and repaired, which is the record a careful buyer will want."),
+         "A spray job gets you a dead colony, not a clean wall. Comb and honey stay inside the structure, and after the new owner moves in they can ferment, leak and draw pests. A live removal takes all of it out, sends the colony to a beekeeper, and ends with the opening sealed and repaired, which is the record a careful buyer will want."),
         ("We close in ten days. Is there still time?",
          "There can be, if you call today. A ten-day closing is exactly the case the 24-hour response guarantee exists for, and the line is staffed day or night. The first look settles the scope. How long repairs take turns on the surface involved, and patching a soffit is quicker than relaying roof tile."),
         ("Does the buyer or the seller need to be home for the removal?",
@@ -61,7 +61,7 @@ GUIDE = {
     "services": ["walls", "roofs", "soffits-eaves", "honeycomb-cleanup", "repairs"],
     "places": ["coral-gables", "miami", "pinecrest", "kendall"],
     "close": ("Clear the bee note before closing",
-              "Send the quote form with the inspector's note and a photo, and the removal and repair can be planned around your contract dates."),
+              "Attach the inspector's note and a photo to the quote form, and the removal and repair get planned around your contract dates."),
     "facts": [
         "Florida Statutes 482.021 defines 'wood-destroying organism' as arthropod or plant life which damages and can reinfest seasoned wood in a structure, namely termites, powder-post beetles, oldhouse borers, and wood-decaying fungi; honey bees are not listed (source: https://www.flsenate.gov/Laws/Statutes/2025/482.021)",
         "Florida Statutes 482.226: a WDO inspection report must list visible accessible areas not inspected, and the report does not constitute a guarantee of the absence of wood-destroying organisms unless it states the extent of such guarantee (source: https://www.flsenate.gov/Laws/Statutes/2025/482.226)",

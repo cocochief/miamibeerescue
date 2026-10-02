@@ -41,11 +41,11 @@ GUIDE = {
          "In [[city:coral-gables|Coral Gables]], the original plan called for Mediterranean Revival design, and the city takes its name from a family house built of Miami limestone, the local rock often called coral rock, under coral-colored tile. Thick stone holds and spreads heat slowly, which softens the bloom a nursery would make, so these scans favor cool hours and interior views.\n\n"
          "In [[city:miami-beach|Miami Beach]], the Architectural District holds what is described as the world's largest collection of Art Deco buildings, most of them built between the Depression and the early 1940s. On a historic facade, a condo board will want the opening kept as small and as well placed as possible, and a good scan is how that gets planned. Owners of older homes elsewhere in [[city:miami|Miami]] face the same trade-off between finding the comb and protecting original finishes."),
         ("From the scan to a sealed wall",
-         "Once the nursery is mapped, the colony comes out alive and goes to a beekeeper. Nothing is poisoned. Comb and honey are removed, the cavity is cleaned, and the entrance is sealed. Patching the stucco, drywall or tile falls to our own licensed trades, a crew of contractors, roofers and painters, so you are not left hiring someone else to match the finish. Should a new colony move into a place we closed up, that return trip is on us under the workmanship warranty.\n\n"
-         "The quote is free. Ground-level jobs tend to land around $300 to $400, and a colony high in a wall or under tile that needs [[svc:repairs|repairs after removal]] can run into the thousands. The [[page:cost|cost page]] walks through what moves that number. If your insurer or your board needs a paper trail, just ask, and the job photos come with a line-by-line invoice."),
+         "Once the nursery is mapped, the colony comes out alive and goes to a beekeeper. Nothing is poisoned. The wax and stored honey the scan pointed to come out along with the bees, the cavity gets wiped down, and their old doorway is closed off. Patching the stucco, drywall or tile falls to our own licensed trades, a crew of contractors, roofers and painters, so you are not left hiring someone else to match the finish. Should a new colony move into a place we closed up, that return trip is on us under the workmanship warranty.\n\n"
+         "The quote is free. Height and access set most of the price: about $300 to $400 when the nest can be reached from the ground, and into the thousands once it sits up in a wall or under tile and needs [[svc:repairs|repairs after removal]]. The [[page:cost|cost page]] walks through what moves that number. If your insurer or your board needs a paper trail, just ask, and the job photos come with a line-by-line invoice."),
     ],
     "band": ("Seeing a warm spot in the wall?",
-             "A picture of the entrance and the wall around it lets us plan the scan. Someone picks up at any hour, backed by a 24-hour response guarantee."),
+             "Tell us which wall takes the afternoon sun; that decides when the camera comes out. Ring at any hour and a person answers, with a response owed to you inside 24 hours."),
     "checklist_h": "Before the thermal scan",
     "checklist": [
         "Note where the bees go in and the time of day traffic is heaviest.",
@@ -59,7 +59,7 @@ GUIDE = {
     "faqs": [
         ("Can a thermal camera see bees through concrete block and stucco?",
          "Not directly. It reads the temperature of the outer face only. Warmth from a nursery does move through block, but slowly and spread out, and the hollow and filled cores make their own pattern. That is why a scan of a block wall is usually paired with a reading from the cooler inside face."),
-        ("Bees are going into my wall, so why did the scan show nothing?",
+        ("Why might a scan come back blank while bees still fly into my wall?",
          "A few common reasons: afternoon sun had heated the wall past the bees' own temperature, the colony is new and still small, or the nest sits deep in a thick wall. A repeat scan before sunrise or from an air-conditioned room often answers it."),
         ("Will a thermal scan keep the hole in my wall smaller?",
          "It usually helps. Opening the wall right over the nursery, instead of searching outward from the entrance, means less cutting and a cleaner patch. Comb often runs past the warm outline, though, so the opening is sized with some margin."),

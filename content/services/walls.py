@@ -124,7 +124,7 @@ SERVICE = {
         )),
     ],
     "alarm": (
-        "Stings in the household, or bees streaming out of a wall crack: shut everyone, pets included, into a room on the opposite side of the house. "
+        "Stings at home, or bees streaming from a wall crack: shut everyone, pets included, into a room on the opposite side of the house. "
         "Then phone. Whoever was stung moves to the front of the queue, nobody calling at 3 a.m. gets voicemail, and a crew is committed to reach you inside our 24-hour response guarantee. "
         "Do not plug the hole, spray it or hose the wall, since that pushes bees indoors or turns them on you."
     ),

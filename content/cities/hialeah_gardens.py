@@ -8,7 +8,7 @@ CITY = {
     "h1": "Bee removal in Hialeah Gardens, house or warehouse",
     "kicker": "Hialeah Gardens, west Miami-Dade",
     "lede": "A small city with quiet one-story streets on one side and working industrial yards on the other. Bees found in either place leave in a box bound for a beekeeper's apiary, not a trash bag.",
-    "quick": "A colony that has moved into a Hialeah Gardens eave, block wall or the hood over a roll-up door can come out alive. The comb gets traced, often with a thermal camera, then bees and wax are cut out by hand and the colony travels to a beekeeper for relocation. Expect roughly $300 to $400 when the nest sits low and open. Jobs that involve opening and rebuilding a wall or roof climb into the thousands. Quoting is free. A call at 3 a.m. gets answered like a call at noon, and the 24-hour response guarantee applies to both.",
+    "quick": "Hialeah Gardens is built mostly at one story, so a colony in a house eave or in the hood over a warehouse roll-up door is often within ladder reach, no lift required. Low, open nests like that tend to land in the $300 to $400 band; anything that means opening a wall or roof and rebuilding it runs into the thousands. Whichever it is, nothing gets sprayed and the bees are relocated by a beekeeper. You pay nothing for the quote, and a 3 a.m. call is picked up and covered by the same 24-hour response guarantee as one at noon.",
     "alarm": "A worker or neighbor taking stings should be moved behind a closed door or into a truck cab with the windows up. Swinging at the cloud or soaking it with a hose only makes it angrier. If lips or throat puff up, or breathing turns hard, dial 911 before you dial us. In a warehouse, drop the nearest bay door. Then phone the line; a sting emergency outranks every routine job, whatever the hour.",
     "glance": [
         ("Incorporated", "December 1948, by 26 unanimous votes"),
@@ -43,7 +43,7 @@ CITY = {
         ("Warehouse walls and door housings",
          "The northwest district is lined with warehouses and workshops. Bees slip into the hood over "
          "a roll-up door, a seam where wall panels meet, or an open block cell behind cracked stucco. "
-         "A thermal scan shows where the comb actually hangs before anything gets cut."),
+         "Before any panel is unbolted, a heat-sensing camera traces the outline of the nest from outside."),
         ("Stacked materials in contractor yards",
          "Roofing, cement and construction businesses keep pallets, tile bundles, forms and spare "
          "equipment outdoors. A pile left alone for a few weeks offers a swarm a sheltered cavity, "
@@ -81,7 +81,7 @@ CITY = {
          "traffic, so a ladder setup needs cones and a clear plan."),
     ],
     "body": [
-        ("When the colony is in a business, not a house",
+        ("Workshops, bay doors and a crew on the clock",
          "A colony inside a workshop wall is a different job from one in a bedroom soffit, mostly "
          "because of everything happening around it. Forklifts, open bay doors and crews on the "
          "loading apron all sit inside the bees' flight path, so the first step is closing off a work "
@@ -128,7 +128,7 @@ CITY = {
          "[[guide:after-a-storm|storm guide]] shows what an exposed colony looks like."),
     ],
     "band": ("Bees in the shop or the soffit?",
-             "One clear picture of the entry point, whether it is a door hood or an eave vent, usually says enough to size the job."),
+             "Door hood or eave vent, a photo snapped from a few steps back usually tells us how big the job is."),
     "visit_h": "How a Hialeah Gardens visit runs",
     "visit": [
         ("Photo and triage",
@@ -138,8 +138,8 @@ CITY = {
          "For yards in the northwest district we ask for the gate contact, a spot for the truck off the "
          "frontage road and a window when forklifts and deliveries pause, so nobody walks into the bees."),
         ("Find, remove, relocate",
-         "Thermal imaging pins down the comb. Bees and honeycomb come out together, the colony is boxed "
-         "for a beekeeper, and leftover honey is cleaned away so it does not invite a new swarm."),
+         "Comb and bees leave together, cut out by hand once a heat scan has marked the cavity. The colony "
+         "rides off boxed for a beekeeper, and leftover honey is wiped out so its smell does not draw a new swarm."),
         ("Close up and paperwork",
          "Roofers, painters and licensed contractors who work directly for us rebuild the gap to match. "
          "Should bees ever push back into a seal we made, the warrantied workmanship means another trip "

@@ -8,7 +8,7 @@ CITY = {
     "h1": "Aventura Bees in Condo Towers, Garages and Docks",
     "kicker": "North Dade, at the county line",
     "lede": "Aventura is mostly vertical, so a colony here is usually a building problem before it is a yard problem. You need someone who can get past the gatehouse, satisfy the board and reach the spot.",
-    "quick": "A colony moving into an Aventura tower, garage or dock comes out living, comb and all, and ends up in a beekeeper's yard rather than a trash bag. On a condo or association building, the first steps are paperwork and access: a COI sent to management, a booked service elevator or roof key, and a clear line on whether the colony sits in a unit or a common element. A planter or valve box someone can work from the pavement tends to fall near $300 to $400. A colony thirty floors up, or one sealed behind stucco and drywall, can climb into the thousands.",
+    "quick": "High rises set around the Turnberry course make up most of Aventura, so the opening moves of a removal here are paperwork and access rather than tools: a COI sent to management, a service elevator or roof key booked, and a ruling on whether the comb sits in a unit or a common element. After that, the colony is lifted out alive and handed to a beekeeper. A planter or valve box reachable from the pavement tends to fall near $300 to $400; comb thirty floors up or sealed behind stucco and drywall can climb into the thousands.",
     "glance": [
         ("Incorporated", "November 7, 1995"),
         ("Land and water", "2.65 square miles of land, with water adding 0.87 more"),

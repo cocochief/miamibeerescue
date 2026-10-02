@@ -13,8 +13,8 @@ SERVICE = {
     ),
     "quick": (
         "For a colony on common grounds, a storefront, a school or a warehouse, call or text us a photo "
-        "and the quote comes back free. Before anyone arrives, you can have a certificate of insurance "
-        "issued to your association or company. The bees leave alive with a beekeeper, the opening gets sealed, "
+        "and the quote comes back free. If your vendor file needs proof of coverage, a COI "
+        "listing the board or owner as holder can go out ahead of the work date. The bees leave alive with a beekeeper, the opening gets sealed, "
         "and on request you receive photos plus an itemized invoice to attach to the work order. Clubhouses "
         "and loading docks fall under our 24-hour response guarantee, and a live person picks up at every hour."
     ),
@@ -41,11 +41,11 @@ SERVICE = {
     ),
     "body": [
         ("Paperwork your board or owner will ask for", (
-            "On a managed property the person who spots the bees is rarely the person who signs the check. "
-            "So the paperwork matters almost as much as the cut-out. Ask for a certificate of insurance when "
-            "you book and it can name the association, the management company or the building owner as "
-            "certificate holder, which is usually what a vendor file requires before anyone steps onto common "
-            "grounds.\n\n"
+            "Approval on an association or commercial site runs up a chain: a resident reports the hive, a "
+            "manager collects bids, and a board or owner releases the money. Each of those people will want "
+            "documents, not only a cleared wall. Request a certificate of insurance at booking and the holder "
+            "line can carry your association's name, your management firm's or the building owner's, which most vendor files "
+            "insist on before a crew sets foot on common grounds.\n\n"
             "For a homeowners' association, Florida's records statute lists itemized, detailed records of all "
             "receipts and expenditures among the official records, along with insurance policies, and says "
             "most of those records are kept for at least seven years. Bids for work are official records too, "
@@ -81,7 +81,7 @@ SERVICE = {
     ],
     "band": (
         "One visit, one invoice, one clean file",
-        "Text a photo of the opening and the property address, and the quote and COI details can be ready before the board meets.",
+        "Ahead of the next board meeting, the quote and COI details can already be in hand: just send a photo of the opening with the property address.",
     ),
     "takeout_h": "How a managed-property removal runs",
     "takeout": [
@@ -97,7 +97,7 @@ SERVICE = {
             "A living colony holds its brood at a steady warmth, and a thermal camera picks up that heat "
             "pattern behind stucco or a sign face, so the cut lands on the comb. More in [[guide:thermal-imaging|what thermal imaging shows]]."
         )),
-        ("Take bees and comb out alive", (
+        ("Cut out comb, keep bees living", (
             "Working section by section, the crew slices comb free and vacuums bees at low suction into a "
             "screened carrier, and a beekeeper takes delivery to give it a new home."
         )),

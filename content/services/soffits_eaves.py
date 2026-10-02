@@ -8,7 +8,7 @@ SERVICE = {
     "h1": "Bees in the Soffit or Eave: Miami-Dade Hive Removal",
     "kicker": "Roof edge and overhang hives",
     "lede": "The underside of your roof overhang is a long, dry, shaded box with a doorway at the bottom. Scout bees notice that. Here is how a colony gets in, how it comes out alive, and how the eave gets closed tight.",
-    "quick": "Bees streaming into a single gap under the overhang almost always mean a colony has built comb inside the soffit, the hollow space boxed in by the fascia board, the wall and the underside of the roof. Spraying the gap kills the bees but leaves wax and honey to sour inside. The fix is to open the soffit from below, take the bees and comb out alive, clean the cavity, then close it with sound panels and trim. There is no charge for the quote; a picture of the gap and the trim around it gets things moving.",
+    "quick": "Bees streaming into a single gap under the overhang almost always mean a colony has built comb inside the soffit, the hollow space boxed in by the fascia board, the wall and the underside of the roof. Insecticide in that gap ends the traffic, yet comb, honey and dead brood stay boxed up to ferment. The fix is to open the soffit from below, take the bees and comb out alive, clean the cavity, then close it with sound panels and trim. There is no charge for the quote; a picture of the gap and the trim around it gets things moving.",
     "card": "Bees living in a soffit, fascia gap or eave return: opened from below, colony taken out alive, cavity scraped clean and the roof edge closed again.",
 
     "seeing_h": "Signs under the overhang",
@@ -26,8 +26,8 @@ SERVICE = {
     "body": [
         ("How each kind of soffit lets bees in",
          "Vented aluminum soffit snaps into channels along the fascia and the wall. When a channel works loose, or a ladder or a storm bends a panel, a slot opens that is plenty for a worker bee, since honey bees fit through gaps narrower than a pencil.\n\nWood soffits are plywood sheets or tongue-and-groove boards. As the paint fails, the edges swell and soften, and a seam opens where the board meets the fascia or the wall. Stucco soffits crack, and the screens behind their vent openings rust through.\n\nFascia gaps are their own problem. A gutter that sags can pull the fascia away from the roof deck and leave a long dark slit just under the shingles or tile.\n\nThen there are eave returns, the short boxed sections where the overhang wraps around the corner of a gable. They are built from small pieces of trim with mitered joints, and every joint is a possible door. Because returns are small and closed, comb inside them fills the space quickly and is easy to miss from the ground. A colony that started in the soffit can also run up under [[svc:roofs|the tile or flat roof]] or down into [[svc:walls|the wall cavity]] below."),
-        ("Why a can of spray leaves the eave in worse shape",
-         "Poison through the hole may stop the flying, but it does nothing about what the bees built. The comb stays behind with its honey, pollen and dead brood. In a closed soffit through a hot Miami-Dade summer, wax softens and honey seeps through panel seams and stains the paint below. Ants, roaches and wax moths move in to feed on what is left.\n\nThe smell of old comb also tells passing scouts that the cavity once held a colony, which is a big part of [[guide:why-bees-come-back|why an emptied cavity draws bees again]]. A sprayed eave can draw a new swarm the following season.\n\nCaulking the entrance shut while bees are still inside has its own risk. The colony looks for another way out, and that path can lead through the attic and into the house. The order that works is bees out, comb out, cavity cleaned, then the seal. Our [[svc:honeycomb-cleanup|comb and honey cleanup]] covers that middle step."),
+        ("Spraying the soffit gap: what stays behind afterward",
+         "The flying may stop a day or so after a dose of insecticide goes into the gap. Everything the colony made is still up there, though: sheets of wax, stored honey, pollen and dead brood, sealed inside the boxed overhang. In a closed soffit through a hot Miami-Dade summer, wax softens and honey seeps through panel seams and stains the paint below. Ants, roaches and wax moths move in to feed on what is left.\n\nThe smell of old comb also tells passing scouts that the cavity once held a colony, which is a big part of [[guide:why-bees-come-back|why an emptied cavity draws bees again]]. A sprayed eave can draw a new swarm the following season.\n\nCaulking the entrance shut while bees are still inside has its own risk. The colony looks for another way out, and that path can lead through the attic and into the house. The order that works is bees out, comb out, cavity cleaned, then the seal. Our [[svc:honeycomb-cleanup|comb and honey cleanup]] covers that middle step."),
         ("Ladders, lifts and second-story overhangs",
          "A one-story eave over a lawn is usually ladder work, but the ladder has to stand where a disturbed colony is not flying straight into the person on it. Two-story overhangs, eaves over a pool deck or a screened enclosure, and roof edges above dense hedges can call for a lift, so that someone can stand level under the comb with both hands free.\n\nWhoever works the eave wears a full bee suit, and everyone else should stay indoors with pets inside and windows on that side shut until the panels are back up. On a condo or townhouse building, the board or manager usually has to approve access and wants paperwork first. A COI naming the association can be sent ahead of the visit, and our pages on [[svc:condos-high-rises|condo and high-rise buildings]] and [[svc:hoa-commercial|HOA and commercial properties]] explain how those visits are set up."),
     ],
@@ -37,8 +37,8 @@ SERVICE = {
 
     "takeout_h": "How an eave colony comes out",
     "takeout": [
-        ("Map the comb first",
-         "A thermal camera pointed at the soffit from below shows the warm mass of the cluster and brood, so only the bays holding comb get opened rather than the whole overhang."),
+        ("Scan the overhang for warmth",
+         "From the ground, the cluster and brood show up through the soffit panels as a warm patch on a thermal image, so only the bays holding comb get opened instead of the whole overhang."),
         ("Set up safe access",
          "The ladder or lift goes into place, the ground below is roped off, and children, pets and open windows near the entrance are taken care of before any panel moves."),
         ("Open the soffit from underneath",
@@ -72,7 +72,7 @@ SERVICE = {
          "[[city:homestead|Homestead]], incorporated in 1913, bore the brunt of Andrew along with neighboring South Dade communities. Roof-edge damage from any storm leaves seams a swarm can find, and the [[guide:after-a-storm|post-storm field guide]] walks through checking them."),
     ],
 
-    "alarm": "If bees are pouring out of the eave or someone has been stung more than a few times, get everyone indoors and close every window facing that stretch of eave. If a sting victim feels faint, breaks out in hives all over, or has a tight chest, dial 911 first. Stay off the ladder, then call. The line is staffed 24/7, a stinging call goes ahead of routine jobs, and the 24-hour response guarantee holds.",
+    "alarm": "Heavy flying from the overhang, or a person stung several times, means people and pets go inside right away and the windows on that side of the roof edge get shut. If a sting victim feels faint, breaks out in hives all over, or has a tight chest, dial 911 first. Stay off the ladder, then call. The line is staffed 24/7, a stinging call goes ahead of routine jobs, and the 24-hour response guarantee holds.",
 
     "faqs": [
         ("Can I just caulk the hole in my soffit shut?",
@@ -84,13 +84,13 @@ SERVICE = {
         ("My soffit has vents. Do they stay open after the repair?",
          "Yes. Soffit vents let air move through the attic and help keep moisture down, so sealing them shut would cause a new problem. The usual fix is fine insect screen fastened behind the vent openings, which keeps bees out while the air still flows."),
         ("The bees are clustered on the outside of the eave. Is that a hive?",
-         "A ball of bees hanging on the surface is more likely a swarm in transit, parked there until its scouts settle on a cavity, and swarms seldom stay put more than about three days. If bees fly into a gap and you see no cluster, the colony is probably already inside. Read about [[guide:scout-bees|scout bees]] or our [[svc:swarms|swarm pickup]] page."),
+         "Bees bunched on the face of the fascia or soffit are usually a swarm resting between homes while its scouts pick a cavity, and swarms seldom stay at a stop like that more than about three days. If bees fly into a gap and you see no cluster, the colony is probably already inside. Read about [[guide:scout-bees|scout bees]] or our [[svc:swarms|swarm pickup]] page."),
     ],
 
     "related": ["roofs", "walls", "repairs", "honeycomb-cleanup", "swarms"],
 
     "close": ("Get the eave opened, emptied and shut",
-              "Fill in the form below, or text a picture of the overhang, and a free quote comes back spelling out the job."),
+              "A photo of the overhang sent by text, or the quote form below, gets you a free written quote that spells out every step of the job."),
 
     "facts": [
         "A soffit is the horizontal underside of the roof edge, usually the underside of the eaves; fascia is the vertical band at the roof edge; soffits and fascias are typically fastened to lookout rafters; soffits may be ventilated (source: https://en.wikipedia.org/wiki/Soffit)",

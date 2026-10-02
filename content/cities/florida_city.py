@@ -5,7 +5,7 @@ CITY = {
     "key": "florida-city",
     "title": "Florida City Bees: Farm Edge, Rock Ridge, Live Removal",
     "desc": "From farm sheds near Krome to block homes off Palm Drive, Florida City colonies are moved alive to beekeepers. Licensed, insured, answering 24/7.",
-    "h1": "Bee removal in Florida City, from block homes to packing sheds",
+    "h1": "Florida City bee removal where farm rows meet block houses",
     "kicker": "Last city before the county line",
     "lede": "Florida City sits where the houses thin out and the fields begin. Bees move freely between the two, and a colony that starts in a crop row can end up behind your siding.",
     "quick": (
@@ -95,8 +95,8 @@ CITY = {
          "[[svc:swarms|swarm pickup]] is usually a short job. Once wax appears inside a wall or box, the "
          "colony is settling in and the job becomes a cut-out. Spraying it at that stage leaves dead bees "
          "and honey in the cavity, which draws ants and roaches and invites the next swarm to the same "
-         "smell. That pattern is covered in [[guide:why-bees-come-back|why bees come back to the same spot]]. "
-         "A live removal avoids it, because the comb leaves with the bees."),
+         "smell. Our note on [[guide:why-bees-come-back|repeat colonies in a sprayed wall]] traces that cycle. "
+         "Cutting out every sheet of comb and taking it away with the colony leaves nothing in the wall to rot or lure a swarm."),
         ("Storm damage and rebuilt houses",
          "Florida City suffered catastrophic damage from Hurricane Andrew in August 1992, and City Hall was "
          "among the buildings damaged beyond repair. Whatever a house went through then, its "

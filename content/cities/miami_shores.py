@@ -4,11 +4,11 @@
 CITY = {
     "key": "miami-shores",
     "title": "Miami Shores Bee Removal Around 1920s Stucco and Tile",
-    "desc": "Honey bees in a stucco wall, a barrel-tile roof or a shade tree in Miami Shores? Colonies come out alive, and historic finishes get matched afterward.",
+    "desc": "Barrel tile, textured stucco and old canopy trees give Miami Shores colonies cover. The bees leave alive, and 1920s finishes are matched after.",
     "h1": "Miami Shores Bee Hives in Shoreland-Era Stucco and Tile",
     "kicker": "North Dade, Miami Shores Village",
     "lede": "The village was laid out in the 1920s as 'America's Mediterranean,' and its textured stucco, arched openings and tile roofs give a colony plenty of places to hide. Here is how bees get in, and how they come out alive.",
-    "quick": "Bee removal in Miami Shores starts with locating the colony, then taking it out alive. A heat scan pinpoints the comb behind stucco or beneath tile; bees and comb are lifted out and passed to a beekeeper, and our own licensed contractors close the opening. Expect roughly $300 to $400 for something reachable at ground level, and up into the thousands when a wall or roof has to be opened and rebuilt. Quotes cost nothing, and a person picks up the phone at any hour, day or night.",
+    "quick": "Much of the village dates from the Shoreland Company's 1920s build-out, and its textured stucco and barrel tile are hard to replace, so the job is planned around one small, well-placed opening. A heat scan finds the comb first; bees and comb go to a beekeeper, and our own licensed contractors rebuild the section to match. A colony a person on the lawn can reach is usually priced about $300 to $400; opening and rebuilding a historic wall or roof pushes the bill into the thousands. The estimate is free, and calls get a live answer around the clock.",
     "glance": [
         ("Incorporated", "January 2, 1932, as Miami Shores Village"),
         ("Original plan", "Shoreland Company, 1924, sold as 'America's Mediterranean'"),
@@ -64,9 +64,9 @@ CITY = {
          "Shores counted 5 2/3 miles of bay frontage. Weather off the open water is hard on roof edges and paint, so on these blocks check the "
          "windward side of the roof and any storage boxes by the dock first."),
         ("Biscayne Boulevard frontage",
-         "One of the village's two small commercial strips runs along Biscayne Boulevard. If a landlord or property "
-         "manager asks for a COI before work starts, we send one. Point out the customer entrance when you call "
-         "so the work area can be planned around it. See [[svc:hoa-commercial|work for businesses and property managers]]."),
+         "One of the village's two small commercial strips runs along Biscayne Boulevard. Storefronts here have customers "
+         "walking in all day, so tell us which door they use and the crew sets up away from it. A landlord or "
+         "property manager who wants a COI before work starts gets one. See [[svc:hoa-commercial|work for businesses and property managers]]."),
         ("Shops on Northeast 2nd Avenue",
          "The other commercial area is the small strip along Northeast 2nd Avenue, where shops sit close together. "
          "A colony in a sign box or a shared wall affects the neighbors as well, so the visit is timed around foot "
@@ -135,8 +135,8 @@ CITY = {
     "visit_h": "How a visit to a Shores home runs",
     "visit": [
         ("Photo first, then a call",
-         "Send a picture of the entry point and tell us whether it is a wall, roof, tree or box. If anyone has been "
-         "stung, say so first; that moves you to the front."),
+         "A single photo of the hole the bees use, plus a word on where it is (wall, roof, tree or box), tells us "
+         "most of what we need. Mention any stings at the top of the call, since those go ahead of everything else."),
         ("A walk around with the camera",
          "The crew parks on your street, walks the outside of the house with a thermal camera and marks where the "
          "comb sits. You hear the price before any tile is lifted or stucco cut."),
@@ -144,8 +144,9 @@ CITY = {
          "A low-suction bee vacuum moves the colony into a screened box, and the comb is cut free for a beekeeper. Every "
          "scrap of honey and wax leaves with the crew, because leftovers can sour in the wall and pull in another swarm."),
         ("Sealed, rebuilt, warrantied",
-         "Our contractors close the entry, rebuild the opening and match the finish. The work is warrantied, "
-         "so bees back in a spot we closed means we drive back out."),
+         "Nothing is left open. The entry hole is blocked and the cut section rebuilt, with stucco texture, tile "
+         "and paint brought back to how the house looked, by our own licensed crew. If bees ever turn up again "
+         "at a gap we closed, the warranty on our workmanship brings the crew out again."),
     ],
     "alarm": (
         "Anyone being stung should go inside right away and close the door behind them; then call, because "
@@ -163,7 +164,7 @@ CITY = {
          "Please don't. Bees shut in under the tile search for another way out, and some may end up in the attic or "
          "the house. The comb left behind softens in summer heat and the honey can leak and stain. The colony comes "
          "out first, then the tile is reset and the gap closed. See [[svc:roofs|tile roof work]] for the steps."),
-        ("Will the bees be killed?",
+        ("Where do the bees end up once they are out of my wall or roof?",
          "No. The colony leaves your property alive and goes to a beekeeper, who moves it to a new home; live "
          "removal is all we do. Honey bees are pollinators, and a colony from your yard can be kept somewhere it bothers "
          "nobody. Read about [[svc:relocation|relocation to beekeepers]]."),
@@ -185,7 +186,7 @@ CITY = {
     ],
     "nearby": ["miami", "north-miami", "miami-beach"],
     "close": ("Keep the house, lose the hive",
-              "Send the quote form or call, and someone answers at any hour to set up the visit."),
+              "Day or night a real person takes the call, or use the quote form, and a visit to your Shores house gets booked."),
     "card": "The 1920s 'America's Mediterranean' village of stucco, barrel tile and old shade trees, where colonies hide in historic walls and roofs.",
     "facts": [
         "Shoreland Company bought land in 1924 to create Miami Shores, marketed as 'America's Mediterranean' (source: https://en.wikipedia.org/wiki/Miami_Shores,_Florida)",

@@ -34,15 +34,15 @@ SERVICE = {
          "That is also why one removal does not settle things for good if openings stay open. Old comb scent draws new scouts, a point the [[guide:why-bees-come-back|guide on returning bees]] covers, and storm damage can expose or create new cavities, as the [[guide:after-a-storm|after-a-storm guide]] explains."),
     ],
 
-    "band": ("Bees back in the pump house?",
+    "band": ("Pump house taken over by bees?",
              "Send a picture showing where the bees enter and the closest pump or valve, and we plan the visit around your crew's day."),
 
     "takeout_h": "How a farm removal is done",
     "takeout": [
         ("Walk the site first",
          "Your manager shows us where crews, pumps and vehicles will be that day. We set a perimeter and agree on which engines stay off until the colony is boxed."),
-        ("Find the whole colony",
-         "[[guide:thermal-imaging|Thermal imaging]] traces the warm mass of brood and comb inside a pump house wall, hollow post or trunk, keeping our cut as small as the job allows."),
+        ("Map the nest by its heat",
+         "Brood and comb run warm, so [[guide:thermal-imaging|thermal imaging]] shows their outline through a pump house wall, hollow post or grove trunk. That outline tells us where to open up, and how little."),
         ("Cut comb, collect bees",
          "Comb is lifted out piece by piece while a low-suction vacuum pulls the bees into a vented carrier. If the queen turns up, she rides with them."),
         ("Clear every trace of honey",
@@ -53,7 +53,7 @@ SERVICE = {
 
     "putback": "Once the cavity is empty it gets closed: screen over pump house vents, mortar in block gaps, a snug new lid on a cracked [[svc:utility-boxes|valve or meter box]], fresh siding or trim on a packing shed. Masonry, siding and trim [[svc:repairs|repair work]] stays in-house: the licensed contractors, roofers and painters doing it are our own, and one outfit answers for the whole job. For a grove tree, we agree with you on how the cavity gets closed before any saw comes out, since the tree and its crop are yours. The workmanship is covered by our warranty, and a colony that finds its way back into a spot we sealed means another visit from us.",
 
-    "price": "Bees in a valve box, under a bench or inside a stack of pots, all workable from the ground, typically land around $300 to $400. A nest built into a block pump house wall, high in a grove tree, or buried in equipment that must be partly dismantled costs more, and a job that ends in repairs can run into the thousands. Quoting is free. Weekday visits are the base rate; night and weekend emergencies run higher. If your bookkeeper wants paperwork, ask and the job comes with photos and an itemized invoice. The [[page:cost|cost page]] has more.",
+    "price": "A nest under a potting bench, in a stack of empty pots or in an irrigation box you can open standing up is ground-level work, usually falling between $300 and $400. A nest built into a block pump house wall, high in a grove tree, or buried in equipment that must be partly dismantled costs more, and a job that ends in repairs can run into the thousands. Quoting is free. Weekday visits are the base rate; night and weekend emergencies run higher. If your bookkeeper wants paperwork, the job can come with photos and an itemized invoice. The [[page:cost|cost page]] has more.",
     "price_factors": [
         "How deep the comb runs inside a wall, post, trunk or machine",
         "Whether the colony can be reached from the ground or needs a lift or ladder",
@@ -74,7 +74,7 @@ SERVICE = {
         ("Will you take the hives our beekeeper set out for pollination?",
          "No. A rented pollination colony is someone else's property, and its owner is on record with the state. If those boxes are causing trouble, the person to call is that beekeeper. We handle feral colonies that moved into your structures, trees or equipment on their own."),
         ("Can my crew keep working the next block while you remove the colony?",
-         "Yes, as long as engines and foot traffic stay outside the perimeter we set together. Because Africanized bees cannot be identified by eye, a colony that is already stinging people gets a wider buffer. We will tell you on site where it is safe to work."),
+         "The rest of the farm can usually keep going, provided engines and foot traffic stay outside the perimeter agreed on that morning. A colony that is already stinging people gets a wider buffer, since nobody can tell an Africanized colony from a European one by looking. On site, we point out exactly where work can continue."),
         ("Is it legal for someone to just kill a colony on my farm?",
          "According to the state agriculture department, eradication is reserved for pest control companies holding a state license, while beekeepers doing live removal must be registered with the department. The property owner picks the method. Ours is live removal only, so the bees end up with a beekeeper."),
         ("There's a colony in an old avocado tree. Will we lose the tree?",
@@ -88,7 +88,7 @@ SERVICE = {
     "related": ["emergency", "utility-boxes", "trees-palms", "sheds-garages", "relocation"],
 
     "close": ("Get your pump house back",
-              "Call or [[page:quote|send the quote form]] with the block, the structure and what your crew saw. The quote is free."),
+              "Tell us which block, which structure and what your crew noticed, by phone or through [[page:quote|the quote form]]. Quoting costs you nothing."),
 
     "facts": [
         "Redland is a historic unincorporated community and agricultural area in Miami-Dade County, named for pockets of red clay over oolitic limestone, with a large concentration of ornamental nurseries and tropical fruits (source: https://en.wikipedia.org/wiki/Redland,_Florida)",

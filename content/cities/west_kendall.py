@@ -5,10 +5,10 @@ CITY = {
     "key": "west-kendall",
     "title": "Bees Near the Farm Line: West Kendall Hive Removal",
     "desc": "Bees in a West Kendall townhouse wall, lakeside palm or HOA clubhouse? Live removal, insurance papers for your association, and repairs to match.",
-    "h1": "Bee removal for West Kendall's lake and farm-edge suburbs",
+    "h1": "West Kendall bee removal where subdivisions meet the farm fields",
     "kicker": "Kendall's western suburbs",
     "lede": "Planned communities, shared townhouse walls and backyard lakes run right up to the farm fields here. When honey bees pick one of your walls, you want them out alive and the gap closed properly.",
-    "quick": "A steady stream of bees using a single crack in your West Kendall stucco, soffit or meter box points to a colony that has moved in to stay and is building comb. Keep kids and pets back, skip the spray can, and leave the hole open for now. Reach us by call or text with a snapshot, and a crew pins down the comb, with thermal imaging if it sits behind a surface, lifts the bees out alive for a beekeeper, then seals and repairs the opening. A ground-level job runs about $300 to $400; walls and roofs cost more.",
+    "quick": "Much of West Kendall is planned communities with layered associations, townhouse party walls and guard gates. That shapes a removal here: comb may sit behind a neighbor's ceiling, and a manager may want insurance papers first. Keep kids and pets back, skip the spray can and leave the entry open. Call, or text a snapshot with your community name. A crew maps the comb, using thermal imaging when it is hidden, takes the bees out alive for a beekeeper, then seals and repairs. For a colony you can reach from the lawn, expect about $300 to $400, with block walls and roofs priced higher.",
     "glance": [
         ("What it is", "An informal name for unincorporated suburbs, not a city"),
         ("Takes in", "Seven census places, from Kendall West to Country Walk"),
@@ -17,8 +17,9 @@ CITY = {
         ("1992", "Hurricane Andrew destroyed about 90% of Country Walk's homes"),
     ],
     "opening": (
-        "West Kendall is not a city and has no city hall. It is the name people use for a run of "
-        "unincorporated, county-governed suburbs on the county's southwest side, commonly "
+        "Lakes, townhouse rows and planned subdivisions fill the county's southwest side right up to "
+        "the farm fields, and locals call that stretch West Kendall. No municipality carries the name; "
+        "the area is unincorporated and governed by the county, and it is commonly "
         "counted as seven census places: Kendall West, Kendale Lakes, The Hammocks, The Crossings, "
         "Three Lakes, Lakes of the Meadows and Country Walk. Most of it went up from the 1970s "
         "through the 1990s as planned communities, townhouse rows, apartment complexes and strip "
@@ -118,8 +119,8 @@ CITY = {
          "[[guide:after-a-storm|our storm guide]] explains what to do."),
     ],
     "band": ("Bees in the wall you share?",
-             "Text us a photo of the entry hole and your community name, and we will sort out access "
-             "and insurance papers before we arrive."),
+             "A townhouse row can mean two owners, an association and a guard gate. Send your community "
+             "name with a picture of the entry hole, and gate access and insurance papers get settled ahead of the visit."),
     "visit_h": "How a visit runs in West Kendall",
     "visit": [
         ("Photo and gate details",
@@ -132,20 +133,21 @@ CITY = {
          "The crew confirms the nest with a thermal camera, opens the smallest workable section, "
          "takes the bees out alive and pulls all the comb. Neighbors sharing the wall get a heads-up."),
         ("Seal and match",
-         "Our contractors close the cavity and patch stucco, tile or paint to your approved colors. "
-         "Our workmanship carries a warranty, and if bees reopen a gap we sealed, we come back out."),
+         "With the cavity scraped clean, it is filled and closed, then stucco, tile or paint is matched "
+         "to the colors your association approved, all by our own licensed contractors. The work is "
+         "warrantied: should bees get back into a spot we sealed, a crew returns."),
     ],
-    "alarm": "Bees chasing someone right now? Move away fast, into the house or a closed vehicle, and keep moving if bees follow. Swatting and spraying only stir up more of them. A person who is wheezing, has a puffy face or lips, or took dozens of stings needs 911. Then call us; our phones are answered around the clock and people under attack come first.",
+    "alarm": "Bees chasing someone right now? Move away fast, into the house or a closed vehicle, and keep moving if bees follow. Swatting and spraying only stir up more of them. Call 911 for anyone struggling to breathe, swelling around the lips or face, or stung many dozens of times. Then call us; our phones are answered around the clock and people under attack come first.",
     "faqs": [
         ("My HOA manager wants proof of insurance before you start. Can you send that?",
-         "Yes. Licensed and insured is how every job here is done, and the certificate can name "
-         "your association, master association or property manager. Give us the exact name and the "
-         "email the manager wants it sent to, and it goes out before the visit."),
+         "A certificate of insurance can list your association, master association or property "
+         "manager as the holder, since we are licensed and insured on every job. Pass along the exact "
+         "name and the email address the manager prefers, and the COI arrives before the crew does."),
         ("The bees enter on my side but my neighbor hears them. Who pays?",
-         "That depends on your association documents and any agreement between the two of you. "
-         "We can locate the comb with a thermal camera so both owners know whose wall and ceiling "
-         "it is in. Then it is one removal and one invoice, split however you agree."),
-        ("There is a ball of bees on the palm behind my lake. Is that a hive?",
+         "A thermal camera shows both owners which side of the party wall and which ceiling hold the "
+         "comb, so the conversation starts from facts. Who covers the bill is set by your association "
+         "documents and whatever the two of you agree; either way it is one removal and one invoice to split."),
+        ("A cluster the size of a football is hanging from a palm on our lake bank. Will it stay?",
          "Probably a resting swarm. Those clusters are between homes, and once the "
          "house hunters agree on a cavity the whole mass lifts off together, sometimes before nightfall. If it hangs near a pool deck, walkway or play area, have it picked up "
          "before it chooses your soffit. See [[svc:swarms|swarm pickup]] and our note on "

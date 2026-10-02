@@ -10,7 +10,7 @@ CITY = {
     "kicker": "Village at the island's north tip",
     "lede": "Bal Harbour fits ocean towers, a gated residential community and an open-air shopping center onto well under a square mile of land. Bees find the gaps in all three, and each has its own rules for letting a crew in.",
 
-    "quick": "If honey bees have moved into a balcony planter, a meter box or a wall in Bal Harbour, the fix is a live removal: bees, comb and honey all come out, a beekeeper adopts the colony, and we close the gap so leftover wax and honey odor cannot lure a replacement colony. The quote costs nothing. Ground-level jobs run about $300 to $400, while work that means opening a roofline or a finished wall can climb into the thousands once repairs are counted. Text us a photo and we will tell you what you are looking at.",
+    "quick": "Because Bal Harbour buried its utilities, meters and valves sit in hollow boxes at sidewalk level, so a colony here may be under a lid in the lawn instead of up in a wall. On the oceanfront towers, a balcony planter or wall panel is usually a common element, which means the association signs off first. Either way the answer is the same: a live removal, comb and all, with the colony handed to a beekeeper and the gap sealed. Quotes are free; ground-level work runs about $300 to $400, and jobs needing repairs can reach the thousands.",
 
     "alarm": "Bees chasing people? Get away quickly, cover your face and head for the nearest lobby, garage or vehicle, then put a door between you and them. Anyone wheezing, with lips or tongue puffing up, or stung dozens of times needs 911 now. After that, ring us at any hour; a stung person always jumps the queue. Tower residents: slide the balcony door shut and tell the concierge.",
 

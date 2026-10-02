@@ -12,9 +12,9 @@ CITY = {
 
     "kicker": "Miami Springs, west side",
 
-    "lede": "A small city of flat roofs, stucco walls and a 1923 golf course, with the airport right on its southern edge. Here is how live bee removal works on its older houses and its newer ones.",
+    "lede": "Flat roofs, stucco walls and a golf course dating to 1923 define this small city, with the airport pressed against its southern edge. What follows traces a colony from the parapet or beam end it chose to a beekeeper's yard, and the patch that closes the hole.",
 
-    "quick": "Bees filing one after another through the same crack in your stucco, or the same corner of a flat roof, means a colony has settled inside a Miami Springs house, and the comb grows every week it stays. Live removal means opening the cavity, cutting out the comb, collecting the bees and passing them to a beekeeper, then closing and repairing the opening. Comb reachable with both feet on the lawn tends to price out between $300 and $400. A hive deep in a flat roof or a parapet wall that needs real repair work can climb into the thousands. Pricing it out costs nothing.",
+    "quick": "Pueblo Revival houses here wear flat roofs ringed by parapets, so a colony in a Miami Springs home often sits between that low wall and the roof deck, where the opening can be made from above and the street face stays untouched. Stucco walls and beam ends get a thermal scan first so any cut stays small. Once the comb is cut free, a beekeeper takes the colony and our crews rebuild the hole. Comb reachable from the lawn runs about $300 to $400, while a parapet or flat-roof job needing real repair work climbs into the thousands. Pricing yours costs nothing.",
 
     "alarm": "Sting victims come before everything else. Move the person inside, out of the flight path, then call. Dial 911 before anything else if breathing gets hard, the lips or throat puff up, or the stings are numerous. Bring pets and children in, shut the windows on that side and leave the opening alone. Calls about people being stung jump the line, at any hour.",
 
@@ -82,7 +82,7 @@ CITY = {
         ("Live removal and hand-off",
          "Comb comes out piece by piece, the bees are gathered with a gentle vacuum, the queen with them when she can be found, and the whole colony leaves in a box bound for a beekeeper's yard."),
         ("Sealing, repair and records",
-         "Every scrap of honey and wax is scraped out, the bees' doorway gets closed for good, and stucco or roof patching follows. Want a photo record and line-by-line invoice? Just say so."),
+         "Every scrap of honey and wax is scraped out, the bees' doorway gets closed for good, and stucco or roof patching follows. If a landlord, buyer or board needs proof, ask, and pictures of each stage plus an invoice listing every charge come with the job."),
     ],
 
     "faqs": [
@@ -90,14 +90,14 @@ CITY = {
          "Yes. The joint where a parapet meets a flat roof is one of the easier ways into a dry, hidden space. Watch the top of the wall for bees going in and out at one point. If you see steady traffic, a colony is probably settled between the parapet and the roof deck, and removal is usually done from the roof side so the front of the house stays untouched."),
         ("Will taking out a hive ruin the original stucco on an older Miami Springs home?",
          "It should not, if the opening is planned. Scanning the wall first with a heat camera maps the colony, which lets the crew make a single cut sized to the comb. Our own licensed contractors and painters patch the opening to match the texture and color. On a historic property, say so up front so the repair can be planned around the original finish."),
-        ("There is a swarm hanging in a tree near the golf course. Do I need to call?",
-         "Bees clustered on a branch with no comb are between homes and rarely defensive, and many lift off again after a night or so. Keep people and pets away and do not spray or throw anything at it. Call if it is near a door, a walkway or a play area, if it stays more than a couple of days, or if bees start going into a house nearby."),
-        ("Can I spray the bees myself before someone gets here?",
-         "Please do not. Spray stirs up the colony and puts anyone nearby at risk, and it does not remove anything. A dead colony leaves its comb and honey in the wall, where the honey ferments, leaks through the stucco and draws new bees and pests. Live removal takes the comb out with the bees, and they go to a beekeeper."),
-        ("Do you come out at night or on weekends for emergencies?",
-         "Yes. A real person answers whatever the hour, our 24-hour response guarantee covers each call, and a household with someone stung moves ahead of the queue. After-hours and Saturday or Sunday emergencies carry a higher price than regular weekday work. When the colony is quiet and nobody is in its path, holding off until Monday through Friday saves money."),
+        ("A cluster of bees just appeared on a branch by the golf course. Is that an emergency?",
+         "Usually not. Bees bunched on a limb have built no comb yet. They are resting in transit until scouts settle on a cavity, and plenty of these clusters lift off within a day or two. Give it a wide berth, leave the hose and the spray can in the garage, and watch where it heads. Call if it hangs over a door, a walkway or a play area, stays past a couple of days, or starts filing into a wall or roof edge nearby."),
+        ("If I hit the parapet gap with insecticide tonight, is the problem solved?",
+         "No, and please skip it. Spray stirs up the colony and puts anyone nearby at risk, and it does not remove anything. A dead colony leaves its comb and honey in the wall, where the honey ferments, leaks through the stucco and draws new bees and pests. Live removal takes the comb out with the bees, and they go to a beekeeper."),
+        ("Someone just got stung after dark on a Sunday. Will anyone pick up?",
+         "A real person answers whatever the hour, the 24-hour response guarantee covers every call, and a household with someone stung moves to the front. Emergency visits after hours or on a Saturday or Sunday are priced higher than weekday work, so when the colony is quiet and nobody is in its path, waiting for a weekday saves money."),
         ("Our business near the airport needs insurance paperwork. Can you provide it?",
-         "Yes. Licensed and insured work comes with a COI on request, issued to your company, the building owner or the management firm before anyone arrives. A dated photo set and an invoice broken out by item are available once the job is done."),
+         "A certificate of insurance can go out before the visit, made out to your company, the building owner or the management firm, because the work is licensed and insured. Once the comb is out, you can also have dated photos and an invoice that breaks out each item."),
     ],
 
     "services": [

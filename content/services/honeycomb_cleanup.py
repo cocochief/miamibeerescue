@@ -8,7 +8,7 @@ SERVICE = {
     "h1": "Honeycomb removal in Miami-Dade when the bees are already gone",
     "kicker": "Leftover comb and honey",
     "lede": "The buzzing stopped, but the wall still smells sweet and a brown streak is creeping down the paint. What stays behind after a colony dies or leaves keeps working on your house until someone takes it out.",
-    "quick": "Yes, the comb has to come out, even if every bee is dead. Without workers guarding it, honey ferments, wax softens in summer heat, and wax moth and small hive beetle larvae move in. The result is odor, sticky stains that bleed through paint, and grubs crawling into rooms. Cleanup means opening the wall, ceiling or roof section, cutting out every piece of comb, scraping and drying the cavity, then sealing the entry so a new swarm can't follow the scent back in.",
+    "quick": "Dead bees are only half the problem; the nest they built still has to be removed. Without workers guarding it, honey ferments, wax softens in summer heat, and wax moth and small hive beetle larvae move in. The result is odor, sticky stains that bleed through paint, and grubs crawling into rooms. Cleanup means opening the wall, ceiling or roof section, cutting out every piece of comb, scraping and drying the cavity, then sealing the entry so a new swarm can't follow the scent back in.",
     "card": "For the comb, honey and wax left after someone sprayed the bees or a colony moved out: cut out, cavity cleaned, entry sealed, surface repaired.",
 
     "seeing_h": "What a dead or empty hive tends to leave you with",
@@ -25,7 +25,7 @@ SERVICE = {
 
     "body": [
         ("Why spraying the bees only finished half the job",
-         "Killing a colony stops the stings, but it leaves every pound of comb and honey sitting in the cavity. The University of Florida's consumer guide on bee removal says an unwanted colony is the property owner's to deal with, and warns that a pest control operator may leave the comb in place, or never explain why it matters, even when hired to clear the whole nest. Within several days, larvae feeding on the leftover comb can find their way indoors, and honey can drip through next to the old nest. If poison was used, treat any honey you find as contaminated and never taste it or feed it to pets. The cleanup that should have followed is what this page covers. If some bees survived the spray, the live part goes to [[svc:live-honey-bees|a live removal]] before we start cutting."),
+         "A dead colony is not a gone colony. Poison ends the stinging, yet the nest itself, wax, honey and rotting brood, stays exactly where the bees built it. The University of Florida's consumer guide on bee removal says an unwanted colony is the property owner's to deal with, and warns that a pest control operator may leave the comb in place, or never explain why it matters, even when hired to clear the whole nest. Within several days, larvae feeding on the leftover comb can find their way indoors, and honey can drip through next to the old nest. If poison was used, treat any honey you find as contaminated and never taste it or feed it to pets. The cleanup that should have followed is what this page covers. If some bees survived the spray, the live part goes to [[svc:live-honey-bees|a live removal]] before we start cutting."),
         ("Colonies that left on their own",
          "Sometimes nobody touched the bees. A colony can die out over a bad stretch, or abscond, leaving as a whole when pests or disturbance overwhelm it. The comb stays where it was built. That empty, scented cavity is a standing invitation: scout bees from a passing swarm recognize old comb as a ready-made home, which is exactly why beekeepers bait swarm boxes with it. If you have watched new bees take over an old spot, our guide on [[guide:why-bees-come-back|repeat colonies]] explains the pull. If the house is empty for a season, [[guide:second-home|a part-time residence]] can sit with fermenting comb for months before anyone notices."),
         ("Miami-Dade heat speeds everything up",
@@ -35,7 +35,7 @@ SERVICE = {
     ],
 
     "band": ("Old comb gets worse the longer it sits",
-             "Text us a photo of the stain or the entry hole and we will tell you what the cleanup is likely to involve."),
+             "One clear picture of the brown streak or the old entry hole usually shows us how much wall has to open, so snap it and send it by text."),
 
     "takeout_h": "How the comb comes out",
     "takeout": [
@@ -53,10 +53,10 @@ SERVICE = {
 
     "putback": "The hole we made gets closed by people who answer to us: our own licensed contractors patch the board or stucco, our roofers reset tile, and our painters finish the surface, so one call covers it. Stained areas get a stain-blocking primer before finish paint so the brown shadow is less likely to bleed back. That closing work is warrantied, so if a later swarm gets into the same sealed cavity, we return to deal with it. Ask and you get photos of the open cavity and an itemized invoice, which helps with an insurance claim or a property file. Details on the follow-up work are on [[svc:repairs|repairs after removal]].",
 
-    "price": "What you pay for comb cleanup tracks the size of the opening and the rebuild, not the bee count. A small nest that can be reached from the ground and closed with a simple patch usually lands around $300 to $400. A large, long-dead nest inside a second-story wall or under a tile roof, with soaked drywall and finish work, can run into the thousands. An emergency visit at night or on a weekend is priced higher than an ordinary weekday appointment. Quotes cost nothing, and [[page:cost|pricing in detail]] lays out the ranges.",
+    "price": "What you pay for comb cleanup tracks the size of the opening and the rebuild, not the bee count. A small nest that can be reached from the ground and closed with a simple patch usually lands around $300 to $400. A large, long-dead nest inside a second-story wall or under a tile roof, with soaked drywall and finish work, can run into the thousands. Comb rarely needs a midnight crew, and choosing a weekday slot over a night or weekend call keeps the bill lower. Quotes cost nothing, and [[page:cost|pricing in detail]] lays out the ranges.",
     "price_factors": [
         "How much comb is inside and how long it has been rotting",
-        "Height and access: ground level, ladder work, or a roof",
+        "Where the nest sits: low on a first-floor wall, up a ladder, or under roof tile",
         "What has to be cut open: drywall, stucco, tile, soffit or wood siding",
         "How much stained or honey-soaked material must be replaced",
         "Whether paint, texture or roof tile has to be matched afterward",
@@ -72,7 +72,7 @@ SERVICE = {
          "This unincorporated farm area mixes ornamental nurseries, tropical fruit fields, early clapboard houses and coral rock walls. Wood siding and outbuildings give colonies plenty of gaps, and comb abandoned in a shed sits unguarded with no one checking on it."),
     ],
 
-    "alarm": "If bees are still pouring out of a wall you thought was empty, or anyone is being stung, get indoors, close the doors between you and the bees, and call. A real person answers the phone day or night, stinging victims get priority over cleanup work, and the 24-hour response guarantee holds either way.",
+    "alarm": "If bees are still pouring out of a wall you thought was empty, or anyone is being stung, get indoors, close the doors between you and the bees, and call. Anyone being stung moves ahead of comb cleanup jobs. Nobody gets a recording, even at 3 a.m., and the promise to respond within 24 hours applies to these calls as much as to a cleanup booking.",
 
     "faqs": [
         ("The exterminator already killed the bees. Do I really need the comb taken out?",
@@ -90,7 +90,7 @@ SERVICE = {
     "related": ["walls", "roofs", "soffits-eaves", "repairs", "relocation"],
 
     "close": ("Get the old nest out before it spreads",
-              "Send the quote form or text a photo, and we will plan how to open, clean and close the spot."),
+              "Once we see where the stain sits and how far it has spread, the opening, scraping and sealing can be mapped out; the quote form or a texted photo gets that started."),
 
     "facts": [
         "Comb left after eradication attracts roaches; fermenting honey smells; honey and melting wax stain walls so they cannot be painted or wallpapered; wax moth and small hive beetle larvae can enter the home days later; stored honey can drip out near the nest (source: https://ask.ifas.ufl.edu/publication/in771)",

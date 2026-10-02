@@ -21,10 +21,11 @@ SERVICE = {
         "find nothing to move into."
     ),
     "alarm": (
-        "If someone is being stung, walk them indoors or into a car, well away from the entrance, and "
-        "flick out any stingers quickly. If lips or tongue start to swell or breathing turns "
-        "noisy, dial 911 first. Once that is handled, phone us: a person picks up at any hour, and a "
-        "stinging call outranks routine work."
+        "A living colony guards its brood, so a knocked or disturbed nest can send bees after people. "
+        "Lead whoever is being chased indoors, or into a vehicle with the windows up, and scrape each "
+        "stinger out with a fingernail. Swelling lips or tongue, or wheezing, means dialing 911 first. "
+        "Our phones are staffed around the clock, and a stinging emergency is handled ahead of routine "
+        "bookings."
     ),
     "card": (
         "How a colony comes out alive: no spray, the comb located and cut out, and brood and bees "
@@ -57,11 +58,11 @@ SERVICE = {
             "tunnel through the abandoned comb, small hive beetles breed in it, and ants follow the sugar.\n\n"
             "The leftover comb also keeps its scent, and that scent is exactly what scouting bees search "
             "for when a new swarm needs a home. It is a large part of [[guide:why-bees-come-back|the "
-            "reason colonies keep reappearing]] in a cavity that was sprayed years earlier. Live removal "
-            "avoids all of that, because the nest leaves with the colony. There is no pesticide in your "
+            "reason colonies keep reappearing]] in a cavity that was sprayed years earlier. Lift the comb "
+            "out with the living bees on it and none of those problems has anything to feed on. There is no pesticide in your "
             "walls, around your kids or pets, or in the honey that a neighbor's bees might rob."
         )),
-        ("Finding the comb before anything is cut", (
+        ("Why the entry hole is rarely where we open", (
             "The hole the bees use is not always on top of the nest. Bees will walk a surprising "
             "distance inside a wall, down a roof rafter or along a soffit before they reach their "
             "comb, so cutting at the entrance can mean a second, larger opening later.\n\n"
@@ -121,7 +122,7 @@ SERVICE = {
         "How far the comb runs inside the wall, ceiling or roof once the cavity is opened",
         "Height and access, from a stepladder to roof tile work or a lift for an upper floor",
         "What has to be rebuilt afterward, from a small stucco patch to tile and fresh paint",
-        "The clock: an after-hours or Saturday and Sunday emergency is billed above ordinary weekday work",
+        "Whether it can wait: booking a weekday visit sidesteps the higher rate charged for night and weekend emergencies",
     ],
     "miami_h": "Where live removal comes up around Miami-Dade",
     "miami": [

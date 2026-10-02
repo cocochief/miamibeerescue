@@ -8,7 +8,7 @@ CITY = {
     "h1": "Bees in Bay Harbor Islands walls and roofs, taken out alive",
     "kicker": "Two islands in Biscayne Bay",
     "lede": "Bay Harbor Islands fits garden apartments, flat roofs and single-family yards onto two small islands. When honey bees settle into any of them, they leave in a beekeeper's box, still alive.",
-    "quick": "Honey bees inside a Bay Harbor Islands wall, roof edge or breeze-block screen can be taken out alive, and that is the only way this crew works. A technician pins down the comb, frequently by thermal scan, lifts out bees and honeycomb by hand, and sends the colony to a beekeeper. Ground-level jobs tend to cost about $300 to $400; colonies deep in a structure that needs repair cost more, sometimes into the thousands. Quotes cost nothing, a person answers the phone at any hour, and a 24-hour response guarantee backs every call.",
+    "quick": "Bay Harbor Islands splits in two: houses on the West Island, association-run apartments and condos in mid-century concrete on the East Island. That split decides who approves the job. On the East Island, the board or manager signs off and receives a COI first, and comb usually sits in breeze block, a flat-roof parapet or a walkway ceiling. On either island, a thermal scan finds the nest and the bees come out by hand, alive, for a beekeeper. A colony you can reach from the ground costs roughly $300 to $400. The quote is free, and calls are answered around the clock under a 24-hour response guarantee.",
     "alarm": "If a neighbor is getting stung in a shared corridor or by the pool, move the person inside, close the door behind you, and then call. People come before the colony every time. Keep neighbors off that stair or corridor, switch off any blower or pressure washer near the bees, and do not spray them, since that tends to turn a few defenders into a cloud.",
     "glance": [
         ("Incorporated", "April 28, 1947"),
@@ -102,7 +102,7 @@ CITY = {
          "before the bees start building comb."),
     ],
     "band": ("Bees in the breeze block or the roof?",
-             "Text us a photo of the wall, walkway or roof edge and we will tell you what we see and what the job likely needs."),
+             "A phone picture of the screen block, walkway ceiling or parapet usually tells us what the job needs. Send it by text and we will reply with what we see."),
     "visit_h": "What happens once you call about East or West Island bees",
     "visit": [
         ("Call or send a photo",
@@ -133,9 +133,10 @@ CITY = {
          "softening comb behind, which can draw pests and new swarms. Live removal followed by cleanup is what keeps the spot "
          "clear."),
         ("Do night or weekend calls cost more here?",
-         "Yes. Emergency visits at night or on weekends are priced above a weekday appointment. Ground-level jobs generally "
-         "fall around $300 to $400, while work that opens a roof or wall and needs repairs can climb into the thousands. See the "
-         "[[page:cost|cost page]] for the factors behind a quote."),
+         "Yes. An after-hours or weekend emergency is billed above a weekday appointment. As for the base price, a swarm on a "
+         "West Island hedge or a colony low in a garden wall sits at the lower end, roughly $300 to $400. A parapet on an East "
+         "Island roof that our roofers must open and rebuild costs far more, into the thousands. The "
+         "[[page:cost|cost page]] breaks down what moves a quote up or down."),
     ],
     "services": [
         ("condos-high-rises", "For East Island apartment and condo buildings where the colony sits in shared walls, walkways or roof edges."),

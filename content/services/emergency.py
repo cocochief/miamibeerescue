@@ -75,7 +75,7 @@ SERVICE = {
          "911 first whenever someone has symptoms beyond local pain and swelling: wheezing, a tight throat, hives spreading across the body, vomiting, confusion or fainting. A large number of stings also calls for medical care, even in someone with no known allergy. Once the person is safe and help is on the way, call us so the bees are handled before anyone else walks into them."),
         ("Is it safe to wait until morning for bees inside the house?",
          "Often, if the bees are shut in one room. Honey bees rarely fly in the dark, so traffic in and out of a wall colony stops at night. Close the room, block the door gap and keep the lights off near the bees. Call anyway: a real person picks up overnight, and together we can decide whether it needs a night visit or can wait for daylight."),
-        ("Can I spray the bees myself to stop the stinging?",
+        ("Will a can of bug spray stop bees that are stinging right now?",
          "Spraying a defensive colony tends to make the next few minutes worse. Bees that are not killed outright stay agitated, and the poison never reaches the queen or the comb inside a cavity. It also ends any chance of relocation, and dead comb in a wall rots and draws new bees, as our note on [[guide:why-bees-come-back|why bees come back]] explains. Stay indoors and let the colony be taken out alive."),
         ("Are these the Africanized kind, and does it matter?",
          "You cannot tell by looking, and a technician cannot either without lab testing. Behavior is what matters. Bees that pour out at a light touch, chase people well past the property line or keep circling after you go inside should be treated as highly defensive, whatever their genetics turn out to be."),

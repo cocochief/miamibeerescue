@@ -3,7 +3,7 @@
 
 CITY = {
     "key": "south-miami",
-    "title": "Bee Removal for South Miami's Shaded Streets and Shops",
+    "title": "Honey Bees in South Miami Oaks, Tile Roofs and Old Walls",
     "desc": "A colony under a South Miami tile roof, in an old oak or over a Sunset Drive shop? It comes out alive, goes to a beekeeper, and our crews fix the opening.",
     "h1": "South Miami bees, out of old houses, oaks and downtown storefronts",
     "kicker": "South Miami, incorporated 1927",
@@ -11,10 +11,10 @@ CITY = {
     "quick": (
         "Most South Miami land is zoned for single-family homes under old shade trees, so the colony on "
         "your mind is likely in an oak hollow, under barrel tile or behind 1920s plaster. Each is opened "
-        "only as wide as the comb, and the bees ride off alive in a hive box to a beekeeper. Plan on "
-        "roughly $300 to $400 for a low branch or lawn box. Tile lifting or wall repair pushes the bill "
-        "higher, sometimes to several thousand. Call or text a photo at any hour; the 24-hour response "
-        "guarantee applies."
+        "only as wide as the comb, and the bees ride off alive in a hive box to a beekeeper. A low branch "
+        "or lawn box sits near $300 to $400. Tile lifting or wall repair pushes the bill higher, "
+        "sometimes to several thousand. Ring at 2 a.m. if you must: a person "
+        "picks up, and our 24-hour response guarantee covers the visit."
     ),
     "glance": [
         ("Incorporated", "1927, as the Town of South Miami"),
@@ -120,17 +120,17 @@ CITY = {
          "[[svc:hoa-commercial|HOA and commercial removal]]."),
     ],
     "band": ("Bees settling into the house right now?",
-             "One close shot of the gap the bees use and one wide shot of that wall or roofline, sent "
-             "by text, let us price a South Miami job before anyone drives over."),
+             "Two phone pictures do it: a close one of the gap and a wider one placing it on the wall "
+             "or roofline. Text them and the South Miami job can be priced before anyone drives over."),
     "visit_h": "What a visit in South Miami looks like",
     "visit": [
         ("Tell us the spot",
          "A photo and the cross street help. Downtown, tell us where a truck can stop near "
          "the building and whether the entrance faces Sunset Drive."),
         ("Map the comb with heat",
-         "Plaster, tile and bark all hide comb well. A thermal camera picks up the warm cluster behind "
-         "them, and bee traffic at the gap confirms it, so any cut lands over the comb instead of beside it."),
-        ("Lift comb and bees into a hive box",
+         "Plaster, tile and bark all hide comb well. Heat from the colony still shows through on a "
+         "thermal scan, and bee traffic at the gap confirms the spot, so any cut lands over the comb instead of beside it."),
+        ("Into a hive box, alive",
          "Comb and bees come out by hand and by gentle vacuum into a hive box. It helps to give "
          "neighbors over the fence a heads-up so kids and pets stay inside."),
         ("Close it and clean it",
@@ -139,10 +139,10 @@ CITY = {
     ],
     "alarm": (
         "Swatting keeps a defensive colony on you, so move fast for a house, a garage or a car and close "
-        "it. Throat tightening, a swelling face, trouble breathing or dozens of stings means 911 before "
-        "anything else. A pool is no refuge, since bees hover over the water until you come up, and "
-        "bug spray only riles them. Once everyone is inside, call us; a person being stung goes to the "
-        "front of the line, day or night."
+        "it. For anyone whose throat tightens, whose face puffs up, who struggles for air or who took "
+        "dozens of stings, dial 911 first. Jumping in a pool fails because the bees simply wait above "
+        "it, and bug spray only riles them. With everyone inside, ring us: stinging calls outrank "
+        "every other job on our list, at any hour."
     ),
     "faqs": [
         ("What happens to bees taken out of a wall in my house?",
@@ -161,8 +161,8 @@ CITY = {
         ("I manage a building downtown. Can you work with the tenants?",
          "Yes. We can send a COI ahead of the visit, plan the work around business hours, and "
          "provide photos and an itemized invoice for the file. A Saturday or late-night "
-         "call-out costs more than the same job on a Tuesday morning. The "
-         "[[page:cost|cost page]] lays out the rest."),
+         "call-out costs more than the same job on a Tuesday morning. General "
+         "pricing is on the [[page:cost|cost page]]."),
         ("Since this morning a clump of bees has hung from our side-yard fence. Leave it, or call?",
          "A clump in the open is usually a swarm resting while scouts choose a cavity, and many fly off "
          "on their own. On a South Miami lot the worry is what they choose: an attic vent, a wall void "
@@ -178,8 +178,8 @@ CITY = {
     ],
     "nearby": ["coral-gables", "pinecrest", "kendall", "westchester"],
     "close": ("Get the bees out and keep the house intact",
-              "Quotes cost nothing. Fill in the form or phone us, and the bees end up in a beekeeper's "
-              "yard instead of a dumpster."),
+              "Quotes cost nothing. Fill in the form or phone us; the colony is rehomed with a "
+              "beekeeper, never tossed in a dumpster."),
     "card": (
         "Old houses, deep shade and a Metrorail downtown. Live removal from South Miami walls, tile "
         "roofs, tree hollows and storefronts, with repairs by our own trades."

@@ -12,7 +12,7 @@ CITY = {
         "Most Westchester houses went up after the 1955 subdivision that named the area, so each has been through several re-roofs, added rooms and stucco patches. "
         "That history decides the job: the colony usually sits in a seam where old and new work meet, and a thermal scan finds it before any cut. "
         "Bees, wax and stored honey are all lifted out, a beekeeper takes the live colony, and the seam is closed by our own trades. "
-        "Budget about $300 to $400 for a low, easy colony, up into the thousands when a wall or roof must be rebuilt, and nothing for the quote."
+        "Budget about $300 to $400 for a low, easy colony, up into the thousands if the old block or tile needs rebuilding, and nothing for the quote."
     ),
     "glance": [
         ("Status", "Unincorporated census-designated place, with Miami-Dade County as its government"),

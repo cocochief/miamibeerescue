@@ -47,8 +47,8 @@ SERVICE = {
             "Flat concrete tile lies tight to the roof, so a colony there spreads sideways in a shallow "
             "layer and the comb is thin and wide. Breakage is the risk, which is why any tile that cracks "
             "is replaced with a matching profile rather than left in place.\n\n"
-            "A flat roof with a parapet is a different job again. The bees may be inside a hollow parapet "
-            "wall, under the coping, or in the gap between deck and ceiling. Sometimes the cleanest way in "
+            "Parapet roofs give a colony three hiding places: the hollow of the parapet wall itself, the space "
+            "under the coping, and the gap between deck and ceiling. Sometimes the cleanest way in "
             "is from the room below, through the ceiling, so the membrane on top stays untouched. When the "
             "only way is from above, the roofing is cut, the comb comes out, and the membrane is patched "
             "and sealed. Hives that started at the roof edge often belong on our "
@@ -96,8 +96,9 @@ SERVICE = {
         ),
         (
             "Move the bees out alive",
-            "A gentle bee vacuum gathers the workers, the brood is lifted out on its own comb and "
-            "banded into frames, and a beekeeper takes the whole colony. [[svc:relocation|Colony relocation]] explains where it goes.",
+            "Brood comb is cut out in pieces and banded into frames while a low-suction bee vacuum collects "
+            "the workers off the tile, then a beekeeper takes the whole colony. Where it ends up is covered "
+            "under [[svc:relocation|colony relocation]].",
         ),
         (
             "Strip and clean the cavity",
@@ -174,7 +175,7 @@ SERVICE = {
             "along with before and after photos.",
         ),
         (
-            "Can I just spray into the gap under the tile?",
+            "Is spraying the gap under a tile enough to end it?",
             "Spray kills the bees you can reach and leaves the comb, the brood and the honey behind. In a "
             "hot roof that wax softens, honey runs into the felt and ceiling, and pests move in. It also "
             "leaves a scent that draws a new swarm. Taking the colony out alive and cleaning the cavity "
@@ -188,14 +189,15 @@ SERVICE = {
         ),
         (
             "My HOA manages the roof. Who should call you?",
-            "Either of you can. If the board needs a COI on file before a crew steps onto a shared roof, "
-            "one can go straight to the manager, and the owner gets the photos and invoice too. The "
-            "[[svc:hoa-commercial|HOA and property manager page]] lays out the rest of the paperwork.",
+            "Whoever is responsible for the roof can make the call, owner or manager. Shared roofs often come with "
+            "a board rule that a COI be on file before a crew climbs up, so we send that certificate directly to "
+            "the manager, while the unit owner still receives the photos and invoice. For boards, the "
+            "[[svc:hoa-commercial|HOA and property manager page]] covers what else to request.",
         ),
         (
             "Bees just landed on my roof edge. Is that a hive yet?",
-            "A ball of bees on the outside of the roof is a swarm between homes, and its scouts may be "
-            "inspecting gaps like the ones under your tile. It may leave by itself, or it may move in. Read about "
+            "Out in the open like that, the cluster is a swarm resting between homes, and its scouts may be "
+            "checking gaps like the ones under your tile. It may leave by itself, or it may move in. Read about "
             "[[guide:scout-bees|scout bees]], and if it stays put, see [[svc:swarms|swarm pickup]].",
         ),
         (
@@ -209,7 +211,7 @@ SERVICE = {
     "related": ["soffits-eaves", "walls", "repairs", "honeycomb-cleanup", "condos-high-rises"],
     "close": (
         "Get the roof back to a roof",
-        "Call, text a photo of the roofline or send the [[page:quote|quote form]], and we will plan the lift, the removal and the reset together.",
+        "Tell us what the roof is made of, barrel tile, flat tile or membrane, by phone, by text with a photo, or through the [[page:quote|quote form]], and the lift, removal and reset get planned around it.",
     ),
     "facts": [
         "Miami-Dade is in the High-Velocity Hurricane Zone of the Florida Building Code, which has more stringent requirements; not every Florida county requires HVHZ standards (source: https://en.wikipedia.org/wiki/Florida_Building_Code)",

@@ -190,8 +190,8 @@ COUNTY = {
             "Yes. Every city, town and village in Miami-Dade, and every unincorporated neighborhood "
             "between them, is inside the service area, all the way to the county line. A missing page "
             "only means there are more places than pages. Give us the nearest cross "
-            "street when you reach out; an address off the map gets the same 24-hour response "
-            "guarantee as a downtown one.",
+            "street when you reach out; our 24-hour response guarantee does not "
+            "shrink for an address that is hard to find.",
         ),
         (
             "My address is unincorporated Miami-Dade, not a city. Does that change anything?",

@@ -3,17 +3,18 @@
 
 CITY = {
     "key": "miami-gardens",
-    "title": "Honey Bees in Miami Gardens' 1950s and 60s Houses",
+    "title": "Mid-Century Miami Gardens Homes and the Bees Inside",
     "desc": "Bee removal Miami Gardens homeowners can schedule around game days: live colonies out of eaves, walls and meter boxes, then the gap sealed by our trades.",
     "h1": "Miami Gardens Bees in Houses Built Before the Stadium",
     "kicker": "Seven old communities, one city",
     "lede": "Nearly three of every four homes in Miami Gardens were built between 1950 and 1979. That age shows up in trim, vents and roof edges, which is where honey bees move in.",
     "quick": (
-        "If a tight stream of bees keeps landing on one seam of your Miami Gardens house, a colony is living "
-        "behind it. Bees are taken out alive, comb and all, and given to a beekeeper. Then the seam is closed so "
-        "the smell of old wax does not invite the next swarm. A meter box or other ground-level colony is roughly "
-        "$300 to $400; opening and rebuilding a wall or eave can run into the thousands. Pricing a job is free, "
-        "and the line is staffed through nights, weekends and game days."
+        "Most houses in Miami Gardens went up between 1950 and 1979, so a colony here usually sits behind "
+        "decades-old trim, a screenless vent or an old pipe hole, not in the open. The crew finds that "
+        "cavity, vacuums the live bees into a box headed to a beekeeper, pulls the wax and honey by hand, and has "
+        "the gap rebuilt so the scent of old comb draws no new swarm. A curbside meter box runs roughly $300 to "
+        "$400; opening an eave or wall can climb into the thousands. Pricing it is free, and a person answers at "
+        "any hour, game days included."
     ),
     "glance": [
         ("Became a city", "May 13, 2003, from seven unincorporated communities"),
@@ -91,7 +92,8 @@ CITY = {
          "and paint it to match. That repair is not cosmetic. Wax residue keeps its scent, and a seam left open is "
          "a standing invitation, which is the subject of [[guide:why-bees-come-back|why bees return]]. The "
          "workmanship carries our warranty, meaning a return trip if a new colony ever tries a seam we closed. "
-         "More detail is on [[svc:soffits-eaves|eave and soffit hives]] and [[svc:walls|colonies inside walls]]."),
+         "An entrance up at the roofline falls under [[svc:soffits-eaves|our soffit and eave service]]; a pipe "
+         "or dryer hole low on the stucco points to [[svc:walls|wall cavity removal]] instead."),
         ("Stadium grounds, campuses and big sites",
          "Hard Rock Stadium opened in 1987, has hosted six Super Bowls, took in the Miami Open tennis tournament in "
          "2019, and from 2022 has wrapped a temporary Formula One circuit around its grounds. Nearby, St. Thomas "
@@ -119,8 +121,9 @@ CITY = {
     "visit_h": "How a visit runs in Miami Gardens",
     "visit": [
         ("Picture from the driveway",
-         "A photo of the entrance taken from a safe distance tells us whether this is a box at the curb, an eave "
-         "that needs a tall ladder, or a wall that needs the camera."),
+         "Stand at the end of the driveway, well clear of the flight path, and photograph the spot the bees use. "
+         "That one image shows whether the job is a curbside box, an eave needing a tall ladder, or a wall the "
+         "thermal camera has to read first."),
         ("Check the stadium calendar",
          "If you live near Hard Rock Stadium, mention any game, concert or race day. We will pick a window that "
          "keeps the truck out of event traffic."),
@@ -132,8 +135,8 @@ CITY = {
          "if you asked for them."),
     ],
     "alarm": (
-        "Bees boiling out of a wall or someone getting stung right now? Bring people and pets inside and shut the "
-        "doors and windows. Spraying, hosing or stuffing the hole only stirs them up. Call: a person answers 24/7, "
+        "Bees boiling out of a wall or someone getting stung right now? Everyone indoors, pets too, with the "
+        "windows latched and the door on that side of the house kept shut. Spraying, hosing or stuffing the hole only stirs them up. Call: a person answers 24/7, "
         "stung callers move to the front of the line, and the 24-hour response guarantee holds. Call 911 for "
         "anyone who is wheezing or whose lips or face start to swell."
     ),
@@ -142,7 +145,7 @@ CITY = {
          "Partly. Age opens seams in trim, vents and roof edges, and scouts test every one. A newer house can "
          "still get bees, but a home that has been patched by several owners offers more choices. Send a photo of "
          "where they are flying in and the crew can judge how deep the colony goes."),
-        ("Do the bees get exterminated if they are in my soffit?",
+        ("Killed or relocated: what happens to a colony living in my soffit?",
          "No. Live bees are vacuumed into a box, the soffit comb comes out by hand, and the colony is relocated by a beekeeper. "
          "Poisoning bees inside a soffit would also leave honey and wax to ferment and attract roaches and ants, so "
          "removal protects the house as well."),
@@ -154,7 +157,7 @@ CITY = {
          "Either of you can call, but the owner normally signs off on cutting into the building and on the repair. "
          "Tell your landlord early. We can copy the quote, the photos and the itemized invoice to both of you."),
         ("What should I budget for bees in the meter box by my curb?",
-         "A curbside meter or irrigation box is a ground-level job, typically about $300 to $400. An after-hours "
+         "Those curbside lids sit at ankle height, which keeps the work simple and the price near $300 to $400. An after-hours "
          "or weekend call costs more than a weekday one. The quote is free and is based on what your photo and "
          "the site actually show."),
     ],

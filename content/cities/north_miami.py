@@ -9,7 +9,7 @@ CITY = {
     "kicker": "North Dade, Biscayne Bay side",
     "lede": "North Miami turned one hundred in 2026, and plenty of its houses are old enough to have settled, cracked and opened up. Honey bees notice those openings long before an owner does.",
     "quick": "Much of North Miami went up in the post-1945 boom, so colonies here tend to hide inside soffits, attic vents and hollow block walls. A steady line of bees at one gap, hour after hour, means comb behind it. Keep kids and pets away, and leave that gap open and unsprayed; sealed-in bees can come indoors. Call or text a picture. We cut into the cavity, hand the whole colony and its wax to a beekeeper, then close the wall. Low, reachable jobs run about $300 to $400; high walls, roofs and repairs cost more.",
-    "alarm": "Anyone getting stung should get inside a closed room or a car first, because running in the open keeps the bees chasing. Skip the tweezers; drag stingers off the skin with a fingernail or card edge. Dial 911 if lips or tongue swell, breathing gets hard, or the person has a bee allergy. Then phone us. A stinging emergency jumps to the front of the line, day or night.",
+    "alarm": "Anyone getting stung should get inside a closed room or a car first, because running in the open keeps the bees chasing. Skip the tweezers; drag stingers off the skin with a fingernail or card edge. Dial 911 if lips or tongue swell, breathing gets hard, or the person has a bee allergy. Then phone us. If someone is hurt, say so; that job goes first, at 2 a.m. or noon.",
     "glance": [
         ("Incorporated", "February 5, 1926, first named the Town of Miami Shores"),
         ("Became a city", "May 27, 1953, under a new charter"),

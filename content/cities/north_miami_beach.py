@@ -8,7 +8,7 @@ CITY = {
     "h1": "North Miami Beach Hives: Block Walls, Carports, Maule Lake Condos",
     "kicker": "North Dade, west of the Intracoastal",
     "lede": "A city named for a beach it no longer has. Here the bees end up in mid-century block houses, enclosed carports, mobile homes and the condos around Maule Lake, and that is where we go looking.",
-    "quick": "A steady line of honey bees using a single crack in your North Miami Beach wall, eave or balcony points to comb being built behind it. Leave the hole open, skip the spray, keep kids and pets inside, and call or text us a photo. Bees and comb are lifted out alive for a beekeeper to keep, then our own licensed crews close and repair whatever had to be opened. Quotes are free; simple jobs near the ground land around $300 to $400.",
+    "quick": "Much of North Miami Beach is 1950s and 1960s block housing, often with a carport or room added later, and the seam where old work meets new, or a hollow block cell behind it, is a likely home for comb. East of the Oleta River, Eastern Shores adds a guardhouse and often a condo board to the plan. Until we get there, the bees need that hole to come and go, so don't seal it or spray it; shut the kids and pets inside and send us a picture of it. The colony goes to a beekeeper alive, our licensed crews repair the opening, the quote is free, and simple low jobs run about $300 to $400.",
     "glance": [
         ("Incorporated", "1927, as the City of Fulford"),
         ("Renamed", "North Miami Beach, in 1931"),
@@ -94,7 +94,7 @@ CITY = {
         ("emergency", "Bees boiling out of a wall or a stinging on the patio gets priority on our 24/7 phones."),
     ],
     "nearby": ["north-miami", "aventura", "sunny-isles-beach", "miami-gardens"],
-    "close": ("Point us to the entrance hole", "Ring, send a picture or use the form underneath. A real person answers day and night, and quoting the job costs you nothing."),
+    "close": ("Bees in the block, the soffit or the skirting?", "Ring, send a picture or use the form underneath. A real person answers day and night, and quoting the job costs you nothing."),
     "card": "A mostly inland city on the coastal ridge, with mid-century block homes, enclosed carports, mobile homes and Eastern Shores condos around Maule Lake.",
     "facts": [
         "Originally named Fulford-by-the-Sea in 1926 and renamed North Miami Beach in 1931 (source: https://en.wikipedia.org/wiki/North_Miami_Beach,_Florida)",

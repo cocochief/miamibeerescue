@@ -8,7 +8,7 @@ CITY = {
     "h1": "Honey Bee Removal in Homestead, Where Town Meets Farm",
     "kicker": "South Dade, farm edge",
     "lede": "Homestead grew up around a rail stop and was largely rebuilt after 1992, with groves and nurseries pressing against its western streets. Honey bees find plenty to work with here, and we take them out alive.",
-    "quick": "For bee removal in Homestead, the job is to find where the colony is living, take the bees out alive with their comb, and close the gap so a new swarm cannot move in. Bees hanging in a cluster on a branch are often gone in a day or two; bees flying steadily in and out of one crack are a nest. A phone picture of the gap is enough to start, and a licensed, insured crew will be scheduled within our 24-hour response guarantee. The quote costs nothing.",
+    "quick": "Roughly 70 percent of the homes Andrew damaged in Homestead were repaired or rebuilt within two years, so many roofs, soffits and block walls here share the same post-1992 details and the same small gaps. A colony behind stucco or inside a boxed eave is located with a thermal camera, lifted out alive with its comb and handed to a beekeeper, after which our own contractors rebuild that spot. The quote is free, and a picture of where the bees are going in, sent from your phone, is all it takes to get one inside our 24-hour window.",
     "glance": [
         ("Incorporated", "February 8, 1913"),
         ("Rail stop opened", "July 1904, on the Florida East Coast Railway"),
@@ -101,12 +101,12 @@ CITY = {
         ("Close and clean",
          "Leftover wax and honey get scraped out, since their smell pulls in the next swarm and ants, and the soffit, tile or stucco is rebuilt."),
     ],
-    "alarm": "If someone is being stung, get them indoors or into a car and away from the hive, then call 911 if they have trouble breathing, swelling of the face or a known allergy. "
-             "Keep pets and children inside, do not spray or hose the bees, and call us so a crew is sent first.",
+    "alarm": "Swelling of the face, trouble breathing or a known allergy after a sting means 911 first. Anyone else being stung should walk into the nearest house or a closed car, well clear of the hive. "
+             "Bring pets and children inside, leave sprays and hoses alone, and phone us; a sting call jumps the line for a crew.",
     "faqs": [
         ("A swarm landed on our fence near the groves. Will it leave on its own?",
          "Most clusters move on in a day or two after their scouts settle on a cavity. Trouble starts when the spot they settle on is your attic, shed or wall. "
-         "Give it room, leave the hose off, and text us a picture. If the cluster is still there tomorrow or bees start going into a gap in the house, it is time for removal."),
+         "Keep people and pets back about the length of the yard and snap a picture from there to send us; water only riles them. If the cluster is still there tomorrow or bees start going into a gap in the house, it is time for removal."),
         ("Our house was built after Andrew. How are bees getting in?",
          "Newer construction still has vents, pipe and wire penetrations, weep holes and joints where roof meets wall. A small gap is enough. "
          "A thermal scan shows where the nest is, and the repair closes the opening the bees used."),

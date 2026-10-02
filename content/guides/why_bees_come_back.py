@@ -47,7 +47,7 @@ GUIDE = {
             "the welcome sign down."
         ),
         (
-            "Why a can of spray sets up the next colony",
+            "A poisoned nest stays furnished for the next swarm",
             "Killing a colony inside a wall leaves the whole nest behind: comb, stored honey, "
             "brood and thousands of dead bees. Nobody is left to fan the comb and keep it cool, "
             "so in a hot attic or a sun-facing wall the wax can soften and honey can run. Then "
@@ -129,7 +129,7 @@ GUIDE = {
     ],
     "band": (
         "Bees back in the same crack?",
-        "Send a picture of the gap they use, and we can help sort out whether a new swarm has arrived or old comb was left behind.",
+        "Fresh swarm, or comb that never came out? Text a clear shot of the entry gap and we can help you tell which one you have.",
     ),
     "checklist_h": "Shutting the vacancy for good",
     "checklist": [
@@ -159,13 +159,13 @@ GUIDE = {
         ),
         (
             "Why did bees move in again after the exterminator sprayed?",
-            "Spraying kills the bees but leaves the nest standing. The comb, the stored honey and "
-            "the open entrance are all still there, and scout bees prefer a cavity that already "
-            "has comb in it. Until the comb is cut out, the void is filled and the opening is "
-            "sealed, the spot stays attractive.",
+            "Because the poison only dealt with the insects. Their comb, their stored honey and "
+            "the doorway they used all survived the treatment, and a cavity with comb already "
+            "built is exactly what a scout favours. That wall stays on the market until the comb "
+            "is cut out, the void is packed and the gap is sealed.",
         ),
         (
-            "What happens if bees return to an opening you sealed?",
+            "Bees are back at the exact spot your crew closed up. Is that covered?",
             "A crew returns to look at it. A seal we put in that draws bees again falls under our "
             "warrantied workmanship, and it is something we want to see. Send a photo of where they are entering so we can "
             "compare it with the original repair. The free quote applies to any other gap we find "
