@@ -1,0 +1,176 @@
+# -*- coding: utf-8 -*-
+"""Bees in block and frame walls: removal page copy."""
+
+SERVICE = {
+    "slug": "walls",
+    "title": "Bees Living in a Wall? Block & Frame Cavity Removal",
+    "desc": "Bees in a CBS or wood-frame wall in Miami-Dade? The comb is found with thermal imaging, the colony goes out alive, and the wall is closed and refinished.",
+    "h1": "Bees in the Wall: Concrete Block and Wood-Frame Removal in Miami",
+    "kicker": "Inside the wall cavity",
+    "lede": "A steady stream of bees at one crack in the stucco means comb hanging in the hollow space behind it. The colony can leave alive, the cavity can be emptied, and the wall can be patched and painted.",
+    "quick": (
+        "Bees going in and out of one small gap in a wall mean a colony has built comb in the empty space behind it. "
+        "In a concrete block wall that space is the open cells of the block; in a wood-frame wall it is the bay between two studs. "
+        "Either way the fix follows the same order: locate the comb, open the wall only where it sits, move the bees to a beekeeper, "
+        "take out every scrap of wax and honey, then seal and refinish. Spraying the hole or caulking it shut leaves the whole nest inside."
+    ),
+    "card": (
+        "Colonies inside concrete block cells or between wood studs, located with a thermal camera, taken out alive, "
+        "and the opening closed and refinished by our own crews."
+    ),
+    "seeing_h": "Signs a colony has moved into the wall",
+    "seeing": [
+        "Bees flying straight into a hairline crack in the stucco, a gap beside a window frame, or the joint where the wall meets the slab.",
+        "A low hum you can hear through the drywall when the house is quiet, loudest at one patch of the wall.",
+        "Bees crawling out around an outlet cover, a light switch plate or the top edge of a baseboard indoors.",
+        "A tan or brown stain, sometimes tacky, creeping across the interior paint, or a section of wall that feels warm.",
+        "A handful of dead or groggy bees on the same windowsill each morning.",
+        "Traffic at the hole that grows from week to week instead of a cluster that leaves after a day or two.",
+    ],
+    "behind": (
+        "A scout found a dark, dry, protected void and the swarm followed it in. "
+        "Standard concrete blocks are cast with hollow cores, and when the blocks are stacked those cores line up into tall connected shafts, "
+        "so comb can hang in one cell or spread sideways where mortar is missing. Cells that carry steel bars are filled solid with grout, "
+        "which leaves the bees the open ones. In a frame wall the colony fills a stud bay, often pushing through insulation. "
+        "Workers keep the brood nest near 93 to 95 degrees, and that steady warmth is what a thermal camera picks up. "
+        "Once wax is drawn and honey stored, the bees treat the wall as home and will not wander off on their own."
+    ),
+    "body": [
+        ("Block cells and stud bays open differently", (
+            "Where the comb sits decides which side of the wall gets opened. In a block wall the colony may be inside the cores of the block, "
+            "or in the thin gap on the inside face where drywall is fastened over furring strips. Comb in the cores is usually reached from outside: "
+            "the stucco is scored and lifted, and a small window is cut through the face shell of one or two blocks, never through a grouted, steel-filled cell. "
+            "Comb behind the furring is reached from inside by removing a panel of drywall, which is cheaper to put back than stucco.\n\n"
+            "Wood-frame walls are simpler to read. The bees fill the space between two studs, so the opening runs up and down that one bay. "
+            "Inside, that means a rectangle of drywall; outside, it can mean siding boards or stucco on lath. "
+            "If the comb climbs toward the roofline, the job can overlap with "
+            "[[svc:soffits-eaves|a soffit or eave hive]] and both are planned together."
+        )),
+        ("Leftover comb ruins a wall from inside", (
+            "Evicting the colony solves the stinging; it does not solve the wall. University of Florida extension guidance is blunt about what happens to comb left in a wall: "
+            "honey ferments and smells, wax moths and small hive beetles move in, roaches follow the rotting brood, "
+            "and melted wax can soak into the wall and stain it so badly that paint and wallpaper will not hold. "
+            "In a Miami attic or a sunny west-facing wall, that melting is a real risk.\n\n"
+            "Old comb also carries the scent of a past colony, which is one reason a cavity can draw a new swarm years later. "
+            "[[guide:why-bees-come-back|The guide on returning bees]] explains the pull of an old nest site. "
+            "Every wall job ends with the cavity scraped clean, wiped down and sealed, and that "
+            "[[svc:honeycomb-cleanup|scrape-out of wax and honey]] is built into the visit rather than billed as a surprise later."
+        )),
+        ("Pinpointing the nest before anyone cuts", (
+            "A wall should be opened once, in the right place. Bees often travel sideways or upward inside the cavity, so the crack they use tells you little about where the wax hangs. "
+            "A thermal camera shows the warm outline of the brood nest through stucco or drywall, so the opening can be marked on the surface before a blade touches it. "
+            "Listening at the wall and a tiny probe hole with a stiff wire confirm the edges when the image is faint.\n\n"
+            "That precision is what keeps repair costs down: a tight opening means less stucco to rebuild and less paint to blend. "
+            "If you want to understand what the camera actually shows, see "
+            "[[guide:thermal-imaging|what thermal imaging reveals about a hive]]."
+        )),
+        ("When the wall is not yours alone", (
+            "In a townhouse row or a condo building, the exterior block often belongs to the association, and the interior drywall belongs to you. "
+            "The association's manager or board can receive a COI ahead of the work, and the scope can be split so each party sees its share. "
+            "Tenants and owners can sort out who calls first with "
+            "[[guide:renters-and-landlords|our guide for renters and landlords]], and buyers who spot activity during a walkthrough can start with "
+            "[[guide:home-sale-inspection|bees found during an inspection]]. Larger buildings are covered on the "
+            "[[svc:condos-high-rises|condo and high-rise page]]."
+        )),
+    ],
+    "band": (
+        "Hum coming through the drywall?",
+        "Send a picture of where the bees enter, plus a wider shot of that wall, and we can say which side probably gets opened.",
+    ),
+    "takeout_h": "How a wall colony comes out",
+    "takeout": [
+        ("Scan and mark", "The thermal camera traces the warm comb, and the outline is drawn on the wall in pencil or tape so the cut matches the nest and nothing more."),
+        ("Protect the room", "Furniture is moved, floors and vents are covered in plastic, and the inside of the room is sealed off so loose bees cannot drift into the rest of the house."),
+        ("Open a measured window", "Drywall is cut along the marked lines, or stucco is scored and the block face shell removed, leaving grouted structural cells untouched."),
+        ("Move bees and comb", "A low-suction bee vacuum lifts the workers off the comb into an airy holding box, and sections of brood are lifted out whole and fastened into wooden frames, keeping the young alive for the beekeeper receiving them."),
+        ("Clean, seal, close", "Remaining wax and honey are scraped out, the cavity is wiped and packed or screened, the entry gap is sealed, and the opening is closed for refinishing."),
+    ],
+    "putback": (
+        "The opening is put back by our own licensed contractors and painters. On block, the face shell is patched, new stucco is floated to match the old texture, "
+        "and the wall is primed and painted. Inside, drywall is fitted, taped, finished and painted to the edge of the nearest corner so the patch disappears. "
+        "The old entry gap is sealed with the cavity behind it. Should a colony ever take up residence again in a cavity we closed, the workmanship warranty brings us back out to handle it. "
+        "If your insurer or board wants a record, request photos of the exposed comb and an itemized bill. The [[svc:repairs|repairs page]] lists what our crews rebuild."
+    ),
+    "price": (
+        "A colony you can reach at ground level, with little to rebuild, starts around $300 to $400. Wall colonies sit at the far end, "
+        "because cutting block or drywall and then rebuilding stucco, drywall and paint can push the total into the thousands. "
+        "Quoting costs you nothing, and the figure is written once the comb has been located, so the number reflects the real opening. "
+        "If the wall cannot wait for a weekday, expect the after-hours or weekend premium to show up as its own line. The [[page:cost|cost page]] explains the range."
+    ),
+    "price_factors": [
+        "How far the comb has spread from the entry hole, measured with the thermal camera.",
+        "Whether the opening is through stucco and block outside or drywall inside.",
+        "How high the nest sits, and whether reaching it takes an extension ladder or scaffold.",
+        "Texture and color of the finish that has to be matched afterward.",
+        "Whether the call is a weekday visit or a night or weekend emergency.",
+    ],
+    "miami_h": "Where wall colonies turn up across Miami-Dade",
+    "miami": [
+        ("coral-gables", (
+            "Merrick's 1920s city is almost entirely Mediterranean Revival, with walls of stucco and Miami limestone known locally as coral rock. "
+            "The city adopted its first preservation ordinance in 1973, so ask the city whether an exterior patch on a historic house needs approval before the wall is closed."
+        )),
+        ("miami-springs", (
+            "Curtiss and Bright built this 1920s city in the Pueblo Revival style: flat roofs, irregular parapets and stuccoed walls standing in for adobe. "
+            "Those parapets and thick stucco walls hold hollow spaces where a colony can settle out of sight."
+        )),
+        ("coconut-grove", (
+            "Not every Grove house is block. The neighborhood keeps pioneer-era buildings, including The Barnacle, built in 1891 and raised on wood pilings. "
+            "In older frame houses, a colony fills the bays between studs and is usually opened from the inside."
+        )),
+        ("homestead", (
+            "Hurricane Andrew came ashore just northeast of the city in 1992, and the whole county falls within the high-velocity hurricane zone set out in the state building code. "
+            "Reinforced block walls are the reason only open, ungrouted cells are ever cut."
+        )),
+    ],
+    "alarm": (
+        "If bees are pouring out of the wall or someone has been stung, get people and pets into a closed room on the far side of the house. "
+        "Call us: the phone is answered around the clock, stings come first, and a 24-hour response guarantee covers every call. "
+        "Do not plug the hole, spray it or hose the wall, since that pushes bees indoors or turns them on you."
+    ),
+    "faqs": [
+        ("Can the bees be taken out without cutting into my wall?", (
+            "Not once they have built comb. The bees can be coaxed out, but the wax, honey and brood stay behind and rot, stain and attract pests. "
+            "Removing the comb means opening the wall where it sits. What you can control is the size of that opening, "
+            "which is why the nest is mapped with a thermal camera first so the cut stays as small as the comb allows."
+        )),
+        ("Should I caulk or tape over the hole the bees use?", (
+            "No. Florida extension guidance warns against sealing an active entrance because it drives the bees deeper into the wall, "
+            "and they often find a new way out through an outlet or a gap indoors. Leave the hole alone, keep people away from it, "
+            "and have the entry sealed only after the colony and comb are gone."
+        )),
+        ("Is it better to open a block wall from the inside or the outside?", (
+            "It depends on where the comb actually is. Comb inside the block cores is usually reached from outside through the stucco. "
+            "Comb sitting in the gap between the block and the drywall is reached from inside. "
+            "The thermal scan settles it, and drywall is generally quicker and cheaper to restore than stucco."
+        )),
+        ("What happens to the bees once they are out of the wall?", (
+            "They are kept alive. The bees and their brood comb go to a beekeeper who settles them into a hive box and keeps them, "
+            "so nothing is sprayed or poisoned. The page on [[svc:relocation|colony relocation]] explains how that handoff works "
+            "and why live removal also protects the wall from rotting comb."
+        )),
+        ("My condo association owns the outside wall. Who arranges the work?", (
+            "Usually the association, since the block and stucco are common elements, though the interior drywall may be yours. "
+            "A COI can be sent to the manager, and the quote can split exterior and interior work. "
+            "Boards and managers will find the scheduling details on [[svc:hoa-commercial|the HOA and commercial page]]."
+        )),
+    ],
+    "related": ["soffits-eaves", "roofs", "repairs", "honeycomb-cleanup", "relocation"],
+    "close": (
+        "Get the wall back to normal",
+        "Call, text a photo of the entry hole, or send the quote form, and the opening is planned before anyone picks up a saw.",
+    ),
+    "facts": [
+        "Concrete blocks are produced with hollow cores that form an interconnected void; US blocks are nominally 16 in long and 8 in wide (source: https://en.wikipedia.org/wiki/Concrete_masonry_unit)",
+        "Block cells holding rebar are grouted with concrete so the bars bond to the wall; stucco is a common veneer over block (source: https://en.wikipedia.org/wiki/Concrete_masonry_unit)",
+        "Leftover comb in walls attracts roaches, wax moths and small hive beetles; fermenting honey smells; melted wax can stain the wall so it cannot be painted or papered (source: https://ask.ifas.ufl.edu/in778)",
+        "Nest location in walls: feel for warmth, tap, listen with a stethoscope, probe with a small drill hole and stiff wire (source: https://ask.ifas.ufl.edu/in778)",
+        "Do not seal an opening with active bees; it forces bees further into the wall; seal voids 1/8 inch or greater once clear (source: https://ask.ifas.ufl.edu/publication/IN741)",
+        "Coral Gables: incorporated April 29, 1925, developed by George Merrick, almost entirely Mediterranean Revival, built with Miami limestone (coral rock); first preservation ordinance 1973 (source: https://en.wikipedia.org/wiki/Coral_Gables,_Florida)",
+        "Miami Springs: founded by Glenn Curtiss and James Bright in the 1920s land boom, Pueblo Revival architecture, incorporated 1926 (source: https://en.wikipedia.org/wiki/Miami_Springs,_Florida)",
+        "Pueblo Revival: flat roofs, irregular parapets, stuccoed walls, brick or concrete substituted for adobe (source: https://en.wikipedia.org/wiki/Pueblo_Revival_architecture)",
+        "The Barnacle, Coconut Grove: built 1891 by Ralph Munroe, one-story house raised on wood pilings; oldest house in Miami-Dade still on its original site (source: https://en.wikipedia.org/wiki/The_Barnacle_Historic_State_Park ; https://en.wikipedia.org/wiki/Coconut_Grove)",
+        "Hurricane Andrew made landfall just northeast of Homestead on August 24, 1992 (source: https://en.wikipedia.org/wiki/Hurricane_Andrew)",
+        "Miami-Dade is within the Florida Building Code High-Velocity Hurricane Zone (source: https://en.wikipedia.org/wiki/Florida_Building_Code)",
+    ],
+}

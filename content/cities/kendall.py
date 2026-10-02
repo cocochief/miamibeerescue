@@ -1,0 +1,86 @@
+# -*- coding: utf-8 -*-
+"""Kendall page copy."""
+
+CITY = {
+    "key": "kendall",
+    "title": "Kendall Hives and Swarms: Bee Removal Near Dadeland",
+    "desc": "Bee removal in Kendall, from Dadeland to the Turnpike: live colonies lifted out of soffits, yard trees and lawn boxes, then sealed. Free quote, 24/7 phones.",
+    "h1": "Honey Bees in Kendall Yards, Walls and Shopping Plazas",
+    "kicker": "Unincorporated Kendall, South Dade",
+    "lede": "Kendall grew out of pine rockland, fields and groves into a suburb of more than 80,000 people. The bees never left. Here is how we get a colony off your property alive and close the gap behind it.",
+    "quick": "Honey bees that keep flying through one particular crack, vent or lid on your Kendall property mean a colony is living behind it, not just visiting. Give that spot a wide berth, leave the bug spray in the garage, and photograph the entrance from a safe distance. A licensed, insured crew answers 24/7 and responds inside 24 hours. The colony is relocated to a beekeeper, never poisoned, and we close the cavity afterward so the next swarm scouting your block finds nothing to use.",
+    "glance": [
+        ("Government", "No city hall; unincorporated and run by Miami-Dade County"),
+        ("Population", "80,241 at the 2020 census"),
+        ("Named for", "Henry John Broughton Kendall, a land company director"),
+        ("Boundaries", "US 1 on the east, the Turnpike's Homestead Extension on the west"),
+        ("Dadeland Mall", "Opened October 1, 1962, on Kendall Drive"),
+    ],
+    "opening": (
+        "Kendall is not a city. It is an unincorporated census-designated place of about 16.6 square miles, governed directly by Miami-Dade County, with US 1 along its east side and the Homestead Extension of the Turnpike along its west. Before the 1950s the land was mostly pine rockland broken up by fields and groves. Then the houses came, in a 1950s boom that kept pushing west through the 1970s, 80s and 90s.\n\n"
+        "That history shows up in the bee calls. A suburb that replaced orchards still has plenty of fruit trees, hedges and flowering shrubs, so foragers have food most of the year. What swarms need next is a dry, dark hollow, and a neighborhood of aging roofs, attic vents and buried utility boxes offers thousands of them. Kendall was also severely damaged by Hurricane Andrew in August 1992, and rebuilt walls and roofs from that period are now old enough to have gaps of their own. If a cluster of bees is hanging on your fence today, our [[svc:swarms|swarm pickup]] page explains what happens next."
+    ),
+    "hotspots_h": "Six places a Kendall swarm moves in",
+    "hotspots": [
+        ("Soffits and eaves", "A soffit panel that has sagged or lost a screen leaves a gap the width of a pencil, and that is enough. Bees build comb along the rafters above it, out of sight, and you notice only when traffic at the gap gets heavy. See [[svc:soffits-eaves|soffit and eave hives]]."),
+        ("Lawn and meter boxes", "Sprinkler valve boxes and utility meter boxes sit at ground level in a typical suburban front yard. A cracked lid turns one into a ready-made hive, and the first sting usually comes from the lawn mower or the meter reader. Our [[svc:utility-boxes|utility box]] page covers that work."),
+        ("Old yard trees", "If your back yard has a big mango, avocado or oak, that tree may be the most attractive cavity on the lot. Hollow trunks and rotted limb scars hold colonies well, and so do the boots of older palms. [[svc:trees-palms|Tree and palm colonies]] can often be removed without felling anything."),
+        ("Walls behind stucco", "Bees vanishing into a stucco crack, a dryer vent or the hole where a cable enters means the comb hangs inside the cavity. Thermal imaging lets us map how far it runs before anything is opened, as described on the [[svc:walls|wall hive]] page."),
+        ("Sheds and detached garages", "Back-yard storage buildings get opened rarely and maintained even less. A loose board, a gap under the roof sheet or a stack of stored boxes gives a swarm shelter, and you find out when you go looking for the ladder. See [[svc:sheds-garages|sheds and garages]]."),
+        ("Storefronts and plazas", "Around Dadeland and along US 1, retail buildings offer sign cabinets, parapet walls and rooftop equipment housings, all of which can hold a colony. Shoppers walking under an active entrance raise the stakes, so these jobs are planned around foot traffic and store hours."),
+    ],
+    "streets_h": "From the Metrorail end to the Turnpike end",
+    "streets": [
+        ("Dadeland", "The business district of Kendall, built around Dadeland Mall and served by the Dadeland North and Dadeland South Metrorail stations. Expect busy parking lots and property managers who will want a certificate of insurance before work starts."),
+        ("Kendall Drive", "Southwest 88th Street, signed as State Road 94, is a major east-west arterial through Kendall, with Baptist Hospital of Miami on its south side. If your yard backs onto this corridor behind a tall hedge or fence, an entrance on that side can go unnoticed until the colony is large."),
+        ("Snapper Creek canal", "Snapper Creek runs through Kendall on its way to Biscayne Bay, and the canal extends west toward the Everglades. Bees need water as much as nectar, and a canal is a source that never dries up, so houses with a canal-facing yard should keep an eye on eaves and back fences."),
+        ("Along US 1", "The eastern edge of Kendall follows South Dixie Highway, past The Falls, an open-air shopping center south of Dadeland. Commercial roofs and landscaped medians here need daytime work scheduled around traffic and shoppers."),
+        ("Around Killian High", "Miami Killian High School opened on SW 97th Avenue in 1965, about a decade into Kendall's postwar building boom. On a house from that era, check the roof edge and soffits each spring before swarms start moving."),
+        ("The Turnpike side", "Kendall's western edge is the Homestead Extension of the Turnpike, where the CDP meets The Crossings and Kendale Lakes. If your subdivision has an HOA, find out what approval the board wants before any wall is opened; a certificate of insurance is available on request."),
+    ],
+    "body": [
+        ("A suburb built on old grove land", "The orchards that once covered Kendall are gone, but the planting habit stayed. Fruit trees, flowering hedges and big shade trees are common yard plantings, and the county's Kendall Indian Hammocks Park keeps a 32-acre nature preserve of tropical hardwood hammock. For honey bees that adds up to steady forage and lots of natural hollows. It also means a swarm leaving one colony in spring has dozens of choices within a few blocks, and the attic vent on your house may be one of them.\n\nScouts check a cavity for days before the swarm commits. If you see a handful of bees inspecting the same gap over and over, read [[guide:scout-bees|what scout bees are doing]] and close the gap before they bring the rest. If a colony already moved in and was removed once, [[guide:why-bees-come-back|why bees come back]] explains the scent trail left in old comb."),
+        ("Houses that came through Andrew", "Hurricane Andrew destroyed many homes and businesses across Kendall and the rest of South Dade in 1992. Houses repaired or rebuilt after that storm are now more than three decades old, and a single street can mix original roofs, patched sections and newer replacements. The seams where old work meets new are exactly where bees find a way in.\n\nStorms still matter. A strong blow can peel back a soffit or split a tree and leave comb in plain view, and [[guide:after-a-storm|the post-storm field guide]] explains the next steps. If you are buying or selling a Kendall house and an inspector notes bee activity, [[guide:home-sale-inspection|this guide on bees during a home sale]] covers how to keep the closing on track."),
+        ("Pricing and repairs, in plain numbers", "Ground-level work, such as a lawn box or a hedge at waist height, tends to land around $300 to $400. Comb inside a wall or roof, especially behind stucco or tile, can run into the thousands because the opening has to be made and then rebuilt. The rebuild is ours too: we send licensed roofers, painters and general contractors from in house, and the patch is made to match. An after-hours or Saturday emergency is billed higher than a scheduled weekday job. Ask, and the paperwork includes photos plus a line-by-line invoice, and the [[page:cost|cost page]] breaks down the factors. Thermal imaging finds where hidden comb ends, and [[guide:thermal-imaging|how thermal imaging reads a hive]] shows what that scan reveals."),
+    ],
+    "band": ("Bees at a Kendall address right now?", "Call or text a photo any hour, and a crew responds within the 24-hour guarantee, with anyone being stung handled first."),
+    "visit_h": "How a Kendall visit runs",
+    "visit": [
+        ("Send the picture", "A photo of the entrance, with something nearby for scale, tells us whether this is a swarm resting on a branch or an established colony inside the structure."),
+        ("Find the comb", "On site we scan the wall, soffit or trunk with a thermal camera to map the colony, and we check HOA or plaza rules before cutting anything."),
+        ("Take them out alive", "Bees and comb are removed together, the brood is saved, and the colony goes to a beekeeper. No poison is used at any point."),
+        ("Seal and rebuild", "The entry is closed and any opening is repaired. Our workmanship is warrantied, so a fresh swarm at that same closed gap gets a return trip from us."),
+    ],
+    "alarm": "Anyone under attack should walk fast, not swat, to a house or a closed car. Dial 911 if they wheeze, their lips or throat swell, or they carry an allergy pen. Shut the windows, bring kids and dogs in, and leave the hose off. Then phone us: stings in progress jump our queue.",
+    "faqs": [
+        ("Is Kendall a city, and does that change who I call about bees?", "No. It is a census-designated place, and its services come straight from county departments. Who governs the area does not change the job: a colony on your lot is yours to have removed by a private service, and we cover every part of Kendall."),
+        ("There are bees coming out of my sprinkler valve box. Can I just put the lid back?", "Closing the lid traps the colony inside, and the bees will chew or push their way out or find the next crack. Mark the spot, tell whoever mows to skip it, and get us a picture. A box job is usually a ground-level removal and one of the simpler ones."),
+        ("My mango tree has a hive in the trunk. Do you have to cut it down?", "Usually not. The colony can often be lifted out through the existing opening, or through a small cut that is closed afterward. Losing a mature fruit tree is rarely necessary, and the bees still go to a beekeeper rather than being killed."),
+        ("I manage a plaza near Dadeland. Can you work around store hours?", "Yes. We can schedule early or late to keep the entrance clear, send a certificate of insurance to your landlord or association, and hand over job photos with an itemized bill. See our [[svc:hoa-commercial|commercial and HOA page]] for the details."),
+        ("Will bees come back after you seal the spot?", "Comb and honey left behind keep calling new swarms, so we remove all of it and close the entry. Should a new group show up at the patched opening anyway, our warrantied workmanship means we return to deal with it."),
+    ],
+    "services": [
+        ("utility-boxes", "Valve and meter boxes in Kendall lawns can hide colonies right at mower height."),
+        ("trees-palms", "Mature fruit trees and older palms can hold colonies in hollow trunks and leaf boots."),
+        ("soffits-eaves", "Aging roof edges on the area's older houses are a common entry into attic spaces."),
+        ("hoa-commercial", "Plaza landlords near Dadeland and association boards out west usually want a COI and a booked time slot."),
+        ("repairs", "Cut stucco, lifted tile and opened soffits are put back by tradespeople who work for us."),
+    ],
+    "nearby": ["pinecrest", "palmetto-bay", "west-kendall"],
+    "close": ("Get the Kendall colony out alive", "Fill in the request below or send a snapshot by text, and a licensed, insured crew plans both the removal and the repair."),
+    "card": "Unincorporated Kendall, from Dadeland west to the Turnpike: colonies in soffits, lawn boxes, old grove trees and plaza signage, removed alive and sealed.",
+    "facts": [
+        "Kendall is an unincorporated area and census-designated place in Miami-Dade County; 2020 census population 80,241 (source: https://en.wikipedia.org/wiki/Kendall,_Florida)",
+        "Kendall CDP total area 16.6 sq mi; US 1 forms the eastern boundary and the Homestead Extension of the Turnpike the western boundary; neighbors include Pinecrest (east), Palmetto Bay (southeast), The Crossings (west), Kendale Lakes (northwest) (source: https://en.wikipedia.org/wiki/Kendall,_Florida)",
+        "Named for Henry John Broughton Kendall, a director of the Florida Land and Mortgage Company, which bought the land from the state in 1883 (source: https://en.wikipedia.org/wiki/Kendall,_Florida)",
+        "Before the 1950s the area was largely pine rockland interspersed with fields and groves; rapid development in the 1950s, westward growth in the 1970s-1990s (source: https://en.wikipedia.org/wiki/Kendall,_Florida)",
+        "Kendall and the surrounding South Dade area were severely damaged by Hurricane Andrew in August 1992; many homes and businesses were destroyed (source: https://en.wikipedia.org/wiki/Kendall,_Florida)",
+        "Dadeland is the business area of Kendall; The Falls is an open-air mall south of Dadeland (source: https://en.wikipedia.org/wiki/Kendall,_Florida)",
+        "Dadeland Mall opened October 1, 1962, at 7535 North Kendall Drive between US 1 and the Palmetto Expressway; Dadeland North Metrorail station connects by walkway (source: https://en.wikipedia.org/wiki/Dadeland_Mall)",
+        "Dadeland South station is the southern terminus of Metrorail, opened May 20, 1984, adjacent to US 1 (source: https://en.wikipedia.org/wiki/Dadeland_South_station)",
+        "Kendall Drive is SW 88th Street, mostly signed SR 94; Baptist Hospital of Miami lies to the road's south; the road passes Dadeland Mall (source: https://en.wikipedia.org/wiki/Florida_State_Road_94)",
+        "Snapper Creek runs through Kendall and Coral Gables to Biscayne Bay; the Snapper Creek Canal extends about 10 miles further toward the Everglades (source: https://en.wikipedia.org/wiki/Snapper_Creek)",
+        "Miami Killian Senior High School, 10655 SW 97th Ave, in the Kendall area of unincorporated Miami-Dade, established September 1965 (source: https://en.wikipedia.org/wiki/Miami_Killian_Senior_High_School)",
+        "Kendall Indian Hammocks Park (Miami-Dade Parks) has a 32-acre nature preserve and tropical hardwood hammock forest (source: https://www.miamidade.gov/parks/kendall-indian-hammocks.asp)",
+    ],
+}

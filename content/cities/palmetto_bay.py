@@ -1,0 +1,162 @@
+# -*- coding: utf-8 -*-
+"""Palmetto Bay page copy."""
+
+CITY = {
+    "key": "palmetto-bay",
+    "title": "Bee Removal in Palmetto Bay for Big Lots and Bay Homes",
+    "desc": "Palmetto Bay bees in a shed, an old shade tree or a two-story wall? Humane live removal, our own repair crews, a free quote and a phone staffed 24/7.",
+    "h1": "Honey bee removal on Palmetto Bay's larger lots",
+    "kicker": "Village of Palmetto Bay",
+    "lede": "Between U.S. 1 and the mangroves of Biscayne Bay, Palmetto Bay gives a colony a lot of room to hide. We find it, lift it out alive and close the gap it used.",
+    "quick": (
+        "Yes, and the bees do not have to die. On a Palmetto Bay lot the crew first traces the bees across your lot, scans the likely wall "
+        "or roof with a thermal camera, then lifts out bees and comb together and hands the colony to a beekeeper who rehomes it. "
+        "Expect roughly $300 to $400 when the hive is reachable from the ground. Comb buried in an upper-floor wall or under "
+        "roof tile, where framing gets cut and rebuilt, pushes the bill into the thousands. Quotes are free, and the phone is staffed around the clock."
+    ),
+    "glance": [
+        ("Incorporated", "September 10, 2002, as a village"),
+        ("Land area", "About 8.3 square miles, with Biscayne Bay on the east"),
+        ("Western edge", "U.S. 1, South Dixie Highway"),
+        ("Bayfront preserve", "Deering Estate, state-owned and run by county parks"),
+        ("Residents, 2020", "24,439"),
+    ],
+    "opening": (
+        "Palmetto Bay is mostly houses on their own lots. The village zoning map gives the bulk of the land to single-family homes, "
+        "and the village's E-M district sets a minimum lot of 15,000 net square feet, double the 7,500 the standard "
+        "single-family district asks for. More ground means more places a swarm can settle before anyone notices: "
+        "the back corner of a shed, a hollow in an old shade tree, the irrigation valve box out by the hedge.\n\n"
+        "The village also sits beside a lot of wild habitat. The Deering Estate runs along the bay east of Old Cutler Road and holds "
+        "what is thought to be the largest virgin coastal tropical hardwood hammock in the continental United States. "
+        "Coral Reef Park keeps pineland preserve areas off SW 152nd Street. Honey bees forage across that whole mix of hammock, "
+        "pineland and garden, and when a colony splits in spring, the half that leaves is looking for a dry, dark cavity. "
+        "A soffit, a hollow column or a gap under roof tile on a quiet street suits it fine."
+    ),
+    "hotspots_h": "From the back fence to the roofline: common nest sites",
+    "hotspots": [
+        ("Upper-floor wall voids", "Houses here top out at two stories under village height rules, and that second floor is where an unnoticed colony can fill a wall cavity for months. Bees coming and going from one crack near the roofline is the usual tell."),
+        ("Soffits and eaves", "Long rooflines on a wide house mean a lot of soffit. A single loose vent screen or a split board gives scouts a way in, and the comb hangs down into the attic side, out of sight from the yard."),
+        ("Sheds and outbuildings", "The village regulates accessory buildings separately, and a bigger lot tends to collect them: tool sheds, pump houses, a detached garage. Unused corners and the space under a raised floor are favorite spots."),
+        ("Trees at the back fence", "Older shade trees and palms toward the rear of a lot can hold a colony in a trunk cavity or between frond boots, often far enough from the house that it goes unnoticed until someone mows close to it."),
+        ("Valve and meter boxes", "In-ground irrigation and meter boxes stay shaded and dry, which is all a small colony wants. Lift a lid out in a big lawn and you may find comb fixed to the underside."),
+        ("Storefronts along U.S. 1", "Nearly all the village's commercial property sits on its western edge, along South Dixie Highway. Sign cabinets, parapet gaps and rooftop equipment on those buildings give bees ledges that customers walk right under."),
+    ],
+    "streets_h": "Notes by part of the village",
+    "streets": [
+        ("Old Cutler Road corridor", "State lawmakers gave this road historic-highway status in 1974, and it rides a natural limestone ridge above the bay. Homes on this stretch sit under mature canopy, so trees and roof edges get checked together, with the truck parked off the travel lane."),
+        ("The bay side", "East of Old Cutler, the village runs to Biscayne Bay and Deering Bay Drive. Mangroves line the water at places like Thalatta Estate, and the hammock next door means a colony in a bayside house may have arrived from very close by."),
+        ("Old Cutler town site", "The pioneer town of Cutler stood near SW 168th Street and Old Cutler Road, and the area was a census-designated place until the village took it in. Lots here vary widely, so we ask about gates, dogs and driveway length when you call."),
+        ("East Perrine", "This former census-designated place, named for Henry Perrine, became part of Palmetto Bay at incorporation. Smaller lots than the estate pockets put houses closer together, so a swarm on one roof can matter to the neighbors too."),
+        ("Coral Reef Park and SW 152nd Street", "The park covers more than 50 acres, with a canal and pineland areas. Homes facing that open green space sometimes get a passing cluster on a gate post or mailbox that moves off on its own within a day."),
+        ("Downtown and the U.S. 1 split", "Between SW 168th and SW 183rd Streets the highway lanes separate, with businesses in between, and the village's downtown code steers that area toward mixed-use buildings. Ground-floor shops mean bees near a doorway become a public problem fast."),
+    ],
+    "body": [
+        ("Why a big lot changes the search", (
+            "On a small lot, the bees are usually easy to trace: you see a line of them flying to one spot. On a Palmetto Bay "
+            "estate parcel, the flight path can cross a pool deck, a hedge line and half an acre of lawn before it reaches the house, "
+            "and the colony may not be in the house at all.\n\n"
+            "So the first part of a visit here is a walk of the whole property. We watch where foragers land, check outbuildings "
+            "and trees, and then put a thermal camera on the wall or ceiling where the trail points. A living colony runs warm, "
+            "so its heat outline gives away the comb's position through drywall or block before any cutting starts. That keeps the "
+            "opening small and the repair smaller. Our guide to [[guide:thermal-imaging|what a thermal scan shows]] explains it in "
+            "more detail, and the [[svc:walls|wall removal page]] covers what happens once the cavity is found."
+        )),
+        ("Houses rebuilt after Andrew", (
+            "Hurricane Andrew struck in August 1992, and Palmetto Bay was among the hardest-hit parts of South Dade. Many homes "
+            "and businesses were destroyed and the area was rebuilt over the following years. That leaves a village where a "
+            "lot of houses date from the rebuild, with additions, enclosed patios and newer rooflines joined to older structure.\n\n"
+            "Every one of those joins is a seam. Where a new roof meets an old wall, or a patio enclosure butts up to the original "
+            "fascia, a small gap can open as materials shift. Scouts find those gaps. If a colony has moved into one, the comb "
+            "has to come out completely, because honey left in a wall ferments, draws ants and roaches, and the smell calls in the next "
+            "swarm. Our own licensed roofers, painters and contractors then close the seam so it does not reopen. See "
+            "[[svc:roofs|roof hives]] and [[guide:why-bees-come-back|the reasons an old nest site draws bees again]]."
+        )),
+        ("Living next to a hammock", (
+            "Few neighborhoods in the county back onto as much native forest as this one. The Deering Estate's hammock and the pinelands "
+            "at Coral Reef Park give honey bees hollow trees and long forage runs, and colonies that grow strong out there will swarm.\n\n"
+            "A swarm on a branch or fence is a cluster of bees waiting while scouts pick a new home. It is usually calm, and it may leave "
+            "within a day or so. Leave it be: no hose, no spray, nobody poking at it with a rake. A photo by text lets us judge whether "
+            "it is moving on or moving in. A cluster still hanging the next morning, or bees filing into a crack in the siding, means "
+            "it is time to book a pickup. Read more about [[svc:swarms|swarm pickup]] and "
+            "[[guide:scout-bees|scouts checking out the house]]."
+        )),
+        ("Shops, offices and managed property", (
+            "Along South Dixie Highway the buildings are retail, grocers, restaurants, dealers and offices, and the downtown "
+            "code encourages compact mixed-use buildings with shops at street level. A colony in a sign box over an entrance is a "
+            "liability question as much as a pest question.\n\n"
+            "Before anyone climbs a ladder at a storefront, the manager or association can have our COI on file; the business is licensed and insured. Work can be "
+            "scheduled around opening hours, and photos plus an itemized invoice are available for your records. The "
+            "[[svc:hoa-commercial|commercial and HOA page]] has more."
+        )),
+    ],
+    "band": ("Bees on your property right now?", "Phone us, or send a picture of the entry hole by text. The line is staffed day and night, with a 24-hour response guarantee behind every call."),
+    "visit_h": "How a Palmetto Bay visit runs",
+    "visit": [
+        ("Tell us the layout", "When you call, say where the bees are, how big the lot is, and whether there is a gate code, a long drive or dogs in the yard. A photo helps us bring the right gear."),
+        ("Walk the property", "We trace the flight line across the lot, check trees and outbuildings, and scan the likely wall or roof section with a thermal camera before opening anything."),
+        ("Remove the colony alive", "Bees and comb come out together, the queen goes with her workers, and a beekeeper takes the whole colony to its new home. Honey and wax are cleaned out of the cavity."),
+        ("Seal and repair", "With the comb out, our roofers, painters and contractors close the entry and patch what was opened. Should bees ever move back into that patched spot, the workmanship warranty covers a return trip."),
+    ],
+    "alarm": (
+        "Bees chasing someone? Walk fast to a building or a car and shut it; swatting only riles them. Dial 911 when stings pile up "
+        "or the person wheezes, feels faint, or their lips or throat begin to puff. Leave the garden hose coiled and put down any spray. "
+        "Next, phone us and say someone was stung, so that call jumps the queue."
+    ),
+    "faqs": [
+        ("The bees seem to come from the woods behind our house. Can you remove them there?", (
+            "If the colony is on your own lot, yes. If it sits on public preserve land such as the Deering Estate, that land is managed "
+            "by county parks and we would not work there without their say. What we can do is check whether bees have moved "
+            "from the trees into your house and close the gaps they would use."
+        )),
+        ("Thousands of bees just landed on our fence. Should we worry?", (
+            "That is a swarm resting while scouts choose a home. With no comb or young to protect yet, it tends to stay mellow, "
+            "though it holds thousands of bees. Keep kids and dogs at a distance, leave it untouched and text us a photo. "
+            "If it starts moving into a wall or shed, book a removal."
+        )),
+        ("Will the work tear up our screened patio or plantings?", (
+            "We plan the access before we start, protect plantings and screens where we can, and open the smallest section "
+            "the thermal scan allows. If a screen panel or soffit board has to come off, our repair crew puts it back."
+        )),
+        ("Our HOA needs paperwork before anyone works on site. Can you send it?", (
+            "Yes. Proof of insurance, as a COI listing your association, goes to the board or the manager before the crew shows up, and photos with an itemized "
+            "invoice can follow if the board wants a record of what was found and repaired."
+        )),
+        ("Why does the price for a big house vary so much?", (
+            "Height and depth decide most of it. Bees under a lawn box lid or in a low shed corner usually mean about $300 to $400. "
+            "Comb inside a second-floor wall needs access, careful cutting and rebuilding, and that kind of job can climb into the thousands. "
+            "Night and weekend emergencies carry a surcharge over the weekday rate. The [[page:cost|pricing breakdown]] shows what moves the figure."
+        )),
+    ],
+    "services": [
+        ("soffits-eaves", "Wide houses with long rooflines give colonies plenty of soffit and eave to move into."),
+        ("trees-palms", "Mature shade trees and palms toward the back of big lots can hold a colony in a trunk or frond base."),
+        ("sheds-garages", "Larger parcels collect sheds, pump houses and detached garages, all quiet places for bees."),
+        ("utility-boxes", "Irrigation and meter boxes spread across wide lawns stay shaded, dry and rarely opened."),
+        ("repairs", "Additions and rebuilt rooflines leave seams that need proper closing once the comb is out."),
+        ("relocation", "Every colony we take out of a Palmetto Bay property goes to a beekeeper, not a dumpster."),
+    ],
+    "nearby": ["pinecrest", "cutler-bay", "kendall"],
+    "close": ("Tell us where the bees are on your lot", "Use the quote form, or text us a shot of the gap the foragers use; we reply with the scope of work and a price."),
+    "card": "Estate lots, Old Cutler Road canopy and the Deering hammock next door: colonies here hide in sheds, trees, soffits and second-floor walls.",
+    "facts": [
+        "The Village of Palmetto Bay was incorporated on September 10, 2002 (source: https://en.wikipedia.org/wiki/Palmetto_Bay,_Florida)",
+        "Total area 8.44 sq mi, of which 8.29 sq mi is land; just west of Biscayne Bay; U.S. 1 (Dixie Highway) forms the western border (source: https://en.wikipedia.org/wiki/Palmetto_Bay,_Florida)",
+        "2020 census population 24,439 (source: https://en.wikipedia.org/wiki/Palmetto_Bay,_Florida)",
+        "Neighbors: Pinecrest to the north, Kendall to the northwest, Cutler Bay to the south (source: https://en.wikipedia.org/wiki/Palmetto_Bay,_Florida)",
+        "Boundaries: SW 136th St north, SW 184th St/Eureka Drive south, U.S. 1 west, Biscayne Bay and Deering Bay Drive east (source: https://giscloud.fiu.edu/wp_etap_new/wp-content/uploads/2024/09/Village-of-Palmetto-Bay-CBR-TPO-Reviewed.pdf)",
+        "Zoning map shows the vast majority of land in single-family residential use; commercial strip along U.S. 1 on the western boundary; U.S. 1 lanes diverge between SW 168th and SW 183rd St with businesses between (source: https://giscloud.fiu.edu/wp_etap_new/wp-content/uploads/2024/09/Village-of-Palmetto-Bay-CBR-TPO-Reviewed.pdf)",
+        "Palmetto Bay was among the worst affected by Hurricane Andrew in August 1992; many homes and businesses destroyed and slowly rebuilt (source: https://giscloud.fiu.edu/wp_etap_new/wp-content/uploads/2024/09/Village-of-Palmetto-Bay-CBR-TPO-Reviewed.pdf)",
+        "Former Town of Cutler was at SW 168th Street and Old Cutler Road (source: https://giscloud.fiu.edu/wp_etap_new/wp-content/uploads/2024/09/Village-of-Palmetto-Bay-CBR-TPO-Reviewed.pdf)",
+        "Cutler was a CDP until 2002, when the village took its territory (source: https://en.wikipedia.org/wiki/Cutler,_Florida)",
+        "East Perrine was a CDP named for Henry Perrine; the village took its territory at incorporation in 2002 (source: https://en.wikipedia.org/wiki/East_Perrine,_Florida)",
+        "Deering Estate is owned by the State of Florida and managed by Miami-Dade County Parks; holds what is thought to be the largest virgin coastal tropical hardwood hammock in the continental US (source: https://en.wikipedia.org/wiki/Deering_Estate)",
+        "Old Cutler Road follows a natural limestone ridge along Biscayne Bay and was declared a State Historic Highway in 1974 by the Florida Legislature (source: https://en.wikipedia.org/wiki/Old_Cutler_Road)",
+        "E-M zoning district minimum lot 15,000 net sq ft, max 35 ft and two stories (source: https://www.palmettobay-fl.gov/1674/E-M-Zoning-District)",
+        "R-1 district minimum lot 7,500 net sq ft, max 35 ft and two stories (source: https://www.palmettobay-fl.gov/1676/R-1-Single-family-Residential-District)",
+        "Village zoning pages include separate rules for accessory buildings and structures (source: https://www.palmettobay-fl.gov/1674/E-M-Zoning-District)",
+        "Coral Reef Park, 7895 SW 152nd Street, more than 50 acres with pinelands preserve areas and a canal (source: https://www.palmettobay-fl.gov/213/Coral-Reef-Park)",
+        "Thalatta Estate Park, 17301 Old Cutler Road, about four acres on Biscayne Bay with mangrove habitat (source: https://www.palmettobay-fl.gov/281/Thalatta-Estate-Park)",
+        "Downtown Palmetto Bay Code promotes compact mixed-use buildings with ground-level commercial uses (source: https://www.palmettobay-fl.gov/1177/Downtown-Palmetto-Bay-Code)",
+        "Businesses along U.S. 1 include big box stores, retail, grocers, restaurants, auto dealers and lodging (source: https://giscloud.fiu.edu/wp_etap_new/wp-content/uploads/2024/09/Village-of-Palmetto-Bay-CBR-TPO-Reviewed.pdf)",
+    ],
+}
