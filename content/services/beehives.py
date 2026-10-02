@@ -29,7 +29,7 @@ SERVICE = {
         ("Where established colonies end up", "A scouting party grades a cavity on volume, shelter from rain and a narrow way in. Plenty of Miami-Dade construction scores well on all three. Hollow block walls and frame walls ([[svc:walls|bees in walls]]), the space under roof tile or inside a flat roof ([[svc:roofs|roof hives]]), boxed soffits and eaves ([[svc:soffits-eaves|soffit and eave colonies]]), and the hollow trunks of old trees ([[svc:trees-palms|palm and tree colonies]]) all qualify. So do storage sheds and the back corners of garages. Each one comes apart differently, which is why the removal plan starts with finding exactly where the comb is, not with a pry bar."),
     ],
 
-    "band": ("Wax going up behind your stucco?", "A phone photo of the bees coming and going, taken well back, is enough. It helps show whether you are looking at a settled colony or a stopover."),
+    "band": ("Wax going up behind your stucco?", "A phone photo of the bees coming and going, taken well back, is a good start. It helps show whether you are looking at a settled colony or a stopover."),
 
     "takeout_h": "How a beehive cut-out is done",
     "takeout": [
@@ -56,7 +56,7 @@ SERVICE = {
         ("coral-gables", "Mediterranean Revival was written into the original Gables plan, and its main early structures set coral-colored roof tile over walls of Miami limestone. With preservation rules on the books from 1973 onward, confirm designation status before any outside repair."),
         ("miami-beach", "The Miami Beach Architectural District holds about 960 historic buildings from the 1920s to the early 1940s. A cut-out in an older building means opening finishes that an owner or association will want rebuilt to match."),
         ("coconut-grove", "The Grove is the oldest continuously inhabited neighborhood of Miami and one of its greenest, with dense hammock growth. Colonies here may sit in old trees as well as in older homes."),
-        ("redland", "Zoning keeps most Redland homesites at five acres or larger, with mango and avocado trees, orchid growers and plant nurseries around them. Out here a hive may be in a barn, a pump shed or a hollow tree well away from the house."),
+        ("redland", "Zoning keeps most Redland homesites at five acres or larger, with tropical fruit groves and ornamental plant nurseries around them. Out here a hive may be in a barn, a pump shed or a hollow tree well away from the house."),
     ],
 
     "alarm": "Bees streaming out and stinging? First, put walls between the bees and everybody nearby, pets included; a car with the windows up works too. Leave the entrance alone: spraying, blocking or soaking it tends to make a colony angrier and can push bees inside. Once everyone is under a roof, call. A person answers around the clock, and anyone being stung goes to the front. More on [[svc:emergency|emergency bee removal]].",

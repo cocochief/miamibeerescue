@@ -28,8 +28,8 @@ CITY = {
         "ranch houses with homes rebuilt or replaced afterward, and each kind leaves different gaps. "
         "On a Pinecrest lot the hard part is usually finding the hive, not reaching it. The second part is "
         "leaving the wall, the roof or the tree in good shape afterward, since the village wants a permit "
-        "before most trees come down. Neighbors in [[city:palmetto-bay|Palmetto Bay]] and "
-        "[[city:coral-gables|Coral Gables]] deal with much the same mix."
+        "before most trees come down. Next door, [[city:palmetto-bay|Palmetto Bay]] and "
+        "[[city:coral-gables|Coral Gables]] have pages of their own."
     ),
     "hotspots_h": "Where a colony moves in on a Pinecrest lot",
     "hotspots": [
@@ -118,7 +118,7 @@ CITY = {
          "move back into an opening closed on our visit, the warranty brings the crew out again. [[guide:why-bees-come-back|Why bees come back]] explains what draws them to the same place, and "
          "[[svc:repairs|repairs after removal]] covers the rebuild side."),
         ("Owners away, house managers and closed gates",
-         "Large Pinecrest properties often run with someone other than the owner on site: a house manager, a "
+         "Some large properties run with someone other than the owner on site: a house manager, a "
          "landscaper on a weekly route, or a tenant. A removal can be arranged around that. Tell us who will "
          "open the gate, whether the pool and garden crews will be working that day, and who should get the "
          "paperwork."
@@ -130,7 +130,7 @@ CITY = {
          "[[guide:home-sale-inspection|what to do when an inspector turns up bees]]."),
     ],
     "band": ("Humming in a tree beside the pool?",
-             "Snap a picture of the entrance with bees in the frame and text it over; you will hear what it looks like and what the job involves."),
+             "Snap a picture of the entrance with bees in the frame and text it over with the address, and we take it from that picture to a no-cost quote."),
     "visit_h": "A Pinecrest visit, from the gate to the cleanup",
     "visit": [
         ("Gate, drive and dogs",

@@ -170,7 +170,7 @@ SERVICE = {
             "Florida treats the two jobs as separate trades. State rules expect beekeepers who do live "
             "removal for hire to hold a beekeeper registration with the Department of Agriculture and "
             "Consumer Services, while eradication is reserved for pest control companies licensed under "
-            "Chapter 482. This service is only the first kind: the colony is never killed."
+            "Chapter 482. This service only does live removal: the colony is never killed."
         )),
         ("How long does taking out a live colony take?", (
             "It depends on the size of the nest and where it sits. A small colony in a shrub or an open "

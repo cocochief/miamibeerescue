@@ -56,12 +56,15 @@ def stage_assets():
     src_dir = os.path.join(ROOT, "assets")
     dst_dir = os.path.join(OUT, "assets")
     os.makedirs(dst_dir, exist_ok=True)
-    for src in sorted(glob.glob(os.path.join(src_dir, "*"))):
-        name = os.path.basename(src)
+    for src in sorted(glob.glob(os.path.join(src_dir, "**", "*"), recursive=True)):
+        if not os.path.isfile(src):
+            continue
+        name = os.path.relpath(src, src_dir).replace(os.sep, "/")   # e.g. "style.css", "photos/x-800.jpg"
         with open(src, "rb") as fh:
             digest = hashlib.sha256(fh.read()).hexdigest()[:10]
         stem, ext = os.path.splitext(name)
         hashed = f"{stem}.{digest}{ext}"
+        os.makedirs(os.path.dirname(os.path.join(dst_dir, hashed)), exist_ok=True)
         shutil.copyfile(src, os.path.join(dst_dir, hashed))
         ASSET_MAP[name] = "/assets/" + hashed
     # stable-name copies for things requested by path

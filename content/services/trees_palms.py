@@ -28,7 +28,7 @@ SERVICE = {
          "Cutting a tree down just to be rid of bees costs you shade and can land you in paperwork. Miami-Dade County requires a tree removal or relocation permit for any tree that is not specifically exempt under the county code, and it counts as a tree anything with a trunk at least three inches across at breast height or an overall height of twelve feet or more. Several municipalities have their own tree ordinances, including [[city:coral-gables|Coral Gables]], [[city:miami|Miami]], [[city:miami-beach|Miami Beach]], [[city:pinecrest|Pinecrest]] and [[city:homestead|Homestead]]. Taking a colony out of a cavity is not taking the tree out, so the tree, its roots and its standing with the permit office stay as they were. Storm damage changes the picture: weeping figs (Ficus benjamina) are considered a high risk for failing in hurricane winds, and a snapped limb can lay open comb nobody knew was there. If that happens, read [[guide:after-a-storm|what to do when a storm opens up a hive]] before going near it."),
     ],
     "band": ("Bees in the trunk and a crew on the calendar?",
-             "A quick picture of the trunk sent by text lets us schedule the bees out ahead of the trimmers' return date."),
+             "A quick picture of the trunk sent by text helps us plan the bees' exit around the trimmers' return date."),
     "takeout_h": "Getting the bees out without felling the tree",
     "takeout": [
         ("Scan the trunk for warm brood",
@@ -64,7 +64,7 @@ SERVICE = {
     "alarm": "A person being stung matters more than any tree. Get them inside a house or a car, away from the tree, and call 911 for trouble breathing, swelling around the face or throat, or a large number of stings. Do not spray, hose or strike the trunk. Then call: someone picks up day or night, and a sting victim goes to the front of the line.",
     "faqs": [
         ("My palm has bees in its old frond bases. Does it have to be cut down?",
-         "When the comb sits among the old frond bases, usually yes. Those dead bases are removed in turn to uncover the comb, the bees are boxed alive, and the bare section of trunk is cleaned. The palm loses nothing it was still using. If comb has worked into the crown itself, we will look at it with you and explain the options before anything is cut."),
+         "Usually not, when the comb sits among the old frond bases. Those dead bases are removed in turn to uncover the comb, the bees are boxed alive, and the bare section of trunk is cleaned. The palm loses nothing it was still using. If comb has worked into the crown itself, we will look at it with you and explain the options before anything is cut."),
         ("Will the tree survive if you cut an opening into the trunk?",
          "A tree that already has a hollow has been living with that cavity, and the window we cut is sized to the comb rather than to our convenience. That said, nobody can promise the future of a tree that is already in decline. If the hollow looks large or the trunk looks weak, we will say so, and a visit from an arborist is the right next step."),
         ("Our tree trimmers hit bees halfway through the job. What should we do now?",

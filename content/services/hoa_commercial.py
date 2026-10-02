@@ -55,14 +55,13 @@ SERVICE = {
         )),
         ("Restaurants, schools, warehouses and retail", (
             "Each kind of property puts bees somewhere different, and each has its own people to keep clear.\n\n"
-            "- Restaurants: sugary waste and spilled syrup draw foragers, while colonies tend to settle in the "
+            "- Restaurants: sugary waste and spilled syrup draw foragers, while colonies may settle in the "
             "hollow walls and roof edges around the kitchen. See [[svc:walls|bees inside block walls]] and "
             "[[svc:soffits-eaves|soffit and eave hives]].\n"
             "- Schools: the work zone has to be closed off from students, so timing and a wide cordon come "
             "before any tools come out.\n"
-            "- Warehouses and flex space: dock seals, parapets and rooftop units hide colonies; in a town like "
-            "Medley, where industrial development makes up the main tax base, that is most of the built "
-            "landscape. Our [[svc:roofs|roof hive page]] covers access at height.\n"
+            "- Warehouses and flex space: dock seals, parapets and rooftop units hide colonies, which matters in a town like "
+            "Medley, where industrial development makes up the main tax base. Our [[svc:roofs|roof hive page]] covers access at height.\n"
             "- Retail centers: pylon signs, planters, parking-lot palms and buried "
             "[[svc:utility-boxes|meter and valve boxes]] sit right where shoppers walk."
         )),
@@ -99,7 +98,7 @@ SERVICE = {
         )),
         ("Cut out comb, keep bees living", (
             "Working section by section, the crew slices comb free and vacuums bees at low suction into a "
-            "screened carrier, and a beekeeper takes delivery to give it a new home."
+            "screened carrier, and a beekeeper takes delivery to give the colony a new home."
         )),
         ("Seal, clean and close the file", (
             "The cavity is scraped and sealed, and on request you get photos of each stage with an itemized "
@@ -120,7 +119,7 @@ SERVICE = {
         "of a monument sign, is about $300 to $400. Expect the figure to rise into the thousands once comb "
         "sits behind a parapet, inside a two-story wall or under roof tile and the opening has to be rebuilt "
         "and painted. Emergency trips after dark or on weekends add to the total compared with booking a "
-        "weekday slot. Quoting is free, and the invoice breaks out removal and repair so your accountant "
+        "weekday slot. Quoting is free, and an itemized invoice, on request, breaks out removal and repair so your accountant "
         "can code each line."
     ),
     "price_factors": [

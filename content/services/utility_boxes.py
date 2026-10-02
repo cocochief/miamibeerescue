@@ -27,7 +27,7 @@ SERVICE = {
         ("Keeping kids, pets and mowers away until then",
          "A ground-level colony is easy to bump without knowing it. Mark off the area with a chair or a cone a few steps back from the box, and pause the mowing and edging service until the bees are out. Run the sprinkler zone fed by that valve as little as you can, since vibration and water both stir the colony. Keep dogs indoors or on the far side of the yard, because they tend to sniff at the hole. If the box sits by a front walk, use another door for now. These steps cost nothing and they keep the problem confined to the lid. When you are not sure where the bees are actually living, [[guide:thermal-imaging|a thermal camera]] can show whether the colony is in the box itself or in a pipe chase or wall next to it."),
     ],
-    "band": ("Bees under a lid in your lawn?", "A zoomed-in phone shot of the lid, taken from a few steps away, is enough for us to sort out whose box it is. The line is staffed around the clock."),
+    "band": ("Bees under a lid in your lawn?", "A zoomed-in phone shot of the lid, taken from a few steps away, often settles whose box it is. The line is staffed around the clock."),
     "takeout_h": "Getting the colony up and out of the ground",
     "takeout": [
         ("Confirm ownership", "We check the lid markings and where the box sits, and if it is the utility's, the utility is contacted before anything is touched."),
@@ -42,7 +42,7 @@ SERVICE = {
         "How far the comb has spread past the box into pipes, walls or the soil",
         "Whether the box belongs to a utility and needs its sign-off first",
         "A cracked lid, broken box or loose conduit that needs replacing",
-        "Sundays and late nights, when the crew rolls out at the emergency rate",
+        "Weekends and late nights, when the crew rolls out at the emergency rate",
     ],
     "miami_h": "Sprinkler, meter and pool boxes from Pinecrest to Doral",
     "miami": [
@@ -62,7 +62,7 @@ SERVICE = {
         ("Will the bees damage my pool pump or valves?",
          "The bees don't chew through equipment, but comb, honey and wax can gum up valve handles, timers and electrical fittings, and a pump left running shakes the colony up. Shut that equipment off if you can and leave the pit closed. For screen cages and pump areas, see [[svc:pool-enclosures|pool enclosures and equipment]]."),
         ("Our buyer's inspection report mentions bees under a sprinkler valve lid. What should we do?",
-         "Get a quote and keep the itemized invoice and photos for the buyer's file. A box job is a small one, and we can note which boxes were opened and cleaned. For closing deadlines and what buyers usually ask for, read [[guide:home-sale-inspection|bees found during a sale]]."),
+         "Get a quote, and ask for the itemized invoice and photos to keep for the buyer's file. Work at a single lid like this tends to stay modest in scope. For closing deadlines and what buyers usually ask for, read [[guide:home-sale-inspection|bees found during a sale]]."),
     ],
     "related": ["pool-enclosures", "emergency", "honeycomb-cleanup", "repairs", "live-honey-bees"],
     "close": ("Photograph the lid, not the bees", "The lettering cast into the lid usually answers the ownership question. Send that, plus where the box sits in the yard, and you get a free quote and a 24-hour response."),

@@ -50,7 +50,7 @@ CITY = {
          "repaired walls hide the same voids as original ones. Concrete block holds hollow cores that connect sideways, so "
          "bees entering at a pipe gap can build well away from it. [[svc:walls|Wall removals]] start by finding the comb."),
         ("Soffits and roof edges",
-         "Single-story roofs here run long and low, and a loose soffit vent or a gap at the fascia opens "
+         "On a long, low single-story roof, a loose soffit vent or a gap at the fascia opens "
          "straight into the attic edge. Bees seen streaming in and out under the eaves on a warm afternoon "
          "usually have comb just inside. Our [[svc:soffits-eaves|soffit and eave page]] explains the cut-out."),
         ("Palms and windbreak trees",
@@ -65,19 +65,19 @@ CITY = {
          "Florida Pioneer Museum, a 1904 railroad agent's house half a mile south of Lucy Street. Where "
          "buildings sit close to open ground, a swarm leaving the fields has only a short way to travel."),
         ("Palm Drive and City Hall",
-         "City Hall sits at 404 West Palm Drive. On the commercial buildings along the street, storefront "
+         "City Hall sits at 404 West Palm Drive. On commercial buildings, storefront "
          "signs, rooftop units and parapet gaps are the cavities to check. A shop owner "
          "whose landlord wants paperwork can get an insurance certificate sent over first."),
         ("U.S. 1 at the Turnpike's end",
-         "The Turnpike's Homestead Extension ends at U.S. 1 inside the city limits, and the road frontage "
-         "carries steady traffic. Bees in a sign cabinet, landscape bed or dumpster enclosure near a busy "
+         "The Turnpike's Homestead Extension ends at U.S. 1 inside the city limits. "
+         "Bees in a sign cabinet, landscape bed or dumpster enclosure near a busy "
          "entrance are worth handling at the quietest hour the business can offer."),
         ("Northwest near Loren Roberts Park",
          "Loren Roberts Park on NW 6th Avenue and the Youth Activity Center on NW 5th Avenue anchor the "
          "northwest side of the city, where the city runs its youth sports programs. Where children play nearby, a colony in a fence post or utility box is worth "
          "handling promptly rather than waiting to see if it moves on."),
         ("Along the old Long Slough",
-         "Long Slough, a slow-flowing channel out of the Everglades, once crossed the city, entering near "
+         "Long Slough, a slow-flowing channel out of the Everglades, once ran into the city, entering near "
          "Redland Road and Lucy Street. Canals built in the early 1900s lowered the water table across "
          "the area. Bees still pass over damp ground to settle in dry, sheltered spots, such as raised sheds and wall voids."),
         ("Davis Parkway",
@@ -87,7 +87,7 @@ CITY = {
     ],
     "body": [
         ("Why farm country sends swarms toward houses",
-         "A colony outgrows its cavity, raises a new queen and sends roughly half its bees out with the old "
+         "A colony outgrows its cavity, starts rearing new queens and sends roughly half its bees out with the old "
          "one. That cluster bunches up on a branch, a fence or a tractor tire and waits there while its scouts go house hunting. In "
          "Florida City the search area includes fields, nurseries and the houses that back onto them, and "
          "a scout is choosing for size, dryness and a narrow entrance, not distance from people.\n\n"
@@ -119,7 +119,7 @@ CITY = {
          "same patched spot again, that return trip is on our warranty. Prices are explained on [[page:cost|what removal costs]]."),
     ],
     "band": ("Comb behind the barn wall?",
-             "Snap the entrance and the building around it, text that picture, and a price comes back to you at no charge."),
+             "Snap the entrance and the building around it, text that picture; the quote on your shed or house is free."),
     "visit_h": "How a visit runs in Florida City",
     "visit": [
         ("Tell us the access",

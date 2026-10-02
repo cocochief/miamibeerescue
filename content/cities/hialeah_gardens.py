@@ -128,7 +128,7 @@ CITY = {
          "[[guide:after-a-storm|storm guide]] shows what an exposed colony looks like."),
     ],
     "band": ("Bees in the shop or the soffit?",
-             "Door hood or eave vent, a photo snapped from a few steps back usually tells us how big the job is."),
+             "Door hood or eave vent, a photo snapped from a few steps back is a good way to start the quote."),
     "visit_h": "How a Hialeah Gardens visit runs",
     "visit": [
         ("Photo and triage",

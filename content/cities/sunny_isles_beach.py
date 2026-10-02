@@ -8,7 +8,7 @@ CITY = {
     "desc": "Honey bees inside a Sunny Isles Beach tower, garage or Golden Shores home? Colonies come out alive, with insurance papers sent ahead to your manager.",
     "h1": "Sunny Isles Beach bee removal planned around condo towers and Golden Shores homes",
     "kicker": "North Dade barrier island",
-    "lede": "A colony forty floors up and a colony under a Golden Shores eave are different jobs. Here is how live removal works on this narrow strip of towers between the ocean and the Intracoastal.",
+    "lede": "A colony high in a tower and a colony under a Golden Shores eave are different jobs. Here is how live removal works on this narrow strip of towers between the ocean and the Intracoastal.",
 
     "quick": "On this island, the hollow parts of big buildings are where a colony can settle: deck planters, mechanical rooms, garage ceilings, pump enclosures and roofline voids. The colony is lifted out with its comb, still living, and goes home with a beekeeper. Condo jobs get planned around elevators, valet lanes and residents, with insurance papers in the manager's inbox first. Something reachable from the ground lands near $300 to $400; comb hidden behind stucco or drywall, plus the patch afterward, pushes the bill into the thousands.",
 
@@ -47,7 +47,7 @@ CITY = {
         ("Swarms along the beach and the boulevard", "In spring and early summer, a crowded colony divides, and roughly half its workers fly off with the old queen. That cloud tends to land on a railing, a palm trunk, a parked car or a light pole, where it hangs in a lump, sometimes overnight, sometimes for two or three days. Meanwhile its scouts are out inspecting cavities. On an island this busy, a lump of bees on Collins Avenue draws a crowd fast. A hanging swarm has no brood or honey to guard, so it is usually mild, but spraying it or poking it with a broom turns a calm cluster into a stinging one. Clear the area around it and phone us. Plenty of swarms leave on their own. One that starts drawing wax inside a planter or wall is now a [[svc:swarms|swarm job]] that became a colony job, and the earlier it comes out, the less comb has to be cleaned up."),
     ],
 
-    "band": ("A colony in the garage or on the pool deck?", "Stand back, zoom in on the gap or vent the colony is using, and send that picture by text. It is usually enough to sketch a plan and a free quote."),
+    "band": ("A colony in the garage or on the pool deck?", "Stand back, zoom in on the gap or vent the colony is using, and send that picture by text. It is the first step toward a plan and a free quote."),
 
     "visit_h": "How a visit runs in a Sunny Isles Beach building",
     "visit": [
@@ -60,7 +60,7 @@ CITY = {
     "alarm": "Get a door between you and the bees first: the building lobby, a stairwell or your car all work, so pull it shut behind you. Swatting and spraying make it worse. If the person was hit dozens of times, their lips or eyelids puff up, or breathing gets tight, dial 911 before anything else. Our line is staffed around the clock, and a live stinging call outranks every other job on the board.",
 
     "faqs": [
-        ("Management wants an insurance certificate before you come. Is that possible?", "Yes. Our licensing and liability coverage are current, and a COI naming your association can reach the management office days before the appointment. If the building needs particular wording on the certificate, mention it on the first call so the paper is ready before anyone arrives."),
+        ("Management wants an insurance certificate before you come. Is that possible?", "Yes. Our licensing and liability coverage are current, and a COI naming your association can reach the management office ahead of the appointment. If the building needs particular wording on the certificate, mention it on the first call so the paper is ready before anyone arrives."),
         ("The bees are on my balcony, not in a common area. Who arranges it?", "Usually the owner calls, but the association often has rules about work on balconies and exterior walls. We can talk to both. If the comb is inside the building envelope, the manager will likely want to approve the opening and the repair before we start."),
         ("Will removing a colony from a high floor mean scaffolding?", "Not necessarily. A colony on a tower can often be reached from a balcony, a roof deck or the inside of a wall or ceiling. If the comb sits somewhere that truly needs lift equipment, the free quote will say so before any work is scheduled."),
         ("Is there a spray option for a crowded pool deck?", "Live relocation is the only service offered, so the answer stays the same even beside a busy pool or a garage full of cars. The bees leave your building alive, along with their brood comb, bound for a beekeeper's hive box."),

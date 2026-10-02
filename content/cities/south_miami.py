@@ -13,8 +13,8 @@ CITY = {
         "your mind is likely in an oak hollow, under barrel tile or behind 1920s plaster. Each is opened "
         "only as wide as the comb, and the bees ride off alive in a hive box to a beekeeper. A low branch "
         "or lawn box sits near $300 to $400. Tile lifting or wall repair pushes the bill higher, "
-        "sometimes to several thousand. Ring at 2 a.m. if you must: a person "
-        "picks up, and our 24-hour response guarantee covers the visit."
+        "sometimes into the thousands. Ring at 2 a.m. if you must: a person "
+        "picks up, and our 24-hour response guarantee applies."
     ),
     "glance": [
         ("Incorporated", "June 1927; it started out as a town"),
@@ -78,8 +78,8 @@ CITY = {
          "are held to single-family zoning to protect nearby wellfields. Yards with trees, sheds and "
          "fences give a passing swarm plenty of places to land."),
         ("Madison Square",
-         "One of the city's oldest neighborhoods, the historically Black community that grew up around "
-         "St. John's AME Church, built on land donated in 1916. Houses and church "
+         "The city's historically Black neighborhood, home to its first church, "
+         "St. John's AME, which stands on land donated in 1916. Houses and church "
          "buildings here have the same eaves, vents and wall voids a swarm looks for anywhere in town."),
         ("South of U.S. 1 and along Brewer Canal",
          "This part of the city sits in the federally mapped 100-year floodplain, and the city's flood "
@@ -121,7 +121,7 @@ CITY = {
     ],
     "band": ("Bees settling into the house right now?",
              "Two phone pictures do it: a close one of the gap and a wider one placing it on the wall "
-             "or roofline. Text them and the South Miami job can be priced before anyone drives over."),
+             "or roofline. Text them and we can talk through the South Miami job before anyone drives over."),
     "visit_h": "What a visit in South Miami looks like",
     "visit": [
         ("Tell us the spot",

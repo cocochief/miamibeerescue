@@ -31,7 +31,7 @@ SERVICE = {
          "Florida treats bees as both a pest and part of agriculture, and the state rule that separates the two is specific. Under Rule 5E-14.151 of the Florida Administrative Code, removing and relocating bees from a structure, lawn or ornamental planting for honey production or crop pollination is not pest control when a beekeeper registered with the state does it. Removing bees to get rid of them as pests is pest control, and the agriculture department reserves eradication for pest control firms holding a state license. That split hands you a useful question for any company you call: where are the bees going? A clear answer names a beekeeper. If nobody can tell you, assume the plan is poison, and keep looking."),
     ],
     "band": ("Ask where your bees will live",
-             "The name of the apiary your colony is headed to is part of the plan you get when you call or text a photo of the bees' entry hole."),
+             "Where your colony is headed is a fair thing to ask when you call or text a photo of the bees' entry hole, and the answer is a beekeeper."),
     "takeout_h": "How a relocation job runs",
     "takeout": [
         ("Find the whole nest",
@@ -46,7 +46,7 @@ SERVICE = {
          "Leftover wax is scraped out, the hollow is cleaned and the entry is sealed so the lingering scent does not pull a new swarm into the same space."),
     ],
     "putback": "Moving the colony is wasted effort if the hollow stays open, because a cleaned-out wall still smells like a home to the next scout bees. After the comb comes out, the space is scraped to bare surfaces and honey residue is wiped away. The entry gap is closed, and any stucco, soffit, drywall or tile removed to reach the nest is rebuilt by licensed tradespeople on our own crew, including roofers and painters, as part of [[svc:repairs|repairs after removal]]. A warranty stands behind that workmanship, so a colony settling again where we closed things up earns you a return trip. Ask for pictures and an itemized bill, and both come with the job.",
-    "price": "Bees reachable from the ground, like a hedge clump or a meter box nest, usually cost $300 to $400. Colonies built deep inside a wall, roof or ceiling cost more, sometimes into the thousands, because the price then covers opening the structure, saving the comb and repairing what was opened. Need someone out after dark, or on a Sunday? That urgency adds to the bill. The quote is free, and the invoice is itemized, so you can see which part pays for the bees' move and which part pays for your building. Ranges for other jobs sit on the [[page:cost|pricing overview]].",
+    "price": "Bees reachable from the ground, like a hedge clump or a meter box nest, usually cost $300 to $400. Colonies built deep inside a wall, roof or ceiling cost more, sometimes into the thousands, because the price then covers opening the structure, saving the comb and repairing what was opened. Need someone out after dark, or on a Sunday? That urgency adds to the bill. The quote is free, and an itemized invoice is yours on request, so you can see which part pays for the bees' move and which part pays for your building. Ranges for other jobs sit on the [[page:cost|pricing overview]].",
     "price_factors": [
         "The depth of the comb inside the wall, roof or ceiling, which sets how many panels or tiles come off",
         "Whether a ladder, lift or roof access is needed to reach the entrance safely",
@@ -59,7 +59,7 @@ SERVICE = {
         ("miami-beach",
          "Miami Beach sits on barrier islands between Biscayne Bay and the Atlantic, packed with Art Deco buildings and high-rise condos. A condo lot or a tight courtyard is no place to keep a hive box, so a colony captured there usually leaves over a causeway to the mainland."),
         ("redland",
-         "Zoning in this unincorporated farm district keeps each house on five acres or more, among avocado groves and orchid and plant nurseries. Boxing a colony and trucking it off avoids putting insecticide anywhere near a grower's stock."),
+         "Zoning in this unincorporated farm district keeps each house on five acres or more, among avocado groves and ornamental plant nurseries. Boxing a colony and trucking it off avoids putting insecticide anywhere near a grower's stock."),
         ("homestead",
          "Homestead, incorporated in 1913, sits between Biscayne and Everglades national parks with farmland at its edges. Relocating a colony from a house there keeps insecticide out of yards that sit close to working fields."),
         ("kendall",
@@ -81,7 +81,7 @@ SERVICE = {
     ],
     "related": ["live-honey-bees", "beehives", "swarms", "honeycomb-cleanup", "repairs"],
     "close": ("Give your bees somewhere to go",
-              "Extraction, the receiving apiary and the repair work are all covered in the reply to the quote form below, and a photo of the entry helps."),
+              "Extraction, the drive to a beekeeper and any repair can all sit on one free quote; the form below, plus a photo of the entry, gets it going."),
     "facts": [
         "Beekeepers hired for live honey bee removal must be registered with the Florida Department of Agriculture and Consumer Services but need not hold a Chapter 482 pest control license; only a licensed pest control company may eradicate a colony; consumers are advised to ask about relocation destinations; genetic testing is required to tell African from European honey bees (source: https://www.fdacs.gov/Consumer-Resources/Consumer-Rights-and-Responsibilities/Pest-Control/Honey-Bee-Removal-or-Eradication-in-Florida)",
         "Rule 5E-14.151, F.A.C., 'Removal and Relocation of Bees from Structures, Lawns or Ornamentals': removal and relocation by a beekeeper registered under s. 586.045 for honey production or pollination is not pest control; removal to eliminate bees as a pest, or by an unregistered person, is pest control (source: https://www.law.cornell.edu/regulations/florida/Fla-Admin-Code-Ann-R-5E-14-151 and https://www.flrules.org/gateway/ruleNo.asp?id=5E-14.151)",

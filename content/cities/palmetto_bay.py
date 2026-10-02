@@ -12,7 +12,7 @@ CITY = {
         "Estate-zoned parcels in Palmetto Bay start at 15,000 square feet, so the colony may be in a shed, a back-fence tree "
         "or a valve box rather than the house. The crew walks the whole parcel, follows the foragers, checks the suspect wall "
         "with a thermal camera, and a beekeeper rehomes the bees alive. Ground-level hives run roughly $300 to $400. A hive up "
-        "in an upper-floor wall, or tucked beneath roof tile, needs framing cut and rebuilt, which can reach the thousands. The quote costs "
+        "in an upper-floor wall, or tucked beneath roof tile, needs an opening cut and rebuilt, which can reach the thousands. The quote costs "
         "nothing, and the phone is answered at any hour."
     ),
     "glance": [
@@ -35,7 +35,7 @@ CITY = {
     ),
     "hotspots_h": "From the back fence to the roofline: common nest sites",
     "hotspots": [
-        ("Upper-floor wall voids", "The village's single-family zoning districts cap homes at two stories, and that second floor is where an unnoticed colony can fill a wall cavity for months. Bees coming and going from one crack near the roofline is the usual tell."),
+        ("Upper-floor wall voids", "The village's E-M and R-1 single-family districts cap homes at two stories, and that second floor is where an unnoticed colony can fill a wall cavity for months. Bees coming and going from one crack near the roofline is the usual tell."),
         ("Soffits and eaves", "Long rooflines on a wide house mean a lot of soffit. A single loose vent screen or a split board gives scouts a way in, and the comb hangs down into the attic side, out of sight from the yard."),
         ("Sheds and outbuildings", "The village regulates accessory buildings separately, and a bigger lot tends to collect them: tool sheds, pump houses, a detached garage. Unused corners and the space under a raised floor are favorite spots."),
         ("Trees at the back fence", "Older shade trees and palms toward the rear of a lot can hold a colony in a trunk cavity or a palm's frond bases, sometimes far enough from the house that it goes unnoticed until someone mows close to it."),
@@ -46,7 +46,7 @@ CITY = {
     "streets": [
         ("Old Cutler Road corridor", "State lawmakers gave this road historic-highway status in 1974, and it follows a natural limestone ridge along the bay. Where big trees overhang a house, trees and roof edges get checked together, with the truck parked off the travel lane."),
         ("The bay side", "East of Old Cutler, the village runs to Biscayne Bay and Deering Bay Drive. Thalatta Estate Park keeps mangroves on its bayfront, and with the Deering hammock nearby, a colony in a bayside house may have come from very close by."),
-        ("Old Cutler town site", "The pioneer town of Cutler grew up around what is now SW 168th Street, beside today's Deering Estate, and Cutler was later a census-designated place until the village took it in. Ask us about gates, dogs and driveway length when you call, so the crew arrives ready."),
+        ("Old Cutler town site", "The pioneer town of Cutler grew up around what is now SW 168th Street, beside today's Deering Estate, and Cutler was later a census-designated place until the village took it in. Tell us about gates, dogs and driveway length when you call, so the crew arrives ready."),
         ("East Perrine", "This former census-designated place, named for Henry Perrine, became part of Palmetto Bay at incorporation. Where houses sit closer together, a swarm on one roof can matter to the neighbors too."),
         ("Coral Reef Park and SW 152nd Street", "The park covers more than 50 acres, with a canal and pineland areas. A passing cluster on a gate post or mailbox near open green space like this often moves off on its own within a day or so."),
         ("Downtown and the U.S. 1 split", "Between SW 168th and SW 183rd Streets the highway lanes separate, with businesses in between, and the village's downtown code steers its downtown district toward compact mixed-use buildings. Ground-floor shops mean bees near a doorway become a public problem fast."),
@@ -76,7 +76,7 @@ CITY = {
             "Much of the village's bay side is preserve. The Deering Estate's hammock and the pinelands "
             "at Coral Reef Park offer honey bees hollow trees and forage, and colonies that grow strong out there will swarm.\n\n"
             "A swarm on a branch or fence is a cluster of bees waiting while scouts pick a new home. It is usually calm, and it may leave "
-            "within a day or so. Leave it be: no hose, no spray, nobody poking at it with a rake. A photo by text lets us judge whether "
+            "within a day or so. Leave it be: no hose, no spray, nobody poking at it with a rake. A photo by text helps us gauge whether "
             "it is moving on or moving in. A cluster still hanging the next morning, or bees filing into a crack in the siding, means "
             "it is time to book a pickup. Read more about [[svc:swarms|swarm pickup]] and "
             "[[guide:scout-bees|scouts checking out the house]]."

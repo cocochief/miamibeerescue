@@ -131,12 +131,12 @@ CITY = {
          "[[guide:second-home|seasonal home guide]] covers what a neighbor or caretaker can do while you are away."),
     ],
     "band": ("Something living under your roof tile?",
-             "Text us one clear photo of the entrance hole and the bees around it, and we will say what it looks like."),
+             "Text us one clear photo of the entrance hole and the bees around it, and pricing the job costs you nothing."),
     "visit_h": "How a visit to a Shores home runs",
     "visit": [
         ("Photo first, then a call",
-         "A single photo of the hole the bees use, plus a word on where it is (wall, roof, tree or box), tells us "
-         "most of what we need. Mention any stings at the top of the call, since those go ahead of everything else."),
+         "A single photo of the hole the bees use, plus a word on where it is (wall, roof, tree or box), gets the "
+         "conversation started. Mention any stings at the top of the call, since those go ahead of everything else."),
         ("A walk around with the camera",
          "The crew parks on your street, walks the outside of the house with a thermal camera and marks where the "
          "comb sits. You hear the price before any tile is lifted or stucco cut."),
@@ -165,7 +165,7 @@ CITY = {
          "the house. The comb left behind softens in summer heat and the honey can leak and stain. The colony comes "
          "out first, then the tile is reset and the gap closed. See [[svc:roofs|tile roof work]] for the steps."),
         ("Where do the bees end up once they are out of my wall or roof?",
-         "No. The colony leaves your property alive and goes to a beekeeper, who moves it to a new home; live "
+         "To a beekeeper. The colony leaves your property alive and goes to that keeper, who moves it to a new home; live "
          "removal is all we do. Honey bees are pollinators, and a colony from your yard can be kept somewhere it bothers "
          "nobody. Read about [[svc:relocation|relocation to beekeepers]]."),
         ("There's a swarm in the tree out front. Do I have to do anything?",

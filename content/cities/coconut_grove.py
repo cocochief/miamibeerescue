@@ -70,7 +70,7 @@ CITY = {
     ],
 
     "band": ("Bees in an old oak or a rock wall?",
-             "Text a photo of the entry hole and get a straight read on the job before anyone climbs a ladder."),
+             "Text a photo of the entry hole so the conversation starts before anyone climbs a ladder."),
 
     "visit_h": "How a Grove visit goes",
     "visit": [

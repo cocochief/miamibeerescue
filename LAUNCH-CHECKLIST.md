@@ -99,8 +99,10 @@ are drawn from shapes by `tools/brand_images.py`.
 - [ ] Take your own photos on Miami-Dade jobs: comb in a wall cavity, a
       swarm cluster, the thermal camera view, a finished repair. Never use
       stock photos or photos from another business or website.
-- [ ] Remove location data (EXIF GPS) before using them. `tools/prep_photos.py`
-      resizes, strips metadata and writes web-ready copies.
+- [ ] Remove location data (EXIF GPS) before using them. `python3 tools/prep_photos.py <folder>`
+      straightens, resizes and strips all metadata, writing copies to `assets/photos/`.
+      Pages don't show photos yet; adding them to a page template in `build.py`
+      is a small change once you have real job photos.
 - [ ] Ask homeowners before photographing anything that shows a house number,
       a face or a car plate.
 - [ ] Add the best ones to the Google Business Profile as they come in.

@@ -247,7 +247,7 @@ CORE = {
              "Comb under roof tile, above a ceiling, high in a soffit or spread through several cavities. These need lifts "
              "or roof work, more hours inside the cavity, and finish work to put the surface back."),
             ("Free", "The quote itself",
-             "Photos by text often get you a working range the same conversation. A firm number follows once we have "
+             "Photos by text help us gauge the work before anyone drives out, and a firm number follows once we have "
              "looked at the spot."),
             ("Higher after hours", "Nights and weekends",
              "Pulling a crew out at night or over a weekend carries a premium over the Monday-to-Friday rate. If the bees are not "
@@ -265,7 +265,7 @@ CORE = {
             ("Access and paperwork", "Guard gates, condo boards, elevator bookings and certificates of insurance take time "
              "to arrange, which matters for some buildings."),
         ],
-        "band": ("Want a number before you decide?", "A couple of pictures by text, one close on the entry and one wider, let us say which bracket your job probably falls in."),
+        "band": ("Want a number before you decide?", "A couple of pictures by text, one close on the entry and one wider, help us gauge which range applies before the free quote is firmed up on site."),
         "body": [
             ("Why spraying ends up the expensive option",
              "Spraying a colony inside a wall can look like the low-cost option, but it leaves pounds of comb and honey in "
@@ -343,7 +343,7 @@ CORE = {
                 ("Does getting the comb out mean opening up drywall or stucco?",
                  "Usually, since wax built behind a surface can only leave through an opening in it. A thermal camera shows where it sits so "
                  "the cut lands on target and stays small."),
-                ("How long does a removal take?",
+                ("How much of my day does a removal eat up?",
                  "A swarm can be boxed quickly. A colony inside a structure usually takes a few hours, longer when it "
                  "spreads across several cavities or sits high up."),
                 ("What happens to the bees?",
@@ -427,8 +427,8 @@ CORE = {
         "h1": "Request Bee Removal Anywhere in Miami-Dade",
         "lede": "Three routes reach the same desk: this short form, a phone call, or a picture sent by text. Pick whichever suits you.",
         "quick": ("The form goes straight to the person who books removals. Expect a callback from our number within 24 "
-                  "hours, sooner when someone is being stung. If you can, text a photo of the entrance as well; it often "
-                  "lets us give you a price range on the first call."),
+                  "hours, with anyone being stung handled first. If you can, text a photo of the entrance as well; it gives "
+                  "the person calling you back something concrete to look at."),
         "alarm": ("Shut everyone, two-legged and four-legged, inside. A sting victim whose face or throat puffs up, "
                   "who struggles to breathe, or who was hit many times needs 911. Then skip the form and phone us."),
         "form_h": "Your removal request",

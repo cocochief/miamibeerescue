@@ -25,7 +25,7 @@ COUNTY = {
     "opening": (
         "Miami-Dade is a big county with a crowded edge. About 2,431 square miles sit inside the "
         "county line, more than a fifth of it water, and roughly a third of the whole county lies "
-        "within Everglades National Park. Most people live on the strip between that park and "
+        "within Everglades National Park. Homes and farms fill the strip between that park and "
         "Biscayne Bay, where 34 cities, towns and villages share the map with an unincorporated area "
         "so large that, by the county's own description, it would be the biggest city in Florida if "
         "it ever incorporated. Voters renamed the place from Dade County to Miami-Dade County in a "
@@ -66,10 +66,10 @@ COUNTY = {
             "[[city:sunny-isles-beach|Sunny Isles Beach]], incorporated in 1997, traded its old motel "
             "strip for high-rise condominiums, so a colony may be many floors up behind a planter or "
             "in a mechanical space. [[city:miami-shores|Miami Shores]] is a village and "
-            "[[city:golden-beach|Golden Beach]] a small oceanfront town. [[city:aventura|Aventura]], "
+            "[[city:golden-beach|Golden Beach]] a town. [[city:aventura|Aventura]], "
             "[[city:north-miami|North Miami]] and [[city:north-miami-beach|North Miami Beach]] fill in "
             "between, and [[city:miami-gardens|Miami Gardens]], incorporated in 2003 and home to Hard "
-            "Rock Stadium, covers the inland stretch up to the county line."
+            "Rock Stadium, sits inland."
         ),
         "west": (
             "Past the airport, the county turns industrial and then suburban. "
@@ -98,7 +98,7 @@ COUNTY = {
         "Plenty of Miami-Dade has no page of its own here, which is a matter of space, not coverage. "
         "Several of these places are small municipalities with real character. Opa-locka, "
         "developed by aviation pioneer Glenn Curtiss and chartered as a town in 1926, holds one of the largest collections "
-        "of Moorish Revival buildings in the Western Hemisphere, domes and parapets included. Indian "
+        "of Moorish Revival buildings in the Western Hemisphere. Indian "
         "Creek is a village of 41 home sites behind a guarded bridge. North Bay Village spreads across "
         "three islands on the 79th Street Causeway, Biscayne Park holds its meetings in a log cabin "
         "village hall, El Portal has been a state bird sanctuary since the 1950s, Medley's tax base is "

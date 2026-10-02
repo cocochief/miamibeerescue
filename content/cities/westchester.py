@@ -90,7 +90,7 @@ CITY = {
     "visit_h": "What a visit to a Westchester home looks like",
     "visit": [
         ("Reading your picture",
-         "Your snapshot of the traffic at the hole usually tells us whether the job is a ground box, a soffit or an opened wall, and the quote follows."),
+         "Your snapshot of the traffic at the hole gives the crew a first look at where the bees are going in; quoting it costs nothing."),
         ("Parking and neighbors",
          "If you have a driveway, the truck parks there and stays off the swale. If the work faces a neighbor's yard, a quick word to them beforehand keeps kids and pets inside."),
         ("Finding and opening the cavity",
@@ -114,8 +114,8 @@ CITY = {
          "That is not something we do; the bees leave alive and settle with a local beekeeper. Killing bees inside a wall also backfires: the dead brood and leftover honey rot, draw pests, and can soak through drywall. Removing the bees and all the comb is the job that actually ends the problem."),
         ("I manage a church building near Coral Way. Can you work with our insurance requirements?",
          "Yes. Tell us who on your board or staff keeps insurance paperwork and the COI will be in their inbox before anyone climbs a ladder. Work can be booked for a weekday when the sanctuary and classrooms sit empty. An itemized invoice and photos are available for your records."),
-        ("A crew patched our addition wall after a removal. Who pays if a new swarm targets that patch?",
-         "Not you. Our repair work carries a warranty. Should a new colony try the same patched opening, a crew returns to that exact place and handles it. Bees moving into a different gap elsewhere on the house is a separate problem, which the quote will explain."),
+        ("A crew patched our addition wall after a removal. What if a new swarm targets that patch?",
+         "Our repair work carries a warranty. Should a new colony try the same patched opening, a crew returns to that exact place and handles it. Bees moving into a different gap elsewhere on the house is a separate problem, which the quote will explain."),
     ],
     "services": [
         ("walls", "Mid-century additions and patched stucco leave hollow spots where Westchester colonies build out of sight."),

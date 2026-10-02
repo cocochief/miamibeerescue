@@ -33,7 +33,7 @@ SERVICE = {
     ],
 
     "band": ("Is the overhang humming right now?",
-             "Snap a photo of the gap where bees enter, text it over, and you will hear back on what opening it up involves."),
+             "Snap a photo of the gap where bees enter, text it over, and we will call to talk through next steps."),
 
     "takeout_h": "How an eave colony comes out",
     "takeout": [
@@ -65,7 +65,7 @@ SERVICE = {
         ("coral-gables",
          "[[city:coral-gables|Coral Gables]] was planned in the 1920s almost entirely in Mediterranean Revival style, and the city is known for strict zoning. When an eave there has to be opened, matching the original trim and color counts as much as getting the bees out."),
         ("miami-lakes",
-         "[[city:miami-lakes|Miami Lakes]] was built from 1962 as a master-planned community of curving, tree-shaded roads and curving lakes. Soffits under mature canopy stay cool and out of the wind, and branches close to the roofline can make ladder placement tricky."),
+         "[[city:miami-lakes|Miami Lakes]] was built from 1962 as a master-planned community, with tree-shaded roads bending around its many lakes. Soffits under mature canopy stay cool and out of the wind, and branches close to the roofline can make ladder placement tricky."),
         ("kendall",
          "Parts of [[city:kendall|Kendall]] took the brunt of Hurricane Andrew in 1992. Where a house had its soffit or fascia patched after the storm, the joints between old and new trim are worth a close look when bees appear."),
         ("homestead",
@@ -90,7 +90,7 @@ SERVICE = {
     "related": ["roofs", "walls", "repairs", "honeycomb-cleanup", "swarms"],
 
     "close": ("Get the eave opened, emptied and shut",
-              "Text over a shot of the overhang, or fill in the form below; either one gets you a free written quote that spells out every step of the job."),
+              "Text over a shot of the overhang, or fill in the form below; either one starts your free quote."),
 
     "facts": [
         "A soffit is the horizontal underside of the roof edge, usually the underside of the eaves; fascia is the vertical band at the roof edge; soffits and fascias are typically fastened to lookout rafters; soffits may be ventilated (source: https://en.wikipedia.org/wiki/Soffit)",

@@ -90,8 +90,8 @@ GUIDE = {
         ),
         (
             "Miami's calendar keeps the scouts busy",
-            "In a place with real winters, a swarm that misses its chance in spring waits until "
-            "next year. Miami's tropical monsoon climate rarely gets anywhere near freezing, so "
+            "In a place with real winters, colonies sit out the cold months clustered tight, and "
+            "swarming is squeezed into a short spring window. Miami's tropical monsoon climate rarely gets anywhere near freezing, so "
             "colonies stay active through the cooler months. University of Florida extension "
             "advice names March through July as swarming season and suggests checking your "
             "property weekly during those months.\n\n"
@@ -129,7 +129,7 @@ GUIDE = {
     ],
     "band": (
         "Bees back in the same crack?",
-        "Fresh swarm, or comb that never came out? Text a clear shot of the entry gap and we can help you tell which one you have.",
+        "Fresh swarm, or comb that never came out? Text a clear shot of the entry gap, and the visit can be planned from there.",
     ),
     "checklist_h": "Shutting the vacancy for good",
     "checklist": [

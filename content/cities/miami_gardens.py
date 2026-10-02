@@ -61,7 +61,7 @@ CITY = {
     "streets": [
         ("Carol City",
          "The community with the odd name: the developer wanted Coral City and "
-         "swapped two letters after a lawsuit threat from [[city:coral-gables|Coral Gables]]. Much of it was "
+         "swapped two letters after a lawsuit threat from [[city:coral-gables|Coral Gables]]. Parts of it were "
          "still farmland in the 1960s, so the age of a house, and the condition of its trim, varies by block."),
         ("Norland",
          "Also known as Norwood, it covers about 3.7 square miles and includes Miami "
@@ -96,7 +96,7 @@ CITY = {
          "or dryer hole low on the stucco points to [[svc:walls|wall cavity removal]] instead."),
         ("Stadium grounds, campuses and big sites",
          "Hard Rock Stadium opened in 1987, has hosted six Super Bowls, took in the Miami Open tennis tournament in "
-         "2019, and from 2022 has wrapped a temporary Formula One circuit around its grounds. Nearby, St. Thomas "
+         "2019, and from 2022 has hosted a Formula One circuit on its grounds. Nearby, St. Thomas "
          "University spreads over about 150 acres, and Florida Memorial University, a historically Black "
          "university, moved to its roughly 50-acre campus here in 1968."
          "\n\n"
@@ -117,15 +117,15 @@ CITY = {
          "than a Tuesday morning. If an insurer or a buyer will want proof, request pictures and an itemized invoice."),
     ],
     "band": ("Seeing bees work one corner of your roof?",
-             "Snap the corner from the driveway and text it over; a single picture tells the crew which ladder and tools to load."),
+             "Snap the corner from the driveway and text it over; a picture helps the crew plan which ladder and tools to bring."),
     "visit_h": "How a visit runs in Miami Gardens",
     "visit": [
         ("Picture from the driveway",
          "Stand at the end of the driveway, well clear of the flight path, and photograph the spot the bees use. "
-         "That one image shows whether the job is a curbside box, an eave needing a tall ladder, or a wall the "
+         "That image often hints whether the job is a curbside box, an eave needing a tall ladder, or a wall the "
          "thermal camera has to read first."),
         ("Check the stadium calendar",
-         "If you live near Hard Rock Stadium, mention any game, concert or race day. We will pick a window that "
+         "If you live near Hard Rock Stadium, mention any game, concert or race day. We will aim for a window that "
          "keeps the truck out of event traffic."),
         ("Camera, cut, vacuum",
          "The crew locates the warm cluster, opens only as much as it must, and draws the bees into a ventilated "
@@ -144,15 +144,15 @@ CITY = {
         ("My Carol City house dates from the 1960s. Is that why the bees found it?",
          "Partly. Age opens seams in trim, vents and roof edges, and scouts test every one. A newer house can "
          "still get bees, but a home that has been patched by several owners offers more choices. Send a photo of "
-         "where they are flying in and the crew can judge how deep the colony goes."),
+         "where they are flying in, and the crew can start planning before the thermal camera confirms how deep the colony goes."),
         ("Killed or relocated: what happens to a colony living in my soffit?",
-         "No. Live bees are vacuumed into a box, the soffit comb comes out by hand, and the colony is relocated by a beekeeper. "
+         "Relocated, never killed. Live bees are vacuumed into a box, the soffit comb comes out by hand, and the colony is relocated by a beekeeper. "
          "Poisoning bees inside a soffit would also leave honey and wax to ferment and attract roaches and ants, so "
          "removal protects the house as well."),
         ("Our street fills up on Dolphins game days. Will that delay a visit?",
          "It only changes the plan, not the promise. Tell us about the event when you call so the crew arrives "
-         "before traffic builds or after it clears. If anyone is being stung, the 24-hour response guarantee "
-         "applies no matter what is on at the stadium."),
+         "before traffic builds or after it clears. The 24-hour response guarantee "
+         "applies no matter what is on at the stadium, and anyone being stung still comes first."),
         ("I rent a house in Norland. Is the bee problem mine or my landlord's?",
          "Either of you can call, but the owner normally signs off on cutting into the building and on the repair. "
          "Tell your landlord early. We can copy the quote, the photos and the itemized invoice to both of you."),

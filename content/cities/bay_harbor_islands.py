@@ -60,8 +60,8 @@ CITY = {
          "are the association's decision, so bring the manager in early. A COI goes to the board before we arrive, and we can "
          "work around resident schedules."),
         ("Kane Concourse and 96th Street",
-         "State Road 922 crosses the islands along Kane Concourse and leaves by 96th Street toward State Road A1A. Shops line "
-         "this stretch, so for a storefront job we ask where a truck can stand and when work in front of the door is least "
+         "State Road 922 crosses the islands along Kane Concourse and leaves by 96th Street toward State Road A1A. For a "
+         "storefront job on this stretch, we ask where a truck can stand and when work in front of the door is least "
          "disruptive."),
         ("Along Indian Creek",
          "Indian Creek separates the East Island from [[city:bal-harbour|Bal Harbour]] and [[city:surfside|Surfside]]. "
@@ -102,7 +102,7 @@ CITY = {
          "before the bees start building comb."),
     ],
     "band": ("Bees in the breeze block or the roof?",
-             "A phone picture of the screen block, walkway ceiling or parapet usually tells us what the job needs. Send it by text and we will reply with what we see."),
+             "A phone picture of the screen block, walkway ceiling or parapet helps us plan the visit. Send it by text and we will call back to talk it through."),
     "visit_h": "What happens once you call about East or West Island bees",
     "visit": [
         ("Call or send a photo",

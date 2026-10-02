@@ -62,8 +62,8 @@ SERVICE = {
             "goes in with the building permit application. Florida "
             "statute also treats roofing as its own contracting trade, covering the install, repair and "
             "alteration of every kind of roof.\n\n"
-            "For you, that means the person who lifts your tile should not be the only one who puts it "
-            "back. Our own licensed roofers reset the tile, replace broken pieces and repair felt or "
+            "For you, that means your tile should go back on under a licensed roofer, not just whoever "
+            "lifted it. Our own licensed roofers reset the tile, replace broken pieces and repair felt or "
             "membrane so the roof stays a proper roof, not a patch left by a bee crew. "
             "[[svc:repairs|Repairs after removal]] covers the wider set of trades we use."
         ),
@@ -79,7 +79,7 @@ SERVICE = {
     ],
     "band": (
         "Bees under a tile right now?",
-        "Stand in the yard, photograph the tile where the bees go in, send it by text, and you will hear back on what the roof job involves.",
+        "Stand in the yard, photograph the tile where the bees go in, send it by text; pricing the roof work costs you nothing.",
     ),
     "takeout_h": "How the colony comes off the roof",
     "takeout": [
@@ -191,7 +191,7 @@ SERVICE = {
             "My HOA manages the roof. Who should call you?",
             "Whoever is responsible for the roof can make the call, owner or manager. Shared roofs often come with "
             "a board rule that a COI be on file before a crew climbs up, so we send that certificate directly to "
-            "the manager, while the unit owner still receives the photos and invoice. For boards, the "
+            "the manager, while the unit owner can still ask for the photos and invoice. For boards, the "
             "[[svc:hoa-commercial|HOA and property manager page]] covers what else to request.",
         ),
         (

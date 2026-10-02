@@ -44,7 +44,7 @@ CITY = {
     "band": ("Bees on the island right now?", "A quick call, or a snapshot of the cluster sent from your phone, gets the island clearance moving while the crew packs for the crossing."),
     "visit_h": "How a Fisher Island visit runs",
     "visit": [
-        ("Photo and a plan", "Send a picture from your phone showing the cluster or the gap they use. From that we judge the type of job, give a likely price and pick a date that works for you."),
+        ("Photo and a plan", "Send a picture from your phone showing the cluster or the gap they use. That gives us a first look at the job before the free quote, and we settle a date with you."),
         ("Clearance before the trip", "We arrange security clearance for the crew ahead of the crossing and confirm with your security desk or manager, so arrival and the gate check go smoothly."),
         ("Removal and relocation", "On the island the crew locates the colony, with a thermal camera if it is hidden, takes out bees and comb alive and boxes them for a beekeeper on the mainland."),
         ("Seal, repair, document", "Openings are sealed and tile or stucco is repaired by our own trades. Ask for pictures and a line-by-line invoice if your office files them, and the warranty stands behind each closed opening."),

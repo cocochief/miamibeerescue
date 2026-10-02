@@ -42,10 +42,10 @@ CITY = {
     "band": ("A steady line of bees at your stucco?", "Phone or send a picture day or night; pricing is free, and every bee leaves alive for a beekeeper's yard."),
     "visit_h": "How a Cutler Bay visit runs",
     "visit": [
-        ("Picture before the trip", "A phone shot of where the bees enter, taken from a safe distance, usually separates a hedge swarm from a settled colony in block, tile or a valve box."),
+        ("Picture before the trip", "A phone shot of where the bees enter, taken from a safe distance, gives the crew an early read on whether they face a hedge swarm or a settled colony in block, tile or a valve box."),
         ("Scan before cutting", "On site, thermal imaging traces the warm comb inside the wall or roof, so the opening is made over the hive itself instead of in several guessing spots."),
         ("Out alive, then closed up", "Bees and comb come out together and go to a beekeeper. Honey residue is cleaned out so it stops attracting scouts, and the entry is sealed before the repair crew finishes."),
-        ("Paperwork if your board needs it", "If your association or landlord needs a certificate of insurance before work on common areas, say so on the call. For the manager's records, we can also document the wall opening and seal in images and break each charge out separately."),
+        ("Paperwork if your board needs it", "If your association or landlord needs a certificate of insurance before work on common areas, say so on the call. For the manager's records, the wall opening and seal can also be documented in images, with each charge broken out separately, on request."),
     ],
     "alarm": "Bees chasing or stinging someone this minute? Get indoors quickly and close the doors behind you; bring pets in too. Leave the hose and the bug spray alone, since both make a colony angrier. A swollen tongue, tight throat or wheezing means 911 first, then our line, where stings jump the queue.",
     "faqs": [

@@ -37,7 +37,7 @@ CITY = {
         ("Shop plantings and overhangs",
          "Bal Harbour Shops is an open-air center, so its planters, overhangs and sign cavities are outdoors where a passing swarm can land. Bees near a busy walkway are a crowd-safety matter first, and the crew's timing is set with center management."),
         ("Beach paths and the jetty",
-         "Near the jetty at the north end and along the beach access paths, shore plantings can hold a resting swarm. A swarm hanging on a branch is usually scouting for a home and may leave within a day or two, but call if it stays or people use that path."),
+         "Near the jetty at the north end and along the beach access paths, shore plantings can hold a resting swarm. A swarm hanging on a branch is usually resting while its scouts look for a home, and that cluster tends to move off after a day or two, but call if it stays or people use that path."),
     ],
 
     "streets_h": "Notes for each part of the village",
@@ -68,7 +68,7 @@ CITY = {
     ],
 
     "band": ("Bees at a balcony or a meter box?",
-             "One picture from your phone, plus the tower or street, is enough for a first read and a free price."),
+             "One picture from your phone, plus the tower or street, is a good start toward a free quote."),
 
     "visit_h": "How a visit runs in Bal Harbour",
     "visit": [

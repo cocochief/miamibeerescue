@@ -8,12 +8,12 @@ CITY = {
     "h1": "Honey Bee Removal in Homestead, Where Town Meets Farm",
     "kicker": "South Dade, farm edge",
     "lede": "Homestead grew up around a rail stop and was largely rebuilt after 1992, with groves and nurseries pressing against its western streets. Honey bees find plenty to work with here, and we take them out alive.",
-    "quick": "Roughly 70 percent of the homes Andrew damaged in Homestead were repaired or rebuilt within two years, so many roofs, soffits and block walls here share the same post-1992 details and the same small gaps. A colony behind stucco or inside a boxed eave is located with a thermal camera, lifted out alive with its comb and handed to a beekeeper, after which our own contractors rebuild that spot. The quote is free, and a picture of where the bees are going in, sent from your phone, is all it takes to get one inside our 24-hour window.",
+    "quick": "Roughly 70 percent of the homes Andrew damaged in Homestead were repaired or rebuilt within two years, so many roofs, soffits and block walls here share the same post-1992 details and the same small gaps. A colony behind stucco or inside a boxed eave is located with a thermal camera, lifted out alive with its comb and handed to a beekeeper, after which our own contractors rebuild that spot. The quote is free, and a picture of where the bees are going in, sent from your phone, is all it takes to start one, and a reply comes inside our 24-hour response window.",
     "glance": [
         ("Incorporated", "February 8, 1913"),
         ("Rail stop opened", "July 1904, on the Florida East Coast Railway"),
         ("2020 census", "80,737 residents"),
-        ("Elevation", "Roughly 3 feet, close to the bay's own level"),
+        ("Elevation", "Roughly 3 feet"),
         ("Between two parks", "Biscayne National Park to the east, Everglades National Park to the west"),
     ],
     "opening": (
@@ -21,7 +21,7 @@ CITY = {
         "Just northwest, [[city:redland|the Redland]] grows avocados, mangoes, lychees and nursery stock on red clay over limestone; "
         "to the south and west, the city runs straight into [[city:florida-city|Florida City]]. Put rooftops beside that much open bloom and a colony gets everything on its list: "
         "steady forage, warm weather most of the year, and a dry cavity to build in.\n\n"
-        "The houses add their own chapter. On August 24, 1992, Hurricane Andrew made its mainland landfall a short way northeast of town and wrecked almost every mobile home in the city. "
+        "The houses add their own chapter. On August 24, 1992, Hurricane Andrew made landfall a short way northeast of town and wrecked almost every mobile home in the city. "
         "Within about two years, roughly 70 percent of the damaged or destroyed homes had been repaired or rebuilt. "
         "So a large share of the roofs, soffits and block walls you see here are post-storm work. Newer does not mean sealed, though. A gap the width of a pencil at a roof return or around a pipe is enough for scouts to claim, "
         "and once comb goes in, the colony needs to come out whole. Our [[svc:live-honey-bees|live removal]] approach is built for that."
@@ -51,7 +51,7 @@ CITY = {
     "streets_h": "Notes on Homestead's districts",
     "streets": [
         ("Historic Downtown",
-         "The Homestead Historic Downtown District joined the National Register in 2007 and includes a 1921 theater redesigned in Streamline Moderne style after a 1940 fire. "
+         "The Homestead Historic Downtown District was designated in 2007 and includes a 1921 theater redesigned in Streamline Moderne style after a 1940 fire. "
          "Older storefront buildings can have flat roofs, parapets and shared walls, so access and tenant notice get planned before any cut."),
         ("Southwest Area",
          "The city's District 4 covers its southwest, where the Community Redevelopment Agency has backed new affordable homes for qualified buyers. "

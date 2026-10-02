@@ -4,7 +4,7 @@
 SERVICE = {
     "slug": "walls",
     "title": "Bees Living in a Wall? Block & Frame Cavity Removal",
-    "desc": "Thermal imaging maps comb hidden in Miami-Dade block or stud walls, every bee is relocated to a keeper, and our own crews close and refinish the wall.",
+    "desc": "Thermal imaging maps comb hidden in Miami-Dade block or stud walls, the colony is relocated to a keeper, and our own crews close and refinish the wall.",
     "h1": "Bees in the Wall: Concrete Block and Wood-Frame Removal in Miami",
     "kicker": "Inside the wall cavity",
     "lede": "A steady stream of bees at one crack in the stucco means comb hanging in the hollow space behind it. The colony can leave alive, the cavity can be emptied, and the wall can be patched and painted.",
@@ -75,7 +75,7 @@ SERVICE = {
     ],
     "band": (
         "Hum coming through the drywall?",
-        "Text two pictures, the stucco crack up close and then the full wall from across the yard, and it becomes possible to judge which face of the wall probably gets cut.",
+        "Text two pictures, the stucco crack up close and then the full wall from across the yard, and the crew arrives with a first idea of which face may need opening; the thermal scan settles it.",
     ),
     "takeout_h": "How a wall colony comes out",
     "takeout": [
@@ -92,7 +92,7 @@ SERVICE = {
         "If your insurer or board wants a record, request photos of the exposed comb and an itemized bill. The [[svc:repairs|repairs page]] lists what our crews rebuild."
     ),
     "price": (
-        "A colony you can reach at ground level, with little to rebuild, starts around $300 to $400. Wall colonies sit at the far end, "
+        "Low, shallow wall work with little to rebuild usually lands near $300 to $400. Wall colonies sit at the far end, "
         "because cutting block or drywall and then rebuilding stucco, drywall and paint can push the total into the thousands. "
         "Quoting costs you nothing, and the figure is written once the comb has been located, so the number reflects the real opening. "
         "If the wall cannot wait for a weekday, expect the after-hours or weekend premium to show up as its own line. The [[page:cost|cost page]] explains the range."
@@ -125,7 +125,7 @@ SERVICE = {
     ],
     "alarm": (
         "Stings at home, or bees streaming from a wall crack: shut everyone, pets included, into a room on the opposite side of the house. "
-        "Then phone. Whoever was stung moves to the front of the queue, nobody calling at 3 a.m. gets voicemail, and a crew is committed to reach you inside our 24-hour response guarantee. "
+        "Then phone. Whoever was stung moves to the front of the queue, nobody calling at 3 a.m. gets voicemail, and the 24-hour response guarantee holds for a night call too. "
         "Do not plug the hole, spray it or hose the wall, since that pushes bees indoors or turns them on you."
     ),
     "faqs": [

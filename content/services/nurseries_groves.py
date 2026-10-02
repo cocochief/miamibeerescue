@@ -42,7 +42,7 @@ SERVICE = {
         ("Walk the site first",
          "Your manager shows us where crews, pumps and vehicles will be that day. We set a perimeter and agree on which engines stay off until the colony is boxed."),
         ("Map the nest by its heat",
-         "Brood and comb run warm, so [[guide:thermal-imaging|thermal imaging]] shows their outline through a pump house wall, hollow post or grove trunk. That outline tells us where to open up, and how little."),
+         "The brood nest runs warm, so [[guide:thermal-imaging|thermal imaging]] shows its outline through a pump house wall, hollow post or grove trunk. That warm patch tells us where to open up, and how little."),
         ("Cut comb, collect bees",
          "Comb is lifted out piece by piece while a low-suction vacuum pulls the bees into a vented carrier. If the queen turns up, she rides with them."),
         ("Clear every trace of honey",

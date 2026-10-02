@@ -62,7 +62,7 @@ CITY = {
          "Eastern Shores and the buildings around Maule Lake add paperwork. A board will typically ask for a COI before anyone opens a shared wall or goes on the roof, so we email it to management in advance. The [[svc:condos-high-rises|condo and high-rise page]] and [[svc:hoa-commercial|property manager page]] explain scheduling, and owners who leave for part of the year should read the [[guide:second-home|seasonal home guide]] first.\n\n"
          "A mobile home park poses a different access question. The colony is often under the home, so the crew works low, numbering skirting panels and refitting them at the end. For duplexes and rented park homes, [[guide:renters-and-landlords|our renter and landlord guide]] helps settle who makes the call."),
     ],
-    "band": ("Something living in the carport ceiling?", "Text a picture of where they go in and the street or building, and you'll hear our read on it before a truck rolls."),
+    "band": ("Something living in the carport ceiling?", "Text a picture of where they go in and the street or building, so the crew can plan the visit before a truck rolls."),
     "visit_h": "How a North Miami Beach visit runs",
     "visit": [
         ("Call, text or form",
@@ -79,7 +79,7 @@ CITY = {
         ("Our condo association says the bees are in a common wall. Who should call?",
          "Usually the manager or board, since they control access to shared walls and roofs. A unit owner can still phone first to describe what is happening. We send insurance paperwork directly to management, fit the visit to building rules and can send photos for the association's records."),
         ("Bees are under our mobile home in Highland Village. Can you reach them without moving the home?",
-         "Generally, yes. The crew opens the skirting, works underneath and removes bees and comb alive, then refits the panels and patches any torn underbelly. If the colony is inside a wall of the home, thermal imaging finds it first so the opening stays small."),
+         "Generally, yes. The crew opens the skirting, works underneath and takes the bees out alive along with their comb, then refits the panels and patches any torn underbelly. If the colony is inside a wall of the home, thermal imaging finds it first so the opening stays small."),
         ("A big ball of bees is hanging off a tree by the canal. Is that a hive?",
          "Probably a swarm resting while [[guide:scout-bees|scout bees]] hunt for a cavity, and it may be gone by tomorrow. Stay back and leave it unsprayed. If it is still there after a couple of days, or bees begin entering your house, call and we will collect the cluster alive."),
         ("Our buyer's inspector found bees in the wall of our 1950s house. What now?",
@@ -91,7 +91,7 @@ CITY = {
         ("condos-high-rises", "Eastern Shores buildings, balconies and roof rooms need board approval and safe access."),
         ("waterfront-boats", "Canal and lake lots with docks, boat covers and seawall boxes around Maule Lake."),
         ("sheds-garages", "Sheds and carports in Sunray, Uleta and Highland Village yards, often at ground level."),
-        ("emergency", "Bees boiling out of a wall or a stinging on the patio gets priority on our 24/7 phones."),
+        ("emergency", "Comb-filled walls spilling bees, or a person stung on the patio, go to the front on our 24/7 phones."),
     ],
     "nearby": ["north-miami", "aventura", "sunny-isles-beach", "miami-gardens"],
     "close": ("Bees in the block, the soffit or the skirting?", "Ring, send a picture or use the form underneath. A real person answers day and night, and quoting the job costs you nothing."),

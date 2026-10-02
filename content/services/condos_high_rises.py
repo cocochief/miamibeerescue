@@ -67,7 +67,7 @@ SERVICE = {
         ("sunny-isles-beach",
          "[[city:sunny-isles-beach|Sunny Isles Beach]] redeveloped in the early 2000s with mostly high-rise condominiums along the beach side of Collins Avenue, so pool decks, oceanfront planters and rooftop mechanical areas all offer hollows a colony can claim."),
         ("aventura",
-         "[[city:aventura|Aventura]], incorporated as a city in 1995 and named after the developers of the area's original condominiums, has residential high-rises ringing the golf course at its center, and their garages and landscaped podium decks give bees plenty of sheltered space."),
+         "[[city:aventura|Aventura]], incorporated as a city in 1995 and named after the developers of the area's original condominiums, has residential high-rises overlooking the golf course at its center, and their garages and landscaped podium decks give bees plenty of sheltered space."),
         ("key-biscayne",
          "Condominium complexes drove the population surge in the village of [[city:key-biscayne|Key Biscayne]], growth that followed the 1947 opening of the Rickenbacker Causeway to the mainland, and every visit there gets planned as one well-stocked trip over the water."),
     ],

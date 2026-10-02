@@ -58,7 +58,7 @@ CITY = {
     "streets_h": "Notes on the communities inside West Kendall",
     "streets": [
         ("Kendall West",
-         "The westernmost piece, with farmland and undeveloped land to its west and north. Its "
+         "A piece on the western edge, with farmland and undeveloped land to its west and north. Its "
          "population grew more than sixfold in the 1990s, so much of the housing dates from that wave "
          "of building."),
         ("Kendale Lakes",
@@ -78,7 +78,7 @@ CITY = {
          "of its area is water, so plenty of homes have a lake behind them and plantings along "
          "the bank."),
         ("Country Walk",
-         "Built by Arvida from 1978 to 1994, then flattened by Hurricane Andrew and rebuilt with "
+         "Built by Arvida from 1978 to 1994; Hurricane Andrew flattened it in 1992, and the homes were rebuilt with "
          "concrete walls in place of wood framing. Roughly 1,600 homes sit in six sub-associations "
          "under a master association with its own clubhouse."),
     ],
