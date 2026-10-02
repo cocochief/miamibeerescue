@@ -4,8 +4,8 @@
 SERVICE = {
     "slug": "hoa-commercial",
     "title": "Commercial Bee Removal Miami-Dade: Boards, Stores, Schools",
-    "desc": "Bees at a clubhouse, storefront, school or warehouse? Live removal across Miami-Dade, with COIs, photos and an itemized invoice for the file.",
-    "h1": "Commercial and HOA bee removal across Miami-Dade",
+    "desc": "Bees at a clubhouse, storefront, school or warehouse? Live Miami-Dade removal with COIs, plus photos and itemized billing your records can keep.",
+    "h1": "Bees on an HOA, store or school property in Miami-Dade",
     "kicker": "For boards, managers and owners",
     "lede": (
         "When the hive sits on a property you manage rather than own, the job has two halves: "
@@ -15,14 +15,14 @@ SERVICE = {
         "For a colony on common grounds, a storefront, a school or a warehouse, call or text us a photo "
         "and the quote comes back free. Before anyone arrives, you can have a certificate of insurance "
         "issued to your association or company. The bees leave alive with a beekeeper, the opening gets sealed, "
-        "and on request you receive photos plus an itemized invoice to attach to the work order. Phones are "
-        "answered around the clock, backed by a 24-hour response guarantee."
+        "and on request you receive photos plus an itemized invoice to attach to the work order. Clubhouses "
+        "and loading docks fall under our 24-hour response guarantee, and a live person picks up at every hour."
     ),
     "card": (
         "Removal for HOAs, property managers, restaurants, schools, warehouses and shops, with a COI before "
         "the visit and an itemized invoice for the file."
     ),
-    "seeing_h": "What residents, tenants and staff keep reporting",
+    "seeing_h": "What residents, tenants or staff might spot",
     "seeing": [
         "A steady stream of bees using one gap in a clubhouse soffit, a light pole base or the monument sign at the front gate.",
         "Kitchen staff noticing bees around the dumpster enclosure, the grease bin or a vent above the back door.",
@@ -31,8 +31,8 @@ SERVICE = {
         "Three separate emails from different owners about the same bees, each writer assuming somebody else already made the call.",
     ],
     "behind": (
-        "A cluster hanging on a hedge for a day is a swarm resting while its scouts pick a home. Once that "
-        "group moves into a void, such as the hollow cells of a block wall, a sign cabinet or an irrigation "
+        "A ball of bees on a hedge that is gone by tomorrow was a swarm in transit, waiting on scouts to "
+        "choose a cavity. Once that group moves into a void, such as the hollow cells of a block wall, a sign cabinet or an irrigation "
         "valve box, it starts building wax comb and filling it with brood and honey. From then on it is a "
         "settled colony, and it will not pack up because the area gets busy. On a commercial site the risk "
         "comes from routine work: a landscaper's mower, a pressure washer or a tenant jamming a broom into "
@@ -55,7 +55,7 @@ SERVICE = {
         )),
         ("Restaurants, schools, warehouses and retail", (
             "Each kind of property puts bees somewhere different, and each has its own people to keep clear.\n\n"
-            "- Restaurants: sugary waste and warm exhaust draw foragers, while colonies tend to settle in the "
+            "- Restaurants: sugary waste and spilled syrup draw foragers, while colonies tend to settle in the "
             "hollow walls and roof edges around the kitchen. See [[svc:walls|bees inside block walls]] and "
             "[[svc:soffits-eaves|soffit and eave hives]].\n"
             "- Schools: the work zone has to be closed off from students, so timing and a wide cordon come "
@@ -94,12 +94,12 @@ SERVICE = {
             "is taped off so residents, shoppers or students stay well back."
         )),
         ("Find the comb with thermal imaging", (
-            "A thermal camera shows the warm cluster through stucco, block or a sign cabinet, so the opening "
-            "is cut over the comb instead of guessed at. More in [[guide:thermal-imaging|what thermal imaging shows]]."
+            "A living colony holds its brood at a steady warmth, and a thermal camera picks up that heat "
+            "pattern behind stucco or a sign face, so the cut lands on the comb. More in [[guide:thermal-imaging|what thermal imaging shows]]."
         )),
         ("Take bees and comb out alive", (
-            "Comb is cut out piece by piece, the bees are drawn gently into a ventilated box, and the colony "
-            "goes to a beekeeper to be relocated rather than killed."
+            "Working section by section, the crew slices comb free and vacuums bees at low suction into a "
+            "screened carrier, and a beekeeper takes delivery to give it a new home."
         )),
         ("Seal, clean and close the file", (
             "The cavity is scraped and sealed, and on request you get photos of each stage with an itemized "
@@ -109,33 +109,35 @@ SERVICE = {
     "putback": (
         "Honey left in a wall ferments, drips through drywall and draws ants, roaches and new swarms that "
         "smell the old nest, so every scrap of comb comes out first ([[svc:honeycomb-cleanup|comb cleanup]] "
-        "explains why). Patching is handled by our own licensed contractors, roofers and painters, which "
-        "means one company answers for the block, the tile and the paint on a common-area wall. The "
-        "workmanship is warrantied: if bees return to a spot we sealed, we come back out. "
+        "explains why). Nobody else is subbed in for the patch. Masonry and stucco go to our own licensed "
+        "contractors, tile goes to our roofers, and our painters finish the color, so a single vendor answers "
+        "for every layer of a common-area wall. Should a colony try "
+        "the same sealed opening again, the workmanship warranty covers a return trip to deal with it. "
         "[[guide:why-bees-come-back|Why bees come back]] covers the reasons."
     ),
     "price": (
-        "A colony at ground level, in a valve box, a low hedge or a sign base, usually runs about $300 to $400. "
-        "Jobs climb into the thousands when the comb sits behind a parapet, inside a two-story wall or under "
-        "roof tile and the opening has to be rebuilt and painted. A night or weekend emergency costs more "
-        "than the same work on a weekday. The quote is free, and the invoice breaks out removal and repair "
-        "so your accountant can code each line."
+        "Two numbers frame most quotes. Anything reachable from the ground, such as a valve box or the base "
+        "of a monument sign, is about $300 to $400. Expect the figure to rise into the thousands once comb "
+        "sits behind a parapet, inside a two-story wall or under roof tile and the opening has to be rebuilt "
+        "and painted. Emergency trips after dark or on weekends add to the total compared with booking a "
+        "weekday slot. Quoting is free, and the invoice breaks out removal and repair so your accountant "
+        "can code each line."
     ),
     "price_factors": [
-        "Height of the colony and whether a lift or roof access is needed",
-        "How much comb has been built and how far it spreads inside the void",
+        "Lift rental, roof hatch access or scaffold to reach a parapet or second-floor wall",
+        "Size of the nest: a new swarm's few combs versus seasons of stored honey",
         "Repair scope: block, stucco, roof tile, trim and paint matching",
-        "Whether the visit is a weekday booking or a night or weekend emergency",
+        "Calendar timing, since emergency trips at night or on weekends carry a premium",
     ],
-    "miami_h": "Where this job comes up in Miami-Dade",
+    "miami_h": "Commercial pockets of the county",
     "miami": [
         ("doral", (
-            "Incorporated in 2003 and about five miles west of Miami International Airport, Doral is crowded "
-            "with importers and exporters, so loading docks, racking and rooftop equipment give colonies "
+            "Incorporated in 2003 and about five miles west of Miami International Airport, the city of Doral is "
+            "home to many businesses, especially importers and exporters, so loading docks, racking and rooftop equipment give colonies "
             "plenty of dry hollows."
         )),
         ("miami-lakes", (
-            "Master-planned from 1962 around curving lakes, Miami Lakes blends homes with shopping centers, "
+            "Master-planned from 1962 around curving lakes, the town of Miami Lakes blends homes with shopping centers, "
             "offices and industrial land, so one manager may oversee clubhouses and storefronts in the same week."
         )),
         ("hialeah", (
@@ -145,22 +147,24 @@ SERVICE = {
     ],
     "alarm": (
         "If bees are stinging someone on the property right now, move everyone indoors or into cars, shut the "
-        "doors and stop anyone from swatting. Call 911 for trouble breathing or swelling of the face or throat. "
-        "Then call us: the phone is answered at any hour, and stung people come first."
+        "doors and stop anyone from swatting. If anyone's lips, tongue or throat swell, or breathing turns "
+        "noisy or hard, that is a 911 call. Then phone us: the line is staffed at any hour, and stung people "
+        "come first."
     ),
     "faqs": [
-        ("Can you send a certificate of insurance before the visit?", (
-            "Yes. The business is licensed and insured, and a COI can be issued to the association, the management "
-            "company or the owner as certificate holder. Mention it when you call or fill in the form, along with "
-            "any wording your vendor file requires, so it arrives before the work date."
+        ("Will the COI name our association as certificate holder?", (
+            "It can. Every job is backed by licensed and insured coverage, and the certificate can list the "
+            "association, the management company or the owner as holder. Mention it when you call or fill in "
+            "the form, along with any wording your vendor file requires, so it arrives before the work date."
         )),
         ("Our pest vendor offered to spray. Why choose live removal?", (
-            "Spraying kills the bees but leaves the comb and honey inside the wall. That honey can ferment and "
-            "seep, it attracts ants and roaches, and the scent invites the next swarm to move into the same hollow. "
-            "Live removal takes the comb out, the bees go to a beekeeper, and the opening is sealed."
+            "A dead colony is still a wall full of wax and stored honey. With no bees left to tend it, the "
+            "wax softens in the heat and the honey ferments and leaks into drywall or stucco; ants and roaches follow, and the leftover "
+            "scent tells the next swarm the hollow is ready. Taking the bees out alive means the comb leaves "
+            "with them, the colony ends up with a beekeeper, and the entry gets closed."
         )),
         ("Who should make the call: the manager, the board or the tenant?", (
-            "Anyone can report the bees and get the quote moving, and a photo from a tenant is often the fastest "
+            "Anyone can report the bees and get the quote moving, and a photo from a tenant is a perfectly good "
             "start. The work order just needs approval from whoever pays and controls access, so loop in the "
             "manager or a board member early to avoid a second trip."
         )),
@@ -182,10 +186,10 @@ SERVICE = {
     ),
     "facts": [
         "Florida HOA official records include itemized, detailed records of all receipts and expenditures and the association's insurance policies; official records are kept at least 7 years; bids for work are official records kept 1 year (source: http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0720/Sections/0720.303.html)",
-        "Doral was incorporated June 24, 2003, sits about 5 miles west of Miami International Airport, and has many businesses, especially importers and exporters (source: https://en.wikipedia.org/wiki/Doral,_Florida)",
-        "Miami Lakes was built by Sengra (now the Graham Companies) beginning in 1962, master-planned with residential, commercial, industrial and mixed uses, shopping centers, office buildings and curving lakes (source: https://en.wikipedia.org/wiki/Miami_Lakes,_Florida)",
-        "Hialeah is a commercial center in Miami-Dade County with national retailers and local stores; incorporated 1925 (source: https://en.wikipedia.org/wiki/Hialeah,_Florida)",
-        "Medley is a town in Miami-Dade County whose primary tax base is industrial development; incorporated May 1, 1949 (source: https://en.wikipedia.org/wiki/Medley,_Florida)",
-        "Africanized honey bees deploy in greater numbers for defense, chase people farther (up to 400 m) and swarm more frequently than other honey bees (source: https://en.wikipedia.org/wiki/Africanized_bee)",
+        "Doral, a city, was incorporated June 24, 2003, sits about 5 miles west of Miami International Airport, and has many businesses, especially importers and exporters (source: https://en.wikipedia.org/wiki/Doral,_Florida)",
+        "Miami Lakes, an incorporated town, was built by Sengra (now the Graham Companies) beginning in 1962, master-planned with residential, commercial, industrial and mixed uses, shopping centers, office buildings and curving lakes (source: https://en.wikipedia.org/wiki/Miami_Lakes,_Florida)",
+        "Hialeah is a commercial center in Miami-Dade County with national retailers and local stores (source: https://en.wikipedia.org/wiki/Hialeah,_Florida)",
+        "Medley is a town in Miami-Dade County whose primary tax base is industrial development (source: https://en.wikipedia.org/wiki/Medley,_Florida)",
+        "Africanized honey bees deploy in greater numbers for defense, pursue threats over much longer distances (up to 400 m); Africanized and European honey bees are extremely difficult to tell apart by appearance (source: https://en.wikipedia.org/wiki/Africanized_bee)",
     ],
 }

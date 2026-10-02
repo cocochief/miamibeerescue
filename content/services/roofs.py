@@ -10,7 +10,7 @@ SERVICE = {
     "lede": "A colony under roof tile is a hive living in the gap between the tile and the felt, warmed by the sun all day. Getting it out means lifting tile without breaking the roof's seal.",
     "quick": (
         "When bees keep slipping under one particular tile, or into a crack at the edge of a flat roof, "
-        "a colony has probably built comb up there. Spraying the opening only kills the foragers and leaves "
+        "a colony has probably built comb up there. Spraying the opening only kills the bees it reaches and leaves "
         "wax and honey baking on the roof deck. The fix is to find the comb with a thermal camera, lift "
         "the tiles or roofing over it, take the bees out alive for a beekeeper, scrape out every scrap of "
         "comb, and have our own licensed roofers put the roof back."
@@ -24,7 +24,7 @@ SERVICE = {
         "Foragers landing at the open mouth of a single barrel tile by the eave and vanishing inside, all day long.",
         "Bees crawling over a cracked or slipped tile, or around a gap where the ridge or hip cap has lifted.",
         "On a flat roof, bees working a seam in the parapet cap, a loose flashing edge or the space around a roof drain.",
-        "A hum you can hear through the bedroom ceiling, loudest on hot afternoons.",
+        "A hum you can hear through a ceiling that sits right under the roof.",
         "Dark, sticky streaks running down the tile, the stucco under the eave or the inside of a ceiling.",
         "A cluster hanging off the roof edge that never moves on after a day or two.",
     ],
@@ -34,14 +34,14 @@ SERVICE = {
         "tunnel. Flat tile leaves a thinner gap above the underlayment. A flat roof hides its cavity "
         "inside the parapet or between the roof deck and the ceiling below. Once a swarm moves in, the "
         "workers hang sheets of wax comb from the underside of the tile or deck and fill them with brood "
-        "and honey. The brood nest is held at roughly body temperature, which is why it glows on a thermal "
-        "camera, and why comb under sun-baked tile can soften and leak honey into the roof."
+        "and honey. The brood nest is held in the low-to-mid 90s Fahrenheit, which is why it glows on a thermal "
+        "camera. Comb left under sun-baked tile with no bees to cool it can soften and leak honey into the roof."
     ),
     "body": [
         (
             "Barrel tile, flat tile and flat roofs need different handling",
-            "On an S-shaped barrel tile roof, the colony usually follows the channel under one row of cap "
-            "tiles, so the comb can run a few feet upslope from the entrance. The tiles over it have to "
+            "On an S-shaped barrel tile roof, the colony can follow the channel under one row of cap "
+            "tiles, so the comb may run a few feet upslope from the entrance. The tiles over it have to "
             "come off in order, get numbered and stacked, and go back in the same courses so the lines "
             "match.\n\n"
             "Flat concrete tile lies tight to the roof, so a colony there spreads sideways in a shallow "
@@ -57,9 +57,9 @@ SERVICE = {
         (
             "Why a roofer has to close the roof in Miami-Dade",
             "Miami-Dade sits inside the High-Velocity Hurricane Zone of the Florida Building Code, which "
-            "carries stricter requirements than most of the state. Roofing products used in the county "
-            "go through the Miami-Dade Product Control Section, which issues a Notice of Acceptance for "
-            "each approved product and expects a copy with the building permit application. Florida "
+            "carries stricter requirements than most of the state. A roofing product approved by the "
+            "Miami-Dade Product Control Section carries a Notice of Acceptance, and a copy of that notice "
+            "goes in with the building permit application. Florida "
             "statute also treats roofing as its own contracting trade, covering the install, repair and "
             "alteration of every kind of roof.\n\n"
             "For you, that means the person who lifts your tile should not be the only one who puts it "
@@ -114,13 +114,13 @@ SERVICE = {
         "On a tile roof, the putback is the tile itself: every lifted piece reset in its course, matching "
         "replacements for any that cracked, felt repaired where comb or honey damaged it, and the eave "
         "opening the bees used closed off. On a flat roof, the cut is patched and sealed and the parapet "
-        "or flashing gap is shut. Inside, any stained ceiling can be repaired and painted by our own crew. "
+        "or flashing gap is shut. Inside, any stained ceiling can be repaired and painted by our own contractors and painters. "
         "Our workmanship is warrantied on roof work as well: should bees settle again behind tile we "
         "closed, a crew comes back to your roof."
     ),
     "price": (
         "Ground-level jobs sit around $300 to $400, and a roof is rarely ground level. Roof work "
-        "usually costs more, because they add climbing, lifting and resetting tile, and the roofing repair on "
+        "usually costs more, because it adds climbing, lifting and resetting tile, and the roofing repair on "
         "top. A large hive spread under many courses, with broken tile to replace and felt or a ceiling "
         "to fix, can climb into the thousands. You get a free quote before any tile moves, and our "
         "[[page:cost|cost page]] walks through the numbers."
@@ -137,12 +137,12 @@ SERVICE = {
         (
             "coral-gables",
             "The city was planned around Mediterranean Revival design, so tile roofs are the norm here. "
-            "Matching an older tile profile is often the hardest part of the reset. More on "
+            "Matching an older tile profile can be the hardest part of the reset. More on "
             "[[city:coral-gables|bees in Coral Gables]].",
         ),
         (
             "miami-beach",
-            "The Architectural District holds Streamline Moderne buildings, a style known for flat roofs, "
+            "The Architectural District holds Streamline Art Deco buildings, a style known for flat roofs, "
             "next to earlier Mediterranean Revival tile. A condo building may ask for "
             "[[svc:condos-high-rises|insurance paperwork]] before anyone goes up.",
         ),
@@ -212,17 +212,17 @@ SERVICE = {
         "Call, text a photo of the roofline or send the [[page:quote|quote form]], and we will plan the lift, the removal and the reset together.",
     ),
     "facts": [
-        "Miami-Dade is in the High-Velocity Hurricane Zone of the Florida Building Code, which has more stringent requirements (source: https://en.wikipedia.org/wiki/Florida_Building_Code)",
-        "Miami-Dade Product Control Section issues Notices of Acceptance for roofing products designed to comply with the HVHZ; a building permit application must be accompanied by a copy of the NOA; units are labeled 'Miami-Dade County Product Control Approved' (source: https://www.miamidade.gov/building/library/productcontrol/noa/23010502.pdf)",
-        "Florida Statutes 489.105 defines a roofing contractor as one whose services are unlimited in the roofing trade, including installing, repairing and altering all kinds of roofing (source: http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0400-0499/0489/Sections/0489.105.html)",
-        "Mission tile is a two-piece system of an arched pan and an arched cover; tiles are typically laid over an underlayment (source: https://en.wikipedia.org/wiki/Roof_tiles)",
-        "Coral Gables architecture is almost entirely Mediterranean Revival, mandated in the original plan; incorporated April 29, 1925 (source: https://en.wikipedia.org/wiki/Coral_Gables,_Florida)",
+        "Miami-Dade is in the High-Velocity Hurricane Zone of the Florida Building Code, which has more stringent requirements; not every Florida county requires HVHZ standards (source: https://en.wikipedia.org/wiki/Florida_Building_Code)",
+        "The Miami-Dade County Product Control Section issues Notices of Acceptance for roofing components designed to comply with the HVHZ, and an application for building permit shall be accompanied by a copy of the NOA (source: https://www.miamidade.gov/building/library/productcontrol/noa/23010502.pdf)",
+        "Florida Statutes 489.105 defines a roofing contractor as one whose services are unlimited in the roofing trade, able to install, maintain, repair and alter all kinds of roofing (source: https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0400-0499/0489/Sections/0489.105.html)",
+        "Mission tile is a two-piece system of an arched pan and an arched cover; tiles are typically installed atop an underlayment (source: https://en.wikipedia.org/wiki/Roof_tiles)",
+        "Coral Gables is a city whose architecture is almost entirely Mediterranean Revival, mandated in the original plan (source: https://en.wikipedia.org/wiki/Coral_Gables,_Florida)",
         "Mediterranean Revival buildings commonly have red tiled roofs (source: https://en.wikipedia.org/wiki/Mediterranean_Revival_architecture)",
-        "Miami Beach Architectural District has Art Deco and Streamline Moderne buildings plus earlier 1920s Mediterranean Revival (source: https://en.wikipedia.org/wiki/Miami_Beach_Architectural_District)",
+        "The Miami Beach Architectural District holds Art Deco buildings including the Streamline substyle, plus earlier 1920s Mediterranean Revival buildings (source: https://en.wikipedia.org/wiki/Miami_Beach_Architectural_District)",
         "Streamline Moderne characteristics include flat roofs (source: https://en.wikipedia.org/wiki/Streamline_Moderne)",
-        "Miami Springs was founded by Glenn Curtiss and James Bright in the 1920s land boom with Pueblo Revival architecture; incorporated August 23, 1926 (source: https://en.wikipedia.org/wiki/Miami_Springs,_Florida)",
+        "The City of Miami Springs was founded by Glenn Curtiss and James Bright in the 1920s land boom, with Pueblo Revival architecture (source: https://en.wikipedia.org/wiki/Miami_Springs,_Florida)",
         "Pueblo Revival roofs are always flat, with irregular parapets; the Glenn Curtiss Mansion in Miami Springs is an example (source: https://en.wikipedia.org/wiki/Pueblo_Revival_architecture)",
-        "The Shoreland Company built 118 Mediterranean homes in Miami Shores; village official January 2, 1932 (source: https://en.wikipedia.org/wiki/Miami_Shores,_Florida)",
+        "The Shoreland Company built 118 Mediterranean homes in the Village of Miami Shores (source: https://en.wikipedia.org/wiki/Miami_Shores,_Florida)",
         "A parapet is an upward extension of a wall at the edge of a roof (source: https://en.wikipedia.org/wiki/Parapet)",
     ],
 }

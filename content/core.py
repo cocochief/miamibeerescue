@@ -17,7 +17,7 @@ CORE = {
         "quick_label": "Quick answer",
         "alarm_title": "If anyone is being stung",
         "skip": "Jump to the page content",
-        "topline": "Someone picks up at any hour, and nobody waits longer than a day for us",
+        "topline": "The line is staffed every hour of every day, with a response guaranteed inside 24 hours",
         "menu": "Open the menu",
         "og_alt": "Miami Bee Rescue logo: a bee under a gold Art Deco arch",
         "dock_label": "Contact shortcuts",

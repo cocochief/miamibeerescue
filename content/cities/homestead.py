@@ -18,12 +18,12 @@ CITY = {
     ],
     "opening": (
         "Homestead sits about 26 miles southwest of downtown Miami, a low, flat city where the county's farm belt starts. "
-        "To the west, [[city:redland|the Redland]] grows avocados, mangoes, lychees and nursery stock on rocky limestone ground; "
+        "Just northwest, [[city:redland|the Redland]] grows avocados, mangoes, lychees and nursery stock on red clay over limestone; "
         "to the south and west, the city runs straight into [[city:florida-city|Florida City]]. Put rooftops beside that much open bloom and a colony gets everything on its list: "
         "steady forage, warm weather most of the year, and a dry cavity to build in.\n\n"
         "The houses add their own chapter. On August 24, 1992, Hurricane Andrew made its mainland landfall a short way northeast of town and wrecked almost every mobile home in the city. "
-        "Within about two years, roughly 70 percent of the damaged or destroyed homes had been repaired or rebuilt, and newer subdivisions have filled in since. "
-        "So most roofs, soffits and block walls you see here are post-storm work. Newer does not mean sealed, though. A gap the width of a pencil at a roof return or around a pipe is enough for scouts to claim, "
+        "Within about two years, roughly 70 percent of the damaged or destroyed homes had been repaired or rebuilt. "
+        "So a large share of the roofs, soffits and block walls you see here are post-storm work. Newer does not mean sealed, though. A gap the width of a pencil at a roof return or around a pipe is enough for scouts to claim, "
         "and once comb goes in, the colony needs to come out whole. Our [[svc:live-honey-bees|live removal]] approach is built for that."
     ),
     "hotspots_h": "Where colonies settle on Homestead property",
@@ -42,7 +42,7 @@ CITY = {
          "Along the farm edge, colonies move into stacked pots, pump housings, pallets and the framing of shade structures. "
          "The work is done so plants, irrigation and staff schedules are disturbed as little as possible."),
         ("Coral rock walls and limestone",
-         "Old coral rock walls and the pitted oolitic limestone under the area's thin soil have natural cavities. "
+         "Coral rock walls, a feature of the Redland next door, and the porous oolitic limestone beneath the area's red clay both hold natural cavities. "
          "A colony tucked into stone needs careful extraction rather than demolition, and the opening is packed afterward."),
         ("Palms and lake-edge trees",
          "Palms planted around yards, entrances and lake banks give bees hollow trunks, old boots of cut fronds and dense crowns to build in. "
@@ -51,23 +51,20 @@ CITY = {
     "streets_h": "Notes on Homestead's districts",
     "streets": [
         ("Historic Downtown",
-         "The Homestead Historic Downtown District joined the National Register in 2007 and includes the Seminole Theatre, rebuilt in Streamline Moderne style after a 1940 fire. "
+         "The Homestead Historic Downtown District joined the National Register in 2007 and includes a 1921 theater redesigned in Streamline Moderne style after a 1940 fire. "
          "Older storefront buildings can have flat roofs, parapets and shared walls, so access and tenant notice get planned before any cut."),
         ("Southwest Area",
-         "The city's District 4 covers its southwest, where the Community Redevelopment Agency has been building new single-family homes. "
+         "The city's District 4 covers its southwest, where the Community Redevelopment Agency has backed new affordable homes for qualified buyers. "
          "New houses still have weep gaps and utility penetrations that need checking, and older homes nearby often share fence lines with them."),
         ("Waterstone",
-         "District 5 on the city's council map takes in Waterstone, with Waterstone Boulevard and Speedway Boulevard running through it. "
+         "District 5 on the city's council map takes in Waterstone, with Waterstone Boulevard running through it. "
          "If your street sits inside an association, tell us who manages the gate so the crew is on the visitor list."),
         ("The Villages",
-         "District 3, the Villages, includes streets such as North Canal Drive and North Audubon Drive. "
+         "District 3 is labeled the Villages on the city's council map. "
          "Where homes share a roof or a party wall, one colony can reach more than one unit, so neighbors and any association should hear about the plan early."),
-        ("Keysgate",
-         "District 2 on the city map is Keysgate, where street names such as Fairway and Augusta show up on the council map. "
-         "If a colony is in a tree or fence on common ground, the association may own the problem rather than you."),
         ("The western edge",
-         "Past the urban development boundary, county zoning keeps farmland in parcels of at least five acres. "
-         "Homes near that line face open groves, which means more forage, more swarms passing through in spring and longer driveways for the truck."),
+         "Past the urban development boundary, county zoning generally requires at least five acres for a house. "
+         "Homes near that line face open groves, which means more forage, more swarms passing through and longer driveways for the truck."),
     ],
     "body": [
         ("A rebuilt city still has openings",
@@ -83,7 +80,7 @@ CITY = {
          "so a strong colony can split and send off a swarm whenever conditions suit it. A swarm resting on a fence or a mailbox is usually waiting for its scouts to choose a home. "
          "If it is left alone and moves into your eaves, it becomes a much bigger job. What those first few dozen inspectors look like is covered in the [[guide:scout-bees|field guide on scouts]].\n\n"
          "Growers and nursery operators have a different set of concerns: workers, customers and equipment. A colony in a pump house or a stack of containers is relocated to a beekeeper, not killed, "
-         "which keeps pollinators in the area. The [[svc:nurseries-groves|nurseries, groves and farms]] page describes how those jobs are staged, and [[svc:relocation|colony relocation]] covers where the bees go."),
+         "which keeps them working as pollinators. The [[svc:nurseries-groves|nurseries, groves and farms]] page describes how those jobs are staged, and [[svc:relocation|colony relocation]] covers where the bees go."),
         ("Storms, exposed comb and downtown buildings",
          "This part of the county knows what a hurricane does to a roof. After any storm, check soffits, fallen trees and torn screens; a colony that was hidden may now be hanging in the open, "
          "and loose comb attracts robbers and pests within days. The [[guide:after-a-storm|after-a-storm guide]] walks through what to look for and what not to touch.\n\n"
@@ -118,8 +115,8 @@ CITY = {
          "Comb sealed inside block or under tile means opening, extraction and rebuilding, which can climb into the thousands. "
          "Booking on a weekday keeps it lower, because night and weekend emergencies carry a higher rate. The quote itself is free."),
         ("Do you kill the bees if they are near farm workers?",
-         "No. The bees, brood and queen leave alive and are handed to a beekeeper who keeps them. Around field crews or nursery shoppers, the area gets taped off and the work is timed for when fewer people are on site, so nobody walks into the flight path."),
-        ("Can you handle the paperwork our HOA in Waterstone or the Villages asks for?",
+         "No. The bees, brood and queen leave alive and are handed to a beekeeper who keeps them. Around field crews or nursery shoppers, the area can be taped off and the work timed for when fewer people are on site, so nobody walks into the flight path."),
+        ("Can you handle the paperwork our Waterstone HOA asks for?",
          "Yes. Licensed and insured, the crew can send a COI naming whoever your board or manager requires before work begins. Afterward, request photos of the opened cavity and the repair, along with a line-by-line invoice to file with the association."),
     ],
     "services": [
@@ -137,14 +134,14 @@ CITY = {
     "facts": [
         "Homestead was incorporated on February 8, 1913 (source: https://en.wikipedia.org/wiki/Homestead,_Florida)",
         "The Florida East Coast Railway opened the first station in what became Homestead in July 1904 (source: https://en.wikipedia.org/wiki/Homestead,_Florida)",
-        "2020 census population 80,737; elevation about 3 ft; roughly 26 miles southwest of Miami; between Biscayne National Park to the east and Everglades National Park to the west (source: https://en.wikipedia.org/wiki/Homestead,_Florida)",
-        "Hurricane Andrew made a second landfall just northeast of Homestead on August 24, 1992, destroyed 99% of mobile homes in Homestead, and about 70% of damaged or destroyed homes were repaired or rebuilt within nearly two years (source: https://en.wikipedia.org/wiki/Hurricane_Andrew)",
-        "Homestead Air Force Base was largely destroyed by Andrew and became an Air Reserve station on April 1, 1994 (source: https://en.wikipedia.org/wiki/Homestead_Air_Reserve_Base)",
-        "Homestead Historic Downtown District was designated November 19, 2007; the Seminole Theatre opened in 1921 and was redesigned in Streamline Moderne style after a 1940 fire (source: https://en.wikipedia.org/wiki/Homestead_Historic_Downtown_District)",
+        "2020 census population 80,737; elevation about 3 ft; roughly 26 miles southwest of downtown Miami; between Biscayne National Park to the east and Everglades National Park to the west (source: https://en.wikipedia.org/wiki/Homestead,_Florida)",
+        "Hurricane Andrew made a second landfall just northeast of Homestead on August 24, 1992, destroyed 99% of mobile homes in Homestead, and nearly two years later about 70% of homes in Homestead that were damaged or destroyed had been repaired or rebuilt (source: https://en.wikipedia.org/wiki/Hurricane_Andrew)",
+        "Homestead Historic Downtown District was designated November 19, 2007; the district's theater opened in 1921 and was redesigned in Streamline Moderne style after a 1940 fire (source: https://en.wikipedia.org/wiki/Homestead_Historic_Downtown_District)",
+        "Krome Avenue (State Road 997) runs through Homestead's historic downtown (source: https://en.wikipedia.org/wiki/Homestead,_Florida)",
         "Florida City lies to the south and west of, and is contiguous with, Homestead (source: https://en.wikipedia.org/wiki/Florida_City,_Florida)",
-        "Redland is adjacent to Homestead and grows avocados, mangoes, lychees and other tropical fruit plus ornamental nurseries on oolitic limestone; it has coral rock walls; zoning outside the urban development boundary requires minimum 5-acre plots (source: https://en.wikipedia.org/wiki/Redland,_Florida)",
-        "City council districts: District 2 Keysgate, District 3 Villages, District 4 Southwest Area, District 5 Waterstone; map shows Waterstone Blvd, Speedway Blvd, N Canal Dr, N Audubon Dr, Krome Ave (source: https://www.homesteadfl.gov/DocumentCenter/View/4272/Council-Seat-Districts-Map-2023)",
-        "Homestead CRA's Southwest Neighborhood New H.O.M.E. Initiative builds new homes for qualified buyers (source: https://www.homesteadfl.gov/m/newsflash/Archive/Item/4012?arcId=5070)",
+        "Redland, an unincorporated agricultural area just northwest of Homestead, grows avocados, mangoes, lychees and other tropical fruit plus ornamental nurseries on pockets of red clay over oolitic limestone; it has coral rock (oolite) walls; nearly all of it lies outside the urban development boundary, where zoning requires houses on a minimum of 5 acres (source: https://en.wikipedia.org/wiki/Redland,_Florida)",
+        "City council districts: District 3 Villages, District 4 Southwest Area, District 5 Waterstone; Waterstone Blvd runs through District 5 (source: https://www.homesteadfl.gov/DocumentCenter/View/4272/Council-Seat-Districts-Map-2023)",
+        "Homestead CRA's Southwest Neighborhood New H.O.M.E. Initiative backs new affordable homes on SW 6th Street, with downpayment assistance for qualified buyers (source: https://www.homesteadfl.gov/m/newsflash/Archive/Item/4012?arcId=5070)",
         "Miami-Dade County is within the High-Velocity Hurricane Zone under the Florida Building Code (source: https://en.wikipedia.org/wiki/Florida_Building_Code)",
     ],
 }

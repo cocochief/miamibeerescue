@@ -12,7 +12,7 @@ CITY = {
         "If a tight stream of bees keeps landing on one seam of your Miami Gardens house, a colony is living "
         "behind it. Bees are taken out alive, comb and all, and given to a beekeeper. Then the seam is closed so "
         "the smell of old wax does not invite the next swarm. A meter box or other ground-level colony is roughly "
-        "$300 to $400; opening and rebuilding a wall or eave can run to several thousand. Pricing a job is free, "
+        "$300 to $400; opening and rebuilding a wall or eave can run into the thousands. Pricing a job is free, "
         "and the line is staffed through nights, weekends and game days."
     ),
     "glance": [
@@ -59,11 +59,11 @@ CITY = {
     "streets_h": "Notes on the old communities inside the city",
     "streets": [
         ("Carol City",
-         "The biggest of the former communities, and the one with the odd name: the developer wanted Coral City and "
-         "swapped two letters after a lawsuit threat from [[city:coral-gables|Coral Gables]]. Some of it was "
+         "The community with the odd name: the developer wanted Coral City and "
+         "swapped two letters after a lawsuit threat from [[city:coral-gables|Coral Gables]]. Much of it was "
          "still farmland in the 1960s, so the age of a house, and the condition of its trim, varies by block."),
         ("Norland",
-         "Also known as Norwood, it covers about 3.7 square miles on the east side and includes Miami "
+         "Also known as Norwood, it covers about 3.7 square miles and includes Miami "
          "Norland High School. Houses are close together, so if the bees fly toward a neighbor's carport, say so "
          "on the phone."),
         ("Scott Lake",
@@ -71,16 +71,16 @@ CITY = {
          "game, concert or Grand Prix weekend, nearby streets behave differently, so the crew sets its arrival "
          "around the event."),
         ("Lake Lucerne",
-         "This 2.6-square-mile section in the northwest holds the Calder Casino property, home of a race course "
-         "that opened in 1971. A swarm on a large commercial site is handled through its facilities office, with "
+         "This 2.6-square-mile section holds the Calder Casino property, where Calder Race Course "
+         "opened in 1971. A swarm on a large commercial site is handled through its facilities office, with "
          "insurance paperwork sent first."),
         ("Andover",
-         "In the northeast corner, Andover is where several Miami television stations keep their transmitters. "
-         "Towers and their equipment shelters attract resting swarms, and nobody touches those cabinets without "
+         "Andover is where several Miami television stations keep their transmitters. "
+         "Towers and equipment shelters give a resting swarm somewhere to hang, and nobody touches those cabinets without "
          "the operator's say-so."),
         ("Opa-locka North",
-         "Both universities are here, along with Monsignor Edward Pace High School. Campus facilities staff "
-         "usually make the call, and their files can get a photo record and an itemized invoice."),
+         "Both universities are here, along with Monsignor Edward Pace High School. On a campus, the "
+         "facilities office can arrange the visit and ask for a photo record and an itemized invoice for its files."),
     ],
     "body": [
         ("Finding the comb, then closing the seam",
@@ -105,7 +105,7 @@ CITY = {
          "[[svc:hoa-commercial|HOA and commercial work]] for managed property."),
         ("Owners, renters and the bill",
          "About 68 percent of occupied homes in Miami Gardens were owner-occupied in 2010, well above the county "
-         "figure of roughly 56 percent. Here the reader is usually the person who will approve the cut and pay "
+         "figure of roughly 56 percent. Here the reader is more likely to be the person who will approve the cut and pay "
          "for the patch. Tenants can start with [[guide:renters-and-landlords|bees in a rental]], and sellers "
          "with [[guide:home-sale-inspection|bees turned up by an inspector]]."
          "\n\n"
@@ -115,7 +115,7 @@ CITY = {
          "than a Tuesday morning. If an insurer or a buyer will want proof, request pictures and an itemized invoice."),
     ],
     "band": ("Seeing bees work one corner of your roof?",
-             "Snap the corner from the driveway and text it over; one picture usually tells the crew which ladder and tools to load."),
+             "Snap the corner from the driveway and text it over; a single picture tells the crew which ladder and tools to load."),
     "visit_h": "How a visit runs in Miami Gardens",
     "visit": [
         ("Picture from the driveway",
@@ -159,7 +159,7 @@ CITY = {
          "the site actually show."),
     ],
     "services": [
-        ("soffits-eaves", "Painted-over trim and old soffit vents are the usual way in on houses from the 1950s and 60s."),
+        ("soffits-eaves", "Painted-over trim and old soffit vents are common ways in on houses from the 1950s and 60s."),
         ("walls", "Holes for pipes, dryers and AC lines lead bees into the hollow behind the wall."),
         ("utility-boxes", "Most single-family lots have a meter and valve box near the curb."),
         ("sheds-garages", "Walled-in carports and back sheds stay closed long enough for a colony to grow."),
@@ -180,7 +180,7 @@ CITY = {
         "Carol City's developer intended the name Coral City and switched the O and A after a lawsuit threat from Coral Gables; the area included farmland in the 1960s (source: https://en.wikipedia.org/wiki/Carol_City,_Florida)",
         "Norland, also known as Norwood, covers 3.7 square miles and includes Miami Norland High School (source: https://en.wikipedia.org/wiki/Norland,_Florida)",
         "Lake Lucerne covers 2.6 square miles and includes Calder Casino (source: https://en.wikipedia.org/wiki/Lake_Lucerne,_Florida); Calder Race Course opened 1971 (source: https://en.wikipedia.org/wiki/Miami_Gardens,_Florida)",
-        "Andover hosts transmitters for several Miami television stations; its coordinates place it in the city's northeast (source: https://en.wikipedia.org/wiki/Andover,_Miami-Dade_County,_Florida)",
+        "Andover hosts transmitters for several Miami television stations (source: https://en.wikipedia.org/wiki/Andover,_Miami-Dade_County,_Florida)",
         "Opa-locka North includes Florida Memorial University, St. Thomas University and Monsignor Edward Pace High School (source: https://en.wikipedia.org/wiki/Opa-locka_North,_Florida)",
         "St. Thomas University occupies about 150 acres in Miami Gardens (source: https://en.wikipedia.org/wiki/St._Thomas_University_(Florida))",
         "Florida Memorial University is a private historically Black university on about 50 acres, moved to its current site in 1968 (source: https://en.wikipedia.org/wiki/Florida_Memorial_University)",

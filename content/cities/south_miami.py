@@ -7,7 +7,7 @@ CITY = {
     "desc": "A colony under a South Miami tile roof, in an old oak or over a Sunset Drive shop? It comes out alive, goes to a beekeeper, and our crews fix the opening.",
     "h1": "South Miami bees, out of old houses, oaks and downtown storefronts",
     "kicker": "South Miami, incorporated 1927",
-    "lede": "Two and a third square miles of single-family streets, big shade trees and a walkable downtown on the Metrorail line. Here is how honey bees fit into that, and how we get them out alive.",
+    "lede": "About 2.3 square miles of single-family streets, big shade trees and a walkable downtown on the Metrorail line. Here is how honey bees fit into that, and how we get them out alive.",
     "quick": (
         "If honey bees have moved into a South Miami house, garage, tree or shopfront, call or text us a "
         "photo. A live colony comes out whole, comb and all, and goes to a beekeeper; nothing gets "
@@ -24,11 +24,11 @@ CITY = {
         ("Main roads", "Sunset Drive, Red Road and U.S. 1"),
     ],
     "opening": (
-        "South Miami started as a small settlement known as Larkins, named for its first postmaster, and "
-        "became the Town of South Miami when its first mayor was sworn in on June 25, 1927. What it grew "
+        "South Miami started as a small settlement called Larkins, after the storekeeper who became its first "
+        "postmaster, and was incorporated as the Town of South Miami in June 1927. What it grew "
         "into is mostly houses. A city planning report notes that the majority of the land is zoned for "
-        "single-family homes, with a compact downtown, the Hometown District, built up around the "
-        "Metrorail station near Sunset Drive and U.S. 1. [[city:coral-gables|Coral Gables]] and the "
+        "single-family homes, with a compact downtown, the Hometown District, zoned for mixed use near the "
+        "Metrorail station at Sunset Drive and U.S. 1. [[city:coral-gables|Coral Gables]] and the "
         "University of Miami campus sit along its east side, and [[city:pinecrest|Pinecrest]] lies "
         "to the south.\n\n"
         "That mix matters to a swarm hunting for a home. Scout bees look for a dry, dark hollow with a "
@@ -46,7 +46,7 @@ CITY = {
          "[[svc:soffits-eaves|Soffit and eave colonies]] are opened from outside, then the boards go "
          "back up."),
         ("Tile roofs on Mediterranean-style homes",
-         "Barrel tile sits off the deck on purpose, and that air space is just the sort of covered "
+         "The curve of a barrel tile leaves a hollow channel underneath, and that is just the sort of covered "
          "pocket a swarm likes. A colony under tile is reached by lifting a few pieces, which is why "
          "a roofer belongs on the [[svc:roofs|tile roof job]]."),
         ("Hollow limbs in big shade trees",
@@ -67,8 +67,8 @@ CITY = {
         ("Cambridge Lawns",
          "The city's first historic district, near Miller Road and SW 63rd Avenue: 31 small Tudor and "
          "Mediterranean-style homes built in the 1920s and 1930s. Original finishes on houses "
-         "this age need careful hands, and exterior changes to designated buildings go through the city's "
-         "Historic Preservation Board."),
+         "this age need careful hands, and the city's Historic Preservation Board advises on "
+         "alterations to designated buildings."),
         ("The Hometown District",
          "Downtown South Miami is zoned for mixed use around the transit line. Expect tenants "
          "above and beside the bees, and a property manager who wants the work done "
@@ -78,13 +78,13 @@ CITY = {
          "are held to single-family zoning to protect nearby wellfields. Yards with trees, sheds and "
          "fences give a passing swarm plenty of places to land."),
         ("Madison Square",
-         "A historically African-American neighborhood with deep roots in the city. Homes "
-         "here get the same live removal, the same thermal scan and the same repaired "
-         "finish as any other South Miami address."),
+         "One of the city's oldest neighborhoods, the historically Black community that grew up around "
+         "St. John's AME Church, built on land donated in 1916. Houses and church "
+         "buildings here have the same eaves, vents and wall voids a swarm looks for anywhere in town."),
         ("South of U.S. 1 and along Brewer Canal",
-         "This part of the city sits in the federally mapped 100-year floodplain, and buildings there "
-         "are required to be elevated. Raised floors and porches leave sheltered spaces underneath "
-         "that a swarm may claim."),
+         "This part of the city sits in the federally mapped 100-year floodplain, and the city's flood "
+         "ordinance requires buildings there to be elevated. Where a house or porch is raised off the "
+         "ground, the shaded crawlspace underneath is a spot a swarm may claim."),
     ],
     "body": [
         ("Keep the shade tree, lose the bees",
@@ -102,7 +102,7 @@ CITY = {
          "Lawns, may have plaster and trim that can't be bought off the shelf. Before anything is cut, thermal imaging shows where the warm mass of the colony "
          "actually sits, so the opening is as small as the job allows. Once the comb is out, the "
          "cavity is cleaned of honey and wax, because leftover honey draws ants, roaches and new "
-         "swarms. The patching is done by licensed contractors, roofers and painters on our own crew, and on a "
+         "swarms. Our own licensed contractors, roofers and painters handle the patching, and on a "
          "historically designated house you should check with the city before any repair that "
          "changes the outside. See [[svc:walls|bees inside walls]] and "
          "[[svc:repairs|repairs after removal]] for how the rebuilding is handled. The workmanship "
@@ -131,16 +131,16 @@ CITY = {
          "We watch the flight path, then scan the wall, roof or tree with a thermal camera to map "
          "the comb, so the saw only goes where the bees actually are."),
         ("Take the bees out alive",
-         "Comb and bees come out by hand and by gentle vacuum into a hive box. Neighbors over the "
-         "fence get a heads-up so kids and pets stay inside."),
+         "Comb and bees come out by hand and by gentle vacuum into a hive box. It helps to give "
+         "neighbors over the fence a heads-up so kids and pets stay inside."),
         ("Close it and clean it",
          "The cavity is cleared of honey and wax, sealed, and repaired by our own trades. The "
          "colony leaves with us for a beekeeper's yard."),
     ],
     "alarm": (
-        "Anyone under attack should walk fast, not stand and swat, toward a closed door or a car, "
+        "Anyone under attack should run, not stand and swat, toward a closed door or a car, "
         "and shut it behind them. If the person has a tight throat, a puffy "
-        "face, can't catch a breath or has been hit dozens of times, dial 911 first. Water and bug spray only make a defending colony angrier. Then phone us. A "
+        "face, can't catch a breath or has been hit dozens of times, dial 911 first. Skip the pool and the bug spray; bees wait at the surface, and spray stirs them up. Then phone us. A "
         "stinging call jumps ahead of everything else on our schedule, at any hour."
     ),
     "faqs": [
@@ -149,14 +149,14 @@ CITY = {
          "leaves dead bees and melting comb in the cavity, which causes stains, smells and pests, so "
          "even from a repair point of view live removal is the better route."),
         ("Do I need a city tree permit to get bees out of my oak?",
-         "Not for removing the bees. South Miami's tree removal permit is about cutting down the "
-         "tree itself. If the tree is healthy, the colony can usually be taken from the hollow and "
+         "Getting bees out is not the same as taking the tree down, which is what South Miami's tree "
+         "removal permit covers; ask the city if you are unsure about larger cuts. If the tree is healthy, the colony can usually be taken from the hollow and "
          "the opening closed, and the tree stays where it is."),
         ("My house is in Cambridge Lawns. Can you repair the wall after?",
          "Yes. The wall, trim and paint are put back by licensed tradespeople who work for us, not "
-         "a subcontractor you have never met. Changes to the outside of a designated historic house "
-         "can need sign-off from the city's Historic Preservation Board, so check with the city "
-         "before any exterior change is made."),
+         "a subcontractor you have never met. Exterior alterations to a designated historic house "
+         "can need city approval, with the Historic Preservation Board advising, so check with the city "
+         "before any outside change is made."),
         ("I manage a building downtown. Can you work with the tenants?",
          "Yes. We can send a COI ahead of the visit, plan the work around business hours, and "
          "provide photos and an itemized invoice for the file. A Saturday or late-night "
@@ -184,17 +184,16 @@ CITY = {
         "roofs, tree hollows and storefronts, with repairs by our own trades."
     ),
     "facts": [
-        "South Miami's early name was Larkins, after W. A. Larkins, its first postmaster; a railway depot came in 1904 (source: https://en.wikipedia.org/wiki/South_Miami,_Florida)",
-        "Residents moved to incorporate as the Town of South Miami in 1926; the first mayor, W. A. Forster, was sworn in June 25, 1927 (source: https://en.wikipedia.org/wiki/South_Miami,_Florida)",
-        "Total area 2.31 sq mi; population 12,026 at the 2020 census (source: https://en.wikipedia.org/wiki/South_Miami,_Florida)",
-        "Borders: Coral Gables east, Pinecrest south, Glenvar Heights west, Coral Terrace north; University of Miami along the eastern boundary; main roads U.S. 1, Red Road, Sunset Drive (source: https://en.wikipedia.org/wiki/South_Miami,_Florida)",
+        "South Miami's early name was Larkins, in honor of storekeeper Wilson Alexander Larkins, who became the first postmaster (source: https://en.wikipedia.org/wiki/South_Miami,_Florida)",
+        "Incorporated June 24, 1927 as the Town of South Miami; total area 2.31 sq mi; population 12,026 at the 2020 census (source: https://en.wikipedia.org/wiki/South_Miami,_Florida)",
+        "Borders: Coral Gables east, Pinecrest south, Glenvar Heights west, Coral Terrace north; University of Miami abuts the eastern boundary along Red Road (SW 57th Avenue); U.S. 1 runs through the city (source: https://en.wikipedia.org/wiki/South_Miami,_Florida)",
         "Glenvar Heights borders Kendall to the south and Westchester to the northwest, so both sit just past South Miami's western edge (source: https://en.wikipedia.org/wiki/Glenvar_Heights,_Florida)",
-        "South Miami Metrorail station at SW 72nd Street and U.S. 1; Sunset Drive (SR 986) has a leafy residential character, passes low-rise apartments, offices and South Miami Hospital downtown, and runs under the Metrorail tracks (source: https://en.wikipedia.org/wiki/Sunset_Drive)",
-        "Majority of the city's land is zoned single-family residential; downtown, the Hometown District, is zoned mixed use / transit oriented along Metrorail (source: City of South Miami 2006 Evaluation and Appraisal Report, https://somifl.gov/DocumentCenter/View/280/EAR-Part-2)",
-        "Cambridge Lawns, 31 small Tudor and Mediterranean style homes built in the 1920s-1930s near Miller Road and SW 63 Avenue, designated the city's first historic district in 2005; the Historic Preservation Board advises on alterations to historic buildings (source: https://somifl.gov/DocumentCenter/View/280/EAR-Part-2)",
+        "Sunset Drive runs through leafy neighborhoods of western South Miami, then passes low-rise apartments, offices and South Miami Hospital in the central business district and goes under the Metrorail tracks just south of South Miami station (SW 72nd Street and U.S. 1) (source: https://en.wikipedia.org/wiki/Sunset_Drive)",
+        "Majority of the city's land is zoned single-family residential; downtown, the Hometown District, is zoned mixed use / transit oriented, a walkable town center along Metrorail; the Hometown Too area includes the South Miami Metrorail station (source: City of South Miami 2006 Evaluation and Appraisal Report, https://somifl.gov/DocumentCenter/View/280/EAR-Part-2)",
+        "Cambridge Lawns, 31 small Tudor and Mediterranean style homes built in the 1920s-1930s near Miller Road and SW 63 Avenue, designated the city's first historic district in 2005; the Historic Preservation Board advises the City Commission on alterations to historic buildings (source: https://somifl.gov/DocumentCenter/View/280/EAR-Part-2)",
         "Nelson Homesites, Tranquility Estates, Linden Acres, Sunset Circle and South Side Estates in west-central South Miami near Ludlam Road kept in single-family zoning to protect wellfields that abut the city (source: https://somifl.gov/DocumentCenter/View/280/EAR-Part-2)",
-        "Areas south of U.S. 1 and along Brewer Canal are in the 100-year floodplain; the city's flood ordinance requires buildings there to be elevated and floodproofed (source: https://somifl.gov/DocumentCenter/View/280/EAR-Part-2)",
+        "Areas south of U.S. 1 and along Brewer Canal are in the 100-year floodplain (federally designated Special Flood Hazard Area); the city's flood ordinance requires buildings there to be elevated and floodproofed (source: https://somifl.gov/DocumentCenter/View/280/EAR-Part-2)",
         "City of South Miami offers a Tree Removal permit application (source: https://www.somifl.gov/175/ApplicationsPermits)",
-        "Madison Square is a historically African-American neighborhood of South Miami (source: https://en.wikipedia.org/wiki/South_Miami,_Florida)",
+        "Madison Square is South Miami's historically Black neighborhood; St. John's AME Church, its first church, stands on land donated in 1916 (source: https://en.wikipedia.org/wiki/South_Miami,_Florida)",
     ],
 }

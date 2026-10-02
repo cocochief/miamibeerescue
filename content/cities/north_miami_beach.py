@@ -10,15 +10,15 @@ CITY = {
     "lede": "A city named for a beach it no longer has. Here the bees end up in mid-century block houses, enclosed carports, mobile homes and the condos around Maule Lake, and that is where we go looking.",
     "quick": "A steady line of honey bees using a single crack in your North Miami Beach wall, eave or balcony points to comb being built behind it. Leave the hole open, skip the spray, keep kids and pets inside, and call or text us a photo. Bees and comb are lifted out alive for a beekeeper to keep, then our own licensed crews close and repair whatever had to be opened. Quotes are free; simple jobs near the ground land around $300 to $400.",
     "glance": [
-        ("Incorporated", "1926, as the Town of Fulford"),
+        ("Incorporated", "1927, as the City of Fulford"),
         ("Renamed", "North Miami Beach, in 1931"),
         ("Population", "43,676 at the 2020 census"),
         ("Beachfront", "None today; the sand lies across the Intracoastal Waterway"),
-        ("Ground", "Mostly coastal ridge, about 10 to 15 feet above sea level"),
+        ("Ground", "Much of it on the coastal ridge, averaging 10 to 15 feet above sea level"),
     ],
     "opening": (
-        "North Miami Beach began as Fulford, a land-boom town that took its current name in 1931 after annexing oceanfront property. That beach strip now belongs to [[city:sunny-isles-beach|Sunny Isles Beach]], across the Intracoastal Waterway, so the city you live in is mostly inland, sitting on the old coastal ridge and cut east to west by the Snake Creek Canal.\n\n"
-        "That shapes where bees settle. West of Biscayne Boulevard are streets of concrete block houses from the 1950s and 1960s, many enlarged since with closed-in carports and added rooms, and every seam between old work and new is a place a scout can test. East of the Oleta River bridge, Eastern Shores packs condos, townhomes and deep-water houses onto filled land around Maule Lake. In between sit a mobile home park at the city's southeast tip and a medieval stone monastery on West Dixie Highway."
+        "North Miami Beach began as Fulford, incorporated in 1927, and took its current name in 1931 when a new charter annexed beachfront property. That beach strip now belongs to [[city:sunny-isles-beach|Sunny Isles Beach]], across the Intracoastal Waterway, so the city you live in is mostly inland, much of it on the coastal ridge and cut east to west by the Snake Creek Canal.\n\n"
+        "That shapes where bees settle. West of Biscayne Boulevard are streets of houses from the 1950s and 1960s, many enlarged since with closed-in carports and added rooms, and every seam between old work and new is a place a scout can test. East of the Oleta River bridge, Eastern Shores packs condos and deep-water houses onto filled land, with townhomes on the south and west sides of Maule Lake. Add a mobile home park at the city's southeast tip and a medieval stone monastery on West Dixie Highway."
     ),
     "hotspots_h": "Where colonies move into North Miami Beach buildings",
     "hotspots": [
@@ -36,9 +36,9 @@ CITY = {
     "streets_h": "Neighborhood notes, east to west",
     "streets": [
         ("Eastern Shores",
-         "A peninsula of filled land between Maule Lake, the Intracoastal and Dumfoundling Bay, behind guardhouses. Houses with deep water access sit west of NE 35th Avenue, condos and apartments east of it, plus townhomes on Maule Lake's south and west sides. Give us the gate details when you call."),
+         "Filled former mangrove land bounded by Maule Lake, the Intracoastal and Dumfoundling Bay, behind guardhouses. Houses with deep water access sit west of NE 35th Avenue, condos and apartments east of it, plus townhomes on Maule Lake's south and west sides. Give us the gate details when you call."),
         ("Skylake",
-         "North of Miami Gardens Drive between NE 18th and NE 22nd Avenues, with some of the city's larger lots and early-1960s houses, a few fronting the lake itself. The city line zig-zags here, so some neighbors are in unincorporated [[page:county|Miami-Dade]]; that changes nothing about the visit."),
+         "North of Miami Gardens Drive between NE 18th and NE 22nd Avenues, with some of the city's larger lots and early-1960s houses, a few fronting the lake itself. The city line zig-zags here, so over half the homes are in unincorporated [[page:county|Miami-Dade]]; that changes nothing about the visit."),
         ("Sunray East and Sunray West",
          "Compact 1950s houses on lots roughly 50 feet wide, reaching from the Snake Creek Canal east toward Greynolds Park. Enclosed carports and add-on rooms are common, so the first look goes to the line where each addition meets the original roof."),
         ("Windward",
@@ -46,18 +46,18 @@ CITY = {
         ("Uleta",
          "One of the biggest neighborhoods, west of NE 6th Avenue and hemmed in by I-95, built up in the 1950s with houses, duplexes and triplexes. In a duplex both units can share one wall cavity, so both households should know the plan before anything is opened."),
         ("City Center",
-         "The old core along the Snake Creek Canal: City Hall, the library, a handful of historic homes, the 1920s Fulford-by-the-Sea fountain and the stone monastery on West Dixie Highway. Older houses here carry more patched stucco and wood trim for bees to probe."),
+         "The old core along the Snake Creek Canal: City Hall, the library, historic homes, the 1920s Fulford-by-the-Sea fountain and the stone monastery on West Dixie Highway. In any older house, patched stucco and aging wood trim give scouts more to probe."),
         ("Highland Village",
          "The lowest ground in the city, at its southeast tip, known for a mobile home park, with some apartments and a few blocks of concrete block houses. Skirting, sheds and utility enclosures are the spots to check here."),
     ],
     "body": [
         ("A beach name on ridge ground",
-         "People searching for help here sometimes picture a waterfront city. Mostly it is not. The sand that gave North Miami Beach its name now sits in [[city:sunny-isles-beach|Sunny Isles Beach]], and what remains is a grid of houses on ridge ground, a canal through the middle and a strip of bay-facing land around the Oleta River. [[city:north-miami|North Miami]] lies to the southeast, [[city:miami-gardens|Miami Gardens]] across I-95 to the west and [[city:aventura|Aventura]] to the northeast.\n\n"
-         "So calls come in two flavors. Inland, it is usually a colony in a house: a wall, an eave, a carport ceiling or a [[svc:utility-boxes|meter or irrigation box]] in the yard. East of Biscayne Boulevard it is as likely to be a balcony, a roof room or a dock box, with a building manager in the loop. Big green space sits at the edges too, with Oleta River State Park covering 1,033 acres on the bay, so a [[svc:swarms|resting swarm]] on a fence or sea grape is part of life. A swarm usually moves on. A colony that has started building comb in your structure will not."),
+         "People searching for help here sometimes picture a waterfront city. Mostly it is not. The sand that gave North Miami Beach its name now sits in [[city:sunny-isles-beach|Sunny Isles Beach]], and what remains is a grid of houses on ridge ground, a canal through the middle and a strip of bay-facing land around the Oleta River. [[city:north-miami|North Miami]] lies to the southeast, [[city:miami-gardens|Miami Gardens]] to the west and [[city:aventura|Aventura]] to the northeast.\n\n"
+         "So the problems split two ways. Inland, the colony is in a house: a wall, an eave, a carport ceiling or a [[svc:utility-boxes|meter or irrigation box]] in the yard. East of Biscayne Boulevard, condo living adds balconies, roof rooms and dock boxes to the list, with a building manager in the loop. Big green space sits at the edges too, with Oleta River State Park covering 1,033 acres on the bay, so a [[svc:swarms|resting swarm]] on a fence or sea grape is part of life. A swarm usually moves on. A colony that has started building comb in your structure will not."),
         ("Mid-century block houses and their seams",
-         "Most single-family streets west of the Intracoastal went up in the 1950s and 1960s: concrete block walls, low hip roofs, wood fascia. Owners since then have added rooms, closed in carports and swapped windows, and each change left a joint where two eras meet. Those joints are prime entry points.\n\n"
+         "Much of the single-family housing here dates from the 1950s and 1960s. Owners since then have added rooms and closed in carports, and each change left a joint where two eras meet. Those joints are prime entry points.\n\n"
          "Because block cells are hollow, the entrance and the comb are not always in the same spot. [[guide:thermal-imaging|Thermal imaging]] picks up the warm mass of the colony through stucco or drywall so we open only what is needed. Honey and wax leave with the bees, since leftover comb draws fresh swarms and pests, as our [[guide:why-bees-come-back|note on returning bees]] explains. After that, the patching is done in-house by our licensed contractors, roofers and painters, who fill the block, rebuild the soffit or replace the fascia, and that repair is warrantied: should bees ever reoccupy the sealed spot, a crew returns. More on these jobs at [[svc:walls|bees inside walls]] and [[svc:soffits-eaves|soffit and eave hives]].\n\n"
-         "On price, an exposed swarm or a hive in a ground-level box sits around $300 to $400. A deep wall colony, a full Florida room ceiling or a condo facade that needs real repair can reach into the thousands, and calls at night or on a weekend are billed higher than a regular weekday. The [[page:cost|cost page]] breaks it down."),
+         "On price, a low swarm or a hive in a ground-level box sits around $300 to $400. A deep wall colony, a full Florida room ceiling or a condo facade that needs real repair can reach into the thousands, and calls at night or on a weekend are billed higher than a regular weekday. The [[page:cost|cost page]] breaks it down."),
         ("Condo boards, guard gates and mobile home parks",
          "Eastern Shores and the buildings around Maule Lake add paperwork. A board will typically ask for a COI before anyone opens a shared wall or goes on the roof, so we email it to management in advance. The [[svc:condos-high-rises|condo and high-rise page]] and [[svc:hoa-commercial|property manager page]] explain scheduling, and owners who leave for part of the year should read the [[guide:second-home|seasonal home guide]] first.\n\n"
          "A mobile home park poses a different access question. The colony is often under the home, so the crew works low, numbering skirting panels and refitting them at the end. For duplexes and rented park homes, [[guide:renters-and-landlords|our renter and landlord guide]] helps settle who makes the call."),
@@ -68,7 +68,7 @@ CITY = {
         ("Call, text or form",
          "Tell us the neighborhood, whether a guardhouse or association is involved, and where the bees are flying. A phone photo of the entry helps us bring the right ladder or lift."),
         ("Gate and manager sign-off",
-         "For Eastern Shores, a gated Skylake street or any condo, we confirm the gate list and send insurance paperwork. In a park or duplex, we make sure the owner has agreed to openings."),
+         "For Eastern Shores, another guarded street or any condo, we confirm the gate list and send insurance paperwork. In a park or duplex, we make sure the owner has agreed to openings."),
         ("Locate, open, collect",
          "The camera finds the comb, the crew cuts in only as far as needed, and the colony is lifted out live and boxed for a beekeeper to take."),
         ("Seal, repair and clean up",
@@ -77,13 +77,13 @@ CITY = {
     "alarm": "Stings happening right now? Move everyone into a shut room or a car, out of the flight path, and dial 911 for wheezing, a swelling face or dozens of stings. Once people are safe, ring us. Someone picks up 24/7, stinging calls jump the queue, and the 24-hour response guarantee applies.",
     "faqs": [
         ("Our condo association says the bees are in a common wall. Who should call?",
-         "Usually the manager or board, since they control access to shared walls and roofs. A unit owner can still phone first to describe what is happening. We send insurance paperwork directly to management, fit the visit to building rules and provide photos afterward for the association's records."),
+         "Usually the manager or board, since they control access to shared walls and roofs. A unit owner can still phone first to describe what is happening. We send insurance paperwork directly to management, fit the visit to building rules and can send photos for the association's records."),
         ("Bees are under our mobile home in Highland Village. Can you reach them without moving the home?",
-         "In most cases, yes. The crew opens the skirting, works underneath and removes bees and comb alive, then refits the panels and patches any torn underbelly. If the colony is inside a wall of the home, thermal imaging finds it first so the opening stays small."),
+         "Generally, yes. The crew opens the skirting, works underneath and removes bees and comb alive, then refits the panels and patches any torn underbelly. If the colony is inside a wall of the home, thermal imaging finds it first so the opening stays small."),
         ("A big ball of bees is hanging off a tree by the canal. Is that a hive?",
          "Probably a swarm resting while [[guide:scout-bees|scout bees]] hunt for a cavity, and it may be gone by tomorrow. Stay back and leave it unsprayed. If it is still there after a couple of days, or bees begin entering your house, call and we will collect the cluster alive."),
         ("Our buyer's inspector found bees in the wall of our 1950s house. What now?",
-         "Have the colony removed and the wall repaired before closing, with an itemized invoice to hand the buyer. The [[guide:home-sale-inspection|home sale article]] walks through how to schedule around a contract. We can work to your closing date and send photos to both agents."),
+         "Have the colony removed and the wall repaired before closing, with an itemized invoice to hand the buyer. The [[guide:home-sale-inspection|home sale article]] walks through how to schedule around a contract. Ask for pictures of the repaired wall and you can forward them to each agent."),
     ],
     "services": [
         ("walls", "Block walls in 1950s and 1960s houses hide comb in hollow cells; usually the biggest job here."),
@@ -97,21 +97,21 @@ CITY = {
     "close": ("Point us to the entrance hole", "Ring, send a picture or use the form underneath. A real person answers day and night, and quoting the job costs you nothing."),
     "card": "A mostly inland city on the coastal ridge, with mid-century block homes, enclosed carports, mobile homes and Eastern Shores condos around Maule Lake.",
     "facts": [
-        "Incorporated as the Town of Fulford in 1926 and renamed North Miami Beach in 1931 (source: https://en.wikipedia.org/wiki/North_Miami_Beach,_Florida)",
-        "1931 charter annexed beachfront property and changed the name from Fulford to North Miami Beach (source: https://www.citynmb.com/596/Our-History)",
+        "Originally named Fulford-by-the-Sea in 1926 and renamed North Miami Beach in 1931 (source: https://en.wikipedia.org/wiki/North_Miami_Beach,_Florida)",
+        "Residents incorporated as the City of Fulford in 1927; the 1931 charter annexed beachfront property and changed the name from Fulford to North Miami Beach (source: https://www.citynmb.com/596/Our-History)",
         "Population 43,676 at the 2020 census; the city has no beaches today, the former beachfront is in Sunny Isles Beach across the Intracoastal Waterway (source: https://en.wikipedia.org/wiki/North_Miami_Beach,_Florida)",
-        "Borders: North Miami to the southeast, Golden Glades to the southwest, Miami Gardens to the west, Ojus to the north, Aventura to the northeast, Sunny Isles Beach to the east across the Intracoastal; I-95 along the northwest border (source: https://en.wikipedia.org/wiki/North_Miami_Beach,_Florida)",
+        "Borders: North Miami to the southeast, Golden Glades to the southwest, Miami Gardens to the west, Ojus to the north, Aventura to the northeast, Sunny Isles Beach to the east across the Intracoastal (source: https://en.wikipedia.org/wiki/North_Miami_Beach,_Florida)",
         "Much of the city rests on the coastal ridge, averaging 10 to 15 feet above mean sea level, bisected by the Snake Creek Canal; land east of the ridge slopes to Biscayne Bay (source: https://www.citynmb.com/DocumentCenter/View/4891/NMB-Comprehensive-Plan---Volume-II-PDF)",
-        "Eastern Shores is a peninsula neighborhood of North Miami Beach bounded by Maule Lake, the Intracoastal Waterway and Dumfoundling Bay; a mangrove wetland landfilled in the late 1950s; gated with guardhouses (source: https://en.wikipedia.org/wiki/Eastern_Shores,_Florida)",
+        "Eastern Shores is a neighborhood of North Miami Beach bounded by Maule Lake to the west, the Intracoastal Waterway to the east and Dumfoundling Bay to the northeast; a mangrove wetland landfilled in the late 1950s; a gated community with guardhouses (source: https://en.wikipedia.org/wiki/Eastern_Shores,_Florida)",
         "Eastern Shores lies east of the S.R. 826 bridge over the Oleta River; single-family homes with deep water access west of NE 35 Avenue, condominiums and apartments east; townhomes and condos on the south and west sides of Maule Lake (source: https://www.citynmb.com/DocumentCenter/View/4891/NMB-Comprehensive-Plan---Volume-II-PDF)",
-        "Skylake: north of Miami Gardens Drive between NE 18 and NE 22 Avenues, larger lots (75x110), homes built early 1960s, city boundary zig-zags and part is unincorporated (source: https://www.citynmb.com/DocumentCenter/View/4891/NMB-Comprehensive-Plan---Volume-II-PDF)",
+        "Skylake: north of Miami Gardens Drive between NE 18 and NE 22 Avenues, larger lots (75x110), homes built early 1960s, homes on Sky Lake itself, city boundary zig-zags and over half the homes are in unincorporated Miami-Dade (source: https://www.citynmb.com/DocumentCenter/View/4891/NMB-Comprehensive-Plan---Volume-II-PDF)",
         "Sunray West and East: 1950s homes on lots about 50x110; many expanded by enclosing carports and adding rooms; Snake Creek Canal is Sunray West's western limit; Sunray East extends to Greynolds Park and West Dixie Highway (source: https://www.citynmb.com/DocumentCenter/View/4891/NMB-Comprehensive-Plan---Volume-II-PDF)",
         "Windward: defined by the Snake Creek Canal; 65x110 lots; homes built in the 1960s, typical three bedrooms, two baths, Florida room and carport (source: https://www.citynmb.com/DocumentCenter/View/4891/NMB-Comprehensive-Plan---Volume-II-PDF)",
         "Uleta: one of the largest neighborhoods, west of NE 6 Avenue, bounded by I-95; single-family homes plus duplexes and triplexes; homes built in the 1950s (source: https://www.citynmb.com/DocumentCenter/View/4891/NMB-Comprehensive-Plan---Volume-II-PDF)",
-        "City Center: City Hall, library, historic homes, Fulford-by-the-Sea Monument and the monastery; Snake Creek Canal as east-west axis (source: https://www.citynmb.com/DocumentCenter/View/4891/NMB-Comprehensive-Plan---Volume-II-PDF)",
+        "City Center: City Hall, library, numerous historic homes, Fulford-by-the-Sea Monument and the monastery; Snake Creek Canal as east-west axis (source: https://www.citynmb.com/DocumentCenter/View/4891/NMB-Comprehensive-Plan---Volume-II-PDF)",
         "Highland Village: known for mobile homes at the southeastern tip of the city, plus a park, some multifamily and a few blocks of concrete block homes; lowest elevation in the city (source: https://www.citynmb.com/DocumentCenter/View/4891/NMB-Comprehensive-Plan---Volume-II-PDF)",
-        "Ancient Spanish Monastery (St. Bernard de Clairvaux Church), built 1133-1141, reassembled in the 1950s at 16711 West Dixie Highway; now an Episcopal church (source: https://en.wikipedia.org/wiki/Ancient_Spanish_Monastery)",
-        "Fulford-by-the-Sea Monument, a 1920s entrance fountain, listed on the National Register in 2010 (source: https://en.wikipedia.org/wiki/Fulford-by-the-Sea_Monument)",
-        "Oleta River State Park, 1,033 acres on Biscayne Bay with mangrove shoreline, within North Miami Beach (source: https://en.wikipedia.org/wiki/Oleta_River_State_Park)",
+        "Ancient Spanish Monastery (St. Bernard de Clairvaux Church), a stone Cistercian monastery built 1133-1141, now at 16711 West Dixie Highway, North Miami Beach, and used as an Episcopal church (source: https://en.wikipedia.org/wiki/Ancient_Spanish_Monastery)",
+        "Fulford-by-the-Sea Monument, a historic fountain built in 1925, listed on the National Register on November 29, 2010 (source: https://en.wikipedia.org/wiki/Fulford-by-the-Sea_Monument)",
+        "Oleta River State Park, 1,033 acres on Biscayne Bay with mangrove forests, in North Miami Beach (source: https://en.wikipedia.org/wiki/Oleta_River_State_Park)",
     ],
 }

@@ -20,7 +20,7 @@ SERVICE = {
         "A colony packed into the cab, toolbox or engine housing of a tractor or trailer that sat unused for a few weeks.",
         "A dense cluster on a pallet or a wall in the packing shed, and staff refusing to work that end of the building.",
     ],
-    "behind": "Scout bees hunt for a dry, dark, sheltered space of about the right size, and a farm offers them dozens: valve boxes, hollow pipe, block pump houses, stacked pots, idle machinery, rotted heartwood in a grove tree. Once a swarm moves in, the workers build comb fast and start storing honey. What makes this dangerous on a farm is noise and vibration. A colony reads a pump starting or a mower passing a few feet away as an attack and sends defenders out. Florida's agriculture department says genetic testing is the only way to tell Africanized bees from European ones, so a colony that reacts hard should be treated as a real hazard. Any colony with no box and no beekeeper attached is feral, and that is the kind we take.",
+    "behind": "Scout bees hunt for a dry, dark, sheltered space of about the right size, and a farm offers them dozens: valve boxes, hollow pipe, block pump houses, stacked pots, idle machinery, rotted heartwood in a grove tree. Once a swarm moves in, the workers build comb fast and start storing honey. What makes this dangerous on a farm is noise and vibration. A colony reads a pump starting or a mower passing a few feet away as an attack and sends defenders out. Florida's agriculture department says genetic testing is required to tell Africanized bees from European ones, since the eye cannot, so a colony that reacts hard should be treated as a real hazard. Any colony with no box and no beekeeper attached is feral, and that is the kind we take.",
 
     "body": [
         ("Feral colonies versus the beekeeper's boxes",
@@ -61,11 +61,11 @@ SERVICE = {
         "Night or weekend emergency timing when a pump or harvest cannot wait",
     ],
 
-    "miami_h": "Where in Miami-Dade this job comes up",
+    "miami_h": "South Dade farm country, block by block",
     "miami": [
         ("redland", "[[city:redland|Redland]] is an unincorporated farm area named for pockets of red clay over oolitic limestone, with a large concentration of ornamental nurseries and tropical fruit groves, so shade houses, pump houses and mature fruit trees are part of the working landscape there."),
         ("homestead", "[[city:homestead|Homestead]], incorporated in 1913, is both a suburb and a major agricultural area. Because farm fields and suburban streets share the same city, a defensive colony at a field edge can matter to neighbors as well as your crew."),
-        ("florida-city", "[[city:florida-city|Florida City]] adjoins Homestead to the south and west and has a long history of winter vegetable crops such as tomatoes and squash, with field equipment and irrigation that can sit idle between seasons."),
+        ("florida-city", "[[city:florida-city|Florida City]] adjoins Homestead to the south and west and grew up on winter truck crops such as tomatoes and squash. Field equipment and irrigation that sit idle between seasons are just the kind of quiet cavity a swarm looks for."),
     ],
 
     "alarm": "If someone on your crew is being stung right now, get them into a closed truck cab or building, away from the nest. A canal or ditch is no escape, because the bees hover over the water and wait. Call 911 for many stings, a swollen face or lips, or any trouble breathing. Do not walk back to switch off equipment beside the nest. Then call us: a person comes before a pump.",
@@ -74,7 +74,7 @@ SERVICE = {
         ("Will you take the hives our beekeeper set out for pollination?",
          "No. A rented pollination colony is someone else's property, and its owner is on record with the state. If those boxes are causing trouble, the person to call is that beekeeper. We handle feral colonies that moved into your structures, trees or equipment on their own."),
         ("Can my crew keep working the next block while you remove the colony?",
-         "Often, yes, as long as engines and foot traffic stay outside the perimeter we set together. Because Africanized bees cannot be identified by eye, a colony that is already stinging people gets a wider buffer. We will tell you on site where it is safe to work."),
+         "Yes, as long as engines and foot traffic stay outside the perimeter we set together. Because Africanized bees cannot be identified by eye, a colony that is already stinging people gets a wider buffer. We will tell you on site where it is safe to work."),
         ("Is it legal for someone to just kill a colony on my farm?",
          "According to the state agriculture department, eradication is reserved for pest control companies holding a state license, while beekeepers doing live removal must be registered with the department. The property owner picks the method. Ours is live removal only, so the bees end up with a beekeeper."),
         ("There's a colony in an old avocado tree. Will we lose the tree?",
@@ -93,7 +93,7 @@ SERVICE = {
     "facts": [
         "Redland is a historic unincorporated community and agricultural area in Miami-Dade County, named for pockets of red clay over oolitic limestone, with a large concentration of ornamental nurseries and tropical fruits (source: https://en.wikipedia.org/wiki/Redland,_Florida)",
         "Homestead was incorporated in 1913 and is described as a Miami suburb and a major agricultural area (source: https://en.wikipedia.org/wiki/Homestead,_Florida)",
-        "Florida City lies to the south and west of, and is contiguous with, Homestead; tomatoes, squash and other truck crops were grown there in winter (source: https://en.wikipedia.org/wiki/Florida_City,_Florida)",
+        "Florida City lies to the south and west of, and is contiguous with, Homestead; tomatoes, squash and other truck crops were grown in the area during the winter months (source: https://en.wikipedia.org/wiki/Florida_City,_Florida)",
         "More than 2,400 nurseries registered with FDACS DPI in Miami-Dade in 2024; most ornamental plants grown in shade houses or open fields; ornamentals use 35% of agricultural land and more than 80% of agricultural sales (source: https://sfyl.ifas.ufl.edu/miami-dade/agriculture/ornamental-production/)",
         "UF/IFAS Miami-Dade tropical fruit program lists avocado, lychee, longan and mango among crops (source: https://sfyl.ifas.ufl.edu/miami-dade/agriculture/tropical-fruit-production/)",
         "Florida beekeepers are required by law to register with FDACS (source: https://www.fdacs.gov/Agriculture-Industry/Bees-Apiary ; s. 586.045 F.S. https://www.flsenate.gov/Laws/Statutes/2024/586.045)",

@@ -2,7 +2,7 @@
 """Miami-Dade County hub page copy."""
 
 COUNTY = {
-    "title": "One County, 34 Cities: Bee Removal Around Miami-Dade",
+    "title": "Bee Removal Across Miami-Dade County's 34 Municipalities",
     "desc": "Honey bee removal in every corner of Miami-Dade: 34 cities, towns and villages plus the unincorporated suburbs and farm belt. Live removal, 24/7 phones.",
     "h1": "Bees and hives in every part of Miami-Dade",
     "kicker": "Every corner of Miami-Dade",
@@ -16,8 +16,8 @@ COUNTY = {
         "$400; repair-heavy jobs reach the thousands. Nothing is charged for the quote."
     ),
     "alarm": (
-        "Anyone under attack should head for the nearest closed room or vehicle, walking fast "
-        "rather than freezing in place or swatting. Swelling of the face or throat, trouble breathing "
+        "Anyone under attack should head for the nearest closed room or vehicle, running "
+        "rather than freezing in place or swatting, with a shirt pulled up over the face if possible. Swelling of the face or throat, trouble breathing "
         "or dizziness means call 911 first. Then call us: the phones are answered around the clock, "
         "and stinging emergencies are taken ahead of everything else."
     ),
@@ -43,10 +43,10 @@ COUNTY = {
             "The oldest parts of the county are here. [[city:miami|Miami]] was incorporated in 1896 "
             "and now packs more than 300 high-rises downtown, so towers and older houses can share a "
             "few blocks. [[city:coconut-grove|Coconut Grove]], settled in 1825 and a neighborhood of "
-            "the City of Miami since its 1925 annexation, keeps heavy shade and old garden walls. "
-            "[[city:coral-gables|Coral Gables]] was planned by George Merrick in the 1920s around "
-            "Mediterranean Revival homes, local coral rock and coral-colored roof tile, all of which "
-            "leave gaps a swarm can use. [[city:south-miami|South Miami]] and unincorporated "
+            "the City of Miami since its 1925 annexation, keeps a heavy tree canopy over narrow, winding roads. "
+            "[[city:coral-gables|Coral Gables]] was planned by George Merrick during the 1920s land boom, "
+            "with a Mediterranean Revival style written into the original plan; tile roofs and ornate "
+            "trim leave gaps a swarm can use. [[city:south-miami|South Miami]] and unincorporated "
             "[[city:westchester|Westchester]] round out the region."
         ),
         "beaches": (
@@ -74,8 +74,9 @@ COUNTY = {
             "Past the airport, the county turns industrial and then suburban. "
             "[[city:hialeah|Hialeah]], incorporated in 1925, counted 223,109 residents in 2020, the "
             "sixth-largest city in Florida. [[city:doral|Doral]] became a city in 2003 and grew by "
-            "about two-thirds over the next decade; its warehouses and distribution yards are full of "
-            "pallets, stacked equipment and roll-up door housings where a swarm can settle. "
+            "about two-thirds between 2010 and 2020. Its closeness to the airport draws importers and "
+            "exporters, and the warehouses that trade fills hold pallets, stacked equipment and roll-up "
+            "door housings where a swarm can settle. "
             "[[city:miami-springs|Miami Springs]], [[city:hialeah-gardens|Hialeah Gardens]] and the "
             "town of [[city:miami-lakes|Miami Lakes]] are separate municipalities, and "
             "[[city:west-kendall|West Kendall]] is an informal name for suburbs on the western edge."
@@ -94,8 +95,8 @@ COUNTY = {
     "others_h": "Not listed? You are still inside the service area",
     "others": (
         "Plenty of Miami-Dade has no page of its own here, which is a matter of space, not coverage. "
-        "Several of these places are small municipalities with real character. Opa-locka was "
-        "chartered in 1926 by aviation pioneer Glenn Curtiss and holds one of the largest collections "
+        "Several of these places are small municipalities with real character. Opa-locka, "
+        "developed by aviation pioneer Glenn Curtiss and chartered as a town in 1926, holds one of the largest collections "
         "of Moorish Revival buildings in the Western Hemisphere, domes and parapets included. Indian "
         "Creek is a village of 41 home sites behind a guarded bridge. North Bay Village spreads across "
         "three islands on the 79th Street Causeway, Biscayne Park holds its meetings in a log cabin "
@@ -126,9 +127,9 @@ COUNTY = {
         (
             "Coral rock, stucco, tile and glass",
             "The county's buildings are as mixed as its map, and bees use whatever each one offers. "
-            "Early [[city:coral-gables|Coral Gables]] houses used Miami Limestone, a porous rock "
-            "nicknamed coral rock, under roofs of coral-colored tile; the hollows under "
-            "barrel tiles and behind trim make tidy nest sites. On [[city:miami-beach|Miami Beach]], "
+            "[[city:coral-gables|Coral Gables]] takes its name from George Merrick's family home, built of "
+            "Miami Limestone, a porous rock nicknamed coral rock, under coral-colored tile, and the "
+            "city's Mediterranean Revival roofs and trim leave hollows that make tidy nest sites. On [[city:miami-beach|Miami Beach]], "
             "Art Deco stucco and decorative parapets hide empty spaces. In the towers of "
             "[[city:sunny-isles-beach|Sunny Isles Beach]] and downtown, a colony can end up in a "
             "planter, a louver or a ceiling void many floors up, which turns removal into a job "
@@ -152,8 +153,8 @@ COUNTY = {
             "has to work around crews, crops and picking schedules, and it usually means walking the "
             "property instead of pulling into a driveway. See [[svc:nurseries-groves|nursery, grove and "
             "farm removals]], [[svc:trees-palms|colonies in palms and trees]] and "
-            "[[svc:sheds-garages|sheds and outbuildings]] for the specifics. Homestead and much of South "
-            "Dade were hit hard by Category 5 Hurricane Andrew in August 1992, and any big storm can "
+            "[[svc:sheds-garages|sheds and outbuildings]] for the specifics. Homestead was "
+            "devastated by Category 5 Hurricane Andrew in August 1992, and any big storm can "
             "split trunks and lift roof edges; the [[guide:after-a-storm|storm guide]] covers "
             "what to look over once the wind drops."
         ),
@@ -169,7 +170,7 @@ COUNTY = {
             "[[guide:why-bees-come-back|why bees come back]].\n\n"
             "Price follows the job, not the zip code. When the comb hangs within arm's length of the ground, figure on $300 to $400. "
             "Opening a roof, cutting and rebuilding a wall, or staging a high-rise crew pushes the total "
-            "into four figures. After dark, and on Saturdays or Sundays, the rate is higher than on a "
+            "into the thousands. After dark, and on Saturdays or Sundays, the rate is higher than on a "
             "weekday. Photos and an "
             "itemized invoice are available on request, which helps owners "
             "[[guide:second-home|away for the season]] and anyone sorting out "
@@ -243,24 +244,28 @@ COUNTY = {
         "Miami-Dade County has 34 incorporated municipalities, listed by the county: Miami, Homestead, Florida City, Miami Beach, Coral Gables, Hialeah, North Miami, Opa-locka, Miami Springs, South Miami, Golden Beach, North Miami Beach, Miami Shores, Biscayne Park, Surfside, El Portal, Indian Creek Village, Sweetwater, North Bay Village, West Miami, Bay Harbor Islands, Bal Harbour, Virginia Gardens, Hialeah Gardens, Medley, Key Biscayne, Aventura, Pinecrest, Sunny Isles Beach, Miami Lakes, Palmetto Bay, Miami Gardens, Doral, Cutler Bay (source: https://www.miamidade.gov/global/management/municipalities.page)",
         "The unincorporated area has a population exceeding one million and would be the largest city in Florida if it were a city; about one-third of the county is in Everglades National Park; the county is bounded by Biscayne Bay and the Atlantic Ocean on the east and Everglades National Park on the west (source: https://www.miamidade.gov/global/disclaimer/about-miami-dade-county.page)",
         "On November 13, 1997, voters changed the name from Dade County to Miami-Dade County; total area 2,431 sq mi, of which 533 sq mi (21.9%) is water; Redland and Homestead make up the county's agricultural economy (source: https://en.wikipedia.org/wiki/Miami-Dade_County,_Florida)",
-        "Miami incorporated July 28, 1896; downtown has over 300 high-rises; Coconut Grove was settled in 1825 and annexed into Miami in 1925 (source: https://en.wikipedia.org/wiki/Miami)",
-        "Coral Gables incorporated April 29, 1925, planned by George Merrick; almost entirely Mediterranean Revival; built with Miami Limestone (coral rock) and coral-colored roof tiles (source: https://en.wikipedia.org/wiki/Coral_Gables,_Florida)",
+        "Miami incorporated July 28, 1896; downtown has over 300 high-rises; Coconut Grove was settled in 1825 and annexed into Miami in 1925, with narrow, winding roads and a heavy tree canopy (source: https://en.wikipedia.org/wiki/Miami)",
+        "Brickell is a neighborhood of the City of Miami, a dense high-rise residential area of condominium and apartment towers (source: https://en.wikipedia.org/wiki/Brickell)",
+        "Coral Gables incorporated April 29, 1925, planned by George Merrick during the 1920s land boom; architecture almost entirely Mediterranean Revival, mandated in the original plan; named for Merrick's family home of Miami Limestone (coral rock) with coral-colored tile (source: https://en.wikipedia.org/wiki/Coral_Gables,_Florida)",
         "Miami Beach sits on natural and man-made barrier islands between the Atlantic Ocean and Biscayne Bay; its Art Deco historic district was listed on the National Register of Historic Places in 1979 (source: https://en.wikipedia.org/wiki/Miami_Beach,_Florida)",
         "Key Biscayne is a village incorporated June 18, 1991, reached by the Rickenbacker Causeway (source: https://en.wikipedia.org/wiki/Key_Biscayne,_Florida)",
         "Sunny Isles Beach incorporated June 16, 1997; early-2000s redevelopment replaced the motel row with high-rise condominiums and hotels (source: https://en.wikipedia.org/wiki/Sunny_Isles_Beach,_Florida)",
         "Miami Gardens incorporated May 13, 2003; home to Hard Rock Stadium (source: https://en.wikipedia.org/wiki/Miami_Gardens,_Florida)",
         "Hialeah incorporated 1925; 2020 population 223,109; sixth-largest city in Florida (source: https://en.wikipedia.org/wiki/Hialeah,_Florida)",
-        "Doral incorporated June 24, 2003; population grew from 45,704 (2010) to 75,874 (2020); hosts warehousing and distribution near Miami International Airport (source: https://en.wikipedia.org/wiki/Doral,_Florida)",
+        "Doral incorporated June 24, 2003; population grew from 45,704 (2010) to 75,874 (2020); attracts importers and exporters because of its proximity to the airport (source: https://en.wikipedia.org/wiki/Doral,_Florida)",
         "Kendall is an unincorporated area and census-designated place; 2020 population 80,241; Dadeland is its commercial center (source: https://en.wikipedia.org/wiki/Kendall,_Florida)",
-        "Homestead incorporated 1913, second oldest city in the county after Miami; lies between Biscayne National Park and Everglades National Park; hit by Category 5 Hurricane Andrew on August 24, 1992 (source: https://en.wikipedia.org/wiki/Homestead,_Florida)",
+        "Homestead incorporated 1913, second oldest city in the county after Miami; lies between Biscayne National Park and Everglades National Park; devastated by Category 5 Hurricane Andrew on August 24, 1992; immediately north and east of Florida City (source: https://en.wikipedia.org/wiki/Homestead,_Florida)",
         "Redland is an unincorporated agricultural area northwest of Homestead growing mangoes, avocados, guavas, passion fruit, orchids and ornamental plants; named for red clay pockets over oolitic limestone (source: https://en.wikipedia.org/wiki/Redland,_Florida)",
-        "Opa-locka was chartered as a town on May 14, 1926, developed by aviation pioneer Glenn Curtiss; one of the largest collections of Moorish Revival architecture in the Western Hemisphere (source: https://en.wikipedia.org/wiki/Opa-locka,_Florida)",
-        "Indian Creek is a village on an island with 41 residential home sites; 84 residents in 2020; bridge guarded by a police checkpoint (source: https://en.wikipedia.org/wiki/Indian_Creek,_Florida)",
-        "North Bay Village is on three islands in Biscayne Bay along the 79th Street Causeway, incorporated 1945 (source: https://en.wikipedia.org/wiki/North_Bay_Village,_Florida)",
-        "Biscayne Park is a village incorporated 1933 whose village hall is a log cabin (source: https://en.wikipedia.org/wiki/Biscayne_Park,_Florida)",
+        "Opa-locka was developed by aviation pioneer Glenn Curtiss and chartered as a town on May 14, 1926; one of the largest collections of Moorish Revival architecture in the Western Hemisphere (source: https://en.wikipedia.org/wiki/Opa-locka,_Florida)",
+        "Indian Creek is a village on an island with 41 residential home sites; 84 residents in 2020; its bridge is guarded by a police checkpoint (source: https://en.wikipedia.org/wiki/Indian_Creek,_Florida)",
+        "North Bay Village is a city on three islands along the 79th Street Causeway, incorporated August 1, 1945 (source: https://en.wikipedia.org/wiki/North_Bay_Village,_Florida)",
+        "Biscayne Park incorporated as a town in 1931 and became a village in 1933; a log cabin serves as its commission chambers for all meetings (source: https://en.wikipedia.org/wiki/Biscayne_Park,_Florida)",
         "El Portal is a village incorporated 1937, designated a bird sanctuary by the State of Florida since the 1950s (source: https://en.wikipedia.org/wiki/El_Portal,_Florida)",
         "Medley is a town incorporated 1949 whose primary tax base is industrial development (source: https://en.wikipedia.org/wiki/Medley,_Florida)",
         "Virginia Gardens is a village bordered to the south by Miami International Airport (source: https://en.wikipedia.org/wiki/Virginia_Gardens,_Florida)",
-        "UF/IFAS: African honey bees cannot be easily distinguished from European bees, though slightly smaller; heightened defensiveness; may swarm more than 10 times a year vs 1-3 for European colonies; found nesting in water meter boxes, cement blocks, house eaves and barbecue grills (source: https://ask.ifas.ufl.edu/publication/IN790)",
+        "Westchester is a census-designated place, 2020 population 56,384; Fisher Island is a census-designated place on a barrier island (sources: https://en.wikipedia.org/wiki/Westchester,_Florida ; https://en.wikipedia.org/wiki/Fisher_Island,_Florida)",
+        "Miami Shores (Miami Shores Village), Bal Harbour, Pinecrest and Palmetto Bay are villages; Golden Beach, Miami Lakes and Cutler Bay are towns; South Miami, Miami Springs, Hialeah Gardens, Aventura, North Miami, North Miami Beach and Florida City are cities (sources: https://en.wikipedia.org/wiki/Miami_Shores,_Florida ; https://en.wikipedia.org/wiki/Golden_Beach,_Florida ; https://en.wikipedia.org/wiki/Miami_Lakes,_Florida ; https://en.wikipedia.org/wiki/Cutler_Bay,_Florida ; https://en.wikipedia.org/wiki/Florida_City,_Florida)",
+        "The Hammocks is a planned community and census-designated place; Goulds and Leisure City are unincorporated census-designated places; Tamiami is not among the county's 34 municipalities (sources: https://en.wikipedia.org/wiki/The_Hammocks,_Florida ; https://en.wikipedia.org/wiki/Goulds,_Florida ; https://en.wikipedia.org/wiki/Leisure_City,_Florida ; https://www.miamidade.gov/global/management/municipalities.page)",
+        "UF/IFAS: a victim of an attack should run away, covering the head and airways, and not stand and swat; African honey bees cannot be easily distinguished from European bees, though slightly smaller; heightened defensiveness; may swarm more than 10 times a year vs 1-3 for European colonies; found nesting in water meter boxes, cement blocks, house eaves and barbecue grills and nest in a much smaller volume than European bees (source: https://ask.ifas.ufl.edu/publication/IN790)",
     ],
 }

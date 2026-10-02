@@ -4,7 +4,7 @@
 CITY = {
     "key": "hialeah-gardens",
     "title": "Warehouse or Soffit? Bee Removal Across Hialeah Gardens",
-    "desc": "Hialeah Gardens bee removal for one-story homes, lakeside yards and northwest warehouse blocks. Bees go to beekeepers alive; COIs on request.",
+    "desc": "Hialeah Gardens bee removal for one-story homes, canal-side yards and northwest warehouse blocks. Bees go to beekeepers alive; COIs on request.",
     "h1": "Bee removal in Hialeah Gardens, house or warehouse",
     "kicker": "Hialeah Gardens, west Miami-Dade",
     "lede": "A small city with quiet one-story streets on one side and working industrial yards on the other. Bees found in either place leave in a box bound for a beekeeper's apiary, not a trash bag.",
@@ -25,7 +25,7 @@ CITY = {
         "homes and estate lots, the northwest is given over to industry, and the central and south "
         "districts mix housing with shops and offices. A honey bee colony hunting for a dry, dark "
         "cavity pays no attention to that line. It may choose the soffit of a one-story house near "
-        "one of the lakes, or the hollow cap above a roll-up door in a yard where a roofing company "
+        "the water, or the hollow cap above a roll-up door in a yard where a roofing company "
         "keeps its stock."
         "\n\n"
         "The removal follows the same principle on both sides and plays out differently on each. "
@@ -52,7 +52,7 @@ CITY = {
          "Truck and trailer dealers and shipping companies operate here. A trailer, toolbox or "
          "generator housing that sits for a season is an inviting box for scout bees. Look before you "
          "hitch up or crank an engine, because jolting the unit can send the whole colony out."),
-        ("Trees beside the lakes and canal",
+        ("Trees near the water and the canal",
          "Roughly an eighth of the city's area is water, and the Miami Canal runs along the Medley "
          "side. Bees carry water home to cool the brood, so hollow trunks and thick crowns near the "
          "banks are natural candidates for both resting swarms and settled colonies."),
@@ -111,9 +111,9 @@ CITY = {
          "so a colony there gets bumped often and can turn defensive. Once the comb is out, sealing "
          "matters as much as removal, because wax and honey residue keep calling new scouts back. "
          "The guide on [[guide:why-bees-come-back|returning bees]] covers that lingering lure, and "
-         "[[svc:soffits-eaves|soffit and eave removal]] covers how that opening gets rebuilt by our own "
-         "licensed carpenters, roofers and painters."),
-        ("Lakes, the canal and swarm season",
+         "[[svc:soffits-eaves|soffit and eave removal]] covers how that opening gets rebuilt, with the "
+         "carpentry, roofing and paint handled by licensed contractors on our own crew."),
+        ("Water, the canal and swarm season",
          "About 0.45 of the city's 3.67 square miles is water, and the Miami Canal marks the line with "
          "Medley. Water is something every colony needs, because foragers haul it home to cool the "
          "nest in summer heat. Spring is the main swarm season, though in this climate a swarm can show "
@@ -155,7 +155,7 @@ CITY = {
          "Yes. A COI naming the owner, landlord, HOA or management company can be issued ahead of the "
          "visit. Give us the exact legal name to list and the address or inbox it should go to, and the "
          "document will be in their hands before the crew pulls up to the gate."),
-        ("Bees are bunched on a branch over the lake behind my yard. Should I wait for them to go?",
+        ("Bees are bunched on a branch over the water behind my yard. Should I wait for them to go?",
          "Waiting can work. A cluster like that is a swarm resting while scouts decide where to live, "
          "and it often lifts off by the next morning or within two or three days. The trouble starts if the spot "
          "they choose is your fascia or a hollow wall. Keep pets and people back, skip the spray, and "
@@ -176,17 +176,17 @@ CITY = {
         ("hoa-commercial", "COIs on request, scheduling around deliveries and itemized invoices for yard owners and property managers."),
         ("utility-boxes", "Meter enclosures and sprinkler valve boxes sitting at ground level in front yards across the north district."),
         ("sheds-garages", "Sheds and detached garages on the larger estate-zoned parcels, where a colony can build unseen for months."),
-        ("trees-palms", "Hollow trunks and thick crowns near the lakes and along the canal bank on the Medley side."),
+        ("trees-palms", "Hollow trunks and thick crowns near the water and along the canal bank on the Medley side."),
     ],
     "nearby": ["hialeah", "miami-lakes", "doral"],
     "close": ("A photo of the gap gets things moving",
               "Add the address and whether it is a home or a business, and that is enough for a free quote."),
-    "card": "One-story homes in the north, warehouse yards in the northwest and lakes throughout. Live removal with repairs and business paperwork handled.",
+    "card": "One-story homes in the north, warehouse yards in the northwest and the Miami Canal to the southwest. Live removal with repairs and business paperwork handled.",
     "facts": [
         "Hialeah Gardens is a city in Miami-Dade County; population 23,068 at the 2020 census (source: https://en.wikipedia.org/wiki/Hialeah_Gardens,_Florida)",
         "Incorporated December 1948 by 26 unanimous votes; began at the Walter C. Ohlerts Tourist Camp; first building code February 1949 (source: https://en.wikipedia.org/wiki/Hialeah_Gardens,_Florida)",
-        "County lists Hialeah Gardens incorporation date as December 1, 1948 (source: https://www.miamidade.gov/global/management/municipalities.page)",
-        "Rural community where raising horses was a main industry until a 1968 land use and zoning master plan; became one of the fastest growing municipalities in the county (source: https://en.wikipedia.org/wiki/Hialeah_Gardens,_Florida)",
+        "Infobox gives the incorporation date as December 1, 1948; the article calls it the town of Hialeah Gardens at incorporation, a city today (source: https://en.wikipedia.org/wiki/Hialeah_Gardens,_Florida)",
+        "Rural community where raising horses was a main industry until a 1968 land use and zoning master plan; became one of the fastest growing municipalities in the county; the source credits proximity to US 27 and the Palmetto Expressway (source: https://en.wikipedia.org/wiki/Hialeah_Gardens,_Florida)",
         "Total area 3.67 sq mi, 3.22 land and 0.45 water (12.21%); development mostly single-story (source: https://en.wikipedia.org/wiki/Hialeah_Gardens,_Florida)",
         "Located northwest of downtown Miami; bordered north and east by Hialeah and southwest by Medley (source: https://en.wikipedia.org/wiki/Hialeah_Gardens,_Florida)",
         "The Miami Canal forms the border between Medley and Hialeah Gardens and Hialeah (source: https://en.wikipedia.org/wiki/Medley,_Florida)",

@@ -18,7 +18,7 @@ CITY = {
     "glance": [
         ("Incorporated", "December 29, 1914"),
         ("First name", "Detroit, a land promotion settled by thirty families in 1910"),
-        ("Ground", "Miami Rock Ridge limestone, about 5 to 8 feet above sea level"),
+        ("Ground", "Mostly Miami Rock Ridge limestone, 5 to 8 feet above sea level"),
         ("Population", "13,085 at the 2020 census"),
         ("Road ends here", "Southern terminus of the Turnpike's Homestead Extension, at U.S. 1"),
     ],
@@ -38,16 +38,16 @@ CITY = {
     "hotspots_h": "Where colonies settle on Florida City property",
     "hotspots": [
         ("Meter and valve boxes in rock",
-         "The city sits on a limestone ridge, so water meters, irrigation valves and backflow boxes are set "
-         "into shallow rock with little soil around them. A lid with a gap becomes a dark, dry chamber that "
-         "a swarm can fill with comb in a couple of weeks. See [[svc:utility-boxes|meter and valve box removals]]."),
+         "The city sits mostly on a limestone ridge, so water meters, irrigation valves and backflow boxes are "
+         "set into rock with thin soil over it. A lid with a gap becomes a dark, dry chamber, and a swarm "
+         "that moves in can fill it with comb within weeks. See [[svc:utility-boxes|meter and valve box removals]]."),
         ("Packing sheds and barns",
          "Farm buildings on the west side hold stacked bins, pallets, old equipment and wall cavities that "
          "nobody opens for months. Bees use the quiet. A colony in a shed can be cut out without moving the "
          "whole building, and [[svc:sheds-garages|outbuilding removals]] cover that work."),
-        ("Block walls rebuilt after 1992",
-         "Hurricane Andrew demolished more than 120 Florida City homes and damaged 700 more, and much of "
-         "what stands now was rebuilt afterward. Concrete block holds hollow cores that connect sideways, so "
+        ("Concrete block walls",
+         "Hurricane Andrew demolished more than 120 Florida City homes and damaged 700 others in 1992, and "
+         "repaired walls hide the same voids as original ones. Concrete block holds hollow cores that connect sideways, so "
          "bees entering at a pipe gap can build well away from it. [[svc:walls|Wall removals]] start by finding the comb."),
         ("Soffits and roof edges",
          "Single-story roofs here run long and low, and a loose soffit vent or a gap at the fascia opens "
@@ -62,28 +62,28 @@ CITY = {
     "streets": [
         ("Krome Avenue corridor",
          "Krome runs along the farm side of town, past the State Farmers' Market on North Krome and the "
-         "Florida Pioneer Museum south of Lucy Street. Buildings here sit close to open ground, so swarms "
-         "reach walls and signs quickly in the warm months."),
+         "Florida Pioneer Museum, a 1904 railroad agent's house half a mile south of Lucy Street. Where "
+         "buildings sit close to open ground, a swarm leaving the fields has only a short way to travel."),
         ("Palm Drive and City Hall",
-         "City Hall sits on West Palm Drive, and the older commercial stretch around it mixes shops, offices "
-         "and small lots. Storefront signs, rooftop units and parapet gaps are the cavities to check. A shop owner "
+         "City Hall sits at 404 West Palm Drive. On the commercial buildings along the street, storefront "
+         "signs, rooftop units and parapet gaps are the cavities to check. A shop owner "
          "whose landlord wants paperwork can get an insurance certificate sent over first."),
         ("U.S. 1 at the Turnpike's end",
          "The Turnpike's Homestead Extension ends at U.S. 1 inside the city limits, and the road frontage "
          "carries steady traffic. Bees in a sign cabinet, landscape bed or dumpster enclosure near a busy "
-         "entrance need a quick, tidy job, often early in the day before customers arrive."),
+         "entrance are worth handling at the quietest hour the business can offer."),
         ("Northwest near Loren Roberts Park",
-         "Loren Roberts Park on NW 6th Avenue and the Youth Activity Center on NW 5th Avenue sit among "
-         "residential blocks. Where children play nearby, a colony in a fence post or utility box is worth "
+         "Loren Roberts Park on NW 6th Avenue and the Youth Activity Center on NW 5th Avenue anchor the "
+         "northwest side of the city, where the city runs its youth sports programs. Where children play nearby, a colony in a fence post or utility box is worth "
          "handling promptly rather than waiting to see if it moves on."),
         ("Along the old Long Slough",
-         "A natural slough once crossed the city, entering near Redland Road and Lucy Street, before canals "
-         "drained it during the 1900s. Lower lots along that line can stay damp after rain, and bees choose "
-         "the dry, sheltered spots close by, such as raised sheds and wall voids."),
+         "Long Slough, a slow-flowing channel out of the Everglades, once crossed the city, entering near "
+         "Redland Road and Lucy Street. Canals built in the early 1900s lowered the water table across "
+         "the area. Bees still pass over damp ground to settle in dry, sheltered spots, such as raised sheds and wall voids."),
         ("Davis Parkway",
-         "Davis Parkway is where a live oak hammock once grew in town. Big shade trees and the homes around "
-         "them give bees both branch cavities and shaded eaves to consider, so check trunks and rooflines "
-         "together when you see traffic."),
+         "A live oak hammock once grew along Davis Parkway, reaching into what became the Florida City Camper "
+         "Park. Wherever big shade trees stand over a house, bees have both branch cavities and shaded eaves "
+         "to consider, so check trunks and rooflines together when you see traffic."),
     ],
     "body": [
         ("Why farm country sends swarms toward houses",
@@ -98,9 +98,9 @@ CITY = {
          "smell. That pattern is covered in [[guide:why-bees-come-back|why bees come back to the same spot]]. "
          "A live removal avoids it, because the comb leaves with the bees."),
         ("Storm damage and rebuilt houses",
-         "Florida City took one of the hardest hits of Hurricane Andrew in August 1992, and City Hall was "
-         "among the buildings damaged beyond repair. Homes rebuilt in the years after are now three decades "
-         "old, and their weak points are ordinary ones: cracked stucco at a pipe, a gap where a soffit panel "
+         "Florida City suffered catastrophic damage from Hurricane Andrew in August 1992, and City Hall was "
+         "among the buildings damaged beyond repair. Whatever a house went through then, its "
+         "weak points today are usually ordinary ones: cracked stucco at a pipe, a gap where a soffit panel "
          "has sagged, a vent screen that has rusted through.\n\n"
          "After any big storm, fallen trees and torn roof edges can expose colonies or open new entrances. "
          "When wind has peeled back siding and bees are suddenly in plain view, the notes on "
@@ -108,14 +108,14 @@ CITY = {
          "Thermal imaging lets us see where the warm mass of a hive sits behind block or drywall, so the "
          "opening is made in the right place the first time. The camera's heat picture is described in "
          "[[guide:thermal-imaging|our thermal imaging article]]."),
-        ("Rentals, farm housing and who calls",
-         "Plenty of Florida City homes are rented, and a colony in a wall raises the question of who arranges "
+        ("Renters, farms and who calls",
+         "If you rent your Florida City home, a colony in a wall raises the question of who arranges "
          "the work. The short answer is to report it right away and keep everyone clear of the entrance. "
          "[[guide:renters-and-landlords|Renting with bees]] walks through the tenant and landlord side. "
          "Farm operators, property managers and the businesses along U.S. 1 can get a certificate of "
          "insurance for their files, plus photos and an itemized invoice on request.\n\n"
-         "The crew that patches the block, re-hangs the soffit or fixes the roof tile works for us, licensed "
-         "and on our payroll, so the hole is closed by the same company that cut it. Should a colony try the "
+         "The crew that patches the block, re-hangs the soffit or fixes the roof tile is a licensed "
+         "contractor, roofer or painter working for us, not a stranger you have to find, so the hole is closed by the same company that cut it. Should a colony try the "
          "same patched spot again, that return trip is on our warranty. Prices are explained on [[page:cost|what removal costs]]."),
     ],
     "band": ("Comb behind the barn wall?",
@@ -157,7 +157,7 @@ CITY = {
         ("A neighbor says poison is cheaper. What goes wrong with spraying them?",
          "Poison kills the bees but leaves pounds of comb and honey inside. The honey can seep through block "
          "or drywall, the wax draws pests, and the smell attracts new swarms. Removing the comb with the bees "
-         "is the only way to close the cavity for good."),
+         "is what lets the cavity be closed for good."),
         ("Will a Saturday or after-dark visit be priced differently?",
          "It will. Emergency work after dark or on weekends carries a higher charge than a weekday slot. When a "
          "colony is tucked away and bothering nobody, booking Monday through Friday is the cheaper choice. "
@@ -166,7 +166,7 @@ CITY = {
     "services": [
         ("nurseries-groves", "Field edges, packing sheds and farm buildings on the west side of town."),
         ("utility-boxes", "Meter and valve boxes set into the shallow limestone across the city."),
-        ("walls", "Block homes rebuilt after 1992 with hollow cores that hide comb."),
+        ("walls", "Concrete block houses whose hollow cores connect and let comb spread far from the entrance."),
         ("sheds-garages", "Barns, pump houses and backyard sheds that sit closed for months."),
         ("swarms", "Clusters that drift in from the fields and hang on fences or trees."),
         ("repairs", "Block, stucco, soffit and roof work done by our own licensed crews."),
@@ -174,21 +174,24 @@ CITY = {
     "nearby": ["homestead", "redland", "cutler-bay"],
     "close": ("Bees at the end of the road?",
               "Phone day or night, or fill in the quote form and attach a picture. Gate codes, harvest crews and tenant notice all get worked into the schedule."),
-    "card": "The southernmost city in the county, where farmland meets rebuilt block homes and colonies move between fields, sheds and meter boxes.",
+    "card": "The southernmost city in the county, where farmland meets homes and colonies move between fields, sheds and meter boxes.",
     "facts": [
         "Florida City was incorporated on December 29, 1914 (source: https://en.wikipedia.org/wiki/Florida_City,_Florida)",
-        "Florida City is the southernmost municipality in the South Florida metropolitan area, therefore the southernmost in Miami-Dade (source: https://en.wikipedia.org/wiki/Florida_City,_Florida)",
-        "Began as a land promotion named Detroit; first thirty families arrived in 1910; renamed Florida City at incorporation (source: https://en.wikipedia.org/wiki/Florida_City,_Florida)",
-        "Sits mostly atop the Miami Rock Ridge, a limestone ridge, at 5 to 8 feet above sea level; originally slash pine (source: https://en.wikipedia.org/wiki/Florida_City,_Florida)",
+        "Florida City is the southernmost municipality in the South Florida metropolitan area, and so the southernmost in Miami-Dade (source: https://en.wikipedia.org/wiki/Florida_City,_Florida)",
+        "Began as a land promotion named Detroit; the first thirty families arrived in 1910; the name was changed to Florida City when the town incorporated in 1914 (source: https://en.wikipedia.org/wiki/Florida_City,_Florida)",
+        "Sits mostly atop the Miami Rock Ridge, a limestone ridge 5 to 8 feet above sea level (source: https://en.wikipedia.org/wiki/Florida_City,_Florida)",
         "Tomatoes, squash and other truck crops were grown in winter and packed at the Florida City State Farmers' Market near Krome Avenue and Palm Drive (source: https://en.wikipedia.org/wiki/Florida_City,_Florida)",
         "Florida City State Farmers Market is at 320 North Krome Avenue (source: https://www.fdacs.gov/Agriculture-Industry/State-Farmers-Markets)",
         "2020 census population 13,085 (source: https://en.wikipedia.org/wiki/Florida_City,_Florida)",
-        "Southern terminus of the Homestead Extension of Florida's Turnpike at its junction with U.S. 1 is in Florida City (source: https://en.wikipedia.org/wiki/Florida_City,_Florida)",
-        "Long Slough entered the city near Redland Road and Lucy Street and was drained as canals were built in the 1900s; a live oak hammock existed along Davis Parkway (source: https://en.wikipedia.org/wiki/Florida_City,_Florida)",
-        "Hurricane Andrew, August 24, 1992: in Florida City over 120 homes demolished, 700 damaged, City Hall damaged beyond repair (source: https://en.wikipedia.org/wiki/Hurricane_Andrew)",
-        "Florida Pioneer Museum, a 1904 railroad station agent's house, is 0.5 mi south of Lucy St. on Krome Ave. in Florida City (source: https://en.wikipedia.org/wiki/Florida_Pioneer_Museum)",
-        "City Hall is at 404 West Palm Drive (source: https://www.floridacityfl.gov/)",
-        "Loren Roberts Park is at 427 NW 6th Avenue and the Youth Activity Center at 650 NW 5th Avenue (source: https://www.floridacityfl.gov/169/Parks-Recreation)",
-        "Redland lies just northwest of Homestead; broad definitions reach south to SW 360th Street (source: https://en.wikipedia.org/wiki/Redland,_Florida)",
+        "The southern terminus of the Homestead Extension of Florida's Turnpike, at its junction with U.S. 1, is in Florida City (source: https://en.wikipedia.org/wiki/Florida_City,_Florida)",
+        "Long Slough, a slow-flowing body of water from the Everglades, entered the city near Redland Road and Lucy Street; canals built in the early 1900s lowered the water table (source: https://en.wikipedia.org/wiki/Florida_City,_Florida)",
+        "A live oak hammock existed along Davis Parkway, extending into the Florida City Camper Park (source: https://en.wikipedia.org/wiki/Florida_City,_Florida)",
+        "Florida City suffered catastrophic damage from Hurricane Andrew in August 1992 (source: https://en.wikipedia.org/wiki/Florida_City,_Florida)",
+        "Hurricane Andrew: in Florida City over 120 homes were demolished and 700 others damaged; City Hall was damaged beyond repair (source: https://en.wikipedia.org/wiki/Hurricane_Andrew)",
+        "Florida Pioneer Museum is a railroad station agent's home built in 1904, 0.5 mi south of Lucy St. on Krome Ave. in Florida City (source: https://en.wikipedia.org/wiki/Florida_Pioneer_Museum)",
+        "Florida City City Hall is at 404 West Palm Drive (source: https://www.floridacityfl.gov/169/Parks-Recreation)",
+        "Loren Roberts Park is at 427 NW 6th Avenue and the Florida City Youth Activity Center at 650 NW 5th Avenue; both host youth sports programs (source: https://www.floridacityfl.gov/169/Parks-Recreation)",
+        "Florida City lies south and west of, and is contiguous with, Homestead (source: https://en.wikipedia.org/wiki/Florida_City,_Florida)",
+        "Redland is an unincorporated agricultural area northwest of Homestead; broad definitions reach south to SW 360th Street west of Homestead and Florida City (source: https://en.wikipedia.org/wiki/Redland,_Florida)",
     ],
 }

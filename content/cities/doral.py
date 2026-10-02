@@ -65,7 +65,7 @@ CITY = {
     "card": "Warehouse parapets, dock canopies, townhouse soffits and golf course trees in a city where business parks sit next to family neighborhoods.",
     "facts": [
         "Doral was incorporated in 2003; voters approved incorporation in January 2003 after a seven-year effort and accepted the charter in June 2003 (source: https://en.wikipedia.org/wiki/Doral,_Florida and https://www.cityofdoral.com/About/Doral-History)",
-        "Alfred and Doris Kaskel bought 2,400 acres of swampland in the late 1950s for about $49,000; Doral Country Club opened in 1962; the name combines Doris and Alfred (source: https://en.wikipedia.org/wiki/Doral,_Florida)",
+        "Alfred and Doris Kaskel bought 2,400 acres of swampland in the late 1950s; Doral Country Club opened in 1962; the name combines Doris and Alfred (source: https://en.wikipedia.org/wiki/Doral,_Florida)",
         "Doral covers about 15 square miles (source: https://www.cityofdoral.com/About/Doral-Facts)",
         "2020 census population 75,874 (source: https://en.wikipedia.org/wiki/Doral,_Florida)",
         "Bordered on the west by the Ronald Reagan Turnpike and the Everglades, north by Medley, east by the Palmetto Expressway, south by the Dolphin Expressway and Sweetwater (source: https://en.wikipedia.org/wiki/Doral,_Florida)",

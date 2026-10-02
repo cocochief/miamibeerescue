@@ -20,11 +20,11 @@ CITY = {
         "The village took its shape in the 1950s and 1960s, when ranch-style houses went up on acre lots, "
         "and most of Pinecrest is still zoned for one home per acre or per 2.5 acres. A scout bee hunting "
         "for a new cavity has plenty to inspect on a property that size: a broken limb that rotted hollow, "
-        "a shed nobody opens until hurricane season, a long soffit run on a low hip roof, an irrigation box "
+        "a shed nobody opens until hurricane season, a long soffit run on a low roofline, an irrigation box "
         "under the hedge. With that much distance between the house, the back fence and the neighbors, "
         "a colony can grow for a whole season before anyone walks close enough to see the traffic at its door."
         "\n\n"
-        "Hurricane Andrew wrecked much of this area in August 1992, so plenty of streets now mix original "
+        "Hurricane Andrew wrecked much of this area in August 1992, so the village now mixes original "
         "ranch houses with homes rebuilt or replaced afterward, and each kind leaves different gaps. "
         "On a Pinecrest lot the hard part is usually finding the hive, not reaching it. The second part is "
         "leaving the wall, the roof or the tree in good shape afterward, since the village wants a permit "
@@ -57,29 +57,29 @@ CITY = {
     "streets_h": "Notes from around the village",
     "streets": [
         ("Old Cutler Road side",
-         "Old Cutler Road follows an old trail along a limestone ridge and bounds the village to the east and south; "
+         "Old Cutler Road follows a natural limestone ridge that early settlers used as a trail, and it forms part of the eastern edge; "
          "state lawmakers gave it historic highway status in 1974. If your drive off it is long or gated, tell us where "
          "the gate is and where a truck can pull fully off the road."),
         ("Pinecrest Parkway corridor",
-         "US 1, signed here as Pinecrest Parkway, forms the western boundary and holds nearly all of the village's "
+         "US 1, signed here as Pinecrest Parkway, forms the western boundary and holds the village's narrow band of "
          "commercial zoning, along with some multi-family buildings. Stores, offices and apartment managers on this "
          "strip tend to need a COI and a time when the service door is open. "
          "[[city:kendall|Kendall]] lies just across the road."),
         ("The northern edge",
          "The Snapper Creek Canal and SW 88th Street mark the top of the village, with "
-         "[[city:south-miami|South Miami]] beyond. Yards that back onto canal water give foragers an easy drink, "
-         "so a cluster hanging from a fence rail or low branch near the bank is likely a swarm in transit. Leave it be and call for a pickup instead of reaching for the hose."),
+         "[[city:south-miami|South Miami]] beyond. Yards that back onto canal water give foragers an easy drink. "
+         "Bees bunched in the open on a fence rail or low branch are a swarm that has not yet picked a cavity. Leave it be and call for a pickup instead of reaching for the hose."),
         ("Red Road and SW 111th Street",
          "Pinecrest Gardens fills this corner: the original Parrot Jungle site, now a 20-acre village park with more "
          "than 1,000 kinds of tropical plants, streams, sinkholes and fissures. Bees inside the park are the village's "
          "to report; a colony in a yard nearby is yours, and the quote for it is free."),
         ("SW 104th Street parks",
          "Coral Pine Park, with its 2.9-acre pineland preserve, and Flagler Grove Park both sit along SW 104th Street. "
-         "Homes near native pineland and big lawns see foragers working flowers all year, which makes it harder to "
+         "Near pineland and big lawns, foragers working the flowers can make it harder to "
          "tell passing bees from a colony that has moved in."),
         ("Howard Drive and the south line",
          "SW 136th Street, known as Howard Drive, forms the southern boundary. Evelyn Greer Park on SW 124th Street and "
-         "Suniland Park on Pinecrest Parkway serve this half, and their gazebos and dugouts are the sort of covered "
+         "Suniland Park on Pinecrest Parkway serve this half, and their gazebos are the sort of covered "
          "structure where a swarm may hang for a day or two."),
     ],
     "body": [
@@ -89,8 +89,8 @@ CITY = {
          "the colony itself sits 50 yards away inside a limb."
          "\n\n"
          "The visit starts by following that traffic home. Foragers fly a fairly straight line between water and "
-         "the entrance, so mid-morning, when flights are busiest, is a good time to watch. Once the entrance is "
-         "found, a thermal camera picks up the heat of the cluster through wood, stucco or block, which tells "
+         "the entrance, so a sunny mid-morning, with plenty of bees in the air, is a good time to watch. Once the entrance is "
+         "found, a thermal camera picks up the warmth the cluster gives off through wood, stucco or block, which tells "
          "the crew where to open and how large the cut needs to be. "
          "[[guide:thermal-imaging|Reading a thermal image]] covers what those pictures do and do not show. "
          "If you have only seen a handful of bees poking around a vent, read about "
@@ -104,11 +104,11 @@ CITY = {
          "and close the opening so the wood can callus over. That leaves the tree standing and keeps leftover "
          "honey from drawing the next swarm. If the tree is failing anyway, the village's Building and Planning "
          "Department can tell you what it needs; a village arborist can verify a hazardous tree, and some "
-         "invasive species such as laurel fig, carrotwood and schefflera come out without a fee. More on this "
+         "invasive species such as laurel fig, carrotwood and schefflera come out without a fee once a village arborist confirms them. More on this "
          "kind of job is on the [[svc:trees-palms|palm and tree colony page]]."),
         ("Original ranch houses, rebuilds and the gaps in each",
          "A ranch house from the village's first building boom tends to have a long, low roofline, wide eaves, "
-         "and many rounds of patched vents and fascia. Homes rebuilt after Andrew are tighter in places but bring "
+         "and many rounds of patched vents and fascia. Homes rebuilt after Andrew can be tighter in places but bring "
          "their own openings: gaps around newer roof vents, lanai ceilings, decorative trim and the chases where "
          "pipes and cables enter."
          "\n\n"
@@ -183,18 +183,19 @@ CITY = {
               "Tell us what you are seeing and where on the property, and get a free quote. Phones are answered around the clock."),
     "card": "Acre lots, specimen shade trees and 1950s ranch houses: where colonies hide in Pinecrest and how they come out alive.",
     "facts": [
-        "Village of Pinecrest incorporated March 12, 1996, as Miami-Dade County's 29th municipality (source: https://www.pinecrest-fl.gov/Government/About-Us/History)",
-        "1950s-1960s ranch-style homes on acre lots set the residential character (source: https://www.pinecrest-fl.gov/Government/About-Us/History)",
-        "Parrot Jungle founded 1936 on twenty acres at Red Road and SW 111th Street; village bought it in 2002; Pinecrest Gardens opened 2003; National Register 2011 (source: https://en.wikipedia.org/wiki/Pinecrest_Gardens)",
-        "Pinecrest Gardens has over 1,000 varieties of tropical plants, streams, sinkholes, caves and fissures; 20 acres (source: https://www.pinecrest-fl.gov/Government/About-Us/History ; https://en.wikipedia.org/wiki/Pinecrest_Gardens)",
-        "Hurricane Andrew devastated Pinecrest in August 1992; many homes destroyed and slowly rebuilt (source: https://www.pinecrest-fl.gov/Government/About-Us/History)",
-        "Tree City USA; over 10,000 street trees planted beginning 1997 (source: https://en.wikipedia.org/wiki/Pinecrest,_Florida)",
+        "Village of Pinecrest incorporated March 12, 1996, as Miami-Dade County's twenty-ninth municipality (source: https://giscloud.fiu.edu/wp_etap_new/wp-content/uploads/2024/09/Village-of-Pinecrest-CBR-TPO-Reviewed.pdf)",
+        "1950s-1960s ranch-style homes on acre lots set the community's rural, lushly landscaped residential character (source: https://www.pinecrest-fl.gov/Government/About-Us/History)",
+        "Parrot Jungle founded 1936 on twenty acres at Red Road and SW 111th Street (source: https://www.pinecrest-fl.gov/Government/About-Us/History)",
+        "Village bought Parrot Jungle in 2002; Pinecrest Gardens opened 2003 with over 1,000 varieties of tropical plants and trees, natural streams, sinkholes, caves and fissures (source: https://giscloud.fiu.edu/wp_etap_new/wp-content/uploads/2024/09/Village-of-Pinecrest-CBR-TPO-Reviewed.pdf)",
+        "Pinecrest Gardens is a 20-acre park (source: https://en.wikipedia.org/wiki/Pinecrest_Gardens)",
+        "Hurricane Andrew devastated Pinecrest in August 1992; many homes destroyed and slowly rebuilt (source: https://giscloud.fiu.edu/wp_etap_new/wp-content/uploads/2024/09/Village-of-Pinecrest-CBR-TPO-Reviewed.pdf)",
+        "Tree City USA; over 10,000 street trees planted since 1997 (source: https://en.wikipedia.org/wiki/Pinecrest,_Florida)",
         "Total area 7.54 square miles (source: https://en.wikipedia.org/wiki/Pinecrest,_Florida)",
         "Boundaries: north Snapper Creek Canal and SW 88th Street; south SW 136th Street/Howard Drive; west US 1/Pinecrest Parkway; east SW 57th Avenue and Old Cutler Road (source: https://giscloud.fiu.edu/wp_etap_new/wp-content/uploads/2024/09/Village-of-Pinecrest-CBR-TPO-Reviewed.pdf)",
-        "Most land zoned Residential Estate, one single-family home per acre or per 2.5 acres; commercial zones only along the US 1 corridor, with some multi-family (source: FIU profile PDF above)",
+        "Most land zoned Residential Estate, one single-family home per acre or per 2.5 acres; narrow commercial zones only along the US 1 corridor, with some multi-family (source: https://giscloud.fiu.edu/wp_etap_new/wp-content/uploads/2024/09/Village-of-Pinecrest-CBR-TPO-Reviewed.pdf)",
         "Neighbors: Coral Gables east, South Miami north, Kendall west, Palmetto Bay south (source: https://en.wikipedia.org/wiki/Pinecrest,_Florida)",
-        "Tree removal permit required for removal or relocation of any tree not exempted; specimen trees over 18 inches diameter at four feet; invasive species such as laurel fig, carrotwood, schefflera removed without fee after village arborist confirms; hazardous trees can be verified by village arborist (source: https://www.pinecrest-fl.gov/Resident/Tree-Preservation-Protection/Tree-Removal-Permit-Requirements)",
-        "Old Cutler Road began as a trail along a limestone ridge; declared a State Historic Highway in 1974 by the Florida Legislature; borders Pinecrest and Palmetto Bay (source: https://en.wikipedia.org/wiki/Old_Cutler_Road)",
-        "Coral Pine Park (6955 SW 104th Street) has a 2.9-acre pineland preserve; Flagler Grove Park at 7551 SW 104th Street; Evelyn Greer Park at 8200 SW 124th Street with gazebo; Suniland Park at 12855 Pinecrest Parkway with gazebo; Red Road Linear Park is a lighted path along a canal (source: https://www.pinecrest-fl.gov/Government/Parks-Recreation/Parks-and-Facilities)",
+        "Tree removal permit required for removal or relocation of any tree not exempted; specimen trees over 18 inches diameter measured at four feet; invasive species including laurel fig, carrotwood and schefflera removed without fee after a village arborist confirms; a village arborist can verify hazardous trees; permits handled by the Building and Planning Department (source: https://www.pinecrest-fl.gov/Resident/Tree-Preservation-Protection/Tree-Removal-Permit-Requirements)",
+        "Old Cutler Road followed a natural limestone ridge as an early overland route; declared a State Historic Highway in 1974 by the Florida Legislature; passes Pinecrest and Palmetto Bay (source: https://en.wikipedia.org/wiki/Old_Cutler_Road)",
+        "Coral Pine Park (6955 SW 104th Street) has a 2.9-acre pineland preserve; Flagler Grove Park at 7551 SW 104th Street; Evelyn Greer Park at 8200 SW 124th Street with gazebo; Suniland Park at 12855 Pinecrest Parkway with gazebo (source: https://www.pinecrest-fl.gov/Government/Parks-Recreation/Parks-and-Facilities)",
     ],
 }
