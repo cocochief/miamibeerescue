@@ -1,0 +1,20 @@
+{
+ "name": "Miami Bee Rescue",
+ "short_name": "Bee Rescue",
+ "start_url": "/",
+ "display": "browser",
+ "background_color": "#F7F3EA",
+ "theme_color": "#1B1D21",
+ "icons": [
+  {
+   "src": "/assets/mark-192.146460c251.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "/assets/mark-512.f8e90d4223.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}

@@ -4,7 +4,7 @@
 SERVICE = {
     "slug": "walls",
     "title": "Bees Living in a Wall? Block & Frame Cavity Removal",
-    "desc": "Bees in a CBS or wood-frame wall in Miami-Dade? The comb is found with thermal imaging, the colony goes out alive, and the wall is closed and refinished.",
+    "desc": "Thermal imaging maps comb hidden in Miami-Dade block or stud walls, every bee is relocated to a keeper, and our own crews close and refinish the wall.",
     "h1": "Bees in the Wall: Concrete Block and Wood-Frame Removal in Miami",
     "kicker": "Inside the wall cavity",
     "lede": "A steady stream of bees at one crack in the stucco means comb hanging in the hollow space behind it. The colony can leave alive, the cavity can be emptied, and the wall can be patched and painted.",
@@ -75,14 +75,14 @@ SERVICE = {
     ],
     "band": (
         "Hum coming through the drywall?",
-        "Send a picture of where the bees enter, plus a wider shot of that wall, and we can say which side probably gets opened.",
+        "Text two pictures, the stucco crack up close and then the full wall from across the yard, and it becomes possible to judge which face of the wall probably gets cut.",
     ),
     "takeout_h": "How a wall colony comes out",
     "takeout": [
         ("Scan and mark", "The thermal camera traces the warm comb, and the outline is drawn on the wall in pencil or tape so the cut matches the nest and nothing more."),
         ("Protect the room", "Furniture is moved, floors and vents are covered in plastic, and the inside of the room is sealed off so loose bees cannot drift into the rest of the house."),
         ("Open a measured window", "Drywall is cut along the marked lines, or stucco is scored and the block face shell removed, leaving grouted structural cells untouched."),
-        ("Move bees and comb", "A low-suction bee vacuum lifts the workers off the comb into an airy holding box, and sections of brood are lifted out whole and fastened into wooden frames, keeping the young alive for the beekeeper receiving them."),
+        ("Vacuum workers, frame the brood", "Gentle suction draws the adult bees off the exposed wax into a ventilated box. Brood comb is then cut out in whole pieces and tied into wooden frames, so the young survive the trip to the receiving beekeeper."),
         ("Clean, seal, close", "Remaining wax and honey are scraped out, the cavity is wiped and packed or screened, the entry gap is sealed, and the opening is closed for refinishing."),
     ],
     "putback": (
@@ -124,8 +124,8 @@ SERVICE = {
         )),
     ],
     "alarm": (
-        "If bees are pouring out of the wall or someone has been stung, get people and pets into a closed room on the far side of the house. "
-        "Call us: the phone is answered around the clock, stings come first, and a 24-hour response guarantee covers every call. "
+        "Stings in the household, or bees streaming out of a wall crack: shut everyone, pets included, into a room on the opposite side of the house. "
+        "Then phone. Whoever was stung moves to the front of the queue, nobody calling at 3 a.m. gets voicemail, and a crew is committed to reach you inside our 24-hour response guarantee. "
         "Do not plug the hole, spray it or hose the wall, since that pushes bees indoors or turns them on you."
     ),
     "faqs": [
@@ -140,17 +140,17 @@ SERVICE = {
             "and have the entry sealed only after the colony and comb are gone."
         )),
         ("Is it better to open a block wall from the inside or the outside?", (
-            "It depends on where the comb actually is. Comb inside the block cores is usually reached from outside through the stucco. "
-            "Comb sitting in the gap between the block and the drywall is reached from inside. "
-            "The thermal scan settles it, and drywall is generally quicker and cheaper to restore than stucco."
+            "The thermal scan answers that before any cutting. If the image puts the wax in the furring gap between block and drywall, the room side gets opened, "
+            "and drywall is generally quicker and cheaper to restore. If the comb hangs inside the hollow block cores, "
+            "the stucco outside is scored and one or two face shells come off instead."
         )),
-        ("What happens to the bees once they are out of the wall?", (
-            "They are kept alive. The bees and their brood comb go to a beekeeper who settles them into a hive box and keeps them, "
+        ("Once the vacuum pulls them from the cavity, where do the bees end up?", (
+            "With a beekeeper, alive. The bees and their brood comb go to a beekeeper who settles them into a hive box and keeps them, "
             "so nothing is sprayed or poisoned. The page on [[svc:relocation|colony relocation]] explains how that handoff works "
             "and why live removal also protects the wall from rotting comb."
         )),
         ("My condo association owns the outside wall. Who arranges the work?", (
-            "Often the association, since the block and stucco are usually common elements under the declaration, though the interior drywall may be yours. "
+            "The declaration usually answers that: block and stucco tend to be common elements the association handles, while the interior drywall may be yours. "
             "A COI can be sent to the manager, and an itemized invoice can separate exterior work from interior work. "
             "Boards and managers will find the scheduling details on [[svc:hoa-commercial|the HOA and commercial page]]."
         )),
@@ -158,7 +158,7 @@ SERVICE = {
     "related": ["soffits-eaves", "roofs", "repairs", "honeycomb-cleanup", "relocation"],
     "close": (
         "Get the wall back to normal",
-        "Call, text a photo of the entry hole, or send the quote form, and the opening is planned before anyone picks up a saw.",
+        "A texted photo of the entry hole lets the cut be planned before anyone picks up a saw; a phone call or the quote form starts it just as well.",
     ),
     "facts": [
         "Concrete blocks may be produced with hollow cores that provide an interconnected void that can be filled with concrete (source: https://en.wikipedia.org/wiki/Concrete_masonry_unit)",

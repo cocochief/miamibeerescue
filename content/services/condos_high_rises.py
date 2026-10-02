@@ -8,7 +8,7 @@ SERVICE = {
     "h1": "Getting Bees Out of Miami-Dade Condo Towers Alive",
     "kicker": "Towers, boards and shared walls",
     "lede": "A colony twenty floors up is a shared-property problem as much as a bee problem. The job gets planned around the association, the manager, the elevator calendar and the neighbors on every side of the spot.",
-    "quick": "Call before anyone sprays, tapes over the opening or bangs on the railing. Honey bees nest in enclosed hollows, so in a condo tower they settle into planter boxes, rooftop equipment housings, garage joints and the space under pool deck pavers. Every bee is boxed live for a beekeeper to keep, and the gap they used gets sealed afterward. Management gets a certificate of insurance in advance, the service elevator is booked, and residents near the spot are kept clear.",
+    "quick": "Call before anyone sprays, tapes over the opening or bangs on the railing. Honey bees nest in enclosed hollows, so in a condo tower they settle into planter boxes, rooftop equipment housings, garage joints and the space under pool deck pavers. The colony leaves the tower alive in a carrier bound for a beekeeper, and the gap they used gets sealed afterward. Management gets a certificate of insurance in advance, the service elevator is booked, and residents near the spot are kept clear.",
     "card": "Balcony planters, rooftop mechanical areas, garages and pool decks, handled with COIs, elevator bookings and the association kept in the loop.",
 
     "seeing_h": "What residents and staff are reporting",
@@ -33,8 +33,8 @@ SERVICE = {
          "Florida's Senate Bill 4-D, passed in 2022 after the 2021 collapse in [[city:surfside|Surfside]], requires milestone structural inspections for condominium and cooperative buildings three habitable stories or taller and ended the option to waive structural reserves. Miami-Dade already had a 40-year building inspection program dating to the mid-1970s. The result is more engineers sounding balconies and more restoration crews opening slabs, planters and railings, and any of them can break into a hidden colony without warning. If your building is heading into an inspection or repair project, have the bees taken out before scaffolding or swing stages go up, while the area is still easy to reach and close off."),
     ],
 
-    "band": ("Bees on a shared balcony, roof or deck?",
-             "Send a picture of where they are going in, add the floor number, and access gets arranged with your manager."),
+    "band": ("Colony twenty floors up or under the pool deck?",
+             "Floor number and one photo of the entry point are enough to start booking access through your manager."),
 
     "takeout_h": "How a building job runs, start to finish",
     "takeout": [
@@ -50,12 +50,12 @@ SERVICE = {
          "The opening is closed, the area is wiped down, and management receives photos and an itemized invoice if they want them for the board."),
     ],
 
-    "putback": "A hollow that still smells of wax and honey invites the next swarm, so the comb is cut out down to the last piece before the entry point is closed. Where stucco, a planter cap, a ceiling panel or a roof edge had to be opened, the patch is the job of our own licensed trades (contractors, roofers, painters), matched to the finish and colors your association approved. Honey residue on concrete is cleaned off. That workmanship carries a warranty, and a return of bees to a closed spot brings the crew back to the building. More on [[svc:repairs|repairs after removal]] and [[svc:honeycomb-cleanup|comb and honey cleanup]].",
+    "putback": "A hollow that still smells of wax and honey invites the next swarm, so the comb is cut out down to the last piece before the entry point is closed. Where stucco, a planter cap, a ceiling panel or a roof edge had to be opened, the patch is the job of our own licensed trades (contractors, roofers, painters), matched to the finish and colors your association approved. Honey residue on concrete is cleaned off. That workmanship carries a warranty, and a return of bees to a closed spot brings the crew back to the building. The patching process has its own [[svc:repairs|page on repairs after removal]], and leftover wax and honey are covered under [[svc:honeycomb-cleanup|comb and honey cleanup]].",
 
-    "price": "Where the bees are decides most of the price. A swarm on a pool deck palm or a lobby-level railing counts as ground-level work, which runs roughly $300 to $400. A colony built into a rooftop enclosure, a slab void or a high planter needs more time, more coordination and often repairs, so those jobs can reach the thousands. Quotes are free, and night or weekend emergency visits cost more than weekday ones. For how jobs at other heights and spots compare, see the [[page:cost|full pricing explainer]].",
+    "price": "Where the bees are decides most of the price. A swarm on a pool deck palm or a lobby-level railing counts as ground-level work, which runs roughly $300 to $400. A colony built into a rooftop enclosure, a slab void or a high planter needs more time, more coordination and often repairs, so those jobs can reach the thousands. The estimate itself is free. If stinging residents force an overnight or weekend visit, it is billed higher than one booked inside weekday building hours. For how jobs at other heights and spots compare, see the [[page:cost|full pricing explainer]].",
     "price_factors": [
-        "Height and access: ground level, a high balcony, or a roof reached through the engineer's door.",
-        "How much comb is built inside the void and how much finish has to be opened to reach it.",
+        "Which floor the colony is on, and whether the crew reaches it from a unit, the pool deck or a roof door the building engineer unlocks.",
+        "The size of the comb mass in the slab, planter or housing, which sets how much stucco or paneling comes off.",
         "Repairs to stucco, planters, ceilings or roofing that must match what the association approved.",
         "Timing set by building rules or an emergency, since nights and weekends cost more.",
     ],
@@ -75,13 +75,13 @@ SERVICE = {
     "alarm": "Someone under attack on a balcony or deck should go inside at once, slide the door shut behind them and step back from the glass. Do not swat or spray. Dial 911 for wheezing, a swelling tongue or lips, dizziness, or more stings than you can count. Then call us: people being stung come ahead of every other job, and our 24-hour response guarantee applies.",
 
     "faqs": [
-        ("Bees moved into the planter on my balcony. Who covers the removal?",
+        ("Does the association or the unit owner pay when bees nest in a balcony planter?",
          "Your declaration answers that. If it assigns upkeep of your balcony to you as the owner, the cost is probably yours; if the association maintains it, the board usually pays. Let management know before booking anything. A quote can go to either side, and photos with an itemized invoice give the board what it needs to decide."),
         ("Our building only allows vendors on weekdays during set hours. Can you work with that?",
          "Yes. Non-emergency visits are scheduled inside the hours your building permits, with the service elevator reserved ahead. If bees are stinging residents and the work has to happen at night or on a weekend, that visit costs more, and the manager approves the timing before anyone arrives."),
-        ("Our manager wants proof of insurance on file before any vendor reaches the roof. Is that available?",
+        ("Can the certificate of insurance name both the association and its management company?",
          "Yes. Coverage is in place because the business is licensed and insured, and the certificate can list the association and its management company by name. Pass along the exact legal names and any wording the carrier asks for, and it goes to the office before a date is set."),
-        ("There is a clump of bees on the pool deck railing. Will it leave on its own?",
+        ("If nobody touches the swarm hanging from our pool deck railing, does it fly off by itself?",
          "A resting swarm often moves on within a few days once its scouts pick a home, but that home could be a planter or wall on your own building. Keep residents away from it and call for a [[svc:swarms|swarm pickup]]. The guide on [[guide:scout-bees|scout bees]] explains the warning signs."),
         ("Someone sprayed the bees in our planter, and now they are back. Why?",
          "Spraying kills bees at the entrance but leaves the comb, honey and scent inside, which signal a proven nest site to the next swarm. Clearing that leftover material is what finally ends the cycle. Our guide on [[guide:why-bees-come-back|why bees come back]] goes into the details."),
@@ -90,7 +90,7 @@ SERVICE = {
     "related": ["hoa-commercial", "roofs", "pool-enclosures", "walls", "repairs"],
 
     "close": ("Take the colony off the building's to-do list",
-              "Send the quote form with the address, floor and exact spot, and we will coordinate access and paperwork with management from there."),
+              "List the tower's address, the floor and the exact spot on the quote form, and access and paperwork get sorted out with management from there."),
 
     "facts": [
         "Florida Statute 718.103 defines common elements as the portions of the condominium property not included in the units, and limited common elements as common elements reserved for certain units as specified in the declaration (source: http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0718/Sections/0718.103.html)",

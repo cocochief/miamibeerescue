@@ -16,10 +16,11 @@ COUNTY = {
         "$400; repair-heavy jobs reach the thousands. Nothing is charged for the quote."
     ),
     "alarm": (
-        "Anyone under attack should head for the nearest closed room or vehicle, running "
-        "rather than freezing in place or swatting, with a shirt pulled up over the face if possible. Swelling of the face or throat, trouble breathing "
-        "or dizziness means call 911 first. Then call us: the phones are answered around the clock, "
-        "and stinging emergencies are taken ahead of everything else."
+        "Stings coming fast? Keep moving toward a car or a room with a door you can shut, collar "
+        "pulled up over nose and mouth; swatting and standing still both make it worse. Swollen lips, "
+        "tongue or throat, wheezing, or a dizzy, faint feeling after stings are 911 territory, and "
+        "that number gets dialed first. Our line is the next call: it is staffed through the night, "
+        "and stinging calls jump the queue."
     ),
     "opening": (
         "Miami-Dade is a big county with a crowded edge. About 2,431 square miles sit inside the "
@@ -138,8 +139,9 @@ COUNTY = {
             "in water meter boxes, cement blocks, house eaves and even barbecue grills, since they accept a much smaller space than European colonies. That is why "
             "[[svc:utility-boxes|meter and valve boxes]], [[svc:walls|block and frame walls]], "
             "[[svc:roofs|tile and flat roofs]] and [[svc:soffits-eaves|soffits and eaves]] each get "
-            "their own method, and why the thermal camera comes out before any pry bar does. Our "
-            "[[guide:thermal-imaging|thermal imaging guide]] shows what that scan reveals."
+            "their own method, and why the thermal camera comes out before any pry bar does. How a "
+            "warm comb shows up through stucco or tile is laid out in the "
+            "[[guide:thermal-imaging|thermal imaging guide]]."
         ),
         (
             "Groves, nurseries and the Everglades edge",
@@ -187,11 +189,12 @@ COUNTY = {
             "My neighborhood has no page here. Do you still come out?",
             "Yes. Every city, town and village in Miami-Dade, and every unincorporated neighborhood "
             "between them, is inside the service area, all the way to the county line. A missing page "
-            "only means there are more places than pages. Call, or text a photo with the nearest cross "
-            "street, and the 24-hour response guarantee applies the same as anywhere else.",
+            "only means there are more places than pages. Give us the nearest cross "
+            "street when you reach out; an address off the map gets the same 24-hour response "
+            "guarantee as a downtown one.",
         ),
         (
-            "Does it matter that my house is in unincorporated Miami-Dade instead of a city?",
+            "My address is unincorporated Miami-Dade, not a city. Does that change anything?",
             "Not for the removal itself. It changes who sits around the job: outside the 34 "
             "municipalities, the county is your local government, while a municipal address answers to "
             "its city, town or village. When a wall or roof needs repair afterward, our own licensed "
@@ -216,19 +219,19 @@ COUNTY = {
             "The building manager needs a COI with the association named. Is that possible?",
             "It is. The company carries insurance and holds the proper license, and a COI listing your "
             "association, condo or management firm goes out before anyone arrives. Board approvals and building rules on "
-            "elevators, roof access and work hours get folded into the schedule. For towers in "
-            "[[city:aventura|Aventura]], [[city:bal-harbour|Bal Harbour]] or Brickell, see "
-            "[[svc:condos-high-rises|condo and high-rise removal]].",
+            "elevators, roof access and work hours get folded into the schedule. Tower jobs in places like "
+            "[[city:aventura|Aventura]], [[city:bal-harbour|Bal Harbour]] and Brickell have their own "
+            "write-up under [[svc:condos-high-rises|condo and high-rise removal]].",
         ),
         (
             "What decides the final price of a removal?",
-            "Reach and repair. A colony on a branch or in a box at ground level usually comes in around "
-            "$300 to $400. A hive behind a ceiling, under roof tile or high on a building, where "
+            "Reach and repair. If the comb can be cut out by someone standing on the lawn, with nothing "
+            "to tear open, expect roughly $300 to $400. A hive behind a ceiling, under roof tile or high on a building, where "
             "something must be opened and rebuilt, can run into the thousands. Evening and weekend visits carry a "
             "higher rate. The quote is free, so a photo is a good place to start.",
         ),
         (
-            "A few bees keep inspecting one gap in our eaves. Should we wait and see?",
+            "Should we wait and see about a handful of bees circling one eave gap?",
             "A handful of bees checking one opening, coming and going without much purpose, can be "
             "scouts from a swarm choosing a home. If the traffic grows into a steady stream with bees "
             "carrying pollen, a colony has probably moved in, and sealing the hole now would trap it "
@@ -237,8 +240,8 @@ COUNTY = {
         ),
     ],
     "close": (
-        "Tell us which corner of Miami-Dade you're in",
-        "Send the quote form with your neighborhood and what you're seeing. The quote is free, and the phones stay on overnight.",
+        "Bay, suburbs or groves: start with a photo",
+        "A cross street and a line about what the bees are doing is all the quote form needs. It costs nothing, and the phones stay on overnight.",
     ),
     "facts": [
         "Miami-Dade County has 34 incorporated municipalities, listed by the county: Miami, Homestead, Florida City, Miami Beach, Coral Gables, Hialeah, North Miami, Opa-locka, Miami Springs, South Miami, Golden Beach, North Miami Beach, Miami Shores, Biscayne Park, Surfside, El Portal, Indian Creek Village, Sweetwater, North Bay Village, West Miami, Bay Harbor Islands, Bal Harbour, Virginia Gardens, Hialeah Gardens, Medley, Key Biscayne, Aventura, Pinecrest, Sunny Isles Beach, Miami Lakes, Palmetto Bay, Miami Gardens, Doral, Cutler Bay (source: https://www.miamidade.gov/global/management/municipalities.page)",

@@ -9,11 +9,10 @@ CITY = {
     "kicker": "Unincorporated west Miami-Dade",
     "lede": "Westchester filled in fast after a 1955 subdivision gave it a name. Seventy years of re-roofing, add-ons and patched stucco leave plenty of openings for a honey bee colony to move into.",
     "quick": (
-        "Honey bees in a Westchester home are usually living in a wall, a soffit or under roof tile, and the fix is to open that spot, lift out the cluster along with all the wax and honey, and close it properly. "
-        "Nothing is poisoned; the live colony ends up with a beekeeper who keeps it. "
-        "Phones are answered 24/7 and you get a response within 24 hours. "
-        "A free quote starts with a photo. "
-        "Expect roughly $300 to $400 if the bees are low and easy to reach; work that needs a wall or roof rebuilt can run into the thousands."
+        "Most Westchester houses went up after the 1955 subdivision that named the area, so each has been through several re-roofs, added rooms and stucco patches. "
+        "That history decides the job: the colony usually sits in a seam where old and new work meet, and a thermal scan finds it before any cut. "
+        "Bees, wax and stored honey are all lifted out, a beekeeper takes the live colony, and the seam is closed by our own trades. "
+        "Budget about $300 to $400 for a low, easy colony, up into the thousands when a wall or roof must be rebuilt, and nothing for the quote."
     ),
     "glance": [
         ("Status", "Unincorporated census-designated place, with Miami-Dade County as its government"),
@@ -34,7 +33,7 @@ CITY = {
         ("Where an addition meets the original wall",
          "Many mid-century homes have had rooms added or a carport closed in. The joint between old and new construction rarely lines up perfectly, and a gap behind trim or at the roofline can open into a hollow the size of a cooler. See [[svc:walls|bees inside a wall]]."),
         ("Soffits and fascia boards",
-         "Old wood soffits dry, split and get patched with whatever was handy. Bees slip in through a vent screen that has rusted or a corner board that has pulled away, then hang comb from the rafters above. That job is covered under [[svc:soffits-eaves|soffit and eave hives]]."),
+         "Old wood soffits dry, split and get patched with whatever was handy. On a house this age, the soffit you see may be the third one fitted, and any corner where the patching stopped short is an open door into the attic edge, where a colony can fill the bays between rafters. That job is covered under [[svc:soffits-eaves|soffit and eave hives]]."),
         ("Under re-laid roof tile",
          "Every re-roof changes how tile, flashing and underlayment meet. A loose barrel tile near a valley or a chimney chase gives bees a sheltered pocket that stays dry in summer storms. More on [[svc:roofs|tile and flat roof colonies]]."),
         ("Meter, valve and irrigation boxes",
@@ -86,11 +85,11 @@ CITY = {
     ],
     "band": (
         "A line of bees on the side of the house?",
-        "One clear picture of where they disappear is enough to price the job, and the quote costs you nothing.",
+        "Stand back, photograph the crack or vent they file into, and send it over. That image is what the free quote is built on.",
     ),
     "visit_h": "What a visit to a Westchester home looks like",
     "visit": [
-        ("Photo and quote",
+        ("Reading your picture",
          "Your snapshot of the traffic at the hole usually tells us whether the job is a ground box, a soffit or an opened wall, and the quote follows."),
         ("Parking and neighbors",
          "If you have a driveway, the truck parks there and stays off the swale. If the work faces a neighbor's yard, a quick word to them beforehand keeps kids and pets inside."),
@@ -109,14 +108,14 @@ CITY = {
          "Not for your own property. Westchester is unincorporated, with Miami-Dade County as its government rather than a city hall, but a colony in your wall, roof or yard is handled the same way anywhere from Tamiami Trail down to Bird Road. You call, send a photo, and get a quote."),
         ("My house is from the 1950s. Will taking out a hive mean ripping out a big piece of wall?",
          "Usually not. The thermal scan shows where the colony is before anything is opened, so the cut is limited to the area holding comb. Our own contractors then patch the block, stucco or drywall and paint it to match, and you can ask for photos of each stage."),
-        ("Bees are coming out of the irrigation box in my front swale. Is that a smaller job?",
-         "It is often one of the simplest. Ground boxes are easy to reach and do not need anything rebuilt, so they usually fall in the roughly $300 to $400 range. Bees that have moved behind stucco or beneath tile push the price up, since something has to be opened and then rebuilt."),
+        ("Is a colony in the sprinkler valve box by the swale cheaper to deal with than one in a wall?",
+         "Usually, because nothing on the house gets opened. Ground boxes are easy to reach and do not need anything rebuilt, so they usually fall in the roughly $300 to $400 range. Bees that have moved behind stucco or beneath tile push the price up, since something has to be opened and then rebuilt."),
         ("Can you just kill the bees so it's over faster?",
          "That is not something we do; the bees leave alive and settle with a local beekeeper. Killing bees inside a wall also backfires: the dead brood and leftover honey rot, draw pests, and can soak through drywall. Removing the bees and all the comb is the job that actually ends the problem."),
         ("I manage a church building near Coral Way. Can you work with our insurance requirements?",
          "Yes. Tell us who on your board or staff keeps insurance paperwork and the COI will be in their inbox before anyone climbs a ladder. Work can be booked for a weekday when the sanctuary and classrooms sit empty. An itemized invoice and photos are available for your records."),
-        ("What if bees come back after the wall is sealed?",
-         "Our repair work carries a warranty. Should a new colony try the same patched opening, a crew returns to that exact place and handles it. Bees moving into a different gap elsewhere on the house is a separate problem, which the quote will explain."),
+        ("A crew patched our addition wall after a removal. Who pays if a new swarm targets that patch?",
+         "Not you. Our repair work carries a warranty. Should a new colony try the same patched opening, a crew returns to that exact place and handles it. Bees moving into a different gap elsewhere on the house is a separate problem, which the quote will explain."),
     ],
     "services": [
         ("walls", "Mid-century additions and patched stucco leave hollow spots where Westchester colonies build out of sight."),
@@ -129,7 +128,7 @@ CITY = {
     "nearby": ["coral-gables", "south-miami", "miami", "kendall", "doral", "west-kendall"],
     "close": (
         "Get bees out of your Westchester house alive",
-        "Send the quote form or call any hour; you'll hear back within 24 hours, and the colony goes to a beekeeper.",
+        "Tell us whether it is a wall, a soffit or a swale box. Someone picks up at any hour, a reply reaches you inside 24 hours, and the colony is handed to a beekeeper.",
     ),
     "card": "A mid-century house grid between Tamiami Trail and Bird Road, where seventy years of renovations leave gaps that bee colonies move into.",
     "facts": [

@@ -6,7 +6,7 @@ CITY = {
 
     "title": "Sunny Isles Beach Bees: Towers, Pool Decks, Golden Shores",
     "desc": "Honey bees inside a Sunny Isles Beach tower, garage or Golden Shores home? Colonies come out alive, with insurance papers sent ahead to your manager.",
-    "h1": "Bee removal in Sunny Isles Beach, from tower podiums to Golden Shores",
+    "h1": "Sunny Isles Beach bee removal planned around condo towers and Golden Shores homes",
     "kicker": "North Dade barrier island",
     "lede": "A colony forty floors up and a colony under a Golden Shores eave are different jobs. Here is how live removal works on this narrow strip of towers between the ocean and the Intracoastal.",
 
@@ -27,7 +27,7 @@ CITY = {
         ("Podium planters and amenity decks", "The landscaped levels that sit above a garage often have deep built-in planters with hollow bases. A colony can move into the void under the soil liner and stay out of sight until foragers start crowding the pool chairs nearby."),
         ("Rooftop and mechanical spaces", "Housings around rooftop equipment, louvered vents and unused conduit chases stay dry and shaded. Wind on top of a tower is strong, so bees pick spots tucked behind something solid, which can make the comb hard to reach without opening a panel."),
         ("Parking garage ceilings and joints", "Drop ceilings, light fixture recesses and gaps around pipe penetrations in a garage give a swarm a dark cavity right next to the cars. Residents walking to the elevator lobby may be the first to notice the traffic."),
-        ("Pool equipment and utility boxes", "Pump rooms, valve boxes and irrigation boxes at ground level are classic small cavities. A colony in a pool equipment enclosure can be close to staff who service the filters every day, so it is worth calling early."),
+        ("Pool equipment and utility boxes", "Down beside the pool deck, the enclosure that houses a tower's pumps and filters is warm, dark and rarely opened by residents. The maintenance staff who check those filters each day are the people most likely to walk into a colony there, so a call at the first sign of traffic keeps them out of harm's way."),
         ("Golden Shores eaves and attics", "The first single-family houses in Golden Shores went up in the 1950s. Gaps where a soffit meets the wall, loose attic vents and old roof edges give bees the same entry points they use in any older neighborhood in the county."),
     ],
 
@@ -47,25 +47,25 @@ CITY = {
         ("Swarms along the beach and the boulevard", "In spring and early summer, a crowded colony divides, and roughly half its workers fly off with the old queen. That cloud tends to land on a railing, a palm trunk, a parked car or a light pole, where it hangs in a lump, sometimes overnight, sometimes for two or three days. Meanwhile its scouts are out inspecting cavities. On an island this busy, a lump of bees on Collins Avenue draws a crowd fast. A hanging swarm has no brood or honey to guard, so it is usually mild, but spraying it or poking it with a broom turns a calm cluster into a stinging one. Clear the area around it and phone us. Plenty of swarms leave on their own. One that starts drawing wax inside a planter or wall is now a [[svc:swarms|swarm job]] that became a colony job, and the earlier it comes out, the less comb has to be cleaned up."),
     ],
 
-    "band": ("A colony in the garage or on the pool deck?", "Snap a picture of the entrance the bees are using and text it over. A rough plan and a free quote can follow."),
+    "band": ("A colony in the garage or on the pool deck?", "Stand back, zoom in on the gap or vent the colony is using, and send that picture by text. It is usually enough to sketch a plan and a free quote."),
 
     "visit_h": "How a visit runs in a Sunny Isles Beach building",
     "visit": [
         ("Call or text a photo", "A resident or the manager can reach us at any hour. Tell us the floor, whether the spot is inside a unit or in a common area, and whether anyone has been stung."),
         ("Paperwork to the front desk", "Our insurance certificate goes to the office in advance, and we confirm the loading area, service elevator and where the truck can sit on Collins Avenue."),
         ("Find, remove, rehome", "A thermal camera outlines the comb. Bees are drawn into a soft vacuum box, the wax and honey come out by hand, and the whole colony rides off to an apiary."),
-        ("Close it up", "Our own crew patches and seals the opening. On request, the board receives a line-by-line invoice and pictures of each stage."),
+        ("Patch, seal, document", "Our own crew patches and seals the opening. On request, the board receives a line-by-line invoice and pictures of each stage."),
     ],
 
-    "alarm": "Stings happening right now? Head for the building lobby, a stairwell door or your car, and pull it shut behind you. Swatting and spraying make it worse. If the person was hit dozens of times, their lips or eyelids puff up, or breathing gets tight, dial 911 before anything else. Our line is staffed around the clock, and a live stinging call outranks every other job on the board.",
+    "alarm": "Get a door between you and the bees first: the building lobby, a stairwell or your car all work, so pull it shut behind you. Swatting and spraying make it worse. If the person was hit dozens of times, their lips or eyelids puff up, or breathing gets tight, dial 911 before anything else. Our line is staffed around the clock, and a live stinging call outranks every other job on the board.",
 
     "faqs": [
         ("Management wants an insurance certificate before you come. Is that possible?", "Yes. Our licensing and liability coverage are current, and a COI naming your association can reach the management office days before the appointment. If the building needs particular wording on the certificate, mention it on the first call so the paper is ready before anyone arrives."),
         ("The bees are on my balcony, not in a common area. Who arranges it?", "Usually the owner calls, but the association often has rules about work on balconies and exterior walls. We can talk to both. If the comb is inside the building envelope, the manager will likely want to approve the opening and the repair before we start."),
         ("Will removing a colony from a high floor mean scaffolding?", "Not necessarily. A colony on a tower can often be reached from a balcony, a roof deck or the inside of a wall or ceiling. If the comb sits somewhere that truly needs lift equipment, the free quote will say so before any work is scheduled."),
-        ("Will the bees be killed?", "No. Each colony leaves the building alive and ends up in a beekeeper's box. There is no spray option, even on a crowded pool deck or in a garage where someone might expect one, because live relocation is the only service offered."),
+        ("Is there a spray option for a crowded pool deck?", "Live relocation is the only service offered, so the answer stays the same even beside a busy pool or a garage full of cars. The bees leave your building alive, along with their brood comb, bound for a beekeeper's hive box."),
         ("We only stay here part of the year. What if bees move in while we are gone?", "Seasonal owners can arrange the job through the front desk or a manager, and photos let you see the result from wherever you are. Our [[guide:second-home|guide for seasonal homes]] explains what to set up before you leave."),
-        ("If the bees show up on a Saturday night, does the price change?", "It does. After-hours and weekend emergencies are billed above an ordinary weekday slot. When nobody is hurt and the bees are staying put, waiting for a weekday saves money. The [[page:cost|pricing breakdown]] walks through the other factors."),
+        ("If the bees show up on a Saturday night, does the price change?", "It does. Saturday night sits inside the premium window, so the bill for that callout lands above what a Monday visit to your building would cost. If nobody has been stung and the colony is not going anywhere, letting it sit until a weekday is the cheaper choice. The [[page:cost|pricing breakdown]] walks through the other factors."),
     ],
 
     "services": [
@@ -79,7 +79,7 @@ CITY = {
 
     "nearby": ["golden-beach", "aventura", "north-miami-beach", "bal-harbour"],
 
-    "close": ("Building name, floor, and the spot", "Fill in the quote form with those three details, and access gets worked out directly with your management office."),
+    "close": ("Building name, floor, and the spot", "Put those three details on the quote form. Elevator holds, deck closures and parking on Collins Avenue are then sorted out with your management office, not left for you to arrange."),
 
     "card": "Barrier island towers, pool decks and garages, plus the older single-family houses of Golden Shores. COIs and board-ready photos included.",
 

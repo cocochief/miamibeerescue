@@ -5,7 +5,7 @@ pages, plus the shared page chrome, form text and llms.txt."""
 CORE = {
     "schema_description": (
         "Removes wild honey bee colonies alive from houses, condo towers, HOA grounds, farms and shops throughout Miami-Dade County. "
-        "Colonies are taken out alive and handed to beekeepers. The phone line never closes, "
+        "Each colony leaves its wall or tree living, bound for a beekeeper's yard. The phone line never closes, "
         "and a reply reaches every caller inside of 24 hours."
     ),
 
@@ -82,14 +82,14 @@ CORE = {
 
     # ------------------------------------------------------------ home
     "home": {
-        "title": "Live Bee Removal in Miami-Dade, Phones Open 24/7",
-        "desc": ("Honey bees in a wall, roof, palm or meter box anywhere in Miami-Dade? We take colonies out alive, "
-                 "rehome them with beekeepers and repair the spot."),
+        "title": "Miami Bee Rescue: Live Honey Bee Removal, Miami-Dade",
+        "desc": ("From Aventura towers to Redland sheds, we lift honey bee colonies out alive, rehome them with "
+                 "beekeepers and repair the spot they lived in."),
         "kicker": "Miami-Dade honey bee removal",
         "h1": "Live Bee Removal Across Miami-Dade County",
         "lede": ("Comb behind stucco, under roof tile or down inside a palm? Reach us whichever way is easiest. "
                  "Every colony we take out ends up with a beekeeper instead of a can of poison."),
-        "trust": [("clock", "Calls answered around the clock; a 24-hour response guarantee"),
+        "trust": [("clock", "Live answering at any hour, backed by a 24-hour response guarantee"),
                   ("bee", "Never exterminated: colonies go to beekeepers"),
                   ("shield", "Licensed and insured, COIs on request"),
                   ("home", "Our own contractors close up and repair")],
@@ -103,8 +103,8 @@ CORE = {
             {"tone": "red", "href": "/removal/emergency/", "icon": "alert", "head": "Someone is getting stung",
              "text": "Get people and pets indoors and shut the windows, then phone. Active stings jump ahead of every other job.",
              "go": "Emergency steps"},
-            {"tone": "gold", "href": "/removal/swarms/", "icon": "bee", "head": "A clump of bees is hanging off something",
-             "text": "Hanging from a branch, fence, mailbox or car bumper, with no comb in sight. Those bees are between homes.",
+            {"tone": "gold", "href": "/removal/swarms/", "icon": "bee", "head": "There's a dangling ball of bees outside",
+             "text": "Draped over a branch, a fence rail or a side mirror, with no wax anywhere. These bees are between homes.",
              "go": "About swarms"},
             {"tone": "ink", "href": "/removal/walls/", "icon": "home", "head": "Bees keep flying into one gap in the house",
              "text": "Traffic streaming through one crack, vent or tile edge all day says comb is being built behind it.",
@@ -131,7 +131,7 @@ CORE = {
             ("We look before we cut", "On site, a thermal camera and a few taps on the surface show where the comb sits, so the opening stays as small as it can be."),
             ("The colony comes out alive", "Bees, brood and comb are lifted out by hand and boxed. Nothing gets sprayed into the cavity."),
             ("The cavity is cleaned and sealed", "Leftover honey and wax are scraped out so nothing ferments or draws the next swarm, then the entry is closed."),
-            ("Repairs, if you want them", "Our own licensed contractors, roofers and painters patch stucco, reset tile and touch up paint."),
+            ("Repairs, if you want them", "Stucco patching, tile resetting and paint touch-ups stay with our own licensed contractors, roofers and painters."),
         ],
         "price_kicker": "Straight numbers",
         "price_h": "What most people end up paying",
@@ -185,8 +185,8 @@ CORE = {
         "h1": "Bee and Hive Removal Services in Miami-Dade",
         "lede": ("Pick the page that matches where your bees are or what kind of property you have. Each one explains how "
                  "that job is opened, cleared and closed."),
-        "quick": ("Every job on this list ends the same way: the colony leaves alive for a beekeeper and the gap gets "
-                  "sealed. What changes is the access. A swarm on a branch is a short job, while comb behind "
+        "quick": ("All eighteen pages share an ending: living bees for a beekeeper and a closed-up entry for you. "
+                  "What changes is the access. A swarm on a branch is a short job, while comb behind "
                   "stucco or under roof tile means opening the surface and rebuilding it. If you are not sure which page "
                   "fits, a photo by text settles it."),
         "groups": {
@@ -197,7 +197,7 @@ CORE = {
             "method": "How the colony is handled from first cut to the beekeeper's yard, and what is left to fix.",
         },
         "band": ("Not sure which of these you have?", "Send a photo of the entrance from a safe distance. Most jobs can be sorted out from one clear picture."),
-        "after_h": "Why the cleanup matters as much as the bees",
+        "after_h": "Leftover wax is the part people underestimate",
         "after": ("Boxing up the bees is the first half of the work. Comb that stays in a wall keeps smelling like a home to the "
                   "bees that come scouting next, and honey left behind in the summer heat goes sour and seeps through drywall and paint. "
                   "That is why every removal here includes scraping the cavity and closing the entrance, and why "
@@ -227,7 +227,7 @@ CORE = {
 
     # ------------------------------------------------------------ cost
     "cost": {
-        "title": "Bee Removal Cost in Miami-Dade: How Quotes Work",
+        "title": "Miami-Dade Bee Removal Prices, Ranges and Quotes",
         "desc": ("Most ground-level bee removals in Miami-Dade run about $300 to $400. See what pushes a job higher, when "
                  "repairs add cost, and how quotes work."),
         "kicker": "Pricing",
@@ -236,7 +236,7 @@ CORE = {
                  "what has to be rebuilt afterward."),
         "quick": ("When the colony is reachable from the ground and sits close to the surface, expect roughly $300 to $400. "
                   "Once the work involves a roof, a high soffit, a ceiling or several wall bays, plus repairs, the total "
-                  "can climb into the thousands. Quotes are free and given before anything is cut. If you need us "
+                  "can climb into the thousands. The quote costs nothing and comes before any cutting starts. If you need us "
                   "overnight or on a weekend, the bill runs higher than a weekday visit would."),
         "tiers_h": "The ranges",
         "tiers": [
@@ -250,7 +250,7 @@ CORE = {
              "Photos by text often get you a working range the same conversation. A firm number follows once we have "
              "looked at the spot."),
             ("Higher after hours", "Nights and weekends",
-             "Emergency calls outside weekday hours are priced above a regular weekday visit. If the bees are not "
+             "Pulling a crew out at night or over a weekend carries a premium over the Monday-to-Friday rate. If the bees are not "
              "threatening anyone, waiting for a weekday keeps the bill down."),
         ],
         "drivers_h": "What decides where your job lands",
@@ -265,7 +265,7 @@ CORE = {
             ("Access and paperwork", "Guard gates, condo boards, elevator bookings and certificates of insurance take time "
              "to arrange, which matters for some buildings."),
         ],
-        "band": ("Want a number before you decide?", "Text a few photos of the entrance and the wall or roof around it. We will tell you which range you are likely in."),
+        "band": ("Want a number before you decide?", "A couple of pictures by text, one close on the entry and one wider, let us say which bracket your job probably falls in."),
         "body": [
             ("Why spraying ends up the expensive option",
              "Spraying a colony inside a wall can look like the low-cost option, but it leaves pounds of comb and honey in "
@@ -328,8 +328,8 @@ CORE = {
                  "nest harder than others. You cannot tell by looking, so treat every wild colony with care."),
             ]),
             ("Swarms and colonies", [
-                ("What is the difference between a swarm and a hive?",
-                 "A swarm is a clump of bees resting in the open with no comb, waiting for scouts to choose a home. Once "
+                ("Hanging cluster or settled colony: how do I tell?",
+                 "Picture a ball of bees hanging off a branch with no wax around it: that is a swarm, parked while its scouts shop for real estate. Once "
                  "they pick a hollow and start drawing wax inside it, you have an established colony. Swarms tend to leave; "
                  "colonies stay."),
                 ("How fast does a colony grow inside a wall?",
@@ -341,7 +341,7 @@ CORE = {
             ]),
             ("The removal itself", [
                 ("Does getting the comb out mean opening up drywall or stucco?",
-                 "When the comb is inside, yes, because the comb has to come out. A thermal camera shows where it sits so "
+                 "Usually, since wax built behind a surface can only leave through an opening in it. A thermal camera shows where it sits so "
                  "the cut lands on target and stays small."),
                 ("How long does a removal take?",
                  "A swarm can be boxed quickly. A colony inside a structure usually takes a few hours, longer when it "
@@ -400,19 +400,19 @@ CORE = {
              "city's neighborhoods, gated communities in the west, and farm buildings in the south. Keeping to one "
              "county is how we can promise a response within 24 hours of every call."),
             ("What you can hold us to",
-             "Our workmanship is warrantied, which means a return trip if bees get back into any opening we closed. If you need paperwork, we can provide a "
-             "certificate of insurance, photos of the work and an itemized invoice. If you call at 3 a.m., someone "
+             "Our workmanship is warrantied, which means a return trip if bees get back into any opening we closed. Boards and landlords who want a paper trail can get "
+             "a COI before the visit, then job photos and a line-by-line invoice after it. If you call at 3 a.m., someone "
              "answers. Those are the promises; anything else would be marketing."),
             ("How to reach us",
-             "Call or text any time, or use the form below. Texting a picture of the gap the bees use is the "
+             "The phone and the text line both stay open overnight, and the form below works too. Texting a picture of the gap the bees use is the "
              "fastest way to get a useful answer."),
         ],
         "commit_h": "What every job includes",
         "commitments": [
             ("bee", "The colony leaves alive", "Bees, brood and comb are moved together and handed to a beekeeper."),
             ("heat", "A look before any cutting", "A heat camera traces the warm brood nest through the surface before a single cut is made."),
-            ("check", "The cavity is cleared", "Honey and wax are scraped out so nothing ferments or draws new bees."),
-            ("home", "The entry is closed", "And if bees come back to that sealed spot, so do we."),
+            ("check", "The cavity is cleared", "Every scrap of wax and honey leaves with us, so nothing sours in the cavity."),
+            ("home", "The entry is closed", "Should a new colony test our patch, the crew makes a return trip."),
             ("shield", "Proof when you need it", "Certificates of insurance, photos and itemized invoices on request."),
         ],
         "band": ("Bees on your property today?", "Pick up the phone, send a picture by text, or fill in the form. Whichever you choose, the 24-hour response guarantee applies, and stinging cases are taken first."),
@@ -420,12 +420,12 @@ CORE = {
 
     # ------------------------------------------------------------ request
     "request": {
-        "title": "Request Bee Removal in Miami-Dade: Free Quote",
-        "desc": ("Send a free quote request for honey bee removal anywhere in Miami-Dade. Name, phone and location are "
-                 "all we need. Calls and texts answered 24/7."),
+        "title": "Book a Miami-Dade Bee Removal: Free Quote Form",
+        "desc": ("Free quote request for honey bee removal in any Miami-Dade neighborhood. Three short fields start it; "
+                 "calls and texts get answered around the clock."),
         "kicker": "Request removal",
         "h1": "Request Bee Removal Anywhere in Miami-Dade",
-        "lede": "Fill in the short form, call, or text a photo. Whichever is easiest for you works for us.",
+        "lede": "Three routes reach the same desk: this short form, a phone call, or a picture sent by text. Pick whichever suits you.",
         "quick": ("The form goes straight to the person who books removals. Expect a callback from our number within 24 "
                   "hours, sooner when someone is being stung. If you can, text a photo of the entrance as well; it often "
                   "lets us give you a price range on the first call."),
@@ -466,7 +466,7 @@ CORE = {
     "llms": {
         "summary": ("Miami-Dade County, Florida bee removal outfit that works only with live methods: wild honey bee colonies are "
                     "boxed up and passed to beekeepers rather than killed."),
-        "intro": ("Service-area business with no public storefront. Crews travel to homes, condos, HOAs, businesses, "
+        "intro": ("Mobile crews only; there is no shop to visit. Crews travel to homes, condos, HOAs, businesses, "
                   "docks, nurseries and farms anywhere in Miami-Dade County, and work nowhere outside it."),
         "area": "Service area: Miami-Dade County, Florida only",
         "hours": "Phones answered 24 hours a day, 7 days a week; response guaranteed within 24 hours",

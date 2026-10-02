@@ -3,12 +3,12 @@
 
 CITY = {
     "key": "pinecrest",
-    "title": "Bee Removal in Pinecrest: Acre Lots and Old Shade Trees",
+    "title": "Pinecrest Honey Bees in Hollow Oaks, Sheds and Soffits",
     "desc": "Bees in a Pinecrest oak, ranch-house soffit or valve box? Live removal, phones answered 24/7, and repairs handled by our own roofers and painters.",
     "h1": "Honey Bees on Pinecrest's Acre Lots, Found and Moved Out Alive",
     "kicker": "Village of Pinecrest, South Dade",
     "lede": "Pinecrest grew up as ranch houses on acre lots under heavy shade. That layout hands a honey bee colony a lot of quiet places to settle, and it changes how a removal here is planned.",
-    "quick": "Honey bees on an acre lot here are handled live, never sprayed. The work starts by pinning down exactly where the comb sits, inside a hollow limb, a soffit, a shed wall or a valve box, using a thermal camera when it is hidden. Bees and comb are lifted out and driven to a beekeeper's yard, then the hole gets closed. Expect roughly $300 to $400 if everything can be reached standing on the lawn. Trees, roofs and repairs push the price higher, sometimes into the thousands, as [[page:cost|the cost page]] explains. The quote is free.",
+    "quick": "Residential Estate zoning spreads Pinecrest homes across lots of an acre or more, so the colony behind the bees at your pool can sit far across the yard in a hollow limb, a shed wall, a soffit or a valve box. Locating it, with a thermal camera when it is hidden, comes first. After that, a beekeeper takes the living colony and the crew seals the entry. Ground-level work runs roughly $300 to $400; trees, roofs and repairs can reach the thousands, as [[page:cost|the cost page]] explains. The quote is free.",
     "glance": [
         ("Incorporated", "March 12, 1996, as the county's 29th municipality"),
         ("Zoning", "Mostly Residential Estate: one house per acre or per 2.5 acres"),
@@ -139,21 +139,21 @@ CITY = {
         ("A walk of the whole lot",
          "The crew traces foragers back from water and flowers to the entrance, then checks the size and edges of "
          "the comb with a thermal camera before cutting into anything."),
-        ("Bees out alive",
-         "A soft-suction vacuum moves the bees into a screened box, comb is cut and framed with them, the queen "
-         "included when she turns up, and a beekeeper takes the whole colony home."),
+        ("Vacuum, comb and queen",
+         "Once the cavity is open, the crew cuts the comb into frames, draws the clustered bees into a screened box "
+         "with gentle suction, watches for the queen, and hands everything to a beekeeper who will keep it going."),
         ("Clean, seal and patch",
          "Leftover honey and wax come out so they cannot attract another swarm, the entry is sealed, and our own "
          "roofers, painters or contractors match the repair to what was there."),
     ],
-    "alarm": "Anyone being stung should walk away fast, into a house or a car, without swatting. Dial 911 at once for wheezing, a swollen face or tongue, or a child with many stings. Get kids and pets indoors, shut off the mower or sprinklers that stirred the colony, then phone us; a person under attack moves to the front of the queue at any hour.",
+    "alarm": "On a big lot a running mower or sprinkler can stir up a colony, so shut it down and put distance between you and the bees, heading for a closed door or car rather than swatting. Dial 911 at once for wheezing, a swollen face or tongue, or a child with many stings. Bring kids and pets inside, then phone us; a person under attack moves to the front of the queue at any hour.",
     "faqs": [
-        ("Do I need a village permit to cut down a tree that has bees in it?",
+        ("If the oak with the hive is coming down anyway, what does Pinecrest require first?",
          "The village's tree rules cover taking a tree down or moving it, with a short list of exemptions, and big "
          "trees get extra protection as specimens. Taking out the colony does not require taking down the tree: the cavity is opened, "
          "the comb removed and the hole closed. If you also want the tree gone, check with the village's Building "
          "and Planning Department first."),
-        ("The bees are in a tree far back on the lot. Can they just stay?",
+        ("Could a colony at the far edge of an acre lot simply be left alone?",
          "Sometimes. A colony well away from paths, the pool and the mower can be left if nobody nearby is allergic. "
          "Keep in mind that healthy colonies grow and, in spring, split off swarms of thousands of bees looking for a "
          "new home, and a soffit on your house is a likely candidate. A [[svc:live-honey-bees|live removal]] avoids that."),
@@ -161,10 +161,10 @@ CITY = {
          "Yes. A newer roof and walls close some of the old gaps, but bees need an opening only about the width of a "
          "pencil. Roof vents, lanai ceilings, trim and the places where pipes and wires enter are the usual entry "
          "points, and a thermal camera can show whether comb is behind the surface."),
-        ("Will the bees be killed?",
-         "No. They leave in a ventilated box and end up in a beekeeper's managed hive, still working. "
-         "Spraying a colony inside a wall or tree leaves dead bees and melting comb in place, which brings odors, "
-         "pests and new swarms. See [[svc:relocation|colony relocation]]."),
+        ("Where does the colony go once it leaves the property?",
+         "To a beekeeper, who sets it up in a managed hive where it keeps foraging. Nothing is sprayed. "
+         "A poisoned hive in a Pinecrest oak or soffit would stay put as rotting comb and honey that runs in the heat, "
+         "a smell and a beacon for the next swarm. See [[svc:relocation|colony relocation]]."),
         ("We're gone half the year. Can our house manager meet the crew?",
          "Yes. Your manager or landscaper can let the crew through the gate and point out the spot. Wherever you "
          "are, you can ask for pictures taken before, during and after, plus an invoice that lists each part of the "
@@ -176,7 +176,7 @@ CITY = {
         ("utility-boxes", "Irrigation valve boxes and meter boxes tucked under hedges on wide lawns."),
         ("sheds-garages", "Pool houses, tool sheds and detached garages at the back of an acre lot."),
         ("pool-enclosures", "Pump housings, heater cabinets and screen enclosures where water and shade meet."),
-        ("repairs", "Soffit, roof, stucco and paint work by our own crews once the comb is out."),
+        ("repairs", "Ranch-house fascia, roof tile and soffit boards closed up afterward by licensed tradespeople on our payroll."),
     ],
     "nearby": ["coral-gables", "south-miami", "kendall", "palmetto-bay"],
     "close": ("Big yard, hidden hive, one call",

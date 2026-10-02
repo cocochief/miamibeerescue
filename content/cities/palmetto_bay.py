@@ -9,10 +9,11 @@ CITY = {
     "kicker": "Village of Palmetto Bay",
     "lede": "Between U.S. 1 and Biscayne Bay, Palmetto Bay gives a colony a lot of room to hide. We find it, lift it out alive and close the gap it used.",
     "quick": (
-        "Yes, and the bees do not have to die. On a Palmetto Bay lot the crew first traces the bees, scans the likely wall "
-        "or roof with a thermal camera, then lifts out bees and comb together and hands the colony to a beekeeper who rehomes it. "
-        "Expect roughly $300 to $400 when the hive is reachable from the ground. Comb buried in an upper-floor wall or under "
-        "roof tile means cutting and rebuilding framing, and a job of that kind can run into the thousands. Nobody pays for the quote, and someone picks up the phone at any hour."
+        "Estate-zoned parcels in Palmetto Bay start at 15,000 square feet, so the colony may be in a shed, a back-fence tree "
+        "or a valve box rather than the house. The crew walks the whole parcel, follows the foragers, checks the suspect wall "
+        "with a thermal camera, and a beekeeper rehomes the bees alive. Ground-level hives run roughly $300 to $400. A hive up "
+        "in an upper-floor wall, or tucked beneath roof tile, needs framing cut and rebuilt, which can reach the thousands. The quote costs "
+        "nothing, and the phone is answered at any hour."
     ),
     "glance": [
         ("Incorporated", "September 10, 2002, as a village"),
@@ -68,7 +69,7 @@ CITY = {
             "Every one of those joins is a seam. Where a new roof meets an old wall, or a patio enclosure butts up to the original "
             "fascia, a small gap can open as materials shift. Scouts find those gaps. If a colony has moved into one, the comb "
             "has to come out completely, because honey left in a wall ferments, draws ants and roaches, and the smell calls in the next "
-            "swarm. Our own licensed roofers, painters and contractors then close the seam so it does not reopen. See "
+            "swarm. After that, the join between old and new work is rebuilt and repainted by our own licensed crews, leaving scouts nothing to find. See "
             "[[svc:roofs|roof hives]] and [[guide:why-bees-come-back|the reasons an old nest site draws bees again]]."
         )),
         ("Living next to a hammock", (
@@ -92,10 +93,10 @@ CITY = {
     "band": ("Bees on your property right now?", "Phone us, or send a picture of the entry hole by text. The line is staffed day and night, with a 24-hour response guarantee behind every call."),
     "visit_h": "How a Palmetto Bay visit runs",
     "visit": [
-        ("Tell us the layout", "When you call, say where the bees are, how big the lot is, and whether there is a gate code, a long drive or dogs in the yard. A photo helps us bring the right gear."),
+        ("Tell us the layout", "When you call, say where the bees are, how big the lot is, and whether there is a gate code, a long drive or dogs in the yard. If you can, snap the spot where bees enter so the crew knows whether to load a tall ladder."),
         ("Walk the property", "We trace the flight line across the lot, check trees and outbuildings, and scan the likely wall or roof section with a thermal camera before opening anything."),
-        ("Remove the colony alive", "Bees and comb come out together, the queen goes with her workers, and a beekeeper takes the whole colony to its new home. Honey and wax are cleaned out of the cavity."),
-        ("Seal and repair", "With the comb out, our roofers, painters and contractors close the entry and patch what was opened. Should bees ever move back into that patched spot, the workmanship warranty covers a return trip."),
+        ("Lift out comb, queen and all", "Once the cavity is open, every sheet of comb is cut free with the queen and her workers kept together, so the beekeeper receiving them gets an intact colony. The cavity is cleaned down to bare framing before anyone patches it."),
+        ("Rebuild what was opened", "With the comb out, our roofers, painters and contractors close the entry and patch what was opened. Should bees ever move back into that patched spot, the workmanship warranty covers a return trip."),
     ],
     "alarm": (
         "Bees chasing someone? Walk fast to a building or a car and shut it; swatting only riles them. Dial 911 when stings pile up "
@@ -104,13 +105,14 @@ CITY = {
     ),
     "faqs": [
         ("The bees seem to come from the woods behind our house. Can you remove them there?", (
-            "If the colony is on your own lot, yes. If it sits on public preserve land such as the Deering Estate, that land is managed "
-            "by county parks and we would not work there without their say. What we can do is check whether bees have moved "
+            "That depends on which side of the property line it lives. Public preserve land such as the Deering Estate is "
+            "managed by county parks, and we would not work there without their say; a colony on your own lot is fair game. "
+            "What we can do is check whether bees have moved "
             "from the trees into your house and close the gaps they would use."
         )),
         ("Thousands of bees just landed on our fence. Should we worry?", (
-            "That is a swarm resting while scouts choose a home. With no comb or young to protect yet, it tends to stay mellow, "
-            "though it holds thousands of bees. Keep kids and dogs at a distance, leave it untouched and text us a photo. "
+            "Probably not, if you give it room. A fence cluster like that has no comb or brood to defend yet, so it tends to stay "
+            "mellow while a handful of its scouts inspect hollows nearby. Keep kids and dogs at a distance, leave it untouched and text us a photo. "
             "If it starts moving into a wall or shed, book a removal."
         )),
         ("Will the work tear up our screened patio or plantings?", (
@@ -136,7 +138,7 @@ CITY = {
         ("relocation", "Every colony we take out of a Palmetto Bay property goes to a beekeeper, not a dumpster."),
     ],
     "nearby": ["pinecrest", "cutler-bay", "kendall"],
-    "close": ("Tell us where the bees are on your lot", "Use the quote form, or text us a shot of the gap the foragers use; we reply with the scope of work and a price."),
+    "close": ("Shed, back-fence tree or second-floor wall?", "Name the spot and send a picture of the gap through the quote form or by text; back comes the scope of work and a price."),
     "card": "Estate lots, Old Cutler Road and the Deering hammock next door: colonies here hide in sheds, trees, soffits and second-floor walls.",
     "facts": [
         "The Village of Palmetto Bay was incorporated on September 10, 2002 (source: https://en.wikipedia.org/wiki/Palmetto_Bay,_Florida)",
