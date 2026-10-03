@@ -95,13 +95,19 @@ Páginas escritas directamente para lectores hispanohablantes que buscan remoci�
 - [Inicio](https://miamibeerescue.com/es/)
 - [Precios](https://miamibeerescue.com/es/precios/)
 - [Solicitar servicio](https://miamibeerescue.com/es/solicitar/)
+- [Emergencias con abejas 24 horas](https://miamibeerescue.com/es/servicios/emergencias/): Picaduras, abejas dentro de un cuarto o una colonia junto al patio de los niños: qué hacer primero y cómo pedir ayuda a cualquier hora.
 - [Enjambres de abejas](https://miamibeerescue.com/es/servicios/enjambres/): Racimos de abejas en ramas, cercas, balcones o carros: cuándo dejarlos ir y cuándo recogerlos vivos antes de que se metan en la casa.
+- [Abejas dentro de paredes](https://miamibeerescue.com/es/servicios/abejas-en-paredes/): Abejas metidas en muros de bloque o de madera con estuco: localización con cámara térmica, remoción en vivo y reparación de estuco, drywall y pintura con equipos propios.
+- [Abejas en techos y tejas](https://miamibeerescue.com/es/servicios/abejas-en-techos/): Teja de barril, teja plana y techos planos con parapeto: la colonia sale viva y nuestros propios techadores con licencia vuelven a colocar cada pieza.
+- [Quitar panales y colmenas](https://miamibeerescue.com/es/servicios/panales-y-colmenas/): Colonias con panal dentro de paredes, techos o cajas: corte completo, abejas reubicadas vivas, cera y miel fuera, limpieza y sellado del hueco.
+- [Remoción de abejas sin matarlas](https://miamibeerescue.com/es/servicios/remocion-sin-matarlas/): Abejas, reina y cría salen juntas en una caja de colmena rumbo a un apicultor. Sin insecticidas, con limpieza de la cera y la entrada sellada.
+- [Abejas en el contador de agua](https://miamibeerescue.com/es/servicios/contador-de-agua/): Panal debajo de la tapa del contador, de la caja de riego o del foso de la piscina: cómo sacarlo vivo sin dañar el equipo ni la tubería.
 - [Miami](https://miamibeerescue.com/es/zonas/miami/): Ciudad de Miami: casas de madera antiguas, torres y almacenes junto al río. Abejas fuera con vida, colonia localizada con cámara térmica y arreglos hechos por nuestra gente.
 - [Hialeah](https://miamibeerescue.com/es/zonas/hialeah/): Hialeah: abejas en contadores de agua, muros de bloque calado y aleros de casas de posguerra. Remoción en vivo, reparación con contratistas propios y respuesta garantizada en 24 horas.
 - [Hialeah Gardens](https://miamibeerescue.com/es/zonas/hialeah-gardens/): Hialeah Gardens: casas de un piso, almacenes del noroeste y la orilla del Canal de Miami. Las abejas salen vivas, la entrada se sella y la reparación la hacen contratistas propios.
 - [Doral](https://miamibeerescue.com/es/zonas/doral/): Doral: almacenes, showrooms y urbanizaciones con asociación. Abejas vivas fuera de puertas enrollables, tejas y contadores de agua, con reparación de contratistas propios.
-- [Kendall](https://miamibeerescue.com/es/zonas/kendall/): De Dadeland a Killian y Snapper Creek: colonias sacadas con vida de aleros, sofitos y cajas de contador, y el hueco cerrado y reparado.
-- [West Kendall](https://miamibeerescue.com/es/zonas/west-kendall/): Del Turnpike a Krome Avenue: bloque reconstruido, townhouses de pared compartida y medidores en la grama. Colonias vivas ubicadas con cámara térmica y huecos que quedan reparados.
+- [Kendall](https://miamibeerescue.com/es/zonas/kendall/): De Dadeland a Killian y Snapper Creek: colonias sacadas con vida de aleros, sófitos y cajas de contador, y el hueco cerrado y reparado.
+- [West Kendall](https://miamibeerescue.com/es/zonas/west-kendall/): Del Turnpike a Krome Avenue: paredes de concreto, townhouses de pared compartida y medidores en el césped. Colonias vivas ubicadas con cámara térmica y huecos que quedan reparados.
 - [Westchester](https://miamibeerescue.com/es/zonas/westchester/): Westchester, entre Tamiami Trail y Bird Road: casas de posguerra con aleros y tejas que dejan pasar colonias, abejas reubicadas vivas y arreglos hechos por nuestra gente.
 - [Homestead](https://miamibeerescue.com/es/zonas/homestead/): Homestead, entre los huertos de Redland y las casas reconstruidas tras Andrew: enjambres en frutales, colonias en muros de roca coralina, contadores de agua y aleros.
 

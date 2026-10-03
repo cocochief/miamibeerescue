@@ -20,7 +20,7 @@ SERVICIO = {
         "Un tramo de pared que se siente tibio de noche, cuando el resto del muro ya se enfrió.",
     ],
 
-    "behind": "Muchas casas del condado tienen muros de bloque de concreto con estuco por fuera, lo que aquí se conoce como CBS. Cada bloque trae celdas huecas que, hilera tras hilera, se comunican entre sí y forman un pasillo oscuro, seco y protegido. Las celdas que llevan varilla se rellenan con concreto; las demás quedan vacías y son justo las que ocupa la colonia. En las casas y anexos de madera, el espacio libre está entre los montantes, detrás del estuco por fuera o del drywall por dentro. En ambos casos las abejas cuelgan el panal desde la parte alta del hueco y lo alargan hacia abajo con miel, polen y cría. Cada semana que pasa, el panal pesa más y ocupa más celdas.",
+    "behind": "Un muro de bloque de concreto con estuco por fuera es lo que en construcción se llama CBS. Cada bloque trae celdas huecas que, hilera tras hilera, se comunican entre sí y forman un pasillo oscuro, seco y protegido. Las celdas que llevan varilla se rellenan con concreto; las demás quedan vacías y son justo las que ocupa la colonia. En las casas y anexos de madera, el espacio libre está entre los montantes, detrás del estuco por fuera o del drywall por dentro. En ambos casos las abejas cuelgan el panal desde la parte alta del hueco y lo alargan hacia abajo con miel, polen y cría. Cada semana que pasa, el panal pesa más y ocupa más celdas.",
 
     "body": [
         ("Bloque de concreto o madera: cambia la forma de abrir",
@@ -48,7 +48,7 @@ SERVICIO = {
          "Cerramos la grieta, el hueco de tornillo o la junta por donde entraban, y revisamos otras aberturas cercanas en la misma fachada."),
     ],
 
-    "putback": "Cerrar el muro es parte del mismo encargo. Los albañiles y pintores con licencia que trabajan con nosotros, no subcontratados, rellenan las celdas abiertas del bloque, colocan malla y estuco nuevo y le dan la textura que tiene el resto de la fachada: lisa, de arena o rústica a llana. Por dentro, ponemos drywall, masilla, lija y pintura hasta que el parche no se distinga. Retiramos lonas, restos de cera y escombros. El sellado queda cubierto: de reaparecer abejas por esa misma junta, volvemos a cerrarla, porque el trabajo tiene garantía. ¿Necesita documentarlo para el seguro o el casero? Pídanos imágenes del muro abierto y cerrado, y la factura con cada partida.",
+    "putback": "Cerrar el muro es parte del mismo encargo. Nuestros propios contratistas y pintores con licencia rellenan las celdas abiertas del bloque, colocan malla y estuco nuevo y le dan la textura que tiene el resto de la fachada: lisa, de arena o texturizada a mano. Por dentro, ponemos drywall, masilla, lija y pintura hasta que el parche no se distinga. Retiramos lonas, restos de cera y escombros. El sellado queda cubierto: de reaparecer abejas por esa misma junta, volvemos a cerrarla, porque el trabajo tiene garantía. ¿Necesita documentarlo para el seguro o el propietario? Pídanos imágenes del muro abierto y cerrado, y la factura con cada partida.",
 
     "price": "Una colonia en un muro de planta baja, con acceso cómodo y un corte pequeño, ronda los $300 a $400 en total. Cuando el panal ocupa varias celdas, sube hacia el techo o hay que reponer estuco texturizado, drywall y pintura en un tramo grande, la factura sube y puede sumar miles de dólares. Cotizar no le cuesta nada, aunque si nos necesita de noche o un sábado o domingo, ese servicio sale más caro que uno de lunes a viernes. Los rangos generales están en [[es:precios|precios de remoción]].",
     "price_factors": [
@@ -61,11 +61,11 @@ SERVICIO = {
     "zonas_h": "Muros de bloque y de madera en el condado",
     "zonas": [
         ("hialeah",
-         "[[es:zona-hialeah|Hialeah]] supera los 10,000 habitantes por milla cuadrada, así que las casas de bloque quedan pegadas unas a otras. Un muro con abejas puede dar al patio del vecino, y conviene abrirlo por el lado que menos moleste a ambos."),
+         "[[es:zona-hialeah|Hialeah]] supera los 10,000 habitantes por milla cuadrada, así que las casas quedan muy cerca unas de otras. Un muro con abejas puede dar al patio del vecino, y conviene abrirlo por el lado que menos moleste a ambos."),
         ("westchester",
          "[[es:zona-westchester|Westchester]] tomó su nombre de una urbanización de 1955 y siguió creciendo durante los años sesenta. Casas de esa edad acumulan grietas, tomas de aire viejas y reparaciones de estuco por donde una abeja exploradora puede colarse."),
         ("kendall",
-         "Kendall, zona no incorporada, sufrió daños graves con el huracán Andrew en 1992 y muchas casas se reconstruyeron. En una misma cuadra pueden convivir muros de concreto y anexos de madera, y la cámara térmica aclara cuál ocupa la colonia."),
+         "[[es:zona-kendall|Kendall]], zona no incorporada del condado, sufrió daños graves con el huracán Andrew en agosto de 1992, cuando muchas casas quedaron destruidas. Si su vivienda tiene un anexo de madera junto al muro de bloque, la cámara térmica aclara cuál de los dos ocupa la colonia."),
         ("doral",
          "En [[es:zona-doral|Doral]] hay casas unifamiliares, townhouses y condominios de poca altura. Cuando el muro con abejas es compartido, coordinamos con la asociación y entregamos el certificado de seguro (COI) antes de abrir."),
     ],
@@ -78,7 +78,7 @@ SERVICIO = {
         ("¿Hay que romper mucha pared para sacar el panal?",
          "Solo lo que mide el panal. La cámara térmica marca su contorno antes de cortar, así que en un muro CBS se abre la cara del bloque sobre las celdas ocupadas, y en una pared de madera se retira uno o dos paneles de drywall. Si el panal se extiende, la abertura crece lo justo para sacarlo completo."),
         ("¿Quién repara el estuco, el drywall y la pintura después?",
-         "La misma empresa que abrió el muro lo deja terminado, con personal de obra propio y licenciado. Se rellena el bloque, se coloca estuco nuevo con la misma textura de la fachada o drywall por dentro, y se pinta. No tiene que buscar a otro contratista ni coordinar una segunda visita con otra empresa."),
+         "La misma empresa que abrió el muro lo deja terminado, con contratistas y pintores propios con licencia. Se rellena el bloque, se coloca estuco nuevo con la misma textura de la fachada o drywall por dentro, y se pinta. No tiene que buscar a otro contratista ni coordinar una segunda visita con otra empresa."),
         ("¿Las abejas mueren durante la remoción?",
          "No. El panal sale entero en lo posible y se coloca en marcos de colmena; las abejas sueltas se recogen vivas con una aspiradora suave. Luego apicultores reubican la colonia. No usamos veneno en ningún momento del trabajo dentro del muro."),
         ("Ya fumigaron y las abejas están muertas: ¿igual hay que abrir la pared?",
@@ -90,7 +90,7 @@ SERVICIO = {
     "relacionados": ["abejas-en-techos", "remocion-sin-matarlas", "emergencias", "panales-y-colmenas"],
 
     "close": ("Pared con abejas: abrimos, sacamos y cerramos",
-              "Cuéntenos qué oye y dónde, a la hora que sea: su caso queda atendido dentro del plazo garantizado de 24 horas."),
+              "Cuéntenos qué oye y dónde, a la hora que sea: le respondemos antes de que pasen 24 horas, como lo garantizamos."),
 
     "facts": [
         "Los bloques de concreto pueden fabricarse con núcleos huecos que forman un vacío interconectado (source: https://en.wikipedia.org/wiki/Concrete_masonry_unit)",

@@ -8,11 +8,11 @@ ZONA = {
     "h1": "Remoción de abejas en West Kendall",
     "kicker": "Del Turnpike hasta Krome Avenue",
     "lede": "West Kendall no aparece en ningún mapa oficial, pero sus urbanizaciones con lagos, sus townhouses y sus calles arboladas reúnen lo que una colonia de abejas busca: huecos secos, sombra y agua cerca.",
-    "quick": "Si ve abejas entrando y saliendo de una pared, un alero o la caja del contador de agua en West Kendall, mantenga lejos a la familia y a las mascotas y no rocíe nada. Alguien contesta la línea a medianoche igual que al mediodía, y nos comprometemos a responderle en un máximo de 24 horas. La colonia sale viva rumbo a un apicultor, el hueco queda sellado y presupuestar el trabajo no le cuesta nada.",
+    "quick": "Bloque de concreto hueco, townhouses de pared compartida y tapas de medidor sobre el césped: entre el Turnpike y Krome Avenue sobran cavidades secas para una colonia. Si una rendija tiene tráfico continuo de abejas, deje el sitio tranquilo, aleje a niños y mascotas y no use aerosol. La línea se atiende a medianoche igual que al mediodía, con respuesta garantizada dentro de 24 horas. La colonia sale viva hacia un apicultor, el hueco se sella y la cotización es gratis.",
     "alarm": "Ante picaduras múltiples, falta de aire o hinchazón en la cara o la garganta, el primer número es el 911. Mientras llega la ayuda, entre a los niños y los perros, cierre lo que dé al lado del nido y no le eche agua ni lo golpee. Si nos llama con alguien picado, ese caso se adelanta a todos los demás, a cualquier hora.",
     "glance": [
         ("Tipo de lugar", "Área no incorporada; nombre informal, sin límites oficiales"),
-        ("Borde oeste", "Krome Avenue, que es la misma SW 177th Avenue"),
+        ("Hacia el oeste", "The Hammocks llega hasta Krome Avenue, que es la misma SW 177th Avenue"),
         ("Lo que se construyó", "Comunidades planificadas, apartamentos, townhouses y plazas comerciales"),
         ("Country Walk", "1,606 casas en seis subasociaciones, levantadas por Arvida"),
     ],
@@ -31,9 +31,9 @@ ZONA = {
     ),
     "hotspots_h": "Los escondites típicos de este lado del Turnpike",
     "hotspots": [
-        ("Casas de bloque reconstruidas",
-         "Tras el huracán Andrew, en agosto de 1992, Country Walk se reconstruyó con paredes de concreto en "
-         "lugar de estructura de madera. El bloque hueco es firme, pero sus celdas forman cámaras secas y "
+        ("Paredes de concreto tras Andrew",
+         "Tras el huracán Andrew, en agosto de 1992, las casas de Country Walk se reconstruyeron con paredes de concreto en "
+         "lugar de estructura de madera. Una pared de bloque de concreto es firme, pero las celdas del bloque hueco forman cámaras secas y "
          "oscuras donde una colonia crece sin que se note desde afuera hasta que el panal ya es grande."),
         ("Muros compartidos de townhouses",
          "En The Crossings y en otros conjuntos de townhouses, varias viviendas comparten paredes y techos. "
@@ -41,7 +41,7 @@ ZONA = {
          "revisamos con cámara térmica a ambos lados antes de abrir y coordinamos con la asociación cuando se "
          "toca un área común."),
         ("Contadores de agua junto al césped",
-         "Bajo la tapa plástica del medidor queda un hueco seco y oscuro que a una colonia le viene a la medida. En su ficha sobre abejas "
+         "Bajo la tapa del medidor queda un hueco seco y oscuro que a una colonia le viene a la medida. En su ficha sobre abejas "
          "africanizadas, el IFAS, la extensión agrícola de la UF, incluye entre sus nidos habituales los "
          "medidores de agua, el bloque de cemento, los aleros y las ramas. Si ve movimiento bajo una tapa, no la levante: llame."),
         ("Plazas comerciales y letreros",
@@ -81,10 +81,10 @@ ZONA = {
     "body": [
         ("La frontera oeste: Krome Avenue y el límite urbano",
          "En los años ochenta, el condado creó el límite de desarrollo urbano, conocido por su sigla en inglés "
-         "UDB: la línea que frena el avance de las urbanizaciones hacia los Everglades. Krome Avenue, es decir, "
-         "la SW 177th Avenue, marca ese borde en buena parte de West Kendall. Del lado de adentro hay "
-         "calles, lagos artificiales y casas; del lado de afuera, cultivos y terrenos abiertos.\n\n"
-         "Esa transición importa a quien vive en las últimas cuadras. Las colonias silvestres se dividen en "
+         "UDB: la línea que frena la expansión de las urbanizaciones hacia el oeste. En West Kendall, The Hammocks "
+         "llega hasta Krome Avenue, es decir, la SW 177th Avenue, y Kendall West y Country Walk tienen tierras de "
+         "cultivo o sin desarrollar a su lado oeste. De un lado hay calles, lagos y casas; del otro, cultivos y terrenos abiertos.\n\n"
+         "Esa transición importa a quien vive en las últimas cuadras. Las colonias silvestres se dividen sobre todo en "
          "primavera y mandan [[es:svc-enjambres|enjambres]] a buscar casa nueva, y lo primero que encuentran "
          "del lado urbano son aleros, respiraderos y paredes. Si ve un racimo de abejas colgando de una rama, "
          "no lo moleste: con frecuencia es un enjambre en reposo que seguirá su camino. Si las ve entrando a "
@@ -114,51 +114,51 @@ ZONA = {
     ],
     "visit_h": "Cómo es la visita",
     "visit": [
-        ("Llamada y cotización",
+        ("Primero, lo que usted ve",
          "Nos describe por teléfono el sitio exacto, cuánto movimiento ve y si hubo picaduras. Cotizar no "
          "cuesta nada, y con alguien picado su caso se adelanta en la fila."),
-        ("Búsqueda con cámara térmica",
-         "El calor de la colonia se nota a través del bloque, el yeso o el techo. Así ubicamos el panal y "
+        ("El calor delata el panal",
+         "La temperatura de la colonia se nota a través del bloque, el yeso o el techo. Así ubicamos el panal y "
          "abrimos solo lo necesario, no media pared."),
-        ("Remoción en vivo",
+        ("Panal afuera, abejas con vida",
          "Las abejas salen vivas junto con cada lámina de panal; nada se fumiga. Un apicultor recibe la "
          "colonia en una caja y se hace cargo de ella."),
-        ("Sellado y reparación",
+        ("Cada rendija queda tapada",
          "Cerramos la entrada, limpiamos restos de miel y cera, y nuestros contratistas reparan el área. ¿Reaparecen "
          "abejas justo donde cerramos? Nos toca volver y resolverlo."),
     ],
     "faqs": [
-        ("¿West Kendall es una ciudad?",
-         "No. Es un nombre informal para un sector no incorporado de Miami-Dade, sin límites oficiales. Para "
-         "el servicio da igual si usted dice que vive en The Hammocks, Kendale Lakes, Country Walk o "
+        ("¿Dónde termina Kendall y empieza West Kendall?",
+         "Nadie lo ha fijado: West Kendall no es una ciudad sino un nombre informal para un sector no incorporado "
+         "de Miami-Dade, sin límites oficiales. Para el servicio da igual si usted dice que vive en The Hammocks, Kendale Lakes, Country Walk o "
          "simplemente en Kendall: trabajamos en todo el condado, hasta la línea del condado."),
         ("¿Hay que hacer algo si el enjambre cuelga de una rama?",
          "Mientras siga al aire libre, por lo general basta con dejarlo en paz: el racimo descansa mientras "
          "las exploradoras buscan un sitio y luego se marcha. Manténgase lejos y no lo moje. Pero si las abejas entran y salen "
          "por una rendija de la pared, el techo o la caja del contador, ya hicieron nido y no se irán; el panal "
          "seguirá creciendo y la miel puede filtrarse."),
-        ("¿Las abejas mueren durante la remoción?",
-         "No. El trabajo es en vivo y humano: la colonia se saca con su panal y se reubica con apicultores. No "
-         "usamos veneno para eliminarla. Además de respetar a un polinizador, así se evita dejar cera y miel "
+        ("¿A un apicultor o a la basura: adónde va la colonia?",
+         "Termina en manos de un apicultor. Sacamos las abejas vivas junto con su panal y nunca usamos veneno "
+         "para eliminarlas. Además de respetar a un polinizador, así se evita dejar cera y miel "
          "pudriéndose dentro de la pared, que atrae otras plagas y mancha el yeso."),
         ("¿Qué hace subir el precio de una remoción?",
          "Lo más sencillo, una colonia alcanzable desde el piso como la de un medidor o un seto, anda por "
-         "$300–$400. Abrir bloque, subir a un techo de tejas y reparar después lleva la cuenta hasta varios "
+         "$300–$400. Abrir bloque, subir a un techo de tejas y reparar después lleva la cuenta hasta "
          "miles de dólares. Fuera del horario normal, de noche o sábado y domingo, la tarifa sube respecto a un "
          "día de semana. Vea los detalles en [[es:precios|precios]]."),
         ("¿Y si las abejas aparecen un domingo a medianoche?",
          "Llame igual: la línea no se apaga y la respuesta queda garantizada en 24 horas; si hay alguien "
-         "picado, ese caso se adelanta. Eso sí, una salida a deshoras se cobra más alta que la del martes por "
+         "picado, ese caso se adelanta. Eso sí, una salida a deshoras cuesta más que una visita un martes por "
          "la mañana, de modo que si la colonia está quieta y lejos de la gente, a veces sale mejor aguardar al "
          "primer día hábil."),
     ],
     "servicios": [
         ("abejas-en-paredes",
-         "Las casas de bloque de Country Walk y de otras urbanizaciones tienen celdas huecas donde el panal "
+         "Country Walk se reconstruyó con paredes de concreto, y en el bloque hueco de muchas casas el panal "
          "crece sin verse desde afuera."),
         ("contador-de-agua",
-         "Frente a muchas casas hay tapas de medidor o de válvulas en la grama, y el IFAS de la UF las cita "
-         "entre los nidos preferidos de las africanizadas."),
+         "Frente a muchas casas hay tapas de medidor o de válvulas en el césped, y el IFAS de la UF menciona "
+         "las cajas de contadores entre los sitios donde anidan las africanizadas."),
         ("enjambres",
          "En las cuadras que dan a terreno abierto cerca de Krome Avenue, un racimo en una rama o una cerca "
          "merece distancia y una llamada."),
@@ -170,12 +170,12 @@ ZONA = {
     "close": ("Pared, techo o contador: llámenos",
               "Presupuesto sin cargo, colonia viva para un apicultor y el hueco cerrado por nuestra gente, desde "
               "The Hammocks hasta Country Walk. [[es:solicitar|Pida su visita aquí]]."),
-    "card": "Del Turnpike a Krome Avenue: bloque reconstruido, townhouses de pared compartida y medidores en la "
-            "grama. Colonias vivas ubicadas con cámara térmica y huecos que quedan reparados.",
+    "card": "Del Turnpike a Krome Avenue: paredes de concreto, townhouses de pared compartida y medidores en el "
+            "césped. Colonias vivas ubicadas con cámara térmica y huecos que quedan reparados.",
     "facts": [
         "West Kendall es una comunidad no incorporada de Miami-Dade con límites imprecisos; suele incluir los CDP de Country Walk, Lakes of the Meadows, Three Lakes, The Hammocks, The Crossings, Kendale Lakes y Kendall West; se compone sobre todo de comunidades planificadas, edificios de apartamentos y plazas comerciales (source: https://en.wikipedia.org/wiki/West_Kendall,_Florida)",
         "El condado de Miami-Dade creó el límite de desarrollo urbano (UDB) en los años ochenta (source: https://en.wikipedia.org/wiki/Redland,_Florida)",
-        "Krome Avenue (SR 997) es también SW 177th Avenue; el UDB frena el avance hacia los Everglades (source: https://en.wikipedia.org/wiki/Krome_Avenue)",
+        "Krome Avenue (SR 997) es también SW 177th Avenue; el UDB frena la expansión urbana hacia el oeste (source: https://en.wikipedia.org/wiki/Krome_Avenue)",
         "Kendall West limita al este con Kendale Lakes, al sur con The Hammocks y al oeste y norte con tierras de cultivo o sin desarrollar; 6,038 habitantes en 1990 y 38,034 en 2000 (source: https://en.wikipedia.org/wiki/Kendall_West,_Florida)",
         "Kendale Lakes: el Turnpike corre por su borde este; fue comunidad dormitorio hasta mediados o finales de los ochenta; el Kendale Lakes Country Club tiene lagos rodeados de calles arboladas (source: https://en.wikipedia.org/wiki/Kendale_Lakes,_Florida)",
         "The Hammocks es una comunidad planificada al oeste de SW 137th Avenue, al sur de SW 88th Street, al este de SW 177th Avenue y al norte de SW 120th Street (source: https://en.wikipedia.org/wiki/The_Hammocks,_Florida)",

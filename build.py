@@ -996,7 +996,7 @@ def build_es_precios():
             + band(P["band"]) + '<div class="wrap">' + "".join(section(h, t) for h, t in P["body"])
             + faq_block(P["faqs"], CE["faq_h"]) + leadform(P["form_h"]) + "</div>")
     publish("/es/precios/", P["title"], P["desc"], main,
-            [crumbs_schema(trail), es_service_schema("Cotización y precios de remoción de abejas", "/es/precios/", P["desc"], county_area()),
+            [crumbs_schema(trail), es_service_schema("Rangos de costo para sacar abejas", "/es/precios/", P["desc"], county_area()),
              faq_schema(P["faqs"])], priority="0.7")
 
 
