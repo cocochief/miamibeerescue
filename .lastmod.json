@@ -11,6 +11,54 @@
   "date": "2026-10-02",
   "hash": "d4f20c8b413a99eb"
  },
+ "/es/": {
+  "date": "2026-10-03",
+  "hash": "f2e83fa1a35dfda7"
+ },
+ "/es/precios/": {
+  "date": "2026-10-03",
+  "hash": "5a6dce0985bc35a3"
+ },
+ "/es/servicios/enjambres/": {
+  "date": "2026-10-03",
+  "hash": "b9f4caf4172b42d1"
+ },
+ "/es/solicitar/": {
+  "date": "2026-10-03",
+  "hash": "15ed952c8b164aa5"
+ },
+ "/es/zonas/doral/": {
+  "date": "2026-10-03",
+  "hash": "081fb6b43cc0206c"
+ },
+ "/es/zonas/hialeah-gardens/": {
+  "date": "2026-10-03",
+  "hash": "db85b4a559f03efa"
+ },
+ "/es/zonas/hialeah/": {
+  "date": "2026-10-03",
+  "hash": "bbe9efb44036802e"
+ },
+ "/es/zonas/homestead/": {
+  "date": "2026-10-03",
+  "hash": "e2c17e9555b935bc"
+ },
+ "/es/zonas/kendall/": {
+  "date": "2026-10-03",
+  "hash": "94a6731324197ca6"
+ },
+ "/es/zonas/miami/": {
+  "date": "2026-10-03",
+  "hash": "1e74fb8baffa4d27"
+ },
+ "/es/zonas/west-kendall/": {
+  "date": "2026-10-03",
+  "hash": "596b7f0f0af605f1"
+ },
+ "/es/zonas/westchester/": {
+  "date": "2026-10-03",
+  "hash": "df832ba1d992c885"
+ },
  "/field-guide/": {
   "date": "2026-10-02",
   "hash": "65e4502c670e28f3"

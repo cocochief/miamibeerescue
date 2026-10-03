@@ -78,8 +78,10 @@ function subjectLine(lead) {
   return urgent(lead) ? `[EMERGENCY] ${base}` : base;
 }
 
-function emailHtml(lead) {
-  const rows = FIELDS.map(([key, label]) => {
+function emailHtml(input) {
+  const spanish = input.page.startsWith("/es/");
+  const lead = { ...input, lang: spanish ? "Spanish (sent from a Spanish page)" : "English" };
+  const rows = FIELDS.concat([["lang", "Form language", 0]]).map(([key, label]) => {
     const value = lead[key] ? escapeHtml(lead[key]).replace(/\n/g, "<br>") : '<span style="color:#8A8578">not given</span>';
     return (
       `<tr><td style="padding:8px 14px;background:#F7F3EA;border-bottom:1px solid #E4DCC8;font-weight:bold;width:34%">${label}</td>` +

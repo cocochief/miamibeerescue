@@ -24,6 +24,7 @@ sys.path.insert(0, ROOT)
 
 from content import catalog as CAT  # noqa: E402
 from content.core import CORE  # noqa: E402
+from content.es.core_es import CORE_ES  # noqa: E402
 
 # ---------------------------------------------------------------- settings
 BRAND = "Miami Bee Rescue"
@@ -93,6 +94,8 @@ SVC = {s: d for s, d in ((s, _load("services", s.replace("-", "_"), "SERVICE")) 
 CITY = {k: d for k, d in ((k, _load("cities", k.replace("-", "_"), "CITY")) for k, *_ in CAT.CITIES) if d}
 GUIDE = {g: d for g, d in ((g, _load("guides", g.replace("-", "_"), "GUIDE")) for g, _ in CAT.GUIDES) if d}
 COUNTY = _load("", "county", "COUNTY")
+ES_SVC = {s: d for s, d in ((s, _load("es.servicios", s.replace("-", "_"), "SERVICIO")) for s, _, _ in CAT.ES_SERVICES) if d}
+ES_ZONA = {k: d for k, d in ((k, _load("es.zonas", k.replace("-", "_"), "ZONA")) for k in CAT.ES_PLACES) if d}
 
 
 # ---------------------------------------------------------------- text helpers
@@ -100,7 +103,7 @@ def esc(s):
     return html.escape(str(s), quote=True)
 
 
-TOKEN = re.compile(r"\[\[(city|svc|guide|page):([a-z0-9-]+)(?:\|([^\]]*))?\]\]")
+TOKEN = re.compile(r"\[\[(city|svc|guide|page|es):([a-z0-9-]+)(?:\|([^\]]*))?\]\]")
 
 
 def link_html(kind, ref, label=None):
@@ -115,6 +118,8 @@ def link_html(kind, ref, label=None):
         fail(f"link to unbuilt removal page {ref}")
     if kind == "guide" and ref not in GUIDE:
         fail(f"link to unbuilt guide {ref}")
+    if kind == "es" and ((ref.startswith("svc-") and ref[4:] not in ES_SVC) or (ref.startswith("zona-") and ref[5:] not in ES_ZONA)):
+        fail(f"link to unbuilt Spanish page {ref}")
     return f'<a href="{path}">{esc(label or default)}</a>'
 
 
@@ -279,25 +284,40 @@ def place_area(key):
 
 # ---------------------------------------------------------------- shared pieces
 C = CORE["chrome"]
+CE = CORE_ES["chrome"]
+LANG = {"es": False}      # set per page by the builders
+
+
+def T():
+    """Chrome text for the language of the page being built."""
+    return CE if LANG["es"] else C
+
+
+def FORM():
+    return CORE_ES["form"] if LANG["es"] else CORE["form"]
+
+
+def quote_page():
+    return "/es/solicitar/" if LANG["es"] else "/request-removal/"
 
 
 def btns(spot, quote_href="#request", size=""):
     s = f" btn--{size}" if size else ""
     return (f'<div class="acts">'
-            f'<a class="btn btn--call{s}" data-spot="{spot}" href="tel:{DIAL}">{icon("phone")}<span>{esc(C["call"])} {PHONE}</span></a>'
-            f'<a class="btn btn--text{s}" data-spot="{spot}" href="sms:{DIAL}">{icon("chat")}<span>{esc(C["text"])}</span></a>'
-            f'<a class="btn btn--quote{s}" data-spot="{spot}" href="{quote_href}">{icon("form")}<span>{esc(C["quote"])}</span></a>'
+            f'<a class="btn btn--call{s}" data-spot="{spot}" href="tel:{DIAL}">{icon("phone")}<span>{esc(T()["call"])} {PHONE}</span></a>'
+            f'<a class="btn btn--text{s}" data-spot="{spot}" href="sms:{DIAL}">{icon("chat")}<span>{esc(T()["text"])}</span></a>'
+            f'<a class="btn btn--quote{s}" data-spot="{spot}" href="{quote_href}">{icon("form")}<span>{esc(T()["quote"])}</span></a>'
             f'</div>')
 
 
 def quick_box(text):
-    return (f'<aside class="quick" aria-label="{esc(C["quick_label"])}"><p class="label">{esc(C["quick_label"])}</p>'
+    return (f'<aside class="quick" aria-label="{esc(T()["quick_label"])}"><p class="label">{esc(T()["quick_label"])}</p>'
             f'<p>{inline(text)}</p></aside>')
 
 
 def alarm_box(text):
-    return (f'<aside class="alarm" aria-label="{esc(C["alarm_title"])}">{icon("alert")}<div>'
-            f'<p class="alarm__title">{esc(C["alarm_title"])}</p><p>{inline(text)}</p>'
+    return (f'<aside class="alarm" aria-label="{esc(T()["alarm_title"])}">{icon("alert")}<div>'
+            f'<p class="alarm__title">{esc(T()["alarm_title"])}</p><p>{inline(text)}</p>'
             f'<a class="btn btn--call btn--sm" data-spot="alarm" href="tel:{DIAL}">{icon("phone")}<span>{PHONE}</span></a>'
             f'</div></aside>')
 
@@ -331,7 +351,7 @@ def hero(kicker, h1, lede, trail=None, extra="", quote_href="#request"):
 
 
 def leadform(heading=None, place=None, fid="request"):
-    F = CORE["form"]
+    F = FORM()
     spots = "".join(f'<option>{esc(o)}</option>' for o in F["spot_options"])
     urg = "".join(f'<option value="{esc(v)}">{esc(lbl)}</option>' for v, lbl in F["urgency_options"])
     loc = f' value="{esc(place)}"' if place else ""
@@ -365,6 +385,22 @@ def section(h2, body, cls="sect", hid=None):
 # ---------------------------------------------------------------- page shell
 NAV = [("/removal/", "Removal"), ("/miami-dade/", "Areas"), ("/cost/", "Cost"),
        ("/field-guide/", "Field guide"), ("/answers/", "Answers"), ("/who-we-are/", "Who we are")]
+NAV_ES = [("/es/#servicios", "Servicios"), ("/es/#zonas", "Zonas"), ("/es/precios/", "Precios"),
+          ("/es/solicitar/", "Solicitar")]
+EN_TO_ES = CAT.hreflang_pairs()
+ES_TO_EN = {v: k for k, v in EN_TO_ES.items()}
+
+
+def alternates(path):
+    """(english path, spanish path) when both versions exist and are built, else None."""
+    en, es = (ES_TO_EN.get(path), path) if path.startswith("/es/") else (path, EN_TO_ES.get(path))
+    if not en or not es:
+        return None
+    if es.startswith("/es/servicios/") and es.split("/")[3] not in ES_SVC:
+        return None
+    if es.startswith("/es/zonas/") and es.split("/")[3] not in ES_ZONA:
+        return None
+    return en, es
 
 
 def head(title, desc, path, schema, og_type="website", noindex=False):
@@ -385,8 +421,21 @@ def head(title, desc, path, schema, og_type="website", noindex=False):
              f"gtag('js',new Date());gtag('config','{GTAG_ID}');</script>")
     robots = '<meta name="robots" content="noindex">' if noindex else '<meta name="robots" content="index,follow,max-image-preview:large">'
     canon = "" if noindex else f'<link rel="canonical" href="{url}">'
+    es = LANG["es"]
+    pair = None if noindex else alternates(path)
+    hreflang = ""
+    if pair:
+        hreflang = (f'<link rel="alternate" hreflang="en-US" href="{SITE}{pair[0]}">\n'
+                    f'<link rel="alternate" hreflang="es-US" href="{SITE}{pair[1]}">\n'
+                    f'<link rel="alternate" hreflang="x-default" href="{SITE}{pair[0]}">')
+    if es:
+        switch = f'<a class="langswitch" href="{pair[0] if pair else "/"}" hreflang="en" lang="en">English</a>'
+    else:
+        switch = f'<a class="langswitch" href="{pair[1] if pair else "/es/"}" hreflang="es" lang="es">Español</a>'
+    nav = NAV_ES if es else NAV
+    home = "/es/" if es else "/"
     return f'''<!doctype html>
-<html lang="en-US">
+<html lang="{"es-US" if es else "en-US"}">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -394,6 +443,7 @@ def head(title, desc, path, schema, og_type="website", noindex=False):
 <meta name="description" content="{esc(desc)}">
 {robots}
 {canon}
+{hreflang}
 <meta name="theme-color" content="#1B1D21">
 <meta property="og:site_name" content="{BRAND}">
 <meta property="og:type" content="{og_type}">
@@ -403,8 +453,8 @@ def head(title, desc, path, schema, og_type="website", noindex=False):
 <meta property="og:image" content="{SITE}{asset("og.jpg")}">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="{esc(C["og_alt"])}">
-<meta property="og:locale" content="en_US">
+<meta property="og:image:alt" content="{esc(T()["og_alt"])}">
+<meta property="og:locale" content="{"es_US" if es else "en_US"}">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" type="image/png" sizes="32x32" href="{asset("mark-32.png")}">
 <link rel="icon" type="image/png" sizes="48x48" href="{asset("mark-48.png")}">
@@ -414,37 +464,48 @@ def head(title, desc, path, schema, og_type="website", noindex=False):
 {g}{schema}
 </head>
 <body>
-<a class="skip" href="#main">{esc(C["skip"])}</a>
-<div class="topline"><div class="wrap topline__in"><p>{icon("clock")}<span>{esc(C["topline"])}</span></p>
+<a class="skip" href="#main">{esc(T()["skip"])}</a>
+<div class="topline"><div class="wrap topline__in"><p>{icon("clock")}<span>{esc(T()["topline"])}</span></p>
 <a href="tel:{DIAL}" data-spot="topline">{icon("phone")}<span>{PHONE}</span></a></div></div>
 <header class="masthead"><div class="wrap masthead__in">
-<a class="logo" href="/" aria-label="{BRAND} home">{MARK_SVG}<span class="logo__words"><b>Miami</b> Bee Rescue</span></a>
-<nav id="site-menu" class="menu" aria-label="Main">{"".join(f'<a href="{p}">{esc(n)}</a>' for p, n in NAV)}
-<a class="menu__quote" href="/request-removal/">{esc(C["quote"])}</a></nav>
-<a class="btn btn--call btn--head" data-spot="header" href="tel:{DIAL}">{icon("phone")}<span class="hide-s">{PHONE}</span><span class="show-s">{esc(C["call"])}</span></a>
-<button class="menubtn" type="button" data-menu-button aria-controls="site-menu" aria-expanded="false"><span></span><span></span><span></span><b class="sr">{esc(C["menu"])}</b></button>
+<a class="logo" href="{home}" aria-label="{BRAND} {"inicio" if es else "home"}">{MARK_SVG}<span class="logo__words"><b>Miami</b> Bee Rescue</span></a>
+<nav id="site-menu" class="menu" aria-label="{"Principal" if es else "Main"}">{"".join(f'<a href="{p}">{esc(n)}</a>' for p, n in nav)}
+<a class="menu__quote" href="{quote_page()}">{esc(T()["quote"])}</a>{switch}</nav>
+<a class="btn btn--call btn--head" data-spot="header" href="tel:{DIAL}" aria-label="{esc(T()["call"])} {PHONE}">{icon("phone")}<span class="hide-s">{PHONE}</span><span class="show-s">{esc(T()["call"])}</span></a>
+<button class="menubtn" type="button" data-menu-button aria-controls="site-menu" aria-expanded="false"><span></span><span></span><span></span><b class="sr">{esc(T()["menu"])}</b></button>
 </div></header>
 '''
 
 
 def foot():
-    F = C["footer"]
+    F = T()["footer"]
+    if LANG["es"]:
+        svc_links = "".join(f'<li><a href="{CAT.es_svc_path(s)}">{esc(n)}</a></li>' for s, n, _ in CAT.ES_SERVICES if s in ES_SVC)
+        city_links = "".join(f'<li><a href="{CAT.es_place_path(k)}">{esc(CAT.CITY_NAME[k])}</a></li>' for k in CAT.ES_PLACES if k in ES_ZONA)
+        core_links = "".join(f'<li><a href="{p}">{esc(n)}</a></li>' for p, n, _ in CAT.ES_CORE.values())
+        core_links += f'<li><a href="/" hreflang="en" lang="en">{esc(F["en_link"])}</a></li>'
+        return _foot_html(F, svc_links, city_links, core_links, "/es/")
     svc_links = "".join(f'<li><a href="{CAT.svc_path(s)}">{esc(n)}</a></li>' for s, n, _ in CAT.SERVICES if s in SVC)
     city_links = "".join(f'<li><a href="{CAT.city_path(k)}">{esc(n)}</a></li>' for k, n, *_ in CAT.CITIES if k in CITY)
     core_links = "".join(f'<li><a href="{p}">{esc(n)}</a></li>' for p, n in
                          [CAT.CORE_PAGES[k] for k in ("cost", "answers", "guides", "who", "quote", "county")])
+    core_links += '<li><a href="/es/" hreflang="es" lang="es">Español</a></li>'
+    return _foot_html(F, svc_links, city_links, core_links, "/")
+
+
+def _foot_html(F, svc_links, city_links, core_links, home):
     return f'''<footer class="foot"><div class="wrap">
-<div class="foot__top"><div class="foot__brand"><a class="logo logo--foot" href="/">{MARK_SVG}<span class="logo__words"><b>Miami</b> Bee Rescue</span></a>
+<div class="foot__top"><div class="foot__brand"><a class="logo logo--foot" href="{home}">{MARK_SVG}<span class="logo__words"><b>Miami</b> Bee Rescue</span></a>
 <p>{inline(F["about"])}</p><p class="foot__area">{icon("pin")}<span>{inline(F["area"])}</span></p>
-<p class="foot__contact"><a href="tel:{DIAL}" data-spot="footer">{PHONE}</a><a href="sms:{DIAL}" data-spot="footer">{esc(C["text"])}</a><a href="mailto:{EMAIL}">{EMAIL}</a></p></div>
+<p class="foot__contact"><a href="tel:{DIAL}" data-spot="footer">{PHONE}</a><a href="sms:{DIAL}" data-spot="footer">{esc(T()["text"])}</a><a href="mailto:{EMAIL}">{EMAIL}</a></p></div>
 <div class="foot__col"><p class="foot__h">{esc(F["h_removal"])}</p><ul>{svc_links}</ul></div>
 <div class="foot__col foot__col--wide"><p class="foot__h">{esc(F["h_places"])}</p><ul class="cols2">{city_links}</ul></div>
 <div class="foot__col"><p class="foot__h">{esc(F["h_company"])}</p><ul>{core_links}</ul></div></div>
 <p class="foot__fine">&copy; {TODAY.year} {BRAND}. {esc(F["fine"])}</p></div></footer>
-<nav class="dock" aria-label="{esc(C["dock_label"])}">
-<a class="dock__call" href="tel:{DIAL}" data-spot="dock">{icon("phone")}<span>{esc(C["call"])}</span></a>
-<a class="dock__text" href="sms:{DIAL}" data-spot="dock">{icon("chat")}<span>{esc(C["dock_text"])}</span></a>
-<a class="dock__quote" href="/request-removal/" data-spot="dock">{icon("form")}<span>{esc(C["dock_quote"])}</span></a></nav>
+<nav class="dock" aria-label="{esc(T()["dock_label"])}">
+<a class="dock__call" href="tel:{DIAL}" data-spot="dock">{icon("phone")}<span>{esc(T().get("dock_call", T()["call"]))}</span></a>
+<a class="dock__text" href="sms:{DIAL}" data-spot="dock">{icon("chat")}<span>{esc(T()["dock_text"])}</span></a>
+<a class="dock__quote" href="{quote_page()}" data-spot="dock">{icon("form")}<span>{esc(T()["dock_quote"])}</span></a></nav>
 <script src="{asset("main.js")}" defer></script>
 </body>
 </html>
@@ -797,6 +858,162 @@ def build_404():
     publish("/404.html", N["title"], N["desc"], main, noindex=True, filename="404.html")
 
 
+# ---------------------------------------------------------------- Spanish section (/es/)
+def spanish(fn):
+    """Run a builder with Spanish chrome, form text and links."""
+    def run(*a):
+        LANG["es"] = True
+        try:
+            fn(*a)
+        finally:
+            LANG["es"] = False
+    return run
+
+
+def es_service_schema(name, path, desc, area):
+    d = service_schema(name, path, desc, area)
+    d["inLanguage"] = "es"
+    return d
+
+
+@spanish
+def build_es_home():
+    H = CORE_ES["home"]
+    tiles = "".join(
+        f'<a class="tile tile--{t["tone"]}" href="{t["href"]}">{icon(t["icon"])}<span class="tile__h">{esc(t["head"])}</span>'
+        f'<span>{esc(t["text"])}</span><span class="tile__go">{esc(t["go"])} {icon("arrow", "i i--s")}</span></a>'
+        for t in H["triage"])
+    steps = "".join(f'<li><p class="step__h">{esc(h)}</p><p>{inline(t)}</p></li>' for h, t in H["steps"])
+    trust = "".join(f'<li>{icon(ic)}<span>{esc(t)}</span></li>' for ic, t in H["trust"])
+    svcs = "".join(f'<a class="card" href="{CAT.es_svc_path(sl)}"><span class="card__h">{esc(n)}</span>'
+                   f'<span>{esc(plain(ES_SVC[sl]["card"]))}</span></a>' for sl, n, _ in CAT.ES_SERVICES if sl in ES_SVC)
+    places = "".join(f'<a class="card card--place" href="{CAT.es_place_path(k)}"><span class="card__h">{esc(CAT.CITY_NAME[k])}</span>'
+                     f'<span class="card__kind">{esc(CE["kinds"][CAT.CITY_KIND[k]])}</span>'
+                     f'<span>{esc(plain(ES_ZONA[k]["card"]))}</span></a>' for k in CAT.ES_PLACES if k in ES_ZONA)
+    main = (
+        f'<section class="hero hero--home"><div class="wrap hero__grid"><div>'
+        f'<p class="kicker">{esc(H["kicker"])}</p><h1>{esc(H["h1"])}</h1><p class="lede">{inline(H["lede"])}</p>'
+        f'{btns("hero", "#request", "lg")}</div><ul class="trust">{trust}</ul></div></section>'
+        f'<div class="wrap">{quick_box(H["quick"])}</div>'
+        f'<section class="sect wrap"><h2>{esc(H["triage_h"])}</h2><p class="sub">{inline(H["triage_sub"])}</p><div class="tiles">{tiles}</div></section>'
+        f'<section class="sect sect--tint" id="servicios"><div class="wrap"><h2>{esc(H["svcs_h"])}</h2><p class="sub">{inline(H["svcs_sub"])}</p>'
+        f'<div class="cards">{svcs}</div></div></section>'
+        f'<section class="sect wrap"><h2>{esc(H["steps_h"])}</h2><ol class="steps">{steps}</ol></section>'
+        f'<section class="price"><div class="wrap price__in"><div><p class="kicker kicker--dark">{esc(H["price_kicker"])}</p>'
+        f'<h2>{esc(H["price_h"])}</h2>{prose(H["price"])}<a class="more" href="/es/precios/">{esc(H["price_more"])} {icon("arrow", "i i--s")}</a></div>'
+        f'<div class="price__figs"><p><b>$300–$400</b><span>{esc(H["fig_low"])}</span></p>'
+        f'<p><b>{esc(H["fig_high_b"])}</b><span>{esc(H["fig_high"])}</span></p></div></div></section>'
+        f'<section class="sect wrap" id="zonas"><h2>{esc(H["places_h"])}</h2><p class="sub">{inline(H["places_sub"])}</p><div class="cards">{places}</div></section>'
+        f'<div class="wrap">{faq_block(H["faqs"], H["faqs_h"])}</div>'
+        f'<div class="wrap">{leadform(H["form_h"])}</div>'
+    )
+    site_schema = {"@context": "https://schema.org", "@type": "WebSite", "name": BRAND, "url": SITE + "/es/",
+                   "inLanguage": "es", "publisher": {"@id": BUSINESS_ID}}
+    publish("/es/", H["title"], H["desc"], main,
+            [business_schema(), site_schema, faq_schema(H["faqs"]),
+             itemlist_schema(H["places_h"], [(CAT.es_place_path(k), CAT.CITY_NAME[k]) for k in CAT.ES_PLACES if k in ES_ZONA])],
+            priority="0.9")
+
+
+@spanish
+def build_es_service(slug):
+    d = ES_SVC[slug]
+    path = CAT.es_svc_path(slug)
+    name = CAT.ES_SVC_NAME[slug]
+    trail = [("/es/", CE["home_crumb"]), (path, name)]
+    seeing = "".join(f'<li>{icon("check")}<span>{inline(x)}</span></li>' for x in d["seeing"])
+    take = "".join(f'<li><p class="step__h">{inline(h)}</p><p>{inline(t)}</p></li>' for h, t in d["takeout"])
+    factors = "".join(f"<li>{inline(x)}</li>" for x in d["price_factors"])
+    local = "".join(f'<li><a href="{CAT.es_place_path(k)}">{esc(CAT.CITY_NAME[k])}</a><p>{inline(t)}</p></li>'
+                    for k, t in d["zonas"] if k in ES_ZONA)
+    rel = "".join(f'<a class="chip" href="{CAT.es_svc_path(x)}">{esc(CAT.ES_SVC_NAME[x])}</a>' for x in d["relacionados"] if x in ES_SVC)
+    main = (
+        hero(d["kicker"], d["h1"], d["lede"], trail)
+        + f'<div class="wrap"><div class="pair">{quick_box(d["quick"])}{alarm_box(d["alarm"])}</div>'
+        + f'<section class="sect"><h2>{inline(d["seeing_h"])}</h2><ul class="seeing">{seeing}</ul></section>'
+        + section(CE["behind_h"], d["behind"]) + "".join(section(h, t) for h, t in d["body"]) + "</div>"
+        + band(d["band"])
+        + f'<div class="wrap"><section class="sect"><h2>{inline(d["takeout_h"])}</h2><ol class="steps">{take}</ol></section>'
+        + section(CE["putback_h"], d["putback"])
+        + f'<section class="costbox"><h2>{esc(CE["cost_h"])}</h2>{prose(d["price"])}<ul class="ticks">{factors}</ul>'
+          f'<a class="more" href="/es/precios/">{esc(CE["cost_more"])} {icon("arrow", "i i--s")}</a></section>'
+        + f'<section class="sect"><h2>{inline(d["zonas_h"])}</h2><ul class="local">{local}</ul></section>'
+        + faq_block(d["faqs"], CE["faq_h"])
+        + f'<section class="sect"><h2>{esc(CE["related_h"])}</h2><div class="chips">{rel}</div></section>'
+        + f'<div class="closing"><p class="closing__h">{inline(d["close"][0])}</p><p>{inline(d["close"][1])}</p></div>'
+        + leadform() + "</div>"
+    )
+    publish(path, d["title"], d["desc"], main,
+            [crumbs_schema(trail), es_service_schema(name, path, d["desc"], county_area()), faq_schema(d["faqs"])],
+            priority="0.7")
+
+
+@spanish
+def build_es_place(key):
+    d = ES_ZONA[key]
+    name = CAT.CITY_NAME[key]
+    path = CAT.es_place_path(key)
+    trail = [("/es/", CE["home_crumb"]), (path, name)]
+    glance = "".join(f'<li><span class="glance__k">{inline(k)}</span><span class="glance__v">{inline(v)}</span></li>' for k, v in d["glance"])
+    spots = "".join(f'<div class="spot">{icon("bee")}<p class="spot__h">{inline(h)}</p><p>{inline(t)}</p></div>' for h, t in d["hotspots"])
+    streets = "".join(f'<li><p class="street__h">{inline(h)}</p><p>{inline(t)}</p></li>' for h, t in d["streets"])
+    visit = "".join(f'<li><p class="step__h">{inline(h)}</p><p>{inline(t)}</p></li>' for h, t in d["visit"])
+    svcs = "".join(f'<a class="card" href="{CAT.es_svc_path(sl)}"><span class="card__h">{esc(CAT.ES_SVC_NAME[sl])}</span>'
+                   f'<span>{esc(plain(t))}</span></a>' for sl, t in d["servicios"] if sl in ES_SVC)
+    near = "".join(f'<a class="chip" href="{CAT.es_place_path(k)}">{esc(CAT.CITY_NAME[k])}</a>' for k in d["cercanos"] if k in ES_ZONA)
+    main = (
+        hero(d["kicker"], d["h1"], d["lede"], trail)
+        + f'<div class="wrap"><div class="pair">{quick_box(d["quick"])}{alarm_box(d["alarm"])}</div>'
+        + f'<section class="glance" aria-label="{esc(CE["glance_label"])} {esc(name)}"><p class="label">{esc(CE["glance_label"])} {esc(name)}</p><ul>{glance}</ul></section>'
+        + f'<section class="sect">{prose(d["opening"])}</section>'
+        + f'<section class="sect"><h2>{inline(d["hotspots_h"])}</h2><div class="spots">{spots}</div></section></div>'
+        + band(d["band"])
+        + f'<div class="wrap"><section class="sect"><h2>{inline(d["streets_h"])}</h2><ul class="streets">{streets}</ul></section>'
+        + "".join(section(h, t) for h, t in d["body"])
+        + f'<section class="sect"><h2>{inline(d["visit_h"])}</h2><ol class="steps">{visit}</ol></section>'
+        + f'<section class="sect"><h2>{esc(CE["fits_h"])}</h2><div class="cards">{svcs}</div></section>'
+        + faq_block(d["faqs"], CE["faq_h"])
+        + f'<section class="sect"><h2>{esc(CE["near_h"])}</h2><div class="chips">{near}'
+          f'<a class="chip chip--all" href="/es/#zonas">{esc(CORE_ES["home"]["places_h"])}</a></div></section>'
+        + f'<div class="closing"><p class="closing__h">{inline(d["close"][0])}</p><p>{inline(d["close"][1])}</p></div>'
+        + leadform(place=name) + "</div>"
+    )
+    area = place_area(key)
+    publish(path, d["title"], d["desc"], main,
+            [crumbs_schema(trail), es_service_schema(f"Remoción de abejas en {name}", path, d["desc"], area), faq_schema(d["faqs"])],
+            priority="0.8")
+
+
+@spanish
+def build_es_precios():
+    P = CORE_ES["precios"]
+    trail = [("/es/", CE["home_crumb"]), ("/es/precios/", CAT.ES_CORE["precios"][1])]
+    tiers = "".join(f'<div class="tier"><p class="tier__fig">{esc(f)}</p><p class="tier__h">{esc(h)}</p>{prose(t)}</div>' for f, h, t in P["tiers"])
+    drivers = "".join(f'<li><p class="street__h">{esc(h)}</p><p>{inline(t)}</p></li>' for h, t in P["drivers"])
+    main = (hero(P["kicker"], P["h1"], P["lede"], trail) + f'<div class="wrap">{quick_box(P["quick"])}'
+            + f'<section class="sect"><h2>{esc(P["tiers_h"])}</h2><div class="tiers">{tiers}</div></section>'
+            + f'<section class="sect"><h2>{esc(P["drivers_h"])}</h2><ul class="streets">{drivers}</ul></section></div>'
+            + band(P["band"]) + '<div class="wrap">' + "".join(section(h, t) for h, t in P["body"])
+            + faq_block(P["faqs"], CE["faq_h"]) + leadform(P["form_h"]) + "</div>")
+    publish("/es/precios/", P["title"], P["desc"], main,
+            [crumbs_schema(trail), es_service_schema("Cotización y precios de remoción de abejas", "/es/precios/", P["desc"], county_area()),
+             faq_schema(P["faqs"])], priority="0.7")
+
+
+@spanish
+def build_es_solicitar():
+    Q = CORE_ES["solicitar"]
+    trail = [("/es/", CE["home_crumb"]), ("/es/solicitar/", CAT.ES_CORE["solicitar"][1])]
+    ways = "".join(f'<li>{icon(ic)}<div><p class="street__h">{esc(h)}</p><p>{inline(t)}</p></div></li>' for ic, h, t in Q["ways"])
+    main = (hero(Q["kicker"], Q["h1"], Q["lede"], trail) + f'<div class="wrap"><div class="pair">{quick_box(Q["quick"])}{alarm_box(Q["alarm"])}</div>'
+            + leadform(Q["form_h"])
+            + f'<section class="sect"><h2>{esc(Q["ways_h"])}</h2><ul class="commits">{ways}</ul></section>'
+            + "".join(section(h, t) for h, t in Q["body"]) + "</div>")
+    contact = {"@context": "https://schema.org", "@type": "ContactPage", "name": Q["h1"], "url": SITE + "/es/solicitar/",
+               "inLanguage": "es", "about": {"@id": BUSINESS_ID}}
+    publish("/es/solicitar/", Q["title"], Q["desc"], main, [crumbs_schema(trail), contact], priority="0.7")
+
+
 # ---------------------------------------------------------------- sitemap, robots, llms, manifest
 def build_meta_files():
     state_path = os.path.join(ROOT, ".lastmod.json")
@@ -831,6 +1048,11 @@ def build_meta_files():
     out += [f"- [{n}]({SITE}{CAT.city_path(k)}): {plain(CITY[k]['card'])}" for k, n, *_ in CAT.CITIES if k in CITY]
     out += ["", "## Field guide", ""]
     out += [f"- [{GUIDE[g]['h1']}]({SITE}{CAT.guide_path(g)}): {plain(GUIDE[g]['card'])}" for g, _ in CAT.GUIDES if g in GUIDE]
+    LE = CORE_ES["llms"]
+    out += ["", f"## {LE['heading']}", "", LE["intro"], ""]
+    out += [f"- [{n}]({SITE}{p})" for p, n, _ in CAT.ES_CORE.values()]
+    out += [f"- [{CAT.ES_SVC_NAME[x]}]({SITE}{CAT.es_svc_path(x)}): {plain(ES_SVC[x]['card'])}" for x, _, _ in CAT.ES_SERVICES if x in ES_SVC]
+    out += [f"- [{CAT.CITY_NAME[k]}]({SITE}{CAT.es_place_path(k)}): {plain(ES_ZONA[k]['card'])}" for k in CAT.ES_PLACES if k in ES_ZONA]
     out += ["", "## Other pages", ""]
     out += [f"- [{n}]({SITE}{p})" for p, n in CAT.CORE_PAGES.values()]
     with open(os.path.join(OUT, "llms.txt"), "w", encoding="utf-8") as fh:
@@ -867,10 +1089,20 @@ def main():
     build_answers()
     build_who()
     build_request()
+    build_es_home()
+    for x, _, _ in CAT.ES_SERVICES:
+        if x in ES_SVC:
+            build_es_service(x)
+    for k in CAT.ES_PLACES:
+        if k in ES_ZONA:
+            build_es_place(k)
+    build_es_precios()
+    build_es_solicitar()
     build_404()
     build_meta_files()
     missing = ([s for s, *_ in CAT.SERVICES if s not in SVC] + [k for k, *_ in CAT.CITIES if k not in CITY]
-               + [g for g, _ in CAT.GUIDES if g not in GUIDE] + ([] if COUNTY else ["county"]))
+               + [g for g, _ in CAT.GUIDES if g not in GUIDE] + ([] if COUNTY else ["county"])
+               + ["es/" + x for x, _, _ in CAT.ES_SERVICES if x not in ES_SVC] + ["es/" + k for k in CAT.ES_PLACES if k not in ES_ZONA])
     print(f"{len(SITEMAP)} indexed pages + 404 written to public/")
     if missing:
         print(f"{len(missing)} module(s) not written yet: {', '.join(missing)}")

@@ -163,4 +163,68 @@ def resolve(kind, ref):
         return guide_path(ref), GUIDE_NAME[ref]
     if kind == "page":
         return CORE_PAGES[ref]
+    if kind == "es":
+        return es_resolve(ref)
     raise KeyError(kind)
+
+
+# ---------------------------------------------------------------- Spanish section (/es/)
+# Written fresh in Spanish, not translated. Each page names the English page
+# that covers the same topic, for hreflang. Spanish copy links only to other
+# Spanish pages, with tokens like [[es:svc-enjambres|enjambres]].
+#
+#   /es/                         inicio
+#   /es/servicios/<slug>/        removal pages
+#   /es/zonas/<key>/             place pages (same keys as CITIES)
+#   /es/precios/  /es/solicitar/
+
+# (slug, label, English service slug)
+ES_SERVICES = [
+    ("emergencias",          "Emergencias con abejas 24 horas",  "emergency"),
+    ("enjambres",            "Enjambres de abejas",              "swarms"),
+    ("abejas-en-paredes",    "Abejas dentro de paredes",         "walls"),
+    ("abejas-en-techos",     "Abejas en techos y tejas",         "roofs"),
+    ("panales-y-colmenas",   "Quitar panales y colmenas",        "beehives"),
+    ("remocion-sin-matarlas", "Remoción de abejas sin matarlas", "live-honey-bees"),
+    ("contador-de-agua",     "Abejas en el contador de agua",    "utility-boxes"),
+]
+
+# place keys (must exist in CITIES)
+ES_PLACES = ["miami", "hialeah", "hialeah-gardens", "doral", "kendall", "west-kendall", "westchester", "homestead"]
+
+# id -> (path, label, English path for hreflang)
+ES_CORE = {
+    "inicio":    ("/es/",           "Inicio",            "/"),
+    "precios":   ("/es/precios/",   "Precios",           "/cost/"),
+    "solicitar": ("/es/solicitar/", "Solicitar servicio", "/request-removal/"),
+}
+
+ES_SVC_NAME = {s: n for s, n, _ in ES_SERVICES}
+ES_SVC_EN = {s: e for s, _, e in ES_SERVICES}
+
+
+def es_svc_path(slug):
+    return f"/es/servicios/{slug}/"
+
+
+def es_place_path(key):
+    return f"/es/zonas/{key}/"
+
+
+def es_resolve(ref):
+    """[[es:<ref>|label]] where ref is inicio | precios | solicitar | svc-<slug> | zona-<key>."""
+    if ref in ES_CORE:
+        return ES_CORE[ref][:2]
+    if ref.startswith("svc-") and ref[4:] in ES_SVC_NAME:
+        return es_svc_path(ref[4:]), ES_SVC_NAME[ref[4:]]
+    if ref.startswith("zona-") and ref[5:] in ES_PLACES:
+        return es_place_path(ref[5:]), CITY_NAME[ref[5:]]
+    raise KeyError(ref)
+
+
+def hreflang_pairs():
+    """English path -> Spanish path for every page that has both."""
+    pairs = {en: path for path, _, en in ES_CORE.values()}
+    pairs.update({svc_path(e): es_svc_path(s) for s, _, e in ES_SERVICES})
+    pairs.update({city_path(k): es_place_path(k) for k in ES_PLACES})
+    return pairs

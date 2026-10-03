@@ -58,13 +58,15 @@ p { margin: 0 0 1em; }
 .masthead { background: var(--paper); border-bottom: 3px solid var(--ink); position: sticky; top: 0; z-index: 30; }
 .masthead__in { display: flex; align-items: center; gap: 18px; min-height: 66px; }
 .logo { display: inline-flex; align-items: center; gap: 10px; text-decoration: none; color: var(--ink); margin-right: auto; }
-.logo .mark { width: 42px; height: 42px; }
+.logo .mark { width: 42px; height: 42px; flex: none; }
 .logo__words { font-size: 1.12rem; font-weight: 600; letter-spacing: -.01em; white-space: nowrap; }
 .logo__words b { font-weight: 900; text-transform: uppercase; letter-spacing: .06em; }
 .menu { display: flex; gap: 4px; align-items: center; }
 .menu a { padding: 8px 10px; font-weight: 650; font-size: .95rem; text-decoration: none; border-bottom: 3px solid transparent; }
 .menu a:hover { border-bottom-color: var(--gold); }
 .menu .menu__quote { display: none; }
+.menu .langswitch { margin-left: 6px; border: 2px solid var(--ink); padding: 5px 9px; font-size: .85rem; font-weight: 800; }
+.menu .langswitch:hover { background: var(--gold); border-bottom-color: var(--ink); }
 .menubtn { display: none; width: 46px; height: 42px; border: 2px solid var(--ink); background: var(--paper); padding: 9px; cursor: pointer; flex-direction: column; justify-content: space-between; }
 .menubtn span { display: block; height: 3px; background: var(--ink); }
 .show-s { display: none; }
@@ -341,6 +343,7 @@ ul.ticks li::before { content: ""; position: absolute; left: 0; top: .5em; width
   body { font-size: 16.5px; padding-bottom: 66px; }
   .topline p span { display: none; }
   .topline p::after { content: "Open 24/7"; font-weight: 700; }
+  html[lang^="es"] .topline p::after { content: "Abierto 24/7"; }
   .masthead__in { min-height: 58px; gap: 10px; }
   .logo .mark { width: 36px; height: 36px; }
   .logo__words { font-size: 1rem; }
@@ -354,6 +357,7 @@ ul.ticks li::before { content: ""; position: absolute; left: 0; top: .5em; width
   .acts { gap: 10px; margin-top: 12px; }
   .hero .acts .btn { flex: 1 1 calc(50% - 10px); min-height: 48px; padding: 10px 12px; font-size: .98rem; }
   .hero .acts .btn--call { flex-basis: 100%; }
+  html[lang^="es"] .hero .acts .btn { font-size: .92rem; padding: 10px 8px; }
   .band .acts { width: 100%; }
   .band .acts .btn { flex: 1 1 100%; }
   .tiles, .props, .regions, .row2 { grid-template-columns: 1fr; }
@@ -368,6 +372,12 @@ ul.ticks li::before { content: ""; position: absolute; left: 0; top: .5em; width
   .dock__call { background: var(--gold); color: var(--ink); }
   .dock__text { background: var(--paper); color: var(--ink); border-left: 3px solid var(--ink); border-right: 3px solid var(--ink); }
   .dock__quote { background: var(--ink); color: var(--gold); }
+}
+@media (max-width: 400px) {
+  .masthead__in { gap: 8px; }
+  .btn--head { padding: 6px 11px; }
+  .btn--head .show-s { display: none; }
+  .logo__words { font-size: .95rem; }
 }
 @media (prefers-reduced-motion: reduce) {
   * { transition: none !important; scroll-behavior: auto !important; }

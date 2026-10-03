@@ -88,6 +88,23 @@ Mobile crews only; there is no shop to visit. Crews travel to homes, condos, HOA
 - [What a thermal camera shows about a bee hive in a Miami wall](https://miamibeerescue.com/field-guide/thermal-imaging/): How a thermal scan locates a colony by its nursery heat, why afternoon sun on stucco hides it, and what the screen will never tell you.
 - [The Miami-Dade wall or box bees keep returning to](https://miamibeerescue.com/field-guide/why-bees-come-back/): Why a sealed-over or sprayed hive spot draws the next swarm, and what actually stops bees from moving back into the same wall or box.
 
+## Sección /es/
+
+Páginas escritas directamente para lectores hispanohablantes que buscan remoción de abejas en Miami-Dade.
+
+- [Inicio](https://miamibeerescue.com/es/)
+- [Precios](https://miamibeerescue.com/es/precios/)
+- [Solicitar servicio](https://miamibeerescue.com/es/solicitar/)
+- [Enjambres de abejas](https://miamibeerescue.com/es/servicios/enjambres/): Racimos de abejas en ramas, cercas, balcones o carros: cuándo dejarlos ir y cuándo recogerlos vivos antes de que se metan en la casa.
+- [Miami](https://miamibeerescue.com/es/zonas/miami/): Ciudad de Miami: casas de madera antiguas, torres y almacenes junto al río. Abejas fuera con vida, colonia localizada con cámara térmica y arreglos hechos por nuestra gente.
+- [Hialeah](https://miamibeerescue.com/es/zonas/hialeah/): Hialeah: abejas en contadores de agua, muros de bloque calado y aleros de casas de posguerra. Remoción en vivo, reparación con contratistas propios y respuesta garantizada en 24 horas.
+- [Hialeah Gardens](https://miamibeerescue.com/es/zonas/hialeah-gardens/): Hialeah Gardens: casas de un piso, almacenes del noroeste y la orilla del Canal de Miami. Las abejas salen vivas, la entrada se sella y la reparación la hacen contratistas propios.
+- [Doral](https://miamibeerescue.com/es/zonas/doral/): Doral: almacenes, showrooms y urbanizaciones con asociación. Abejas vivas fuera de puertas enrollables, tejas y contadores de agua, con reparación de contratistas propios.
+- [Kendall](https://miamibeerescue.com/es/zonas/kendall/): De Dadeland a Killian y Snapper Creek: colonias sacadas con vida de aleros, sofitos y cajas de contador, y el hueco cerrado y reparado.
+- [West Kendall](https://miamibeerescue.com/es/zonas/west-kendall/): Del Turnpike a Krome Avenue: bloque reconstruido, townhouses de pared compartida y medidores en la grama. Colonias vivas ubicadas con cámara térmica y huecos que quedan reparados.
+- [Westchester](https://miamibeerescue.com/es/zonas/westchester/): Westchester, entre Tamiami Trail y Bird Road: casas de posguerra con aleros y tejas que dejan pasar colonias, abejas reubicadas vivas y arreglos hechos por nuestra gente.
+- [Homestead](https://miamibeerescue.com/es/zonas/homestead/): Homestead, entre los huertos de Redland y las casas reconstruidas tras Andrew: enjambres en frutales, colonias en muros de roca coralina, contadores de agua y aleros.
+
 ## Other pages
 
 - [Home](https://miamibeerescue.com/)

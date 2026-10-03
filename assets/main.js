@@ -7,6 +7,34 @@
   var API = "/api/leads";
   var SPARE_API = "https://api.web3forms.com/submit";
   var TRAPS = ["company_url", "not_human"];
+  var ES = (document.documentElement.lang || "").toLowerCase().indexOf("es") === 0;
+  var TXT = ES ? {
+    missing: "Escriba su nombre, un teléfono y la ciudad o el barrio donde están las abejas.",
+    sending: "Enviando…",
+    okHead: function (n) { return n ? "Recibido, " + n + "." : "Recibido."; },
+    okBody: "Su solicitud ya nos llegó. Le devolveremos la llamada desde el " + PHONE.label +
+      ", así que conteste si ve ese número. Si las abejas están cerca de personas en este momento, mejor llame ya.",
+    failHead: "No se pudo enviar.",
+    failBody: function (link) {
+      return "Algo de nuestro lado bloqueó el formulario, pero no se perdió nada de lo que escribió. Comuníquese con nosotros " +
+        'tocando Llamar, Foto por texto o <a href="' + link + '">abra un correo ya preparado para ' + INBOX + "</a>.";
+    },
+    photo: "Una foto clara del hueco por donde entran y salen las abejas nos ayuda a planificar la visita.",
+    call: "Llamar al ", text: "Foto por texto", mailSubject: "Solicitud de remoción de abejas: "
+  } : {
+    missing: "Please fill in your name, a phone number, and the city or neighborhood where the bees are.",
+    sending: "Sending…",
+    okHead: function (n) { return n ? "Got it, " + n + "." : "Got it."; },
+    okBody: "Your request is in. When we call back, it will be from " + PHONE.label +
+      ", so please pick up if you see that number. If the bees are near people right now, call instead of waiting.",
+    failHead: "That didn't send.",
+    failBody: function (link) {
+      return "Something on our side blocked the form, and nothing you typed was lost. Reach us one of these ways: tap Call, " +
+        'tap Text a Photo, or <a href="' + link + '">open a pre-filled email to ' + INBOX + "</a>.";
+    },
+    photo: "A clear photo of where the bees go in and out helps us plan the visit.",
+    call: "Call ", text: "Text a Photo", mailSubject: "Bee removal request from "
+  };
 
   function track(name, params) {
     if (typeof window.gtag === "function") window.gtag("event", name, params || {});
@@ -82,31 +110,23 @@
       "How urgent: " + (data.urgency || "-"),
       "Notes: " + (data.notes || "-")
     ].join("\n");
-    return "mailto:" + INBOX + "?subject=" + encodeURIComponent("Bee removal request from " + data.name) +
+    return "mailto:" + INBOX + "?subject=" + encodeURIComponent(TXT.mailSubject + data.name) +
       "&body=" + encodeURIComponent(body);
   }
 
   function showResult(form, data, ok) {
     var wrap = form.closest("[data-leadbox]") || form.parentNode;
     var first = safe((data.name || "").split(/\s+/)[0]);
-    var head, para;
-    if (ok) {
-      head = first ? "Got it, " + first + "." : "Got it.";
-      para = "Your request is in. When we call back, it will be from " + PHONE.label +
-        ", so please pick up if you see that number. If the bees are near people right now, call instead of waiting.";
-    } else {
-      head = "That didn't send.";
-      para = "Something on our side blocked the form, and nothing you typed was lost. Reach us one of these ways: tap Call, " +
-        'tap Text a Photo, or <a href="' + mailLink(data) + '">open a pre-filled email to ' + INBOX + "</a>.";
-    }
+    var head = ok ? TXT.okHead(first) : TXT.failHead;
+    var para = ok ? TXT.okBody : TXT.failBody(mailLink(data));
     wrap.innerHTML =
       '<div class="sent" role="status" tabindex="-1">' +
       "<p class=\"sent__head\">" + head + "</p>" +
       "<p>" + para + "</p>" +
-      "<p>A clear photo of where the bees go in and out helps us plan the visit.</p>" +
+      "<p>" + TXT.photo + "</p>" +
       '<div class="sent__acts">' +
-      '<a class="btn btn--call" data-spot="form-result" href="tel:' + PHONE.dial + '">Call ' + PHONE.label + "</a>" +
-      '<a class="btn btn--text" data-spot="form-result" href="sms:' + PHONE.dial + '">Text a Photo</a>' +
+      '<a class="btn btn--call" data-spot="form-result" href="tel:' + PHONE.dial + '">' + TXT.call + PHONE.label + "</a>" +
+      '<a class="btn btn--text" data-spot="form-result" href="sms:' + PHONE.dial + '">' + TXT.text + "</a>" +
       "</div></div>";
     var box = wrap.querySelector(".sent");
     if (box) {
@@ -124,13 +144,13 @@
     if (!data.name || !data.phone || !data.location) {
       if (note) {
         note.hidden = false;
-        note.textContent = "Please fill in your name, a phone number, and the city or neighborhood where the bees are.";
+        note.textContent = TXT.missing;
       }
       return;
     }
     if (note) note.hidden = true;
     var btn = form.querySelector("button[type=submit]");
-    if (btn) { btn.disabled = true; btn.textContent = "Sending…"; }
+    if (btn) { btn.disabled = true; btn.textContent = TXT.sending; }
 
     fetch(API, {
       method: "POST",
