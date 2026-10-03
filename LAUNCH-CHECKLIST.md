@@ -107,7 +107,25 @@ are drawn from shapes by `tools/brand_images.py`.
       a face or a car plate.
 - [ ] Add the best ones to the Google Business Profile as they come in.
 
-## 8. Final checks after go-live
+## 8. Spanish section (/es/)
+
+The site has 18 Spanish pages under `/es/`: a Spanish home page, prices,
+the request form, 7 service pages and 8 place pages (Miami, Hialeah,
+Hialeah Gardens, Doral, Kendall, West Kendall, Westchester, Homestead).
+They were written directly in Spanish, not translated, and each one that
+has an English counterpart is linked to it with `hreflang`.
+
+- [ ] Decide whether someone can take calls and texts in Spanish. The pages
+      deliberately make **no** language claim (no "se habla español"). If the
+      answer is yes, ask for a line to be added to the Spanish pages and the
+      Google Business Profile.
+- [ ] Leads sent from a Spanish page arrive with "Form language: Spanish" in
+      the email, so you can call back accordingly. The subject line is the
+      same as for English leads.
+- [ ] In Search Console, use URL Inspection on `/es/` and one Spanish place page
+      and request indexing. The sitemap already lists every Spanish page.
+
+## 9. Final checks after go-live
 
 - [ ] Open the site on a phone. The Call / Text / Quote bar sits at the
       bottom of every page; tap each one.

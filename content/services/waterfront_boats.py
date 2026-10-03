@@ -70,7 +70,7 @@ SERVICE = {
         ("Can you take bees out of a boat that is sitting up on a lift?",
          "Yes. We decide on site whether the boat stays raised or comes down, based on where the comb is and how we can stand safely. Please do not run the lift motor if bees are in its housing; vibration and heat agitate them. We work from the dock or the deck, never from a ladder over open water."),
         ("The marina office asks for an insurance certificate from any vendor. Can you send one?",
-         "Yes. Coverage is in place for this work, licensed and insured, and a certificate of insurance goes to a marina, an HOA or a condo association on request. Give us the office's details when you book so the paperwork is there before the visit, not held up at the gate."),
+         "Pass along the dockmaster's or office's contact details when you book, and the certificate goes to them ahead of the visit, so nobody is turned back at the gate. We are licensed and insured for this work, and marinas, HOAs and condo associations can all request that paperwork."),
         ("Can you just spray them so I can take the boat out this weekend?",
          "We only do live removal, so the colony ends up in a beekeeper's box, alive. Spraying also leaves the comb behind, and honey melting inside a closed console makes a mess that draws ants and a fresh swarm. Taking the comb out is what gets the boat usable again."),
         ("I'm away for the summer. How would anyone spot bees in my boat?",
