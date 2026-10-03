@@ -3,9 +3,9 @@
 
 ZONA = {
     "key": "west-kendall",
-    "title": "Remoción de abejas en West Kendall, Miami-Dade",
+    "title": "West Kendall: abejas en adosados, bloque y cajas de agua",
     "desc": "Remoción de abejas en West Kendall: colonias vivas para apicultores, cámara térmica, reparación con contratistas propios y cotización gratis.",
-    "h1": "Remoción de abejas en West Kendall",
+    "h1": "Remoción de abejas en West Kendall, entre el Turnpike y Krome",
     "kicker": "Del Turnpike hasta Krome Avenue",
     "lede": "West Kendall no aparece en ningún mapa oficial, pero sus urbanizaciones con lagos, sus townhouses y sus calles arboladas reúnen lo que una colonia de abejas busca: huecos secos, sombra y agua cerca.",
     "quick": "Bloque de concreto hueco, townhouses de pared compartida y tapas de medidor sobre el césped: entre el Turnpike y Krome Avenue sobran cavidades secas para una colonia. Si una rendija tiene tráfico continuo de abejas, deje el sitio tranquilo, aleje a niños y mascotas y no use aerosol. La línea se atiende a medianoche igual que al mediodía, con respuesta garantizada dentro de 24 horas. La colonia sale viva hacia un apicultor, el hueco se sella y la cotización es gratis.",
@@ -33,7 +33,7 @@ ZONA = {
     "hotspots": [
         ("Paredes de concreto tras Andrew",
          "Tras el huracán Andrew, en agosto de 1992, las casas de Country Walk se reconstruyeron con paredes de concreto en "
-         "lugar de estructura de madera. Una pared de bloque de concreto es firme, pero las celdas del bloque hueco forman cámaras secas y "
+         "lugar de estructura de madera. Una pared de concreto es firme, pero si es de bloque hueco, sus celdas forman cámaras secas y "
          "oscuras donde una colonia crece sin que se note desde afuera hasta que el panal ya es grande."),
         ("Muros compartidos de townhouses",
          "En The Crossings y en otros conjuntos de townhouses, varias viviendas comparten paredes y techos. "
@@ -95,16 +95,16 @@ ZONA = {
          "del club, la administración normalmente pide prueba de seguro. Trabajamos asegurados y con licencia; "
          "la constancia del seguro, el COI que piden las juntas, sale emitida a nombre de quien la requiera, "
          "sea la asociación, el condominio o un local comercial.\n\n"
-         "También coordinamos el acceso con la garita y con el administrador. Si la colonia está dentro de una "
+         "También coordinamos el acceso con la garita, cuando la hay, y con el administrador. Si la colonia está dentro de una "
          "pared que da a dos unidades, explicamos a ambos dueños qué se va a abrir y cómo queda cerrado. Si la junta "
          "directiva lo quiere para su archivo, le mandamos a pedido las fotos del trabajo y la factura línea "
-         "por línea. El bloque, el estuco, la teja y la pintura los rehacen contratistas que trabajan para "
-         "nosotros, todos con su licencia, así que el hueco no se queda esperando a que aparezca otro oficio. Más sobre "
+         "por línea. El bloque, el estuco, la teja y la pintura los rehacen contratistas de nuestro "
+         "propio equipo, todos con su licencia, así que el hueco no se queda esperando a que aparezca otro oficio. Más sobre "
          "colmenas dentro de muros en [[es:svc-abejas-en-paredes|abejas dentro de paredes]]."),
         ("Abejas africanizadas: por qué no conviene improvisar",
          "Según la extensión de la Universidad de Florida, las abejas africanizadas ya están en el estado. "
          "Cuidan una zona más extensa en torno a la colmena, se alteran con menos provocación y nadie puede "
-         "separarlas de las europeas solo con mirarlas. En un barrio de casas pegadas y patios pequeños, una podadora, una "
+         "separarlas de las europeas solo con mirarlas. En un patio pequeño o junto a una pared compartida, una podadora, una "
          "manguera o un niño jugando junto al [[es:svc-contador-de-agua|contador de agua]] pueden provocar una "
          "defensa fuerte.\n\n"
          "Por eso pedimos que nadie rocíe insecticida ni tape la entrada: la colonia se agita, busca otra "

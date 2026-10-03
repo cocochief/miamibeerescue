@@ -3,9 +3,9 @@
 
 ZONA = {
     "key": "westchester",
-    "title": "Remoción de abejas en Westchester, Miami-Dade",
+    "title": "Abejas en Westchester: aleros y casas de los años 50",
     "desc": "Westchester tiene casas de posguerra con aleros gastados que atraen colonias. Las abejas salen vivas hacia un apicultor y nuestros contratistas reparan.",
-    "h1": "Remoción de abejas en Westchester",
+    "h1": "Westchester: colonias de abejas fuera del alero, vivas",
     "kicker": "Entre Tamiami Trail y Bird Road",
     "lede": "Westchester creció a partir de 1955, y muchas de aquellas casas ya acumulan aleros resecos, rejillas flojas y tejas movidas. Por esas rendijas entra un enjambre; nosotros lo sacamos vivo y cerramos el paso.",
     "quick": "La subdivisión de 1955 que bautizó a Westchester y las urbanizaciones de los sesenta ya pasan del medio siglo: un alero reseco o una tapa de contador en el césped le bastan a una colonia. Para quitarla sin matarla, la localizamos con cámara térmica, sacamos todo el panal y entregamos las abejas a un apicultor. A nivel del suelo, cuente con unos $300–$400; abrir pared o techo y dejarlos reparados eleva la cifra hasta miles de dólares. La línea no cierra ni los domingos de madrugada, y nos comprometemos a darle respuesta antes de que pasen 24 horas.",
@@ -21,7 +21,7 @@ ZONA = {
     "hotspots_h": "Los rincones de Westchester que una colonia elige",
     "hotspots": [
         ("Aleros y rejillas del ático", "En casas de los años cincuenta y sesenta, la madera del alero se reseca y se abre en las uniones. Una rendija del ancho de un lápiz es suficiente para que un enjambre entero se instale en el ático y empiece a construir panal."),
-        ("Tapas de servicio en el césped", "Las tapas enterradas en el césped del frente forman una cavidad oscura y fresca que a las abejas les encanta. Quien levanta la tapa sin saberlo recibe una defensa inmediata, así que es preferible no tocarla y avisarnos."),
+        ("Tapas de servicio en el césped", "Las tapas enterradas en el césped del frente forman una cavidad oscura y fresca que a las abejas les encanta. Quien levanta la tapa sin saberlo puede recibir una defensa inmediata, así que es preferible no tocarla y avisarnos."),
         ("Árboles maduros del patio", "Los árboles que crecieron junto con el barrio desarrollan ramas huecas y cavidades en el tronco. Dentro de un hueco así, una colmena puede crecer durante mucho tiempo antes de que alguien en la casa se dé cuenta."),
         ("Locales comerciales de Bird Road", "Bird Road atraviesa Westchester como avenida comercial de seis carriles. Letreros huecos, techos planos con equipos de aire acondicionado y cajas eléctricas exteriores atraen colonias, y el dueño necesita resolverlo sin cerrar el negocio ni asustar a la clientela."),
         ("Cerca de parques y lagos", "Tropical Park tiene cuatro lagos y un centro ecuestre, y Tamiami Park ocupa parte del antiguo aeropuerto. Las abejas necesitan agua todos los días, y las casas cercanas a estos espacios quedan dentro de su radio de búsqueda."),
@@ -31,7 +31,7 @@ ZONA = {
     "streets": [
         ("Miracle Manor y Mirador", "Forman parte de la ola de urbanizaciones que siguió a la de 1955. En viviendas de esa época revisamos con calma la línea del techo, los aleros y las rejillas, que es donde la madera vieja deja pasar a las exploradoras."),
         ("Westchester Park y Town Park", "Subdivisiones de los años sesenta. Además de las paredes, en un patio conviene mirar troncos huecos, casetas de herramientas y las cajas de servicio ocultas entre las plantas."),
-        ("Coral Park", "Aquí están Miami Coral Park High School, Coral Park Elementary y la Coral Park Baptist Church. Cerca de escuelas e iglesias una colonia activa preocupa más, y es lógico que la dirección quiera tener nuestro certificado de seguro (COI) en sus manos antes de dar luz verde."),
+        ("Coral Park", "En Westchester están Miami Coral Park High School, Coral Park Elementary y la Coral Park Baptist Church. Cerca de escuelas e iglesias una colonia activa preocupa más, y es lógico que la dirección quiera tener nuestro certificado de seguro (COI) en sus manos antes de dar luz verde."),
         ("University Park", "Antes era un CDP aparte; hoy ocupa la mitad oeste de Westchester, y FIU queda en su parte noroeste. Donde a diario pasan tantas personas, un enjambre en un árbol junto a la acera merece atención rápida."),
         ("Corredor de la SW 16 Street", "En la esquina con la 87 Avenue se estableció el templo Or Olom, en un edificio moderno de mediados de siglo que hoy se conoce como la iglesia de la ballena. Un techo de diseño poco común tiene recovecos y uniones que una colonia puede aprovechar."),
     ],
@@ -57,7 +57,7 @@ ZONA = {
     ],
     "servicios": [
         ("abejas-en-techos", "Las tejas y aleros de las casas de los años cincuenta y sesenta de Westchester son el punto de entrada más típico para una colonia en el ático."),
-        ("contador-de-agua", "Las tapas de contadores y cajas de válvulas en el césped del frente esconden colonias que atacan al primero que las levanta."),
+        ("contador-de-agua", "Las tapas de contadores y cajas de válvulas en el césped del frente pueden esconder colonias que atacan a quien las levante."),
         ("abejas-en-paredes", "Paredes de viviendas y locales de Bird Road donde la colmena crece oculta y hay que abrir con precisión guiados por la cámara térmica."),
         ("enjambres", "Racimos de abejas en árboles maduros del patio o en cercas, que conviene recoger vivos antes de que se muden a la casa."),
         ("emergencias", "Un abuelo picado en el portal o un racimo que bloquea el garaje no espera turno: la línea contesta de madrugada y esos casos encabezan la lista."),

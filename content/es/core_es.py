@@ -83,10 +83,10 @@ CORE_ES = {
         "h1": "Remoción de abejas en Miami-Dade",
         "lede": ("¿Un ir y venir de abejas por una grieta del estuco, debajo de una teja o dentro de la caja del "
                  "contador? Llame, mande una foto por texto o pida su cotización gratis."),
-        "trust": [("clock", "Contestamos 24/7 y respondemos en menos de 24 horas"),
+        "trust": [("clock", "Contestamos 24/7 y garantizamos respuesta en 24 horas"),
                   ("bee", "Las abejas van vivas a un apicultor"),
                   ("shield", "Con licencia y seguro; certificados de seguro a pedido"),
-                  ("home", "Nuestros propios técnicos reparan lo que se abre")],
+                  ("home", "Nuestros contratistas con licencia reparan lo que se abre")],
         "quick": ("Una colonia que ya construyó panal dentro de una pared o un techo no se va sola, y si se fumiga, "
                   "el panal y la miel se quedan adentro pudriéndose. Lo correcto es abrir lo justo, sacar las "
                   "abejas con todo su panal, entregarlas a un apicultor y cerrar la entrada. Cuando la colonia "
@@ -100,7 +100,7 @@ CORE_ES = {
              "go": "Qué hacer ya"},
             {"tone": "gold", "href": "/es/servicios/enjambres/", "icon": "bee",
              "head": "Hay una bola de abejas colgando de una rama",
-             "text": "Sin panal a la vista, en una cerca, un buzón o el espejo del carro. Es un enjambre de paso.",
+             "text": "Sin panal a la vista, en una cerca, un buzón o el espejo del carro. Lo más probable es que sea un enjambre de paso.",
              "go": "Sobre enjambres"},
             {"tone": "ink", "href": "/es/servicios/abejas-en-paredes/", "icon": "home",
              "head": "Entran y salen por un mismo hueco de la casa",
@@ -115,7 +115,7 @@ CORE_ES = {
         "steps": [
             ("Usted nos contacta", "Llame o escriba a cualquier hora. Ayuda mucho saber desde cuándo ve las abejas y tener una foto del hueco por donde entran."),
             ("Revisamos antes de abrir", "Con una cámara térmica ubicamos el panal detrás del estuco o de las tejas, así la abertura es pequeña y precisa."),
-            ("La colonia sale con vida", "Sacamos a mano las abejas, las crías y el panal, y los acomodamos en una caja. No rociamos veneno en el hueco."),
+            ("La colonia sale con vida", "Sacamos las abejas, la cría y el panal, y los acomodamos en una caja. No rociamos veneno en el hueco."),
             ("Limpiamos y sellamos", "Raspamos la cera y la miel que quedan para que nada fermente ni atraiga otro enjambre, y cerramos la entrada."),
             ("Reparación, si la desea", "Nuestros contratistas, techadores y pintores con licencia reponen el estuco, las tejas y la pintura."),
         ],
@@ -123,7 +123,7 @@ CORE_ES = {
         "price_h": "Lo que suele costar",
         "price": ("Si las abejas están a nivel del suelo y cerca de la superficie, el trabajo ronda los $300 a $400. "
                   "Cuando el panal está en lo alto de un techo, dentro de un cielo raso o repartido en varias "
-                  "cavidades, hace falta más tiempo y más reparación, y el total puede llegar a miles de dólares. "
+                  "cavidades, hace falta más tiempo y más reparación, y el total puede sumar miles de dólares. "
                   "La cotización no cuesta nada y se la damos antes de abrir.\n\n"
                   "Las emergencias de noche o en fin de semana cuestan más que una visita entre semana. Si lo "
                   "necesita para sus archivos, le mandamos fotos del trabajo y una factura detallada."),
@@ -134,7 +134,7 @@ CORE_ES = {
         "svcs_h": "Servicios",
         "svcs_sub": "Cada página explica cómo se resuelve ese caso en las casas y edificios de aquí.",
         "places_h": "Zonas",
-        "places_sub": ("Estas zonas tienen su propia página aquí. Cubrimos todo Miami-Dade; las demás ciudades "
+        "places_sub": ("Estas zonas tienen su propia página aquí. Cubrimos todo Miami-Dade; las demás zonas "
                        "aparecen en el sitio en inglés."),
         "faqs_h": "Antes de llamar",
         "faqs": [
@@ -143,11 +143,11 @@ CORE_ES = {
              "exploradoras eligen un lugar. Pero si ya están construyendo panal dentro de una pared o un techo, "
              "se quedan y la colonia sigue creciendo hasta que alguien la saque."),
             ("¿Puedo echarles insecticida y ya?",
-             "El insecticida mata las abejas que se ven, pero deja dentro el panal, la miel y las crías muertas. "
+             "El insecticida mata las abejas que se ven, pero deja dentro el panal, la miel y la cría muerta. "
              "Todo eso fermenta, mancha, atrae cucarachas y hormigas, y el olor invita a otro enjambre. Sacando "
              "la colonia viva se va todo de una vez."),
             ("¿Ustedes matan las abejas?",
-             "No. No ofrecemos exterminio. Las abejas, las crías y el panal salen juntos en una caja y terminan "
+             "No. No ofrecemos exterminio. Las abejas, la cría y el panal salen juntos en una caja y terminan "
              "en el apiario de un apicultor."),
             ("¿Tengo que estar en la casa?",
              "Depende. Para un enjambre en el patio o una caja en el césped, a veces basta con el código del "
@@ -159,7 +159,7 @@ CORE_ES = {
 
     # ------------------------------------------------------------ precios
     "precios": {
-        "title": "Precios de remoción de abejas en Miami-Dade",
+        "title": "Cuánto cuesta sacar un panal en Miami-Dade",
         "desc": ("Cuánto cuesta sacar abejas en Miami-Dade: unos $300 a $400 a nivel del suelo y más cuando hay "
                  "altura o reparación. Cotización gratis antes de empezar."),
         "kicker": "Precios",
@@ -216,21 +216,21 @@ CORE_ES = {
             ("¿El precio incluye cerrar el hueco?",
              "Sí. Sellar la entrada que usaban las abejas es parte de cada remoción, porque un hueco abierto "
              "invita a la próxima colonia. Reponer el acabado, como la textura del estuco, las tejas o la "
-             "pintura, se cotiza aparte."),
+             "pintura, es parte de la reparación y suma según lo que haya que rehacer."),
             ("¿Y si las abejas vuelven después de pagar?",
              "Si regresan a un punto que nosotros sellamos, volvemos a atenderlo. Así funciona la garantía de "
-             "nuestro trabajo, sin letra pequeña sobre plazos."),
+             "nuestro trabajo."),
         ],
         "form_h": "Pida su cotización gratis",
     },
 
     # ------------------------------------------------------------ solicitar
     "solicitar": {
-        "title": "Solicite la remoción de abejas en Miami-Dade",
+        "title": "Cotización gratis para sacar abejas en Miami-Dade",
         "desc": ("Pida su cotización gratis para sacar abejas en cualquier parte de Miami-Dade. Con su nombre, "
                  "teléfono y zona empezamos; contestamos a cualquier hora."),
         "kicker": "Solicitar servicio",
-        "h1": "Solicite la remoción de abejas en Miami-Dade",
+        "h1": "Pida que saquen las abejas de su propiedad en Miami-Dade",
         "lede": "Llene el formulario corto, llámenos o mande una foto por texto. Como le quede más cómodo.",
         "quick": ("El formulario le llega directamente a quien agenda las remociones. Le devolvemos la llamada "
                   "desde nuestro número dentro de 24 horas, y si hay alguien recibiendo picaduras, ese caso va "
@@ -249,8 +249,8 @@ CORE_ES = {
         "body": [
             ("Qué pasa después de enviarlo",
              "Leemos los datos, miramos las fotos que mande y le llamamos desde nuestro número principal. En "
-             "esa llamada vemos si se trata de un enjambre de paso o de una colonia establecida, más o menos "
-             "dónde está el panal y qué rango de precio aplica. Luego acordamos una hora que le convenga a "
+             "esa llamada le ayudamos a ver si parece un enjambre de paso o una colonia establecida y qué "
+             "rango de precio podría aplicar; el precio firme se da al ver el lugar. Luego acordamos una hora que le convenga a "
              "usted, a su administrador o a la caseta del portón."),
         ],
     },

@@ -5,10 +5,10 @@ ZONA = {
     "key": "hialeah-gardens",
     "title": "Abejas en aleros y bloques de Hialeah Gardens",
     "desc": "¿Colonia en un alero, un galpón o una tapa de contador de Hialeah Gardens? Un apicultor la saca viva, se cierra la junta y se repara. Cotización gratis.",
-    "h1": "Remoción de abejas en Hialeah Gardens",
+    "h1": "Abejas fuera de casas y almacenes de Hialeah Gardens",
     "kicker": "Casas de un piso, galpones y canal",
     "lede": "En Hialeah Gardens casi todo se construyó a un solo nivel, y eso deja las colonias de abejas a la altura de la mano: aleros bajos, bloques huecos, cajas de contador y patios de almacén. Salen vivas y el hueco queda cerrado.",
-    "quick": "Con 3.67 millas cuadradas edificadas casi por completo a un solo nivel, Hialeah Gardens tiene sus colonias a la altura del brazo: la tapa del contador, un alero bajo, una celda de bloque. Tienta resolverlo con aerosol o espuma, y es lo que menos conviene: la colonia quedaría encerrada o moriría dentro del muro. Deje la entrada libre y avísenos por teléfono o con una imagen del hueco por texto. Toda llamada recibe respuesta garantizada dentro de 24 horas, a la hora que sea, y los casos con picaduras se atienden primero. Un apicultor se lleva la colonia viva y la entrada se sella.",
+    "quick": "Como casi todo Hialeah Gardens es de un solo piso, sus colonias quedan a la altura del brazo: la tapa del contador, un alero bajo, una celda de bloque. Tienta resolverlo con aerosol o espuma, y es lo que menos conviene: la colonia quedaría encerrada o moriría dentro del muro. Deje la entrada libre y avísenos por teléfono o con una imagen del hueco por texto. Toda llamada recibe respuesta garantizada dentro de 24 horas, a la hora que sea, y los casos con picaduras se atienden primero. Un apicultor se lleva la colonia viva y la entrada se sella.",
     "alarm": "Una persona alérgica, con la cara hinchada o que respira con dificultad necesita el 911 antes que cualquier otra llamada. Para el resto de las urgencias (varias picaduras, abejas que ya entraron a la casa, un racimo posado sobre un niño o una mascota) apártense del lugar, cierren puertas y ventanas y llámenos enseguida: lo que trae picaduras se atiende primero.",
     "glance": [
         ("Tipo de lugar", "Ciudad de Miami-Dade, incorporada el 1 de diciembre de 1948"),
@@ -73,6 +73,7 @@ ZONA = {
         "Colinda con Hialeah al norte y al este y con Medley al suroeste (source: https://en.wikipedia.org/wiki/Hialeah_Gardens,_Florida)",
         "El Canal de Miami forma la frontera entre Medley y Hialeah Gardens y Hialeah (source: https://en.wikipedia.org/wiki/Medley,_Florida)",
         "Distritos norte, noroeste, centro y sur; el noroeste es mayormente industrial (envío y mudanza, cemento, techado, construcción, venta de camiones y remolques, algo de manufactura de alimentos) (source: https://giscloud.fiu.edu/wp_etap_new/wp-content/uploads/2024/09/City-of-Hialeah-Gardens-CBR-TPO-Reviewed.pdf)",
+        "El norte es unifamiliar de densidad baja a moderada con usos de finca; el centro, residencial de densidad moderada y media con negocios; el sur, residencial de alta densidad, negocios e industria; muchas estructuras no residenciales son almacenes y talleres (source: https://giscloud.fiu.edu/wp_etap_new/wp-content/uploads/2024/09/City-of-Hialeah-Gardens-CBR-TPO-Reviewed.pdf)",
         "La US 27 forma la mayor parte del límite oeste con una vía de servicio paralela; la mayoría del comercio está del lado este; la NW 103rd Street cruza el distrito sur de este a oeste (source: https://giscloud.fiu.edu/wp_etap_new/wp-content/uploads/2024/09/City-of-Hialeah-Gardens-CBR-TPO-Reviewed.pdf)",
     ],
 }

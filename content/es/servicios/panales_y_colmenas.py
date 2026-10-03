@@ -26,13 +26,13 @@ SERVICIO = {
         ("Enjambre o colonia: dos trabajos muy distintos",
          "Un enjambre es un racimo de abejas que salió de su colmena original con una reina y está descansando mientras las exploradoras buscan casa. No tiene panal, no tiene cría y casi nunca permanece en una parada intermedia más de tres días. Si lo ve en un arbusto o en la reja, la página de [[es:svc-enjambres|enjambres de abejas]] explica qué hacer. La colonia establecida es otra historia: ya eligió un hueco, ya construyó cera y ya tiene miel guardada. Esa no se muda por su cuenta, y por eso no basta con esperar ni con atraparla en una caja afuera. Hay que llegar hasta el panal, porque ahí está todo lo que la mantiene en ese lugar."),
         ("Por qué toda la cera y la miel tienen que salir",
-         "Es común preguntar si se pueden sacar las abejas y dejar el resto. No conviene. Sin la colonia, el panal se convierte en comida para plagas. Las larvas del pequeño escarabajo de la colmena perforan las celdas, ensucian la miel y provocan fermentación con espuma y olor a naranja podrida. Las orugas de la polilla de la cera devoran la lámina central de cera y las tapas de las celdas, y la miel se escurre por dentro de la pared hasta manchar el yeso. A eso se suma algo menos conocido: cuando las exploradoras de un enjambre nuevo buscan hogar, prefieren cavidades con panal abandonado, porque les ahorra trabajo. Un hueco con cera vieja adentro es un anuncio de alquiler para la próxima colonia."),
+         "Es común preguntar si se pueden sacar las abejas y dejar el resto. No conviene. Sin la colonia, el panal se convierte en comida para plagas. El pequeño escarabajo de la colmena deja larvas que perforan las celdas, ensucian la miel y provocan fermentación con espuma y olor a naranja podrida. Las orugas de la polilla de la cera devoran la lámina central de cera y las tapas de las celdas, y la miel se escurre por dentro de la pared hasta manchar el yeso. A eso se suma algo menos conocido: cuando las exploradoras de un enjambre nuevo buscan hogar, prefieren cavidades con panal abandonado, porque les ahorra trabajo. Un hueco con cera vieja adentro es un anuncio de alquiler para la próxima colonia."),
         ("Limpieza y cierre: la mitad del trabajo que no se ve",
          "Sacar el último trozo de panal no termina el asunto. Quedan raspaduras de cera, propóleo pegado a la madera y rastros de miel que siguen oliendo para cualquier abeja que pase cerca. Por eso la cavidad se raspa, se limpia y se deja seca antes de cerrarla. Luego viene lo que de verdad evita el regreso: tapar la grieta, la junta o el agujero por donde entraron, y también cualquier otra abertura cercana que pueda servir de puerta. En [[es:svc-abejas-en-paredes|abejas dentro de paredes]] y en [[es:svc-abejas-en-techos|abejas en techos y tejas]] hay detalles sobre esos puntos de entrada en concreto, madera y tejas."),
     ],
 
     "band": ("¿Ve abejas entrando al mismo agujero cada día?",
-             "Llame a cualquier hora del día o de la noche: le respondemos en menos de 24 horas y la cotización es gratis."),
+             "Llame a cualquier hora del día o de la noche: su llamada tiene respuesta garantizada dentro de 24 horas y la cotización es gratis."),
 
     "takeout_h": "Cómo se hace el corte, paso a paso",
     "takeout": [
@@ -48,7 +48,7 @@ SERVICIO = {
          "Se raspan los restos, se limpia la miel derramada y se sella la entrada original junto con las rendijas vecinas que podrían servir a otra colonia."),
     ],
 
-    "putback": "Cuando sale la última lámina, el material abierto lo reponen los contratistas, techadores y pintores con licencia de nuestro propio equipo, que cierran yeso, madera, plafón del alero o teja hasta dejar la superficie pareja. A pedido entregamos imágenes del proceso y una factura que desglosa cada partida. El cierre queda respaldado sin límite de tiempo: si un punto que sellamos vuelve a atraer abejas, regresamos a revisarlo y corregirlo.",
+    "putback": "Cuando sale la última lámina, el material abierto lo reponen los contratistas, techadores y pintores con licencia de nuestro propio equipo, que cierran yeso, madera, plafón del alero o teja hasta dejar la superficie pareja. A pedido entregamos imágenes del proceso y una factura que desglosa cada partida. El cierre queda respaldado: si un punto que sellamos vuelve a atraer abejas, regresamos a revisarlo y corregirlo.",
 
     "price": "Para una colmena a la altura del suelo, digamos dentro de un tronco, una caja de jardín o una pared baja que se abre fácil, el rango habitual va de $300 a $400. Un panal metido en un ático angosto, en lo alto de un techo o repartido por varios tramos de pared, con reparación incluida, puede representar miles de dólares en total. Fuera del horario normal, es decir de noche, un sábado o un domingo, la visita urgente tiene un costo mayor. La cotización no cuesta nada; hay más contexto en [[es:precios|precios]].",
     "price_factors": [
@@ -61,7 +61,7 @@ SERVICIO = {
     "zonas_h": "Dónde se encuentran colonias con panal en el condado",
     "zonas": [
         ("hialeah",
-         "[[es:zona-hialeah|Hialeah]] se volvió una ciudad industrial en los años setenta y ochenta, y en el censo de 2020 ya pasaba de 223,000 habitantes. Una publicación de UF/IFAS indica que la abeja africanizada se instala en cavidades pequeñas, como un bloque de cemento o la caja del medidor de agua, y ahí el panal pasa inadvertido."),
+         "[[es:zona-hialeah|Hialeah]] se volvió una ciudad industrial en los años setenta y ochenta, y en el censo de 2020 ya pasaba de 223 mil habitantes. Una publicación de UF/IFAS indica que la abeja africanizada se instala en cavidades pequeñas, como un bloque de cemento o la caja del medidor de agua, y ahí el panal pasa inadvertido."),
         ("westchester",
          "[[es:zona-westchester|Westchester]] creció a partir de 1955 con urbanizaciones como Coral Park y Westchester Park. Casas de esa época tienen aleros y plafones donde una colonia puede construir panal durante meses sin que nadie lo note."),
         ("homestead",
@@ -80,7 +80,7 @@ SERVICIO = {
         ("¿Cómo saben hasta dónde llega el panal sin romper toda la pared?",
          "La cámara térmica muestra el calor que genera la colonia detrás del yeso o del techo. Eso ayuda a estimar el contorno del panal y abrir solo esa sección, en lugar de ir probando con cortes a ciegas."),
         ("¿Quién cierra el hueco que queda después del corte?",
-         "Lo cierran nuestros propios contratistas, techadores y pintores, todos con licencia. Ponen la pieza nueva, tapan la rendija que usaba la colonia y entregan la superficie terminada. Ese sellado tiene respaldo sin fecha límite; si aparece actividad otra vez en ese mismo lugar, volvemos."),
+         "Lo cierran nuestros propios contratistas, techadores y pintores, todos con licencia. Ponen la pieza nueva, tapan la rendija que usaba la colonia y entregan la superficie terminada. Ese sellado tiene respaldo; si aparece actividad otra vez en ese mismo lugar, volvemos."),
         ("¿Adónde van las abejas después del corte?",
          "Se recogen con vida y se entregan a apicultores que las reubican. El propósito de un corte es justamente ese: que la colonia siga existiendo en una colmena de verdad y no dentro de su casa. Si le interesa ese lado del trabajo, lea [[es:svc-remocion-sin-matarlas|cómo se reubican vivas]]."),
     ],
@@ -88,7 +88,7 @@ SERVICIO = {
     "relacionados": ["abejas-en-paredes", "abejas-en-techos", "enjambres", "contador-de-agua"],
 
     "close": ("Que no quede ni una lámina de cera",
-              "Pida su cotización gratis en [[es:solicitar|solicitar servicio]] y le respondemos en menos de 24 horas, de día o de noche."),
+              "Pida su cotización gratis en [[es:solicitar|solicitar servicio]] y le respondemos dentro de 24 horas, de día o de noche."),
 
     "facts": [
         "El panal es una masa de celdas hexagonales de cera que las abejas usan para la cría (huevos, larvas, pupas) y para guardar miel y polen (source: https://en.wikipedia.org/wiki/Honeycomb)",

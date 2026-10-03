@@ -76,7 +76,7 @@ SERVICIO = {
         ("¿Puedo tapar el agujero con silicona o espuma y olvidarme del asunto?",
          "No es buena idea. Si el único acceso queda tapado, las abejas abren camino por donde puedan, y ese camino puede terminar en su dormitorio o su cocina. Además el panal sigue ahí, con miel y cría que terminan atrayendo plagas, malos olores y manchas. Primero hay que sacar la colonia y la cera; después se sella."),
         ("¿Hay que romper mucha pared para sacar el panal?",
-         "Solo lo que mide el panal. La cámara térmica marca su contorno antes de cortar, así que en un muro CBS se abre la cara del bloque sobre las celdas ocupadas, y en una pared de madera se retira uno o dos paneles de drywall. Si el panal se extiende, la abertura crece lo justo para sacarlo completo."),
+         "Solo lo que mide el panal. La cámara térmica marca su contorno antes de cortar, así que en un muro CBS se abre la cara del bloque sobre las celdas ocupadas, y en una pared de madera se retiran uno o dos paneles de drywall. Si el panal se extiende, la abertura crece lo justo para sacarlo completo."),
         ("¿Quién repara el estuco, el drywall y la pintura después?",
          "La misma empresa que abrió el muro lo deja terminado, con contratistas y pintores propios con licencia. Se rellena el bloque, se coloca estuco nuevo con la misma textura de la fachada o drywall por dentro, y se pinta. No tiene que buscar a otro contratista ni coordinar una segunda visita con otra empresa."),
         ("¿Las abejas mueren durante la remoción?",
