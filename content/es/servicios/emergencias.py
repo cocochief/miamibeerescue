@@ -41,7 +41,7 @@ SERVICIO = {
          "Al llegar acordonamos el área y pedimos que la familia, los empleados o los residentes se queden adentro. El equipo trabaja con trajes protectores para que las abejas agitadas no encuentren a nadie más a quien perseguir."),
         ("Ubicar la colonia completa",
          "Revisamos de dónde salen las abejas. Si la colonia está oculta en una pared, un plafón o debajo de las tejas, la cámara térmica muestra el calor del nido para abrir solo donde hace falta."),
-        ("Sacar abejas y panal vivos",
+        ("Colonia retirada viva, con su panal",
          "Las abejas se recogen vivas junto con el panal, la cría y la miel, sin exterminarlas. Dejar panal adentro atrae plagas y nuevas colonias, así que se retira todo lo que se pueda alcanzar."),
         ("Reubicación con apicultores",
          "La colonia sale de su propiedad en cajas y pasa a manos de apicultores que la mantienen viva lejos de las casas. Si usted lo pide, le enviamos fotos del trabajo."),

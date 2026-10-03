@@ -8,7 +8,7 @@ ZONA = {
     "h1": "Remoción de abejas en Westchester",
     "kicker": "Entre Tamiami Trail y Bird Road",
     "lede": "Westchester creció a partir de 1955, y muchas de aquellas casas ya acumulan aleros resecos, rejillas flojas y tejas movidas. Por esas rendijas entra un enjambre; nosotros lo sacamos vivo y cerramos el paso.",
-    "quick": "En Westchester la remoción de abejas se hace en vivo: ubicamos la colonia con cámara térmica, sacamos el panal completo y las abejas se van con un apicultor, sin exterminarlas. Cuando la colonia está al alcance de la mano, digamos dentro de una tapa del jardín o en un seto, el costo anda por unos $300–$400; con pared o techo abiertos y reparados después, la cuenta sube hasta miles de dólares. Puede llamar a cualquier hora, 24/7, y le garantizamos una respuesta en un plazo máximo de 24 horas.",
+    "quick": "La subdivisión de 1955 que bautizó a Westchester y las urbanizaciones de los sesenta ya pasan del medio siglo: un alero reseco o una tapa de contador en el césped le bastan a una colonia. Para quitarla sin matarla, la localizamos con cámara térmica, sacamos todo el panal y entregamos las abejas a un apicultor. A nivel del suelo, cuente con unos $300–$400; abrir pared o techo y dejarlos reparados eleva la cifra hasta miles de dólares. La línea no cierra ni los domingos de madrugada, y nos comprometemos a darle respuesta antes de que pasen 24 horas.",
     "glance": [
         ("Tipo de lugar", "Área no incorporada (CDP) de Miami-Dade, no es ciudad"),
         ("Población en 2020", "56,384 habitantes"),
@@ -43,7 +43,7 @@ ZONA = {
     "visit_h": "Así se desarrolla la visita",
     "visit": [
         ("Llamada y preguntas iniciales", "Le preguntamos dónde están las abejas, desde cuándo las ve, si alguien ha sido picado y si hay personas mayores, niños o mascotas cerca. Con eso decidimos qué equipo llevar."),
-        ("Búsqueda con cámara térmica", "Recorremos el exterior y, si hace falta, el interior con la cámara térmica para ubicar la colonia exacta. Así sabemos dónde abrir y evitamos romper de más."),
+        ("Rastreo del calor de la colmena", "Recorremos el exterior y, si hace falta, el interior con la cámara térmica para ubicar la colonia exacta. Así sabemos dónde abrir y evitamos romper de más."),
         ("Extracción en vivo del panal", "Aspiramos con cuidado a las obreras y a la reina, cortamos cada lámina de cera con su miel y la colonia entera queda en manos de un apicultor."),
         ("Limpieza, sellado y reparación", "Limpiamos la cavidad, sellamos la entrada y nuestros contratistas reparan techo, pared o pintura. Ese cierre lo respaldamos: un nuevo intento en el mismo hueco nos trae de vuelta."),
     ],

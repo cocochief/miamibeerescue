@@ -8,7 +8,7 @@ SERVICIO = {
     "h1": "Abejas en el techo y en las tejas: remoción en Miami-Dade",
     "kicker": "Teja barril, teja plana, techo plano",
     "lede": "Cuando una fila de abejas entra y sale siempre por la misma teja, hay panal debajo. Se levantan las piezas necesarias, la colonia se va viva con un apicultor y un techador del equipo deja el techo cerrado.",
-    "quick": "Si las abejas se meten por la boca de una teja o por una grieta del parapeto, es muy probable que tengan panal construido sobre la capa impermeable del techo. No rocíe veneno ni suba a mover tejas. Con cámara térmica ubicamos el calor de la colmena, se retiran solo las tejas que la cubren, abejas y panal salen vivos hacia un apicultor y un techador con licencia de nuestro equipo vuelve a asentar todo. Un trabajo a nivel del suelo ronda los $300–$400; en altura y con reparación, la cuenta puede llegar a miles.",
+    "quick": "Bajo cada teja de barril hay un túnel oscuro sobre la capa impermeable; basta que se caiga el cierre de la primera hilera, o que se agriete el parapeto de un techo plano, para que un enjambre se instale ahí. No rocíe veneno ni suba a mover tejas. La cámara térmica marca dónde está el calor de la colmena, se despegan solo esas piezas, abejas y panal se van vivos con un apicultor y un techador con licencia de nuestro equipo deja todo asentado. Desde el suelo el trabajo ronda los $300–$400; en altura y con reparación, puede llegar a miles.",
     "card": "Teja de barril, teja plana y techos planos con parapeto: la colonia sale viva y nuestros propios techadores con licencia vuelven a colocar cada pieza.",
     "seeing_h": "Lo que delata un panal bajo las tejas",
     "seeing": [

@@ -8,7 +8,7 @@ SERVICIO = {
     "h1": "Remoción de colmenas con panal adentro en Miami-Dade",
     "kicker": "Cera, miel y abejas fuera",
     "lede": "Una colmena que ya construyó panal no se va sola. Hay que abrir el hueco, sacar cada lámina de cera con su miel, reubicar las abejas vivas y cerrar bien para que nada regrese.",
-    "quick": "Si las abejas entran y salen del mismo agujero durante semanas, lo más probable es que adentro haya panal. Un grupo colgando de una rama es otra cosa: un enjambre de paso. Para la colonia establecida el trabajo se llama corte: se abre la pared, el alero o la caja, se recogen las abejas con vida para un apicultor, se corta y se saca cada lámina de cera cargada de miel, se deja el hueco raspado y seco, y se cierra la entrada. Dejar cera adentro es buscarse problemas.",
+    "quick": "Cera llena de miel pegada entre dos montantes, bajo un plafón o dentro de una caja: eso es lo que hay detrás de un agujero que las abejas usan semana tras semana, a diferencia del racimo colgado de una rama, que es un enjambre de paso. Para sacar esa colonia establecida se hace un corte: se abre la pared, el alero o la caja, las abejas salen vivas rumbo a un apicultor, cada lámina de cera se retira, el hueco queda raspado y seco y la entrada se cierra. Dejar cera adentro es buscarse problemas.",
     "card": "Colonias con panal dentro de paredes, techos o cajas: corte completo, abejas reubicadas vivas, cera y miel fuera, limpieza y sellado del hueco.",
 
     "seeing_h": "Señales de que ya hay panal, no solo abejas",
@@ -41,7 +41,7 @@ SERVICIO = {
         ("Abrir solo lo necesario",
          "Se retira la sección justa de yeso, madera, plafón del alero o teja que deja ver el panal. Mientras más preciso el mapa térmico, más pequeña y limpia queda la abertura."),
         ("Recoger las abejas con vida",
-         "Las abejas se recogen con cuidado y se colocan en una caja de transporte. Después se entregan a apicultores que las reubican; en ningún momento se fumigan ni se exterminan."),
+         "Antes de tocar la cera, la colonia completa pasa viva a una caja de transporte. Ese mismo grupo termina en manos de apicultores que lo reubican; aquí nada se fumiga ni se extermina."),
         ("Cortar cera y miel lámina por lámina",
          "Cada lámina se corta desde su punto de unión y se saca entera cuando se puede, junto con la miel. Se revisa la cavidad hasta que no quede cera colgando en rincones ni entre montantes."),
         ("Limpiar, secar y cerrar",
@@ -74,7 +74,7 @@ SERVICIO = {
 
     "faqs": [
         ("Las abejas ya se fueron solas. ¿Puedo dejar el panal donde está?",
-         "No es buena idea. Un panal sin colonia atrae al escarabajo de la colmena y a la polilla de la cera, que fermentan la miel y deshacen la cera; esa miel termina filtrándose por el yeso. Además, las exploradoras de otros enjambres prefieren huecos con panal viejo. Lo seguro es abrir, sacar todo, limpiar y sellar."),
+         "Ese panal vacío es justo lo que conviene sacar. Sin colonia que lo defienda, atrae al escarabajo de la colmena y a la polilla de la cera, que fermentan la miel y deshacen la cera; esa miel termina filtrándose por el yeso. Además, las exploradoras de otros enjambres prefieren huecos con panal viejo. Lo seguro es abrir, sacar todo, limpiar y sellar."),
         ("¿Sirve rociar insecticida por el agujero?",
          "Rociar mata parte de las abejas pero deja intacto el panal con su miel, que ahora nadie cuida. El resultado suele ser olor, manchas, plagas y, más adelante, otra colonia ocupando la misma cera. Aquí las abejas nunca se exterminan: se sacan vivas y se van con apicultores, y la cera se retira completa."),
         ("¿Cómo saben hasta dónde llega el panal sin romper toda la pared?",

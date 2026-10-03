@@ -8,7 +8,7 @@ ZONA = {
     "h1": "Abejas en Homestead: de los mangos de Redland a su alero",
     "kicker": "Homestead y su borde agrícola",
     "lede": "En Homestead las abejas tienen de todo a mano: frutales, viveros, muros de piedra y casas levantadas después de 1992. Sacamos la colonia viva, la entregamos a un apicultor y dejamos el hueco cerrado.",
-    "quick": "Si nota abejas que entran y salen siempre por el mismo punto de su casa en Homestead, lo más probable es que ya tengan panal adentro. Ni insecticida ni masilla: con la salida bloqueada, la colonia abre otra ruta, a veces hacia la sala. A cualquier hora alguien levanta el teléfono, y le damos garantía de respuesta en 24 horas. La colonia sale viva, se reubica con apicultores y nuestros propios contratistas reparan la abertura.",
+    "quick": "Con los huertos de mango y aguacate de Redland justo al noroeste, Homestead recibe enjambres cada vez que hay floración. Cuando las abejas entran y salen siempre por el mismo punto de su casa, casi seguro ya hay panal adentro. No lo selle ni lo rocíe: con la salida tapada, la colonia busca otra ruta, a veces hacia la sala. El teléfono se atiende 24/7 con respuesta garantizada en 24 horas. Un apicultor adopta las abejas, que nunca se exterminan, y nuestros propios contratistas cierran la abertura.",
     "glance": [
         ("Incorporada", "8 de febrero de 1913"),
         ("Población (censo 2020)", "80,737 habitantes"),
@@ -66,7 +66,7 @@ ZONA = {
         ("Cierre y reparación final",
          "El hueco queda tapado y, según el caso, un techador, contratista o pintor de nuestro equipo, todos con licencia, termina el acabado. Si el zumbido reaparece ahí mismo, lo atendemos otra vez."),
     ],
-    "alarm": "Si alguien recibió varias picaduras o presenta hinchazón en la cara, dificultad para respirar o mareo, llame al 911 de inmediato. Aléjese caminando rápido y en línea recta hacia un lugar cerrado, no manotee y deje a niños y mascotas adentro. En nuestra fila, las llamadas con picaduras se atienden primero, a cualquier hora.",
+    "alarm": "Hinchazón en la cara, falta de aire o mareo después de varias picaduras: eso se resuelve con el 911, de inmediato. Mientras llega la ayuda, camine rápido y en línea recta hasta un lugar cerrado, sin manotear, y meta a niños y mascotas en la casa, ya sea en un patio de Homestead o entre los frutales de una finca. Cuando una llamada trae picaduras, pasa al frente de nuestra fila a cualquier hora.",
     "faqs": [
         ("¿Puedo acercarme a un enjambre que cuelga del mango del patio?",
          "Un enjambre en una rama suele estar tranquilo porque todavía no tiene panal ni cría que proteger. Aun así, no le tire agua, piedras ni insecticida, y mantenga a la gente a varios pasos. Conviene recogerlo antes de que se mude a una pared o al techo; vea nuestra página de [[es:svc-enjambres|enjambres de abejas]]."),
@@ -75,7 +75,7 @@ ZONA = {
         ("¿Atienden las fincas de Redland y las casas de Florida City?",
          "Sí, las dos zonas están dentro de Miami-Dade y las cubrimos igual que el resto de Homestead. Hacia el norte también trabajamos en [[es:zona-kendall|Kendall]] y en todo el condado. Lo único que queda fuera es lo que está más allá de la línea del condado."),
         ("¿Le echo veneno a la caja del contador antes de que ustedes vengan?",
-         "Mejor no. El veneno mata a una parte de la colonia, enfurece al resto y deja el panal pudriéndose dentro de la caja, lo que atrae hormigas y otro enjambre. Deje la tapa en su sitio; los detalles de ese caso están en [[es:svc-contador-de-agua|el servicio para medidores y cajas de válvulas]]."),
+         "Deje la tapa cerrada y el aerosol guardado. Un insecticida solo alcanza a parte de las abejas, pone a la defensiva a las que quedan y deja cera y miel descomponiéndose bajo el césped, un olor que llama a hormigas y a un enjambre nuevo. Los detalles de ese caso están en [[es:svc-contador-de-agua|el servicio para medidores y cajas de válvulas]]."),
         ("¿Adónde van a parar las abejas de mi finca o mi patio?",
          "Nunca se exterminan. Salen vivas en una caja de colmena, cría incluida, y se reubican con apicultores que las reciben y las cuidan. Una colonia sana sigue polinizando allí donde el apicultor la instale, lejos de su casa."),
         ("¿Qué documentos necesita mi asociación para autorizar el trabajo?",

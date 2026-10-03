@@ -8,7 +8,7 @@ SERVICIO = {
     "h1": "Abejas dentro de la pared en Miami-Dade: bloque, madera y estuco",
     "kicker": "Muros de bloque y de madera",
     "lede": "Cuando un enjambre se mete en un muro, el panal queda escondido entre celdas de bloque o montantes de madera. Lo ubicamos con cámara térmica, retiramos las abejas vivas y dejamos la pared cerrada, reparada y pintada.",
-    "quick": "Si oye un zumbido dentro de la pared o ve abejas entrando por una grieta del estuco, la colonia ya está construyendo panal en el hueco del bloque o entre los montantes. No conviene sellar ni fumigar. Lo correcto es ubicar el panal con cámara térmica, abrir solo ese tramo, retirar abejas y cera para que un apicultor las reubique, y cerrar con estuco o drywall y pintura. Contestamos llamadas a toda hora, todos los días, con garantía de respuesta antes de que pasen 24 horas.",
+    "quick": "Las celdas huecas de un muro de bloque CBS, o el espacio entre los montantes de una pared de madera, le dan a un enjambre un refugio oscuro donde el panal crece semana tras semana. Sellar la grieta o fumigar deja la cera adentro y puede empujar las abejas hacia la casa. Lo que funciona es localizar la colonia con cámara térmica, abrir solo ese tramo, sacar abejas y panal vivos para que un apicultor los reubique, y cerrar con estuco o drywall y pintura. El teléfono se atiende día y noche, con garantía de respuesta antes de que pasen 24 horas.",
     "card": "Abejas metidas en muros de bloque o de madera con estuco: localización con cámara térmica, remoción en vivo y reparación de estuco, drywall y pintura con equipos propios.",
 
     "seeing_h": "Cómo se delata un panal escondido entre bloques",
